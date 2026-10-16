@@ -16,10 +16,13 @@ URL: https://besttraveler.ge/turebi/gareja-colorful-desert-mravaltskaro/
 
 ფოტო: [Orlova Maria orlovamaria](https://commons.wikimedia.org/w/index.php?curid=61868303), CC0
 
-- ხანგრძლივობა: 1 დღე
-- თარიღები: თარიღები — მოთხოვნით
-- გასვლა: თბილისიდან, 08:00
-- ფასი: 60 ლარი
+ხანგრძლივობა1 დღე
+
+თარიღებითარიღები — მოთხოვნით
+
+გასვლათბილისი, 08:00
+
+ფასი60 ლარი
 
 ## მარშრუტი რუკაზე
 
@@ -69,7 +72,7 @@ URL: https://besttraveler.ge/turebi/gareja-colorful-desert-mravaltskaro/
 
 დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე: 579 57 56 36. დაგიდასტურებთ ადგილს და ფასს. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
 
-ფასი: 60 ლარი / ერთ ადამიანზე: 
+ფასი: 60 ლარიერთ ადამიანზე: 
 
 ## თარიღები
 

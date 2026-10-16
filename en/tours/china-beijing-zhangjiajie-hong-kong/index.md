@@ -18,10 +18,13 @@ A 13-day group tour of China: Beijing, Tianshui, Zhangjiajie, Leshan and Hong Ko
 
 Photo: [Nicolas Perrault III](https://commons.wikimedia.org/w/index.php?curid=11726877), CC0
 
-- Duration: 13 days
-- Dates: Dates on request
-- Departure: From Tbilisi airport
-- Price: 3,500 USD
+Duration13 days
+
+DatesDates on request
+
+DepartureTbilisi (TBS)
+
+Price3,500 USD
 
 ## Route on the map
 
@@ -158,7 +161,7 @@ Flights: Tbilisi-Beijing, Chengdu-Hong Kong, Hong Kong-Tbilisi; High-speed train
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 3,500 USD / per person: 
+Price: 3,500 USDper person: 
 
 Deposit to book: 1,500 USD
 

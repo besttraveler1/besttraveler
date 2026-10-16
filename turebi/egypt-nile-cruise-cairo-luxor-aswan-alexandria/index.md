@@ -17,10 +17,13 @@ URL: https://besttraveler.ge/turebi/egypt-nile-cruise-cairo-luxor-aswan-alexandr
 
 ფოტო: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=178958053), CC0
 
-- ხანგრძლივობა: 9 დღე
-- თარიღები: თარიღები — მოთხოვნით
-- გასვლა: თბილისის აეროპორტიდან
-- ფასი: 6 550 ლარი
+ხანგრძლივობა9 დღე
+
+თარიღებითარიღები — მოთხოვნით
+
+გასვლათბილისი (TBS)
+
+ფასი6 550 ლარი
 
 ## მარშრუტი რუკაზე
 
@@ -125,7 +128,7 @@ URL: https://besttraveler.ge/turebi/egypt-nile-cruise-cairo-luxor-aswan-alexandr
 
 დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე: 579 57 56 36. დაგიდასტურებთ ადგილს და ფასს. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
 
-ფასი: 6 550 ლარი / ერთ ადამიანზე: 
+ფასი: 6 550 ლარიერთ ადამიანზე: 
 
 ჯავშნისთვის: 1 550 ლარი
 

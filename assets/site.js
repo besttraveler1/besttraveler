@@ -110,6 +110,21 @@
     });
   }
 
+  // route map animation: draw the route, pop in the pins, move the plane/bus along it
+  var maps = $$('.rmap');
+  if (maps.length && 'IntersectionObserver' in window && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    var io = new IntersectionObserver(function (ents) {
+      ents.forEach(function (en) {
+        if (!en.isIntersecting) return;
+        var m = en.target; io.unobserve(m);
+        m.classList.add('go');
+        var am = m.querySelector('animateMotion');
+        if (am && am.beginElement) try { am.beginElement(); } catch (e) {}
+      });
+    }, { threshold: 0.35 });
+    maps.forEach(function (m) { m.classList.add('anim'); io.observe(m); });
+  }
+
   // tour filters
   var grid = $('[data-filter-grid]');
   if (grid) {

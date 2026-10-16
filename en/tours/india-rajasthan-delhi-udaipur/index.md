@@ -21,10 +21,13 @@ A 9-day / 8-night group tour of India: Delhi and the cities of Rajasthan, includ
 
 Photo: [Dudva](https://commons.wikimedia.org/w/index.php?curid=177132884), CC0
 
-- Duration: 9 days / 8 nights
-- Next departure: 25 Oct 2026
-- Departure: From Tbilisi airport
-- Price: 4,800 GEL
+Duration9 days / 8 nights
+
+Next departure25 Oct 2026
+
+DepartureTbilisi (TBS)
+
+Price4,800 GEL
 
 ## Route on the map
 
@@ -158,7 +161,7 @@ Return flights Tbilisi-Delhi-Tbilisi; 30 kg baggage; 4-5 star hotels; Two meals 
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,800 GEL / per person: 
+Price: 4,800 GELper person: 
 
 The price can change with air fares — please confirm it before booking.
 

@@ -19,10 +19,13 @@ URL: https://besttraveler.ge/turebi/egypt-nile-cruise-luxor-aswan-hurghada/
 
 ფოტო: [Warren LeMay from Cullowhee, NC, United States](https://commons.wikimedia.org/w/index.php?curid=83168414), CC0
 
-- ხანგრძლივობა: 8 დღე
-- თარიღები: თარიღები — მოთხოვნით
-- გასვლა: თბილისის აეროპორტიდან
-- ფასი: 4 500 ლარი
+ხანგრძლივობა8 დღე
+
+თარიღებითარიღები — მოთხოვნით
+
+გასვლათბილისი (TBS)
+
+ფასი4 500 ლარი
 
 ## მარშრუტი რუკაზე
 
@@ -144,7 +147,7 @@ URL: https://besttraveler.ge/turebi/egypt-nile-cruise-luxor-aswan-hurghada/
 
 დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე: 579 57 56 36. დაგიდასტურებთ ადგილს და ფასს. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
 
-ფასი: 4 500 ლარი / ერთ ადამიანზე: 
+ფასი: 4 500 ლარიერთ ადამიანზე: 
 
 ჯავშნისთვის: 1 500 ლარი
 

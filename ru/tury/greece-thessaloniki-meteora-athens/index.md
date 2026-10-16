@@ -17,10 +17,13 @@ URL: https://besttraveler.ge/ru/tury/greece-thessaloniki-meteora-athens/
 
 Фото: [Steve Petty potshots](https://commons.wikimedia.org/w/index.php?curid=62280875), CC0
 
-- Длительность: 8 дней
-- Даты: Даты по запросу
-- Выезд: Из аэропорта Кутаиси
-- Цена: 2 100 лари
+Длительность8 дней
+
+ДатыДаты по запросу
+
+ВыездКутаиси (KUT)
+
+Цена2 100 лари
 
 ## Маршрут на карте
 
@@ -129,7 +132,7 @@ URL: https://besttraveler.ge/ru/tury/greece-thessaloniki-meteora-athens/
 
 Позвоните или напишите в WhatsApp: +995 579 57 56 36. Мы подтвердим место и цену. Остаток оплачивается за 15 дней до тура.
 
-Цена: 2 100 лари / за человека: 
+Цена: 2 100 лариза человека: 
 
 ## Даты
 

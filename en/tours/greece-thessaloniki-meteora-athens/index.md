@@ -17,10 +17,13 @@ The tour starts in Thessaloniki, continues to Kalambaka to see the Meteora monas
 
 Photo: [Steve Petty potshots](https://commons.wikimedia.org/w/index.php?curid=62280875), CC0
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 2,100 GEL
+Duration8 days
+
+DatesDates on request
+
+DepartureKutaisi (KUT)
+
+Price2,100 GEL
 
 ## Route on the map
 
@@ -129,7 +132,7 @@ Flights Kutaisi–Thessaloniki and Athens–Kutaisi; Hand luggage 10 kg (40x30x2
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 2,100 GEL / per person: 
+Price: 2,100 GELper person: 
 
 ## Dates
 

@@ -15,10 +15,13 @@ A one-day tour to the lakes of Javakheti, including Paravani, the largest lake i
 - Gorelovka
 - Madatapa
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 07:00
-- Price: 60 GEL
+Duration1 day
+
+DatesDates on request
+
+DepartureTbilisi, 07:00
+
+Price60 GEL
 
 ## Route on the map
 
@@ -64,7 +67,7 @@ Travel by top-class minibus; Services of a qualified tour organizer (organizatio
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 60 GEL / per person: 
+Price: 60 GELper person: 
 
 ## Dates
 

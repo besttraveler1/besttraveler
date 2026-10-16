@@ -26,10 +26,13 @@ The tour starts in Barcelona, crosses Andorra into southern France — Toulouse,
 
 Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605798), CC0
 
-- Duration: 10 days
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 4,700 GEL
+Duration10 days
+
+DatesDates on request
+
+DepartureKutaisi (KUT)
+
+Price4,700 GEL
 
 ## Route on the map
 
@@ -182,7 +185,7 @@ Return flights Kutaisi–Barcelona–Kutaisi; Hand luggage 10 kg (40x30x20 cm); 
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,700 GEL / per person: 
+Price: 4,700 GELper person: 
 
 ## Dates
 

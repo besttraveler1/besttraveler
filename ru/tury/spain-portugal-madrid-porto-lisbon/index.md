@@ -24,10 +24,13 @@ URL: https://besttraveler.ge/ru/tury/spain-portugal-madrid-porto-lisbon/
 
 Фото: [Terry Kearney from liverpool, merseyside](https://commons.wikimedia.org/w/index.php?curid=78756732), CC0
 
-- Длительность: 8 дней / 7 ночей
-- Ближайший выезд: 3–10 ноября 2026
-- Выезд: Из аэропорта Кутаиси
-- Цена: 4 500 лари
+Длительность8 дней / 7 ночей
+
+Ближайший выезд3–10 ноября 2026
+
+ВыездКутаиси (KUT)
+
+Цена4 500 лари
 
 ## Маршрут на карте
 
@@ -152,7 +155,7 @@ URL: https://besttraveler.ge/ru/tury/spain-portugal-madrid-porto-lisbon/
 
 Позвоните или напишите в WhatsApp: +995 579 57 56 36. Мы подтвердим место и цену. Остаток оплачивается за 15 дней до тура.
 
-Цена: 4 500 лари / за человека: 
+Цена: 4 500 лариза человека: 
 
 ## Даты
 

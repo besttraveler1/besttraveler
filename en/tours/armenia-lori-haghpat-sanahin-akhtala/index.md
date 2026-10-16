@@ -16,10 +16,13 @@ A one-day tour to the Lori region of Armenia with medieval Georgian and Armenian
 - Kobayr
 - Alaverdi
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 07:00
-- Price: 90 GEL
+Duration1 day
+
+DatesDates on request
+
+DepartureTbilisi, 07:00
+
+Price90 GEL
 
 ## Route on the map
 
@@ -69,7 +72,7 @@ Travel by top-class minibus; Services of a qualified tour guide (organization, s
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 90 GEL / per person: 
+Price: 90 GELper person: 
 
 ## Dates
 

@@ -16,10 +16,13 @@ A short group tour of northern Italy: a day in Padua, then Venice and the island
 
 Photo: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=151283980), CC0
 
-- Duration: 5 days / 4 nights
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 1,500 GEL
+Duration5 days / 4 nights
+
+DatesDates on request
+
+DepartureKutaisi (KUT)
+
+Price1,500 GEL
 
 ## Route on the map
 
@@ -111,7 +114,7 @@ Return flights Kutaisi–Venice–Kutaisi; Hotel, 4 nights with breakfast; Trave
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 1,500 GEL / per person: 
+Price: 1,500 GELper person: 
 
 ## Dates
 

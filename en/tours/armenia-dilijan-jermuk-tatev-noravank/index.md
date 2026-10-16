@@ -18,10 +18,13 @@ A three-day minibus tour to Armenia with two nights in the town of Vayk. A passp
 
 Photo: [Камалян001](https://commons.wikimedia.org/w/index.php?curid=23397694), CC0
 
-- Duration: 3 days / 2 nights
-- Dates: Dates on request
-- Departure: From Tbilisi, 06:00
-- Price: 480 GEL
+Duration3 days / 2 nights
+
+DatesDates on request
+
+DepartureTbilisi, 06:00
+
+Price480 GEL
 
 ## Route on the map
 
@@ -103,7 +106,7 @@ Travel by top-class minibus; Two nights in a hotel with breakfast; Services of a
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 480 GEL / per person: 
+Price: 480 GELper person: 
 
 ## Dates
 

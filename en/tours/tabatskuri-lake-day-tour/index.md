@@ -13,10 +13,13 @@ Tabatskuri is one of the most distinctive lakes in Georgia. On the way we cross 
 - Tabatskuri
 - Timotesubani
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 06:00
-- Price: 70 GEL
+Duration1 day
+
+DatesDates on request
+
+DepartureTbilisi, 06:00
+
+Price70 GEL
 
 ## Route on the map
 
@@ -52,7 +55,7 @@ We will tell you the dates and free places by phone or WhatsApp.
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 70 GEL / per person: 
+Price: 70 GELper person: 
 
 ## Dates
 

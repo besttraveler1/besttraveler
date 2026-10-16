@@ -15,10 +15,13 @@ A tour to Vilnius, the capital of Lithuania, whose old town is a UNESCO World He
 
 Photo: [Mojmir Churavy](https://commons.wikimedia.org/w/index.php?curid=182167219), CC0
 
-- Duration: 5 days / 4 nights
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 1,500 GEL
+Duration5 days / 4 nights
+
+DatesDates on request
+
+DepartureKutaisi (KUT)
+
+Price1,500 GEL
 
 ## Route on the map
 
@@ -101,7 +104,7 @@ Flights Kutaisi–Vilnius–Kutaisi; Hand luggage 10 kg (40x30x20 cm); Hotels wi
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 1,500 GEL / per person: 
+Price: 1,500 GELper person: 
 
 ## Dates
 

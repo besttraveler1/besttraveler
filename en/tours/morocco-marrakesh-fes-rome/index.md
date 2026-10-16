@@ -24,10 +24,13 @@ A group tour of Morocco with a stop in Rome. In Morocco a licensed Russian-speak
 
 Photo: [Jonny_Joka](https://commons.wikimedia.org/w/index.php?curid=73403558), CC0
 
-- Duration: 10 days / 9 nights
-- Next departure: 13–22 Nov 2026
-- Departure: From Kutaisi airport
-- Price: 2,200 EUR
+Duration10 days / 9 nights
+
+Next departure13–22 Nov 2026
+
+DepartureKutaisi (KUT)
+
+Price2,200 EUR
 
 ## Route on the map
 
@@ -158,7 +161,7 @@ Flights Kutaisi–Rome–Kutaisi and Rome–Marrakesh–Rome; Hand luggage 10 kg
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 2,200 EUR / per person: 
+Price: 2,200 EURper person: 
 
 Deposit to book: 500 EUR
 

@@ -17,10 +17,13 @@ A 3-day minibus tour of eastern Turkey. Your guide is Giorgi Beridze-Berjavakhi.
 
 Photo: [Varilci](https://commons.wikimedia.org/w/index.php?curid=172741136), CC0
 
-- Duration: 3 days / 2 nights
-- Dates: Dates on request
-- Departure: From Tbilisi, 05:00
-- Price: 450 GEL
+Duration3 days / 2 nights
+
+DatesDates on request
+
+DepartureTbilisi, 05:00
+
+Price450 GEL
 
 ## Route on the map
 
@@ -89,7 +92,7 @@ Transport by minibus; Hotel with breakfast; Guide: Giorgi Beridze-Berjavakhi.
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 450 GEL / per person: 
+Price: 450 GELper person: 
 
 ## Dates
 

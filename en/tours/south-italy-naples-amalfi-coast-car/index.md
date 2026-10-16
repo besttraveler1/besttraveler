@@ -28,10 +28,13 @@ A different kind of Italy tour, by car through the south: the area around Rome, 
 
 Photo: [Jan Tielens jtlns](https://commons.wikimedia.org/w/index.php?curid=62227499), CC0
 
-- Duration: 10 days / 9 nights
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 4,100 GEL
+Duration10 days / 9 nights
+
+DatesDates on request
+
+DepartureKutaisi (KUT)
+
+Price4,100 GEL
 
 ## Route on the map
 
@@ -147,7 +150,7 @@ Flights Kutaisi–Rome–Kutaisi; Hand luggage 10 kg (40x30x20 cm); Transport fo
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,100 GEL / per person: 
+Price: 4,100 GELper person: 
 
 Deposit to book: 1,000 GEL
 

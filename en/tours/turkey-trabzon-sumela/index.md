@@ -16,10 +16,13 @@ A 3-day tour of Trabzon and its surroundings. Departure from Tbilisi (Didube) at
 
 Photo: [Hamdigumus](https://commons.wikimedia.org/w/index.php?curid=151764689), CC0
 
-- Duration: 3 days
-- Dates: Dates on request
-- Departure: From Tbilisi, 05:00
-- Price: 470 GEL
+Duration3 days
+
+DatesDates on request
+
+DepartureTbilisi, 05:00
+
+Price470 GEL
 
 ## Route on the map
 
@@ -79,7 +82,7 @@ We will tell you the dates and free places by phone or WhatsApp.
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 470 GEL / per person: 
+Price: 470 GELper person: 
 
 ## Dates
 

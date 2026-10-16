@@ -19,10 +19,13 @@ URL: https://besttraveler.ge/turebi/armenia-yerevan-garni-geghard-etchmiadzin/
 
 ფოტო: [Marion&Christoph Aistleitner](https://commons.wikimedia.org/w/index.php?curid=44367471), CC0
 
-- ხანგრძლივობა: 3 დღე
-- თარიღები: თარიღები — მოთხოვნით
-- გასვლა: თბილისიდან, 06:00
-- ფასი: 450 ლარი
+ხანგრძლივობა3 დღე
+
+თარიღებითარიღები — მოთხოვნით
+
+გასვლათბილისი, 06:00
+
+ფასი450 ლარი
 
 ## მარშრუტი რუკაზე
 
@@ -88,7 +91,7 @@ URL: https://besttraveler.ge/turebi/armenia-yerevan-garni-geghard-etchmiadzin/
 
 დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე: 579 57 56 36. დაგიდასტურებთ ადგილს და ფასს. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
 
-ფასი: 450 ლარი / ერთ ადამიანზე: 
+ფასი: 450 ლარიერთ ადამიანზე: 
 
 ## თარიღები
 

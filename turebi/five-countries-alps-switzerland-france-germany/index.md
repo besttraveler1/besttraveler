@@ -32,9 +32,11 @@ URL: https://besttraveler.ge/turebi/five-countries-alps-switzerland-france-germa
 
 ფოტო: [cameralends](https://commons.wikimedia.org/w/index.php?curid=46307855), CC0
 
-- ხანგრძლივობა: 8 დღე / 7 ღამე
-- თარიღები: თარიღები — მოთხოვნით
-- ფასი: 4 500 ლარი
+ხანგრძლივობა8 დღე / 7 ღამე
+
+თარიღებითარიღები — მოთხოვნით
+
+ფასი4 500 ლარი
 
 ## მარშრუტი რუკაზე
 
@@ -157,7 +159,7 @@ URL: https://besttraveler.ge/turebi/five-countries-alps-switzerland-france-germa
 
 დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე: 579 57 56 36. დაგიდასტურებთ ადგილს და ფასს. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
 
-ფასი: 4 500 ლარი / ერთ ადამიანზე: 
+ფასი: 4 500 ლარიერთ ადამიანზე: 
 
 ## თარიღები
 

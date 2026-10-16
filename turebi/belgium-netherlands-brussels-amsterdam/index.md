@@ -23,10 +23,13 @@ URL: https://besttraveler.ge/turebi/belgium-netherlands-brussels-amsterdam/
 
 ფოტო: [Gouwenaar](https://commons.wikimedia.org/w/index.php?curid=29330844), CC0
 
-- ხანგრძლივობა: 8 დღე
-- თარიღები: თარიღები — მოთხოვნით
-- გასვლა: ქუთაისის აეროპორტიდან
-- ფასი: 4 300 ლარი
+ხანგრძლივობა8 დღე
+
+თარიღებითარიღები — მოთხოვნით
+
+გასვლაქუთაისი (KUT)
+
+ფასი4 300 ლარი
 
 ## მარშრუტი რუკაზე
 
@@ -135,7 +138,7 @@ URL: https://besttraveler.ge/turebi/belgium-netherlands-brussels-amsterdam/
 
 დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე: 579 57 56 36. დაგიდასტურებთ ადგილს და ფასს. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
 
-ფასი: 4 300 ლარი / ერთ ადამიანზე: 
+ფასი: 4 300 ლარიერთ ადამიანზე: 
 
 ## თარიღები
 

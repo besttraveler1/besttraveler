@@ -22,10 +22,13 @@ Alsace is one of the most beautiful and photogenic regions of France, where ever
 
 Photo: [burobox](https://commons.wikimedia.org/w/index.php?curid=71070802), CC0
 
-- Duration: 8 days / 7 nights
-- Next departure: 19–26 Nov 2026
-- Departure: From Kutaisi airport
-- Price: 4,200 GEL
+Duration8 days / 7 nights
+
+Next departure19–26 Nov 2026 +2
+
+DepartureKutaisi (KUT)
+
+Price4,200 GEL
 
 ## Route on the map
 
@@ -147,7 +150,7 @@ Flights Kutaisi–Beauvais–Kutaisi; Hand luggage 10 kg (40x30x20 cm); Transfer
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,200 GEL / per person: 
+Price: 4,200 GELper person: 
 
 ## Dates
 

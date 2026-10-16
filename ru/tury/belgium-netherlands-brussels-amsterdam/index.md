@@ -23,10 +23,13 @@ URL: https://besttraveler.ge/ru/tury/belgium-netherlands-brussels-amsterdam/
 
 Фото: [Gouwenaar](https://commons.wikimedia.org/w/index.php?curid=29330844), CC0
 
-- Длительность: 8 дней
-- Даты: Даты по запросу
-- Выезд: Из аэропорта Кутаиси
-- Цена: 4 300 лари
+Длительность8 дней
+
+ДатыДаты по запросу
+
+ВыездКутаиси (KUT)
+
+Цена4 300 лари
 
 ## Маршрут на карте
 
@@ -135,7 +138,7 @@ URL: https://besttraveler.ge/ru/tury/belgium-netherlands-brussels-amsterdam/
 
 Позвоните или напишите в WhatsApp: +995 579 57 56 36. Мы подтвердим место и цену. Остаток оплачивается за 15 дней до тура.
 
-Цена: 4 300 лари / за человека: 
+Цена: 4 300 лариза человека: 
 
 ## Даты
 

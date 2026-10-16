@@ -20,10 +20,13 @@ A 7-day / 6-night tour of Sri Lanka: Sigiriya, Kandy, Nuwara Eliya, Ella, Yala, 
 
 Photo: [Yourusernamewillbepublic2](https://commons.wikimedia.org/w/index.php?curid=164885452), CC0
 
-- Duration: 8 days / 6 nights
-- Next departure: 9–16 Jan 2027
-- Departure: From Tbilisi airport
-- Price: 4,500 GEL
+Duration8 days / 6 nights
+
+Next departure9–16 Jan 2027
+
+DepartureTbilisi (TBS)
+
+Price4,500 GEL
 
 ## Route on the map
 
@@ -153,7 +156,7 @@ Airport transfers on arrival and departure; Meeting and assistance at the airpor
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,500 GEL / per person: 
+Price: 4,500 GELper person: 
 
 Deposit to book: 1,500 GEL
 

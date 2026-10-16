@@ -19,10 +19,13 @@ A different three-day tour to Yerevan, via Dilijan and Lake Sevan. On the second
 
 Photo: [Marion&Christoph Aistleitner](https://commons.wikimedia.org/w/index.php?curid=44367471), CC0
 
-- Duration: 3 days
-- Dates: Dates on request
-- Departure: From Tbilisi, 06:00
-- Price: 450 GEL
+Duration3 days
+
+DatesDates on request
+
+DepartureTbilisi, 06:00
+
+Price450 GEL
 
 ## Route on the map
 
@@ -88,7 +91,7 @@ We will tell you the dates and free places by phone or WhatsApp.
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 450 GEL / per person: 
+Price: 450 GELper person: 
 
 ## Dates
 

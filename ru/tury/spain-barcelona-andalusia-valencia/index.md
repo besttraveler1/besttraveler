@@ -25,10 +25,13 @@ URL: https://besttraveler.ge/ru/tury/spain-barcelona-andalusia-valencia/
 
 Фото: [NeusCGarcia](https://commons.wikimedia.org/w/index.php?curid=141175999), CC0
 
-- Длительность: 10 дней
-- Даты: Даты по запросу
-- Выезд: Из аэропорта Кутаиси
-- Цена: 4 500 лари
+Длительность10 дней
+
+ДатыДаты по запросу
+
+ВыездКутаиси (KUT)
+
+Цена4 500 лари
 
 ## Маршрут на карте
 
@@ -174,7 +177,7 @@ URL: https://besttraveler.ge/ru/tury/spain-barcelona-andalusia-valencia/
 
 Позвоните или напишите в WhatsApp: +995 579 57 56 36. Мы подтвердим место и цену. Остаток оплачивается за 15 дней до тура.
 
-Цена: 4 500 лари / за человека: 
+Цена: 4 500 лариза человека: 
 
 ## Даты
 

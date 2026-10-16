@@ -26,10 +26,13 @@ The tour starts in Düsseldorf and covers Dutch castles and palaces, historic to
 
 Photo: [Roy Tanck](https://wordpress.org/photos/photo/4766269971/), CC0
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Tbilisi airport
-- Price: 4,100 GEL
+Duration8 days
+
+DatesDates on request
+
+DepartureTbilisi (TBS)
+
+Price4,100 GEL
 
 ## Route on the map
 
@@ -135,7 +138,7 @@ Flights Tbilisi–Istanbul–Düsseldorf–Istanbul–Tbilisi; Baggage 20 kg; Tr
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,100 GEL / per person: 
+Price: 4,100 GELper person: 
 
 ## Dates
 

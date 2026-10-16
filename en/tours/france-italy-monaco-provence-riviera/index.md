@@ -25,10 +25,13 @@ The tour starts in Lyon, crosses the French Alps to Turin, follows the Côte d'A
 
 Photo: [Pierre Blaché from Paris, France](https://commons.wikimedia.org/w/index.php?curid=149310634), CC0
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 4,500 GEL
+Duration8 days
+
+DatesDates on request
+
+DepartureKutaisi (KUT)
+
+Price4,500 GEL
 
 ## Route on the map
 
@@ -142,7 +145,7 @@ Return flights; Hand luggage 10 kg (40x30x20 cm); Transport for the whole tour, 
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,500 GEL / per person: 
+Price: 4,500 GELper person: 
 
 Deposit to book: 1,000 GEL
 

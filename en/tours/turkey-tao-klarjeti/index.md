@@ -23,10 +23,13 @@ A tour of historic Tao-Klarjeti (now in Turkey): Georgian monasteries, fortresse
 
 Photo: [sevdamujgan [1]](https://commons.wikimedia.org/w/index.php?curid=61679279), CC0
 
-- Duration: By bus
-- Dates: Dates on request
-- Departure: From Tbilisi, 05:00
-- Price: 480 GEL
+DurationBy bus
+
+DatesDates on request
+
+DepartureTbilisi, 05:00
+
+Price480 GEL
 
 ## Route on the map
 
@@ -88,7 +91,7 @@ The programme described; Driver experienced on Tao's roads; Breakfast and dinner
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 480 GEL / per person: 
+Price: 480 GELper person: 
 
 ## Dates
 

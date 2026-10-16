@@ -17,10 +17,13 @@ A 7-day stay in Hurghada with excursions: Port Said, Port Fuad and the Suez Cana
 
 Photo: [reesorts.com](https://commons.wikimedia.org/w/index.php?curid=91890158), CC0
 
-- Duration: 7 days / 6 nights
-- Next departure: 9–15 Nov 2026
-- Departure: From Tbilisi airport
-- Price: 6,100 GEL
+Duration7 days / 6 nights
+
+Next departure9–15 Nov 2026 +1
+
+DepartureTbilisi (TBS)
+
+Price6,100 GEL
 
 ## Route on the map
 
@@ -144,7 +147,7 @@ Flights Tbilisi–Istanbul–Hurghada–Istanbul–Tbilisi; 20 kg baggage; 4 or 
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 6,100 GEL / per person: 
+Price: 6,100 GELper person: 
 
 Deposit to book: 1,500 GEL
 

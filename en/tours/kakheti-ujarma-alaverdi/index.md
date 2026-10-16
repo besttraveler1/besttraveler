@@ -18,10 +18,13 @@ A classic one-day tour to Kakheti over the Gombori Pass, visiting well-known Kak
 
 Photo: [Image by lenmic2 from Pixabay](https://commons.wikimedia.org/w/index.php?curid=105419561), CC0
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 08:00
-- Price: 60 GEL
+Duration1 day
+
+DatesDates on request
+
+DepartureTbilisi, 08:00
+
+Price60 GEL
 
 ## Route on the map
 
@@ -59,7 +62,7 @@ We will tell you the dates and free places by phone or WhatsApp.
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 60 GEL / per person: 
+Price: 60 GELper person: 
 
 ## Dates
 

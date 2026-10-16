@@ -22,10 +22,13 @@ A group tour: 7 days / 6 nights in Sri Lanka and 3 days / 3 nights in the Maldiv
 
 Photo: [Ishan @seefromthesky seefromthesky](https://commons.wikimedia.org/w/index.php?curid=61892141), CC0
 
-- Duration: 11 days
-- Next departure: 9–19 Jan 2027
-- Departure: From Tbilisi airport
-- Price: 8,500 GEL
+Duration11 days
+
+Next departure9–19 Jan 2027
+
+DepartureTbilisi (TBS)
+
+Price8,500 GEL
 
 ## Route on the map
 
@@ -165,7 +168,7 @@ Airport transfers on arrival and departure; Meeting and assistance at the airpor
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 8,500 GEL / per person: 
+Price: 8,500 GELper person: 
 
 ## Dates
 

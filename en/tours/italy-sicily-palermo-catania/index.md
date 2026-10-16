@@ -24,10 +24,13 @@ The tour starts with a flight from Yerevan to Italy, follows the coast of southe
 
 Photo: [Erik Albers](https://commons.wikimedia.org/w/index.php?curid=63496829), CC0
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Yerevan airport
-- Price: 5,700 GEL
+Duration8 days
+
+DatesDates on request
+
+DepartureYerevan (EVN)
+
+Price5,700 GEL
 
 ## Route on the map
 
@@ -145,7 +148,7 @@ Flight from Yerevan to Italy; Flights Catania–Istanbul–Tbilisi; Hand luggage
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 5,700 GEL / per person: 
+Price: 5,700 GELper person: 
 
 Deposit to book: 1,700 GEL
 

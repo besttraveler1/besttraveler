@@ -265,8 +265,8 @@ main{display:block}
 .box h2{font-size:22px;margin-bottom:12px}
 .note{border:1px solid var(--warn-bd);background:var(--warn-bg);border-radius:12px;padding:14px 16px;font-size:15px;margin:0 0 24px}
 .pcard{border:1px solid var(--border);border-radius:20px;padding:22px;background:var(--card);box-shadow:var(--shadow)}
-.pcard .big{font-size:36px;font-weight:700;line-height:1.1;margin:4px 0 6px}
-.pcard .big small{font-size:15px;font-weight:400;color:var(--muted)}
+.pcard .big{font-size:32px;font-weight:700;line-height:1.15;margin:2px 0 8px;white-space:nowrap}
+.pcard .big small{display:block;font-size:14px;font-weight:400;color:var(--muted);margin-top:2px;white-space:normal}
 .pcard .chk{margin:16px 0}
 .pcard .btn{width:100%;margin-top:10px}
 .pcard .fine{font-size:13px;color:var(--muted);margin:12px 0 0}
@@ -287,6 +287,20 @@ main{display:block}
 .rmap .mland{fill:var(--mland);stroke:var(--mborder);stroke-width:.8;stroke-linejoin:round}
 .rmap .mhl{fill:var(--mhl);stroke:var(--mhlb);stroke-width:1;stroke-linejoin:round}
 .rmap .mroute{fill:none;stroke:var(--brand);stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1 7}
+.rmap .mdraw{fill:none;stroke:#fff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1 1;stroke-dashoffset:0}
+.rmap .veh{display:none}
+.rmap .veh circle{fill:var(--card);stroke:var(--brand);stroke-width:2}
+.rmap .vi{fill:none;stroke:var(--brand-text);stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+.rmap.anim .mdraw{stroke-dashoffset:1}
+.rmap.anim .mp,.rmap.anim .ml{opacity:0}
+.rmap.anim .mp{transform-box:fill-box;transform-origin:center;transform:scale(.3)}
+.rmap.go .mdraw{animation:rdraw 2.6s linear forwards}
+.rmap.go .mp{animation:rpin .35s cubic-bezier(.3,1.6,.6,1) forwards;animation-delay:var(--d)}
+.rmap.go .ml{animation:rfade .4s ease forwards;animation-delay:calc(var(--d) + .1s)}
+.rmap.go .veh{display:inline;animation:rfade .3s ease reverse forwards;animation-delay:2.9s}
+@keyframes rdraw{to{stroke-dashoffset:0}}
+@keyframes rpin{to{opacity:1;transform:none}}
+@keyframes rfade{from{opacity:0}to{opacity:1}}
 .rmap .mp circle{fill:var(--brand);stroke:var(--card);stroke-width:3}
 .rmap .mp text{fill:var(--on-brand);font:700 11px var(--font);text-anchor:middle}
 .rmap .ml{fill:var(--fg);font:600 13px var(--font);paint-order:stroke;stroke:var(--msea);stroke-width:4px;stroke-linejoin:round}
@@ -436,3 +450,10 @@ html[lang=ka] .answer b{text-transform:none;letter-spacing:0}
 .strip .flag{width:22px;height:16px}
 @media (max-width:899px){.strip{grid-template-columns:repeat(5,42%);overflow-x:auto;scroll-snap-type:x mandatory;margin-left:-16px;margin-right:-16px;padding:0 16px;scrollbar-width:none}.strip li{scroll-snap-align:start}.strip a{aspect-ratio:3/4}}
 .thead h1{font-size:clamp(26px,3.4vw,38px);line-height:1.2}
+
+.specs{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));margin:26px 0 0;border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
+.specs>div{padding:14px 18px;border-left:1px solid var(--border)}
+.specs>div:first-child{border-left:0;padding-left:0}
+.specs dt{font-size:13px;color:var(--muted);margin:0 0 2px}
+.specs dd{margin:0;font-size:17px;font-weight:600;line-height:1.35}
+@media (max-width:719px){.specs{grid-template-columns:1fr 1fr}.specs>div{padding:12px 0 12px 14px}.specs>div:nth-child(odd){border-left:0;padding-left:0}.specs>div:nth-child(n+3){border-top:1px solid var(--border)}}

@@ -32,9 +32,11 @@ URL: https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germ
 
 Фото: [cameralends](https://commons.wikimedia.org/w/index.php?curid=46307855), CC0
 
-- Длительность: 8 дней / 7 ночей
-- Даты: Даты по запросу
-- Цена: 4 500 лари
+Длительность8 дней / 7 ночей
+
+ДатыДаты по запросу
+
+Цена4 500 лари
 
 ## Маршрут на карте
 
@@ -157,7 +159,7 @@ URL: https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germ
 
 Позвоните или напишите в WhatsApp: +995 579 57 56 36. Мы подтвердим место и цену. Остаток оплачивается за 15 дней до тура.
 
-Цена: 4 500 лари / за человека: 
+Цена: 4 500 лариза человека: 
 
 ## Даты
 

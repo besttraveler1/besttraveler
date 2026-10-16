@@ -14,10 +14,13 @@ The whole tour is spent in Rome. Each day covers a different part of the city, f
 
 Photo: [Julian Lupyan](https://commons.wikimedia.org/w/index.php?curid=175885773), CC0
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 2,300 GEL
+Duration8 days
+
+DatesDates on request
+
+DepartureKutaisi (KUT)
+
+Price2,300 GEL
 
 ## Route on the map
 
@@ -147,7 +150,7 @@ Return flights Kutaisi–Rome–Kutaisi; Hand luggage 10 kg (40x30x20 cm); Hotel
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 2,300 GEL / per person: 
+Price: 2,300 GELper person: 
 
 ## Dates
 

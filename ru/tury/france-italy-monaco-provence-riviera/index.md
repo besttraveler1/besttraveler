@@ -25,10 +25,13 @@ URL: https://besttraveler.ge/ru/tury/france-italy-monaco-provence-riviera/
 
 Фото: [Pierre Blaché from Paris, France](https://commons.wikimedia.org/w/index.php?curid=149310634), CC0
 
-- Длительность: 8 дней
-- Даты: Даты по запросу
-- Выезд: Из аэропорта Кутаиси
-- Цена: 4 500 лари
+Длительность8 дней
+
+ДатыДаты по запросу
+
+ВыездКутаиси (KUT)
+
+Цена4 500 лари
 
 ## Маршрут на карте
 
@@ -142,7 +145,7 @@ URL: https://besttraveler.ge/ru/tury/france-italy-monaco-provence-riviera/
 
 Позвоните или напишите в WhatsApp: +995 579 57 56 36. Мы подтвердим место и цену. Остаток оплачивается за 15 дней до тура.
 
-Цена: 4 500 лари / за человека: 
+Цена: 4 500 лариза человека: 
 
 Предоплата для брони: 1 000 лари
 

@@ -17,10 +17,13 @@ An 8-day tour: a stay in Sharm el-Sheikh at a first-line hotel with unlimited me
 
 Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605818), CC0
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Tbilisi airport
-- Price: 3,700 GEL
+Duration8 days
+
+DatesDates on request
+
+DepartureTbilisi (TBS)
+
+Price3,700 GEL
 
 ## Route on the map
 
@@ -137,7 +140,7 @@ Flights Tbilisi–Sharm el-Sheikh–Tbilisi; First-line hotel with unlimited mea
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 3,700 GEL / per person: 
+Price: 3,700 GELper person: 
 
 ## Dates
 

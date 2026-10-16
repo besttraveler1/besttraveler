@@ -17,10 +17,13 @@ A tour to Bratislava, the capital of Slovakia, with a day trip to Vienna and a v
 
 Photo: [Pixabay](https://commons.wikimedia.org/w/index.php?curid=72064519), CC0
 
-- Duration: 6 days / 5 nights
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 1,700 GEL
+Duration6 days / 5 nights
+
+DatesDates on request
+
+DepartureKutaisi (KUT)
+
+Price1,700 GEL
 
 ## Route on the map
 
@@ -113,7 +116,7 @@ Flights Kutaisi–Bratislava–Kutaisi; Hand luggage 10 kg (40x30x20 cm); Hotels
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 1,700 GEL / per person: 
+Price: 1,700 GELper person: 
 
 ## Dates
 

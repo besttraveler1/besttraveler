@@ -15,10 +15,13 @@ A group tour to Athens, Greece. We see the old town and the Acropolis, and spend
 
 Photo: [George E. Koronaios](https://commons.wikimedia.org/w/index.php?curid=94459156), CC0
 
-- Duration: 4 days / 3 nights
-- Next departure: 1–4 Nov 2026
-- Departure: From Kutaisi airport
-- Price: 1,200 GEL
+Duration4 days / 3 nights
+
+Next departure1–4 Nov 2026
+
+DepartureKutaisi (KUT)
+
+Price1,200 GEL
 
 ## Route on the map
 
@@ -104,7 +107,7 @@ Flights Kutaisi–Athens–Kutaisi; Hand luggage 10 kg (40x30x20 cm); Hotel with
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 1,200 GEL / per person: 
+Price: 1,200 GELper person: 
 
 ## Dates
 

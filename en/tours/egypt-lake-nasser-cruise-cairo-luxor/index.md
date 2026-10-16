@@ -17,10 +17,13 @@ A group tour of Egypt with a Georgian-speaking tour leader from Tbilisi. It cove
 
 Photo: [Warren LeMay from Cullowhee, NC, United States](https://commons.wikimedia.org/w/index.php?curid=83321532), CC0
 
-- Duration: 11 days
-- Next departure: 14–24 Dec 2026
-- Departure: From Tbilisi airport
-- Price: 6,650 GEL
+Duration11 days
+
+Next departure14–24 Dec 2026
+
+DepartureTbilisi (TBS)
+
+Price6,650 GEL
 
 ## Route on the map
 
@@ -158,7 +161,7 @@ Flights: Tbilisi–Istanbul–Cairo, Cairo–Aswan, Luxor–Istanbul–Tbilisi; 
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 6,650 GEL / per person: 
+Price: 6,650 GELper person: 
 
 Deposit to book: 1,650 GEL
 

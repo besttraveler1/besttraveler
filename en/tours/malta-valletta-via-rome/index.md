@@ -21,10 +21,13 @@ Flights from Kutaisi to Rome and on to Malta. On the island we visit seaside vil
 
 Photo: [Edelmauswaldgeist](https://commons.wikimedia.org/w/index.php?curid=176989446), CC0
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 4,100 GEL
+Duration8 days
+
+DatesDates on request
+
+DepartureKutaisi (KUT)
+
+Price4,100 GEL
 
 ## Route on the map
 
@@ -127,7 +130,7 @@ Flights Kutaisi–Rome–Kutaisi; Flights Rome–Malta–Rome; Hand luggage 10 k
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,100 GEL / per person: 
+Price: 4,100 GELper person: 
 
 ## Dates
 

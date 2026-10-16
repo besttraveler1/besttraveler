@@ -17,10 +17,13 @@ URL: https://besttraveler.ge/turebi/greece-thessaloniki-meteora-athens/
 
 ფოტო: [Steve Petty potshots](https://commons.wikimedia.org/w/index.php?curid=62280875), CC0
 
-- ხანგრძლივობა: 8 დღე
-- თარიღები: თარიღები — მოთხოვნით
-- გასვლა: ქუთაისის აეროპორტიდან
-- ფასი: 2 100 ლარი
+ხანგრძლივობა8 დღე
+
+თარიღებითარიღები — მოთხოვნით
+
+გასვლაქუთაისი (KUT)
+
+ფასი2 100 ლარი
 
 ## მარშრუტი რუკაზე
 
@@ -129,7 +132,7 @@ URL: https://besttraveler.ge/turebi/greece-thessaloniki-meteora-athens/
 
 დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე: 579 57 56 36. დაგიდასტურებთ ადგილს და ფასს. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
 
-ფასი: 2 100 ლარი / ერთ ადამიანზე: 
+ფასი: 2 100 ლარიერთ ადამიანზე: 
 
 ## თარიღები
 

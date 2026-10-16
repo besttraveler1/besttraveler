@@ -27,10 +27,13 @@ A group tour of southern Spain (Andalusia) and Gibraltar (UK). Flights with Turk
 
 Photo: [Daderot](https://commons.wikimedia.org/w/index.php?curid=42883558), CC0
 
-- Duration: 8 days / 7 nights
-- Next departure: 27 Jan – 3 Feb 2027
-- Departure: From Tbilisi airport
-- Price: 4,800 GEL
+Duration8 days / 7 nights
+
+Next departure27 Jan – 3 Feb 2027
+
+DepartureTbilisi (TBS)
+
+Price4,800 GEL
 
 ## Route on the map
 
@@ -144,7 +147,7 @@ Flights (Turkish Airlines) Tbilisi–Istanbul–Málaga and Málaga–Istanbul�
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,800 GEL / per person: 
+Price: 4,800 GELper person: 
 
 Deposit to book: 1,500 GEL
 

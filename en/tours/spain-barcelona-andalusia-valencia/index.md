@@ -25,10 +25,13 @@ The tour starts in Barcelona and loops around Spain by car: Tarragona and Zarago
 
 Photo: [NeusCGarcia](https://commons.wikimedia.org/w/index.php?curid=141175999), CC0
 
-- Duration: 10 days
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 4,500 GEL
+Duration10 days
+
+DatesDates on request
+
+DepartureKutaisi (KUT)
+
+Price4,500 GEL
 
 ## Route on the map
 
@@ -174,7 +177,7 @@ Return flights Kutaisi–Barcelona–Kutaisi; Hand luggage 10 kg (40x30x20 cm); 
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,500 GEL / per person: 
+Price: 4,500 GELper person: 
 
 ## Dates
 

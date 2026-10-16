@@ -20,10 +20,13 @@ A New Year group tour to Bari and the surrounding area in southern Italy. We tra
 
 Photo: [Pizzaemandolino](https://commons.wikimedia.org/w/index.php?curid=18728801), CC0
 
-- Duration: 5 days
-- Next departure: 2–6 Nov 2026
-- Departure: From Yerevan airport
-- Price: 2,600 GEL
+Duration5 days
+
+Next departure2–6 Nov 2026 +3
+
+DepartureYerevan (EVN)
+
+Price2,600 GEL
 
 ## Route on the map
 
@@ -110,7 +113,7 @@ Flights Yerevan–Bari–Yerevan; Hand luggage 10 kg (40x30x20 cm); Transport fo
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 2,600 GEL / per person: 
+Price: 2,600 GELper person: 
 
 Deposit to book: 800 GEL
 

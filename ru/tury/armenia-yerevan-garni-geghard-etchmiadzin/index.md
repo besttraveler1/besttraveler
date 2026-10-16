@@ -19,10 +19,13 @@ URL: https://besttraveler.ge/ru/tury/armenia-yerevan-garni-geghard-etchmiadzin/
 
 Фото: [Marion&Christoph Aistleitner](https://commons.wikimedia.org/w/index.php?curid=44367471), CC0
 
-- Длительность: 3 дня
-- Даты: Даты по запросу
-- Выезд: Из Тбилиси, 06:00
-- Цена: 450 лари
+Длительность3 дня
+
+ДатыДаты по запросу
+
+ВыездТбилиси, 06:00
+
+Цена450 лари
 
 ## Маршрут на карте
 
@@ -88,7 +91,7 @@ URL: https://besttraveler.ge/ru/tury/armenia-yerevan-garni-geghard-etchmiadzin/
 
 Позвоните или напишите в WhatsApp: +995 579 57 56 36. Мы подтвердим место и цену. Остаток оплачивается за 15 дней до тура.
 
-Цена: 450 лари / за человека: 
+Цена: 450 лариза человека: 
 
 ## Даты
 

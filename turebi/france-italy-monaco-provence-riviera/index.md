@@ -25,10 +25,13 @@ URL: https://besttraveler.ge/turebi/france-italy-monaco-provence-riviera/
 
 ფოტო: [Pierre Blaché from Paris, France](https://commons.wikimedia.org/w/index.php?curid=149310634), CC0
 
-- ხანგრძლივობა: 8 დღე
-- თარიღები: თარიღები — მოთხოვნით
-- გასვლა: ქუთაისის აეროპორტიდან
-- ფასი: 4 500 ლარი
+ხანგრძლივობა8 დღე
+
+თარიღებითარიღები — მოთხოვნით
+
+გასვლაქუთაისი (KUT)
+
+ფასი4 500 ლარი
 
 ## მარშრუტი რუკაზე
 
@@ -142,7 +145,7 @@ URL: https://besttraveler.ge/turebi/france-italy-monaco-provence-riviera/
 
 დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე: 579 57 56 36. დაგიდასტურებთ ადგილს და ფასს. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
 
-ფასი: 4 500 ლარი / ერთ ადამიანზე: 
+ფასი: 4 500 ლარიერთ ადამიანზე: 
 
 ჯავშნისთვის: 1 000 ლარი
 

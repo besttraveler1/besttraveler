@@ -17,10 +17,13 @@ URL: https://besttraveler.ge/ru/tury/egypt-lake-nasser-cruise-cairo-luxor/
 
 Фото: [Warren LeMay from Cullowhee, NC, United States](https://commons.wikimedia.org/w/index.php?curid=83321532), CC0
 
-- Длительность: 11 дней
-- Ближайший выезд: 14–24 декабря 2026
-- Выезд: Из аэропорта Тбилиси
-- Цена: 6 650 лари
+Длительность11 дней
+
+Ближайший выезд14–24 декабря 2026
+
+ВыездТбилиси (TBS)
+
+Цена6 650 лари
 
 ## Маршрут на карте
 
@@ -158,7 +161,7 @@ URL: https://besttraveler.ge/ru/tury/egypt-lake-nasser-cruise-cairo-luxor/
 
 Позвоните или напишите в WhatsApp: +995 579 57 56 36. Мы подтвердим место и цену. Остаток оплачивается за 15 дней до тура.
 
-Цена: 6 650 лари / за человека: 
+Цена: 6 650 лариза человека: 
 
 Предоплата для брони: 1 650 лари
 

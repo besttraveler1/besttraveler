@@ -24,10 +24,13 @@ URL: https://besttraveler.ge/turebi/spain-portugal-madrid-porto-lisbon/
 
 ფოტო: [Terry Kearney from liverpool, merseyside](https://commons.wikimedia.org/w/index.php?curid=78756732), CC0
 
-- ხანგრძლივობა: 8 დღე / 7 ღამე
-- უახლოესი გასვლა: 3–10 ნოემბერი 2026
-- გასვლა: ქუთაისის აეროპორტიდან
-- ფასი: 4 500 ლარი
+ხანგრძლივობა8 დღე / 7 ღამე
+
+უახლოესი გასვლა3–10 ნოემბერი 2026
+
+გასვლაქუთაისი (KUT)
+
+ფასი4 500 ლარი
 
 ## მარშრუტი რუკაზე
 
@@ -152,7 +155,7 @@ URL: https://besttraveler.ge/turebi/spain-portugal-madrid-porto-lisbon/
 
 დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე: 579 57 56 36. დაგიდასტურებთ ადგილს და ფასს. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
 
-ფასი: 4 500 ლარი / ერთ ადამიანზე: 
+ფასი: 4 500 ლარიერთ ადამიანზე: 
 
 ## თარიღები
 

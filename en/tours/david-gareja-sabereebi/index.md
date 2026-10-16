@@ -14,10 +14,13 @@ The Sabereebi complex dates from the 9th–10th centuries. The rock-cut monaster
 
 Photo: [Orlova Maria orlovamaria](https://commons.wikimedia.org/w/index.php?curid=61868303), CC0
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 08:00
-- Price: 60 GEL
+Duration1 day
+
+DatesDates on request
+
+DepartureTbilisi, 08:00
+
+Price60 GEL
 
 ## Route on the map
 
@@ -59,7 +62,7 @@ Transport by minibus; Tour escort; Photography.
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 60 GEL / per person: 
+Price: 60 GELper person: 
 
 ## Dates
 

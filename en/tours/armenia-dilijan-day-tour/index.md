@@ -17,10 +17,13 @@ A one-day tour to the Dilijan area of Armenia. A passport or ID card is needed t
 
 Photo: [Benoît Prieur](https://commons.wikimedia.org/w/index.php?curid=62585446), CC0
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 06:00
-- Price: 150 GEL
+Duration1 day
+
+DatesDates on request
+
+DepartureTbilisi, 06:00
+
+Price150 GEL
 
 ## Route on the map
 
@@ -71,7 +74,7 @@ Travel by top-class minibus; Services of a qualified tour guide (organization, s
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 150 GEL / per person: 
+Price: 150 GELper person: 
 
 ## Dates
 

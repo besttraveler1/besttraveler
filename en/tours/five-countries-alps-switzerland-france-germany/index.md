@@ -32,9 +32,11 @@ A group tour by car through France, Switzerland, Liechtenstein, Austria and Germ
 
 Photo: [cameralends](https://commons.wikimedia.org/w/index.php?curid=46307855), CC0
 
-- Duration: 8 days / 7 nights
-- Dates: Dates on request
-- Price: 4,500 GEL
+Duration8 days / 7 nights
+
+DatesDates on request
+
+Price4,500 GEL
 
 ## Route on the map
 
@@ -157,7 +159,7 @@ Return flights; Hand luggage 10 kg (40x30x20 cm); Transport for the whole tour, 
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,500 GEL / per person: 
+Price: 4,500 GELper person: 
 
 ## Dates
 

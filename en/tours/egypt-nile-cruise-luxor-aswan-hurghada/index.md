@@ -19,10 +19,13 @@ An 8-day tour of Egypt with a Georgian-speaking tour leader from Tbilisi. It inc
 
 Photo: [Warren LeMay from Cullowhee, NC, United States](https://commons.wikimedia.org/w/index.php?curid=83168414), CC0
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Tbilisi airport
-- Price: 4,500 GEL
+Duration8 days
+
+DatesDates on request
+
+DepartureTbilisi (TBS)
+
+Price4,500 GEL
 
 ## Route on the map
 
@@ -144,7 +147,7 @@ Round-trip flight Tbilisi–Istanbul–Hurghada; 20 kg baggage; Hotels with meal
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,500 GEL / per person: 
+Price: 4,500 GELper person: 
 
 Deposit to book: 1,500 GEL
 

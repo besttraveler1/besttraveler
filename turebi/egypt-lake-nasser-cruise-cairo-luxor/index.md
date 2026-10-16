@@ -17,10 +17,13 @@ URL: https://besttraveler.ge/turebi/egypt-lake-nasser-cruise-cairo-luxor/
 
 ფოტო: [Warren LeMay from Cullowhee, NC, United States](https://commons.wikimedia.org/w/index.php?curid=83321532), CC0
 
-- ხანგრძლივობა: 11 დღე
-- უახლოესი გასვლა: 14–24 დეკემბერი 2026
-- გასვლა: თბილისის აეროპორტიდან
-- ფასი: 6 650 ლარი
+ხანგრძლივობა11 დღე
+
+უახლოესი გასვლა14–24 დეკემბერი 2026
+
+გასვლათბილისი (TBS)
+
+ფასი6 650 ლარი
 
 ## მარშრუტი რუკაზე
 
@@ -158,7 +161,7 @@ URL: https://besttraveler.ge/turebi/egypt-lake-nasser-cruise-cairo-luxor/
 
 დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე: 579 57 56 36. დაგიდასტურებთ ადგილს და ფასს. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
 
-ფასი: 6 650 ლარი / ერთ ადამიანზე: 
+ფასი: 6 650 ლარიერთ ადამიანზე: 
 
 ჯავშნისთვის: 1 650 ლარი
 

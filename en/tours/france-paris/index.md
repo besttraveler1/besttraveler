@@ -15,10 +15,13 @@ A group tour of Paris with a flight from Kutaisi to Beauvais: the Palace of Vers
 
 Photo: [Pierre Blaché from Paris, France](https://commons.wikimedia.org/w/index.php?curid=83221516), CC0
 
-- Duration: 5 days
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 2,400 GEL
+Duration5 days
+
+DatesDates on request
+
+DepartureKutaisi (KUT)
+
+Price2,400 GEL
 
 ## Route on the map
 
@@ -104,7 +107,7 @@ Flights Kutaisi–Beauvais–Kutaisi; Hand luggage 10 kg (40x30x20 cm); Hotel wi
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 2,400 GEL / per person: 
+Price: 2,400 GELper person: 
 
 ## Dates
 

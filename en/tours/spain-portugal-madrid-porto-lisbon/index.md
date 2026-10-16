@@ -24,10 +24,13 @@ A group tour of Spain and Portugal, travelling by car the whole way. The tour st
 
 Photo: [Terry Kearney from liverpool, merseyside](https://commons.wikimedia.org/w/index.php?curid=78756732), CC0
 
-- Duration: 8 days / 7 nights
-- Next departure: 3–10 Nov 2026
-- Departure: From Kutaisi airport
-- Price: 4,500 GEL
+Duration8 days / 7 nights
+
+Next departure3–10 Nov 2026
+
+DepartureKutaisi (KUT)
+
+Price4,500 GEL
 
 ## Route on the map
 
@@ -152,7 +155,7 @@ Flights Kutaisi–Madrid–Kutaisi; Hand luggage 10 kg (40x30x20 cm); Travel by 
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,500 GEL / per person: 
+Price: 4,500 GELper person: 
 
 ## Dates
 

@@ -15,10 +15,13 @@ A 7-day tour of Istanbul with flights from Tbilisi or Batumi. The programme cove
 
 Photo: [Hunanuk](https://commons.wikimedia.org/w/index.php?curid=141472475), CC0
 
-- Duration: 7 days
-- Dates: Dates on request
-- Departure: From Tbilisi airport
-- Price: 3,600 GEL
+Duration7 days
+
+DatesDates on request
+
+DepartureTbilisi (TBS)
+
+Price3,600 GEL
 
 ## Route on the map
 
@@ -134,7 +137,7 @@ Return flights Tbilisi (or Batumi) - Istanbul; 12 kg checked baggage; Transfer; 
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 3,600 GEL / per person: 
+Price: 3,600 GELper person: 
 
 ## Dates
 

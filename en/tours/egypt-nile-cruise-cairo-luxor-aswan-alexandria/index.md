@@ -17,10 +17,13 @@ A 9-day tour of Egypt with a Georgian-speaking tour leader from Tbilisi: 4 night
 
 Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=178958053), CC0
 
-- Duration: 9 days
-- Dates: Dates on request
-- Departure: From Tbilisi airport
-- Price: 6,550 GEL
+Duration9 days
+
+DatesDates on request
+
+DepartureTbilisi (TBS)
+
+Price6,550 GEL
 
 ## Route on the map
 
@@ -125,7 +128,7 @@ Flights: Tbilisi–Istanbul–Luxor, Aswan–Cairo, Alexandria–Istanbul–Tbil
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 6,550 GEL / per person: 
+Price: 6,550 GELper person: 
 
 Deposit to book: 1,550 GEL
 

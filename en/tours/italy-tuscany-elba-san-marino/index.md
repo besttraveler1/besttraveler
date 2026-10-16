@@ -24,10 +24,13 @@ The tour starts in Rome and travels by car through towns of Lazio, Tuscany and U
 
 Photo: [Lucía García González](https://commons.wikimedia.org/w/index.php?curid=61343896), CC0
 
-- Duration: 10 days / 9 nights
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 4,000 GEL
+Duration10 days / 9 nights
+
+DatesDates on request
+
+DepartureKutaisi (KUT)
+
+Price4,000 GEL
 
 ## Route on the map
 
@@ -170,7 +173,7 @@ Return flights Kutaisi–Rome–Kutaisi; Hand luggage 10 kg (40x30x20 cm); Trans
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,000 GEL / per person: 
+Price: 4,000 GELper person: 
 
 ## Dates
 

@@ -17,10 +17,13 @@ URL: https://besttraveler.ge/ru/tury/egypt-nile-cruise-cairo-luxor-aswan-alexand
 
 Фото: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=178958053), CC0
 
-- Длительность: 9 дней
-- Даты: Даты по запросу
-- Выезд: Из аэропорта Тбилиси
-- Цена: 6 550 лари
+Длительность9 дней
+
+ДатыДаты по запросу
+
+ВыездТбилиси (TBS)
+
+Цена6 550 лари
 
 ## Маршрут на карте
 
@@ -125,7 +128,7 @@ URL: https://besttraveler.ge/ru/tury/egypt-nile-cruise-cairo-luxor-aswan-alexand
 
 Позвоните или напишите в WhatsApp: +995 579 57 56 36. Мы подтвердим место и цену. Остаток оплачивается за 15 дней до тура.
 
-Цена: 6 550 лари / за человека: 
+Цена: 6 550 лариза человека: 
 
 Предоплата для брони: 1 550 лари
 

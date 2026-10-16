@@ -19,10 +19,13 @@ URL: https://besttraveler.ge/ru/tury/egypt-nile-cruise-luxor-aswan-hurghada/
 
 Фото: [Warren LeMay from Cullowhee, NC, United States](https://commons.wikimedia.org/w/index.php?curid=83168414), CC0
 
-- Длительность: 8 дней
-- Даты: Даты по запросу
-- Выезд: Из аэропорта Тбилиси
-- Цена: 4 500 лари
+Длительность8 дней
+
+ДатыДаты по запросу
+
+ВыездТбилиси (TBS)
+
+Цена4 500 лари
 
 ## Маршрут на карте
 
@@ -144,7 +147,7 @@ URL: https://besttraveler.ge/ru/tury/egypt-nile-cruise-luxor-aswan-hurghada/
 
 Позвоните или напишите в WhatsApp: +995 579 57 56 36. Мы подтвердим место и цену. Остаток оплачивается за 15 дней до тура.
 
-Цена: 4 500 лари / за человека: 
+Цена: 4 500 лариза человека: 
 
 Предоплата для брони: 1 500 лари
 

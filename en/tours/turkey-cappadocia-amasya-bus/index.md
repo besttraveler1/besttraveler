@@ -19,10 +19,13 @@ A 6-day tour of Turkey by comfortable bus. We never travel overnight: every nigh
 
 Photo: [Feridun F. Alkaya](https://commons.wikimedia.org/w/index.php?curid=91480044), CC0
 
-- Duration: 6 days
-- Next departure: 2–7 Nov 2026
-- Departure: From Tbilisi, 06:00
-- Price: 1,350 GEL
+Duration6 days
+
+Next departure2–7 Nov 2026
+
+DepartureTbilisi, 06:00
+
+Price1,350 GEL
 
 ## Route on the map
 
@@ -131,7 +134,7 @@ Travel by comfortable bus (air conditioning, internet in Turkey); 4-5 star hotel
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 1,350 GEL / per person: 
+Price: 1,350 GELper person: 
 
 ## Dates
 

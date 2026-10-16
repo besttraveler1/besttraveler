@@ -16,10 +16,13 @@ URL: https://besttraveler.ge/ru/tury/kazbegi-gveleti-gergeti-day-tour/
 
 Фото: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=149966635), CC0
 
-- Длительность: 1 день
-- Даты: Даты по запросу
-- Выезд: Из Тбилиси, 07:00
-- Цена: 60 лари
+Длительность1 день
+
+ДатыДаты по запросу
+
+ВыездТбилиси, 07:00
+
+Цена60 лари
 
 ## Маршрут на карте
 
@@ -55,7 +58,7 @@ URL: https://besttraveler.ge/ru/tury/kazbegi-gveleti-gergeti-day-tour/
 
 Позвоните или напишите в WhatsApp: +995 579 57 56 36. Мы подтвердим место и цену. Остаток оплачивается за 15 дней до тура.
 
-Цена: 60 лари / за человека: 
+Цена: 60 лариза человека: 
 
 ## Даты
 

@@ -21,10 +21,13 @@ A 7-day minibus tour of Turkey with a Georgian-speaking guide: Kars, Van, Mardin
 
 Photo: [Hamdigumus](https://commons.wikimedia.org/w/index.php?curid=151677849), CC0
 
-- Duration: 7 days / 6 nights
-- Dates: Dates on request
-- Departure: From Tbilisi, 07:00
-- Price: 1,450 GEL
+Duration7 days / 6 nights
+
+DatesDates on request
+
+DepartureTbilisi, 07:00
+
+Price1,450 GEL
 
 ## Route on the map
 
@@ -125,7 +128,7 @@ Transport and transfers by minibus; Hotels with one meal a day: 1 night in Kars,
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 1,450 GEL / per person: 
+Price: 1,450 GELper person: 
 
 ## Dates
 
