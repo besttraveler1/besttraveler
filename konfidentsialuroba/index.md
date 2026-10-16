@@ -24,4 +24,4 @@ besttraveler.ge არის საინფორმაციო საიტ�
 
 ## ფოტოები და ანიმაციები
 
-ფოტოები Wikimedia Commons-იდან თავისუფალი ლიცენზიებით გამოიყენება — ავტორი და ლიცენზია თითოეულ ფოტოსთან წერია. ანიმაციები LottieFiles-იდანაა და Lottie Simple License-ით (lottiefiles.com/page/license) ვრცელდება.
+ფოტოები Wikimedia Commons-იდან თავისუფალი ლიცენზიებით გამოიყენება — ავტორი და ლიცენზია თითოეულ ფოტოსთან წერია. ანიმაციები აღებულია LottieFiles-დან და გამოიყენება Lottie Simple License-ით (lottiefiles.com/page/license).
