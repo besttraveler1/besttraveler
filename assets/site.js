@@ -148,7 +148,7 @@
       var b = new ml.LngLatBounds();
       D.line.forEach(function (c) { b.extend(c); });
       var map = new ml.Map({ container: holder, style: 'https://tiles.openfreemap.org/styles/' + (dark() ? 'dark' : 'liberty'),
-        bounds: b, fitBoundsOptions: { padding: 60, maxZoom: 10 }, cooperativeGestures: true, attributionControl: { compact: true } });
+        bounds: b, fitBoundsOptions: { padding: { top: 50, bottom: 50, left: 50, right: 150 }, maxZoom: 10 }, cooperativeGestures: true, attributionControl: { compact: true } });
       map.addControl(new ml.NavigationControl({ showCompass: false }), 'top-right');
       map.on('load', function () {
         map.getStyle().layers.forEach(function (ly) {
