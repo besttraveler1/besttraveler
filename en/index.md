@@ -6,7 +6,7 @@ URL: https://besttraveler.ge/en/
 
 Departures: October – February
 
-# Group tours abroad and in Georgia
+# Group tours abroadand in Georgia
 
 Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 22 more countries — plus one-day tours around Georgia from 60 GEL.
 
