@@ -144,11 +144,11 @@ main{display:block}
 .stats span{font-size:14px;color:var(--muted)}
 
 /* rotating flags (9 flags x 2s) */
-.fslot{position:relative;display:inline-block;width:1.15em;height:.86em;vertical-align:-.06em;margin-left:.25em;border-radius:.14em;overflow:hidden;box-shadow:0 0 0 1px rgb(0 0 0 / .08),0 6px 18px -6px rgb(0 0 0 / .35)}
+.fslot{position:relative;display:inline-block;width:1.15em;height:.86em;vertical-align:-.06em;margin-left:.25em;border-radius:.14em;overflow:hidden;box-shadow:0 0 0 1px rgb(0 0 0 / .08)}
 .fslot img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transform:translateY(105%);animation:flg 18s infinite both;animation-timing-function:cubic-bezier(.65,0,.35,1)}
 @keyframes flg{0%{transform:translateY(105%)}2.2%{transform:none}11.11%{transform:none}13.3%{transform:translateY(-105%)}100%{transform:translateY(-105%)}}
 @media (prefers-reduced-motion:reduce){.fslot img{animation:none}.fslot img:first-child{transform:none}}
-.hflag{display:inline-block;width:1em;height:.75em;border-radius:.12em;vertical-align:-.02em;margin-right:.3em;object-fit:cover;box-shadow:0 0 0 1px rgb(0 0 0 / .08),0 4px 12px -4px rgb(0 0 0 / .3)}
+.hflag{display:inline-block;width:1em;height:.75em;border-radius:.12em;vertical-align:-.02em;margin-right:.3em;object-fit:cover;box-shadow:0 0 0 1px rgb(0 0 0 / .08)}
 
 /* page head */
 .phead{padding:16px 0 28px}
@@ -213,7 +213,7 @@ main{display:block}
 .dest.noimg::after{display:none}
 .dest.noimg:hover{border-color:var(--brand);box-shadow:var(--shadow)}
 .dest.noimg b{text-shadow:none}
-.dest .flag{width:52px;height:39px;border-radius:7px;box-shadow:0 0 0 1px rgb(0 0 0 / .08),0 2px 6px rgb(0 0 0 / .12);object-fit:cover;position:static}
+.dest .flag{width:52px;height:39px;border-radius:7px;box-shadow:0 0 0 1px rgb(0 0 0 / .08);object-fit:cover;position:static}
 .dest:not(.noimg) .flag{position:absolute;left:12px;top:12px;width:36px;height:27px;z-index:1}
 .flag{display:inline-block;border-radius:3px;object-fit:cover;flex:none}
 .chip .flag,.schips .flag{width:22px;height:16px;border-radius:3px;box-shadow:0 0 0 1px rgb(0 0 0 / .1)}
