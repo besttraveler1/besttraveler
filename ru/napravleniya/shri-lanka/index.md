@@ -10,6 +10,8 @@ URL: https://besttraveler.ge/ru/napravleniya/shri-lanka/
 
 2 туров
 
+Фото: [Xandrium](https://commons.wikimedia.org/w/index.php?curid=142180535), CC0
+
 ## Туры на Шри-Ланку
 
 Авиатур

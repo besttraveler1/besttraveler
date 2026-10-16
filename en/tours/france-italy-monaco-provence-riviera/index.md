@@ -8,11 +8,9 @@ URL: https://besttraveler.ge/en/tours/france-italy-monaco-provence-riviera/
 
 The tour starts in Lyon, crosses the French Alps to Turin, follows the Côte d'Azur from Sanremo and Monaco to Cannes, and ends in Provence.
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 4,500 GEL
-
+- France
+- Italy
+- Monaco
 - Lyon
 - Grenoble
 - Chambéry
@@ -24,6 +22,13 @@ The tour starts in Lyon, crosses the French Alps to Turin, follows the Côte d'A
 - Marseille
 - Avignon
 - Gordes
+
+Photo: [Pierre Blaché from Paris, France](https://commons.wikimedia.org/w/index.php?curid=149310634), CC0
+
+- Duration: 8 days
+- Dates: Dates on request
+- Departure: From Kutaisi airport
+- Price: 4,500 GEL
 
 ## Tour programme
 

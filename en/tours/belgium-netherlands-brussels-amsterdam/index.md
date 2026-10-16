@@ -8,11 +8,8 @@ URL: https://besttraveler.ge/en/tours/belgium-netherlands-brussels-amsterdam/
 
 A group tour of Belgium and the Netherlands: Brussels, Amsterdam and Dutch villages, the Keukenhof flower park, The Hague and Belgium's medieval towns.
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 4,300 GEL
-
+- Belgium
+- Netherlands
 - Brussels
 - Baarle-Nassau
 - Amsterdam
@@ -23,6 +20,13 @@ A group tour of Belgium and the Netherlands: Brussels, Amsterdam and Dutch villa
 - The Hague
 - Ghent
 - Bruges
+
+Photo: [Gouwenaar](https://commons.wikimedia.org/w/index.php?curid=29330844), CC0
+
+- Duration: 8 days
+- Dates: Dates on request
+- Departure: From Kutaisi airport
+- Price: 4,300 GEL
 
 ## Tour programme
 

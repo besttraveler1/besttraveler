@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/en/tours/egypt-nile-cruise-luxor-aswan-hurghada/
 
 An 8-day tour of Egypt with a Georgian-speaking tour leader from Tbilisi. It includes St Anthony's Monastery, 4 nights on a 5-star Nile cruise ship, the temples of Luxor and Aswan, and El Gouna.
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Tbilisi airport
-- Price: 4,500 GEL
-
+- Egypt
 - Hurghada
 - Luxor
 - Edfu
@@ -20,6 +16,13 @@ An 8-day tour of Egypt with a Georgian-speaking tour leader from Tbilisi. It inc
 - Aswan
 - Abu Simbel
 - El Gouna
+
+Photo: [Warren LeMay from Cullowhee, NC, United States](https://commons.wikimedia.org/w/index.php?curid=83168414), CC0
+
+- Duration: 8 days
+- Dates: Dates on request
+- Departure: From Tbilisi airport
+- Price: 4,500 GEL
 
 ## Tour programme
 

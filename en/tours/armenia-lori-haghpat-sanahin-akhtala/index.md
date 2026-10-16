@@ -8,17 +8,18 @@ URL: https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-akhtala/
 
 A one-day tour to the Lori region of Armenia with medieval Georgian and Armenian monasteries. A passport or ID card is needed to cross the border.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 07:00
-- Price: 90 GEL
-
+- Armenia
 - Akhtala
 - Haghpat
 - Sanahin
 - Odzun
 - Kobayr
 - Alaverdi
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 07:00
+- Price: 90 GEL
 
 ## Tour programme
 

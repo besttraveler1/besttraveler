@@ -8,17 +8,18 @@ URL: https://besttraveler.ge/en/tours/dzama-gorge-day-tour/
 
 A different one-day tour to the Dzama Gorge. We go up to Bateti Lake and Kvemo Shuano by Delica vehicles.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 08:00
-- Price: 60 GEL
-
+- Georgia
 - Samtsevrisi
 - Ortubani
 - Sarkineti
 - Bateti Lake
 - Shuano
 - Gorijvari
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 08:00
+- Price: 60 GEL
 
 ## Tour programme
 

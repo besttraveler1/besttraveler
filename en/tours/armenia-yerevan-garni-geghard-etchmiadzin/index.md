@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/en/tours/armenia-yerevan-garni-geghard-etchmiadzin/
 
 A different three-day tour to Yerevan, via Dilijan and Lake Sevan. On the second and third days we see Yerevan and its surroundings.
 
-- Duration: 3 days
-- Dates: Dates on request
-- Departure: From Tbilisi, 06:00
-- Price: 450 GEL
-
+- Armenia
 - Dilijan
 - Sevan
 - Yerevan
@@ -20,6 +16,13 @@ A different three-day tour to Yerevan, via Dilijan and Lake Sevan. On the second
 - Garni
 - Geghard
 - Etchmiadzin
+
+Photo: [Marion&Christoph Aistleitner](https://commons.wikimedia.org/w/index.php?curid=44367471), CC0
+
+- Duration: 3 days
+- Dates: Dates on request
+- Departure: From Tbilisi, 06:00
+- Price: 450 GEL
 
 ## Tour programme
 

@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/ru/tury/armenia-yerevan-garni-geghard-etchmiadzin/
 
 Необычный трёхдневный тур в Ереван через Дилижан и Севан. Во второй и третий день осматриваем Ереван и окрестности.
 
-- Длительность: 3 дня
-- Даты: Даты по запросу
-- Выезд: Из Тбилиси, 06:00
-- Цена: 450 лари
-
+- Армения
 - Дилижан
 - Севан
 - Ереван
@@ -20,6 +16,13 @@ URL: https://besttraveler.ge/ru/tury/armenia-yerevan-garni-geghard-etchmiadzin/
 - Гарни
 - Гегард
 - Эчмиадзин
+
+Фото: [Marion&Christoph Aistleitner](https://commons.wikimedia.org/w/index.php?curid=44367471), CC0
+
+- Длительность: 3 дня
+- Даты: Даты по запросу
+- Выезд: Из Тбилиси, 06:00
+- Цена: 450 лари
 
 ## Программа тура
 

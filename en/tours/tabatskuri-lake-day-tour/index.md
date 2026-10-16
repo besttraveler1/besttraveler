@@ -8,14 +8,15 @@ URL: https://besttraveler.ge/en/tours/tabatskuri-lake-day-tour/
 
 Tabatskuri is one of the most distinctive lakes in Georgia. On the way we cross the Tskhratskaro Pass (2462 m) and have free time at the lake.
 
+- Georgia
+- Tskhratskaro
+- Tabatskuri
+- Timotesubani
+
 - Duration: 1 day
 - Dates: Dates on request
 - Departure: From Tbilisi, 06:00
 - Price: 70 GEL
-
-- Tskhratskaro
-- Tabatskuri
-- Timotesubani
 
 ## Tour programme
 

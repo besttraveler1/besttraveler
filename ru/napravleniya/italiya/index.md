@@ -10,6 +10,8 @@ URL: https://besttraveler.ge/ru/napravleniya/italiya/
 
 10 туров
 
+Фото: [Michal Kmeť mitko](https://commons.wikimedia.org/w/index.php?curid=62292487), CC0
+
 ## Туры в Италию
 
 Авиатур

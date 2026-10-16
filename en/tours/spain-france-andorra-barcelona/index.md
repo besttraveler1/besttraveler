@@ -8,11 +8,9 @@ URL: https://besttraveler.ge/en/tours/spain-france-andorra-barcelona/
 
 The tour starts in Barcelona, crosses Andorra into southern France — Toulouse, Albi, Carcassonne — and returns to Catalonia for the last days in Barcelona.
 
-- Duration: 10 days
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 4,700 GEL
-
+- Spain
+- France
+- Andorra
 - Barcelona
 - Montserrat
 - Vic
@@ -25,6 +23,13 @@ The tour starts in Barcelona, crosses Andorra into southern France — Toulouse,
 - Carcassonne
 - Girona
 - Barcelona
+
+Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605798), CC0
+
+- Duration: 10 days
+- Dates: Dates on request
+- Departure: From Kutaisi airport
+- Price: 4,700 GEL
 
 ## Tour programme
 

@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/en/tours/italy-sicily-palermo-catania/
 
 The tour starts with a flight from Yerevan to Italy, follows the coast of southern Italy and crosses to Sicily by ferry. On the island we visit Palermo, Monreale, Agrigento, the baroque towns and Catania.
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Yerevan airport
-- Price: 5,700 GEL
-
+- Italy
 - Naples
 - Salerno
 - Paola
@@ -25,6 +21,13 @@ The tour starts with a flight from Yerevan to Italy, follows the coast of southe
 - Modica
 - Noto
 - Catania
+
+Photo: [Erik Albers](https://commons.wikimedia.org/w/index.php?curid=63496829), CC0
+
+- Duration: 8 days
+- Dates: Dates on request
+- Departure: From Yerevan airport
+- Price: 5,700 GEL
 
 ## Tour programme
 

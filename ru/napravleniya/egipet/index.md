@@ -10,6 +10,8 @@ URL: https://besttraveler.ge/ru/napravleniya/egipet/
 
 6 туров
 
+Фото: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605814), CC0
+
 ## Туры в Египет
 
 Авиатур

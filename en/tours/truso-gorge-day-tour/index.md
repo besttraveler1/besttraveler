@@ -8,15 +8,18 @@ URL: https://besttraveler.ge/en/tours/truso-gorge-day-tour/
 
 A one-day tour to the Truso Gorge. The walk is 6–7 km one way and easy.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 07:00
-- Price: 60 GEL
-
+- Georgia
 - Truso Gorge
 - Ketrisi
 - Abano
 - Zakagori
+
+Photo: [Sandromedia123](https://commons.wikimedia.org/w/index.php?curid=188463566), CC0
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 07:00
+- Price: 60 GEL
 
 ## Tour programme
 

@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/en/tours/france-alsace-strasbourg-colmar-paris/
 
 Alsace is one of the most beautiful and photogenic regions of France, where every village looks like it came from an old fairy tale. The tour ends with Paris and Versailles.
 
-- Duration: 8 days / 7 nights
-- Next departure: 19–26 Nov 2026
-- Departure: From Kutaisi airport
-- Price: 4,200 GEL
-
+- France
 - Beauvais
 - Reims
 - Metz
@@ -23,6 +19,13 @@ Alsace is one of the most beautiful and photogenic regions of France, where ever
 - Colmar
 - Paris
 - Versailles
+
+Photo: [burobox](https://commons.wikimedia.org/w/index.php?curid=71070802), CC0
+
+- Duration: 8 days / 7 nights
+- Next departure: 19–26 Nov 2026
+- Departure: From Kutaisi airport
+- Price: 4,200 GEL
 
 ## Tour programme
 

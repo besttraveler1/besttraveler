@@ -8,15 +8,18 @@ URL: https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi/
 
 A one-day minibus tour to Kakheti: Nekresi, Ilia Lake, Gremi and Telavi.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 08:00
-- Price: 60 GEL
-
+- Georgia
 - Nekresi
 - Ilia Lake
 - Gremi
 - Telavi
+
+Photo: [Image by falco from Pixabay](https://commons.wikimedia.org/w/index.php?curid=105976367), CC0
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 08:00
+- Price: 60 GEL
 
 ## Tour programme
 

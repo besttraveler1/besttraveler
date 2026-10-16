@@ -8,14 +8,17 @@ URL: https://besttraveler.ge/en/tours/vilnius-lithuania-trakai/
 
 A tour to Vilnius, the capital of Lithuania, whose old town is a UNESCO World Heritage Site, with a trip to Trakai.
 
+- Lithuania
+- Vilnius
+- Trakai
+- Vilnius
+
+Photo: [Mojmir Churavy](https://commons.wikimedia.org/w/index.php?curid=182167219), CC0
+
 - Duration: 5 days / 4 nights
 - Dates: Dates on request
 - Departure: From Kutaisi airport
 - Price: 1,500 GEL
-
-- Vilnius
-- Trakai
-- Vilnius
 
 ## Tour programme
 

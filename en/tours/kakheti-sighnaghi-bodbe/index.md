@@ -8,15 +8,18 @@ URL: https://besttraveler.ge/en/tours/kakheti-sighnaghi-bodbe/
 
 A one-day tour to Kakheti: Ninotsminda, Manavi Fortress, the Bodbe Convent of St Nino and Sighnaghi.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 08:00
-- Price: 60 GEL
-
+- Georgia
 - Ninotsminda
 - Manavi
 - Bodbe
 - Sighnaghi
+
+Photo: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=152285140), CC0
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 08:00
+- Price: 60 GEL
 
 ## Tour programme
 

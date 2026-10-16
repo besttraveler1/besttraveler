@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/en/tours/bari-puglia-matera-italy/
 
 A New Year group tour to Bari and the surrounding area in southern Italy. We travel together to Yerevan and fly from there to Bari.
 
-- Duration: 5 days
-- Next departure: 2–6 Nov 2026
-- Departure: From Yerevan airport
-- Price: 2,600 GEL
-
+- Italy
 - Yerevan
 - Bari
 - Monopoli
@@ -21,6 +17,13 @@ A New Year group tour to Bari and the surrounding area in southern Italy. We tra
 - Locorotondo
 - Matera
 - Altamura
+
+Photo: [Pizzaemandolino](https://commons.wikimedia.org/w/index.php?curid=18728801), CC0
+
+- Duration: 5 days
+- Next departure: 2–6 Nov 2026
+- Departure: From Yerevan airport
+- Price: 2,600 GEL
 
 ## Tour programme
 

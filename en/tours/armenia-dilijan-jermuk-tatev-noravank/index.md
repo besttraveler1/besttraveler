@@ -8,17 +8,20 @@ URL: https://besttraveler.ge/en/tours/armenia-dilijan-jermuk-tatev-noravank/
 
 A three-day minibus tour to Armenia with two nights in the town of Vayk. A passport or ID card is needed to cross the border.
 
-- Duration: 3 days / 2 nights
-- Dates: Dates on request
-- Departure: From Tbilisi, 06:00
-- Price: 480 GEL
-
+- Armenia
 - Dilijan
 - Sevan
 - Vayk
 - Jermuk
 - Tatev
 - Noravank
+
+Photo: [Камалян001](https://commons.wikimedia.org/w/index.php?curid=23397694), CC0
+
+- Duration: 3 days / 2 nights
+- Dates: Dates on request
+- Departure: From Tbilisi, 06:00
+- Price: 480 GEL
 
 ## Tour programme
 

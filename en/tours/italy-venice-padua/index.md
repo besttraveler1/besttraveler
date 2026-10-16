@@ -8,15 +8,18 @@ URL: https://besttraveler.ge/en/tours/italy-venice-padua/
 
 A short group tour of northern Italy: a day in Padua, then Venice and the islands of Murano and Burano.
 
-- Duration: 5 days / 4 nights
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 1,500 GEL
-
+- Italy
 - Venice
 - Padua
 - Murano
 - Burano
+
+Photo: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=151283980), CC0
+
+- Duration: 5 days / 4 nights
+- Dates: Dates on request
+- Departure: From Kutaisi airport
+- Price: 1,500 GEL
 
 ## Tour programme
 

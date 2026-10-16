@@ -8,11 +8,8 @@ URL: https://besttraveler.ge/en/tours/malta-valletta-via-rome/
 
 Flights from Kutaisi to Rome and on to Malta. On the island we visit seaside villages, Valletta, Mdina and Rabat, and the last night is spent in Fiumicino.
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 4,100 GEL
-
+- Malta
+- Italy
 - Rome
 - Marsaxlokk
 - Marsaskala
@@ -21,6 +18,13 @@ Flights from Kutaisi to Rome and on to Malta. On the island we visit seaside vil
 - Valletta
 - Mdina
 - Rabat
+
+Photo: [Edelmauswaldgeist](https://commons.wikimedia.org/w/index.php?curid=176989446), CC0
+
+- Duration: 8 days
+- Dates: Dates on request
+- Departure: From Kutaisi airport
+- Price: 4,100 GEL
 
 ## Tour programme
 

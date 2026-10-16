@@ -8,13 +8,16 @@ URL: https://besttraveler.ge/en/tours/italy-rome/
 
 The whole tour is spent in Rome. Each day covers a different part of the city, from the Vatican and ancient Rome to villas, gardens and museums.
 
+- Italy
+- Rome
+- Vatican
+
+Photo: [Julian Lupyan](https://commons.wikimedia.org/w/index.php?curid=175885773), CC0
+
 - Duration: 8 days
 - Dates: Dates on request
 - Departure: From Kutaisi airport
 - Price: 2,300 GEL
-
-- Rome
-- Vatican
 
 ## Tour programme
 

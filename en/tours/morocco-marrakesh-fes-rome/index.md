@@ -8,11 +8,8 @@ URL: https://besttraveler.ge/en/tours/morocco-marrakesh-fes-rome/
 
 A group tour of Morocco with a stop in Rome. In Morocco a licensed Russian-speaking guide is with the group, and hotels include breakfast and dinner.
 
-- Duration: 10 days / 9 nights
-- Next departure: 13–22 Nov 2026
-- Departure: From Kutaisi airport
-- Price: 2,200 EUR
-
+- Morocco
+- Italy
 - Rome
 - Marrakesh
 - Ait Ben Haddou
@@ -24,6 +21,13 @@ A group tour of Morocco with a stop in Rome. In Morocco a licensed Russian-speak
 - Fes
 - Casablanca
 - Rome
+
+Photo: [Jonny_Joka](https://commons.wikimedia.org/w/index.php?curid=73403558), CC0
+
+- Duration: 10 days / 9 nights
+- Next departure: 13–22 Nov 2026
+- Departure: From Kutaisi airport
+- Price: 2,200 EUR
 
 ## Tour programme
 

@@ -10,6 +10,8 @@ Group tours to Egypt from Tbilisi: Cairo and the Giza pyramids, Luxor, Aswan, Ni
 
 6 tours
 
+Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605814), CC0
+
 ## Tours to Egypt
 
 By plane

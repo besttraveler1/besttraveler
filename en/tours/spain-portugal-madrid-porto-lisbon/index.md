@@ -8,11 +8,8 @@ URL: https://besttraveler.ge/en/tours/spain-portugal-madrid-porto-lisbon/
 
 A group tour of Spain and Portugal, travelling by car the whole way. The tour starts and ends in Madrid.
 
-- Duration: 8 days / 7 nights
-- Next departure: 3–10 Nov 2026
-- Departure: From Kutaisi airport
-- Price: 4,500 GEL
-
+- Spain
+- Portugal
 - Madrid
 - Segovia
 - Coca
@@ -24,6 +21,13 @@ A group tour of Spain and Portugal, travelling by car the whole way. The tour st
 - Lisbon
 - Cáceres
 - Toledo
+
+Photo: [Terry Kearney from liverpool, merseyside](https://commons.wikimedia.org/w/index.php?curid=78756732), CC0
+
+- Duration: 8 days / 7 nights
+- Next departure: 3–10 Nov 2026
+- Departure: From Kutaisi airport
+- Price: 4,500 GEL
 
 ## Tour programme
 

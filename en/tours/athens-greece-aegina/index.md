@@ -8,14 +8,17 @@ URL: https://besttraveler.ge/en/tours/athens-greece-aegina/
 
 A group tour to Athens, Greece. We see the old town and the Acropolis, and spend one day on the island of Aegina.
 
+- Greece
+- Athens
+- Aegina
+- Athens
+
+Photo: [George E. Koronaios](https://commons.wikimedia.org/w/index.php?curid=94459156), CC0
+
 - Duration: 4 days / 3 nights
 - Next departure: 1–4 Nov 2026
 - Departure: From Kutaisi airport
 - Price: 1,200 GEL
-
-- Athens
-- Aegina
-- Athens
 
 ## Tour programme
 

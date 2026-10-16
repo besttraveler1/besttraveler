@@ -8,11 +8,8 @@ URL: https://besttraveler.ge/en/tours/south-spain-andalusia-gibraltar/
 
 A group tour of southern Spain (Andalusia) and Gibraltar (UK). Flights with Turkish Airlines via Istanbul.
 
-- Duration: 8 days / 7 nights
-- Next departure: 27 Jan – 3 Feb 2027
-- Departure: From Tbilisi airport
-- Price: 4,800 GEL
-
+- Spain
+- Gibraltar
 - Málaga
 - Marbella
 - Gibraltar
@@ -27,6 +24,13 @@ A group tour of southern Spain (Andalusia) and Gibraltar (UK). Flights with Turk
 - Granada
 - Antequera
 - Málaga
+
+Photo: [Daderot](https://commons.wikimedia.org/w/index.php?curid=42883558), CC0
+
+- Duration: 8 days / 7 nights
+- Next departure: 27 Jan – 3 Feb 2027
+- Departure: From Tbilisi airport
+- Price: 4,800 GEL
 
 ## Tour programme
 

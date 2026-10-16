@@ -10,6 +10,8 @@ One-day tours from Tbilisi by minibus: Kakheti, Kazbegi, Truso, David Gareja, Ja
 
 17 tours
 
+Photo: [Maesi64](https://commons.wikimedia.org/w/index.php?curid=51777900), CC0
+
 ## Day tours in Georgia
 
 Day tour

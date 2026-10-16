@@ -8,14 +8,17 @@ URL: https://besttraveler.ge/en/tours/italy-venice-carnival-2027/
 
 Spend a few days at the Venice Carnival. Two groups: 23–26 January and 6–9 February 2027.
 
+- Italy
+- Venice
+- Murano
+- Burano
+
+Photo: [matthaeus matthaeus123](https://commons.wikimedia.org/w/index.php?curid=61857215), CC0
+
 - Duration: 4 days
 - Next departure: 23–26 Jan 2027
 - Departure: From Kutaisi airport
 - Price: 1,500 GEL
-
-- Venice
-- Murano
-- Burano
 
 ## Tour programme
 

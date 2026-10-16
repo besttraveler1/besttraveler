@@ -8,13 +8,16 @@ URL: https://besttraveler.ge/en/tours/david-gareja-sabereebi/
 
 The Sabereebi complex dates from the 9th–10th centuries. The rock-cut monastery covers a large area and survives as groups of caves set next to each other.
 
+- Georgia
+- David Gareja
+- Sabereebi
+
+Photo: [Orlova Maria orlovamaria](https://commons.wikimedia.org/w/index.php?curid=61868303), CC0
+
 - Duration: 1 day
 - Dates: Dates on request
 - Departure: From Tbilisi, 08:00
 - Price: 60 GEL
-
-- David Gareja
-- Sabereebi
 
 ## Tour programme
 

@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/en/tours/italy-tuscany-elba-san-marino/
 
 The tour starts in Rome and travels by car through towns of Lazio, Tuscany and Umbria, with Elba island and the Republic of San Marino. Each night is spent in a different town.
 
-- Duration: 10 days / 9 nights
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 4,000 GEL
-
+- Italy
 - Rome
 - Anguillara Sabazia
 - Bracciano
@@ -25,6 +21,13 @@ The tour starts in Rome and travels by car through towns of Lazio, Tuscany and U
 - Arezzo
 - San Marino
 - Perugia
+
+Photo: [Lucía García González](https://commons.wikimedia.org/w/index.php?curid=61343896), CC0
+
+- Duration: 10 days / 9 nights
+- Dates: Dates on request
+- Departure: From Kutaisi airport
+- Price: 4,000 GEL
 
 ## Tour programme
 

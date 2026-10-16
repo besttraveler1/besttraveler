@@ -8,10 +8,11 @@ URL: https://besttraveler.ge/en/tours/five-countries-alps-switzerland-france-ger
 
 A group tour by car through France, Switzerland, Liechtenstein, Austria and Germany. The tour starts and ends in Lyon.
 
-- Duration: 8 days / 7 nights
-- Dates: Dates on request
-- Price: 4,500 GEL
-
+- Switzerland
+- France
+- Germany
+- Austria
+- Liechtenstein
 - Lyon
 - Annecy
 - Yvoire
@@ -28,6 +29,12 @@ A group tour by car through France, Switzerland, Liechtenstein, Austria and Germ
 - Bern
 - Geneva
 - Lyon
+
+Photo: [cameralends](https://commons.wikimedia.org/w/index.php?curid=46307855), CC0
+
+- Duration: 8 days / 7 nights
+- Dates: Dates on request
+- Price: 4,500 GEL
 
 ## Tour programme
 

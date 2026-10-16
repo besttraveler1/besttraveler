@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia/
 
 The tour starts in Barcelona and loops around Spain by car: Tarragona and Zaragoza, Toledo and Córdoba, the towns of Andalusia, then Valencia and Montserrat.
 
-- Duration: 10 days
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 4,500 GEL
-
+- Spain
 - Barcelona
 - Tarragona
 - Zaragoza
@@ -26,6 +22,13 @@ The tour starts in Barcelona and loops around Spain by car: Tarragona and Zarago
 - Valencia
 - Peñíscola
 - Montserrat
+
+Photo: [NeusCGarcia](https://commons.wikimedia.org/w/index.php?curid=141175999), CC0
+
+- Duration: 10 days
+- Dates: Dates on request
+- Departure: From Kutaisi airport
+- Price: 4,500 GEL
 
 ## Tour programme
 

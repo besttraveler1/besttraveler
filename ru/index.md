@@ -18,6 +18,8 @@ URL: https://besttraveler.ge/ru/
 - 19однодневных туров
 - от 60 ₾однодневные туры
 
+Фото: [Sandromedia123](https://commons.wikimedia.org/w/index.php?curid=188463565), CC0
+
 ## Выберите тип тура
 
 [34 туров 

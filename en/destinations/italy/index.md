@@ -10,6 +10,8 @@ Group tours to Italy: Rome, Venice, Tuscany, Sicily, the Amalfi Coast and southe
 
 10 tours
 
+Photo: [Michal Kmeť mitko](https://commons.wikimedia.org/w/index.php?curid=62292487), CC0
+
 ## Tours to Italy
 
 By plane

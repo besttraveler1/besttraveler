@@ -8,10 +8,11 @@ URL: https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germ
 
 Групповой тур на машине по Франции, Швейцарии, Лихтенштейну, Австрии и Германии. Тур начинается и заканчивается в Лионе.
 
-- Длительность: 8 дней / 7 ночей
-- Даты: Даты по запросу
-- Цена: 4 500 лари
-
+- Швейцария
+- Франция
+- Германия
+- Австрия
+- Лихтенштейн
 - Лион
 - Анси
 - Ивуар
@@ -28,6 +29,12 @@ URL: https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germ
 - Берн
 - Женева
 - Лион
+
+Фото: [cameralends](https://commons.wikimedia.org/w/index.php?curid=46307855), CC0
+
+- Длительность: 8 дней / 7 ночей
+- Даты: Даты по запросу
+- Цена: 4 500 лари
 
 ## Программа тура
 

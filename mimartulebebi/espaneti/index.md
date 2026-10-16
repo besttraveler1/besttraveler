@@ -10,6 +10,8 @@ URL: https://besttraveler.ge/mimartulebebi/espaneti/
 
 4 ტური
 
+ფოტო: [Jebulon](https://commons.wikimedia.org/w/index.php?curid=52005558), CC0
+
 ## ტურები ესპანეთში
 
 ავიატური

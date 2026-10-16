@@ -8,15 +8,18 @@ URL: https://besttraveler.ge/en/tours/kazbegi-gveleti-gergeti-day-tour/
 
 A one-day tour to Kazbegi. The walk to the big Gveleti waterfall is 1.2 km one way (medium), and to the small one 500 m.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 07:00
-- Price: 60 GEL
-
+- Georgia
 - Dariali
 - Gveleti
 - Gergeti
 - Gudauri
+
+Photo: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=149966635), CC0
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 07:00
+- Price: 60 GEL
 
 ## Tour programme
 

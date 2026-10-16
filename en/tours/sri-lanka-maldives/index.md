@@ -8,11 +8,8 @@ URL: https://besttraveler.ge/en/tours/sri-lanka-maldives/
 
 A group tour: 7 days / 6 nights in Sri Lanka and 3 days / 3 nights in the Maldives.
 
-- Duration: 11 days
-- Next departure: 9–19 Jan 2027
-- Departure: From Tbilisi airport
-- Price: 8,500 GEL
-
+- Sri Lanka
+- Maldives
 - Sigiriya
 - Kandy
 - Nuwara Eliya
@@ -22,6 +19,13 @@ A group tour: 7 days / 6 nights in Sri Lanka and 3 days / 3 nights in the Maldiv
 - Galle
 - Colombo
 - Maldives
+
+Photo: [Ishan @seefromthesky seefromthesky](https://commons.wikimedia.org/w/index.php?curid=61892141), CC0
+
+- Duration: 11 days
+- Next departure: 9–19 Jan 2027
+- Departure: From Tbilisi airport
+- Price: 8,500 GEL
 
 ## Tour programme
 

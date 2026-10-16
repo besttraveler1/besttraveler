@@ -8,16 +8,17 @@ URL: https://besttraveler.ge/en/tours/kvemo-kartli-tserakvi-gagi-tamarisi/
 
 A one-day minibus tour from Tbilisi to the Kvemo Kartli region. We visit old monasteries, Gagi Fortress and the Tamarisi lakes.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 07:00
-- Price: 60 GEL
-
+- Georgia
 - Tserakvi
 - Gagi Fortress
 - Tamarisi Lakes
 - Queen Ketevan Convent
 - Shavnabada
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 07:00
+- Price: 60 GEL
 
 ## Tour programme
 

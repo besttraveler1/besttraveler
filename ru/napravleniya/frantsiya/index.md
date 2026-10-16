@@ -10,6 +10,8 @@ URL: https://besttraveler.ge/ru/napravleniya/frantsiya/
 
 5 туров
 
+Фото: [DimiTalen](https://commons.wikimedia.org/w/index.php?curid=151554370), CC0
+
 ## Туры во Францию
 
 Авиатур

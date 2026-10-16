@@ -10,6 +10,8 @@ Group tours to Greece: Athens and the Acropolis, Aegina island, Thessaloniki and
 
 2 tours
 
+Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147606246), CC0
+
 ## Tours to Greece
 
 By plane

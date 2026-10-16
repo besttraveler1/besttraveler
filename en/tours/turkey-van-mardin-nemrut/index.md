@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/en/tours/turkey-van-mardin-nemrut/
 
 A 7-day minibus tour of Turkey with a Georgian-speaking guide: Kars, Van, Mardin, Adiyaman and Bingol.
 
-- Duration: 7 days / 6 nights
-- Dates: Dates on request
-- Departure: From Tbilisi, 07:00
-- Price: 1,450 GEL
-
+- Turkey
 - Kars
 - Ani
 - Van
@@ -22,6 +18,13 @@ A 7-day minibus tour of Turkey with a Georgian-speaking guide: Kars, Van, Mardin
 - Adiyaman
 - Mount Nemrut
 - Bingol
+
+Photo: [Hamdigumus](https://commons.wikimedia.org/w/index.php?curid=151677849), CC0
+
+- Duration: 7 days / 6 nights
+- Dates: Dates on request
+- Departure: From Tbilisi, 07:00
+- Price: 1,450 GEL
 
 ## Tour programme
 

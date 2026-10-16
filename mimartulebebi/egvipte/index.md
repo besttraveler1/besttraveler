@@ -10,6 +10,8 @@ URL: https://besttraveler.ge/mimartulebebi/egvipte/
 
 6 ტური
 
+ფოტო: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605814), CC0
+
 ## ტურები ეგვიპტეში
 
 ავიატური

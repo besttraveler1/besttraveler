@@ -8,14 +8,17 @@ URL: https://besttraveler.ge/en/tours/turkey-istanbul-7-days/
 
 A 7-day tour of Istanbul with flights from Tbilisi or Batumi. The programme covers Istanbul's main sights, a cruise to the Princes' Islands and a trip to Sile.
 
+- Turkey
+- Istanbul
+- Princes' Islands
+- Sile
+
+Photo: [Hunanuk](https://commons.wikimedia.org/w/index.php?curid=141472475), CC0
+
 - Duration: 7 days
 - Dates: Dates on request
 - Departure: From Tbilisi airport
 - Price: 3,600 GEL
-
-- Istanbul
-- Princes' Islands
-- Sile
 
 ## Tour programme
 

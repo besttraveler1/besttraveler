@@ -8,16 +8,17 @@ URL: https://besttraveler.ge/en/tours/javakheti-lakes-paravani-poka/
 
 A one-day tour to the lakes of Javakheti, including Paravani, the largest lake in Georgia.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 07:00
-- Price: 60 GEL
-
+- Georgia
 - Paravani
 - Poka
 - Saghamo
 - Gorelovka
 - Madatapa
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 07:00
+- Price: 60 GEL
 
 ## Tour programme
 

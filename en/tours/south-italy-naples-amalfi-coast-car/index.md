@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/en/tours/south-italy-naples-amalfi-coast-car/
 
 A different kind of Italy tour, by car through the south: the area around Rome, Naples, the islands and the Amalfi Coast.
 
-- Duration: 10 days / 9 nights
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 4,100 GEL
-
+- Italy
 - Rome
 - Castel Gandolfo
 - Nemi
@@ -29,6 +25,13 @@ A different kind of Italy tour, by car through the south: the area around Rome, 
 - Amalfi
 - Vietri sul Mare
 - Tivoli
+
+Photo: [Jan Tielens jtlns](https://commons.wikimedia.org/w/index.php?curid=62227499), CC0
+
+- Duration: 10 days / 9 nights
+- Dates: Dates on request
+- Departure: From Kutaisi airport
+- Price: 4,100 GEL
 
 ## Tour programme
 

@@ -8,14 +8,17 @@ URL: https://besttraveler.ge/en/tours/france-paris/
 
 A group tour of Paris with a flight from Kutaisi to Beauvais: the Palace of Versailles, the main museums, squares and boulevards, and a free last day.
 
+- France
+- Beauvais
+- Paris
+- Versailles
+
+Photo: [Pierre Blaché from Paris, France](https://commons.wikimedia.org/w/index.php?curid=83221516), CC0
+
 - Duration: 5 days
 - Dates: Dates on request
 - Departure: From Kutaisi airport
 - Price: 2,400 GEL
-
-- Beauvais
-- Paris
-- Versailles
 
 ## Tour programme
 

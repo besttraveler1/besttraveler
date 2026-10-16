@@ -8,11 +8,8 @@ URL: https://besttraveler.ge/en/tours/netherlands-germany-tulip-festival/
 
 The tour starts in Düsseldorf and covers Dutch castles and palaces, historic towns, windmills and the Keukenhof flower park.
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Tbilisi airport
-- Price: 4,100 GEL
-
+- Netherlands
+- Germany
 - Düsseldorf
 - Krefeld
 - Kleve
@@ -26,6 +23,13 @@ The tour starts in Düsseldorf and covers Dutch castles and palaces, historic to
 - Keukenhof
 - Utrecht
 - Nijmegen
+
+Photo: [Roy Tanck](https://wordpress.org/photos/photo/4766269971/), CC0
+
+- Duration: 8 days
+- Dates: Dates on request
+- Departure: From Tbilisi airport
+- Price: 4,100 GEL
 
 ## Tour programme
 

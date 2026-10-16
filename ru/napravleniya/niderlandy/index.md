@@ -10,6 +10,8 @@ URL: https://besttraveler.ge/ru/napravleniya/niderlandy/
 
 2 туров
 
+Фото: [DimiTalen](https://commons.wikimedia.org/w/index.php?curid=135598785), CC0
+
 ## Туры в Нидерланды
 
 Авиатур

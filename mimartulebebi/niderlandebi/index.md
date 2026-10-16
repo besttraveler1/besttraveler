@@ -10,6 +10,8 @@ URL: https://besttraveler.ge/mimartulebebi/niderlandebi/
 
 2 ტური
 
+ფოტო: [DimiTalen](https://commons.wikimedia.org/w/index.php?curid=135598785), CC0
+
 ## ტურები ნიდერლანდებში
 
 ავიატური

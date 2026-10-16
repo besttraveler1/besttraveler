@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/en/tours/sri-lanka-kandy-ella-mirissa/
 
 A 7-day / 6-night tour of Sri Lanka: Sigiriya, Kandy, Nuwara Eliya, Ella, Yala, Mirissa, Galle and Colombo. You can add 3 days in the Maldives if you wish.
 
-- Duration: 8 days / 6 nights
-- Next departure: 9–16 Jan 2027
-- Departure: From Tbilisi airport
-- Price: 4,500 GEL
-
+- Sri Lanka
 - Sigiriya
 - Kandy
 - Nuwara Eliya
@@ -21,6 +17,13 @@ A 7-day / 6-night tour of Sri Lanka: Sigiriya, Kandy, Nuwara Eliya, Ella, Yala, 
 - Mirissa
 - Galle
 - Colombo
+
+Photo: [Yourusernamewillbepublic2](https://commons.wikimedia.org/w/index.php?curid=164885452), CC0
+
+- Duration: 8 days / 6 nights
+- Next departure: 9–16 Jan 2027
+- Departure: From Tbilisi airport
+- Price: 4,500 GEL
 
 ## Tour programme
 

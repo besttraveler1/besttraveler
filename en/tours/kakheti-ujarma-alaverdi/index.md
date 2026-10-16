@@ -8,17 +8,20 @@ URL: https://besttraveler.ge/en/tours/kakheti-ujarma-alaverdi/
 
 A classic one-day tour to Kakheti over the Gombori Pass, visiting well-known Kakhetian monasteries.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 08:00
-- Price: 60 GEL
-
+- Georgia
 - Ujarma
 - Gombori
 - Shuamta
 - Ikalto
 - Tetri Giorgi
 - Alaverdi
+
+Photo: [Image by lenmic2 from Pixabay](https://commons.wikimedia.org/w/index.php?curid=105419561), CC0
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 08:00
+- Price: 60 GEL
 
 ## Tour programme
 

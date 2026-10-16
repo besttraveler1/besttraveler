@@ -8,16 +8,19 @@ URL: https://besttraveler.ge/en/tours/greece-thessaloniki-meteora-athens/
 
 The tour starts in Thessaloniki, continues to Kalambaka to see the Meteora monasteries and ends in Athens, with a boat trip to Aegina island.
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 2,100 GEL
-
+- Greece
 - Thessaloniki
 - Kalambaka
 - Meteora
 - Athens
 - Aegina
+
+Photo: [Steve Petty potshots](https://commons.wikimedia.org/w/index.php?curid=62280875), CC0
+
+- Duration: 8 days
+- Dates: Dates on request
+- Departure: From Kutaisi airport
+- Price: 2,100 GEL
 
 ## Tour programme
 

@@ -18,6 +18,8 @@ URL: https://besttraveler.ge/
 - 19ერთდღიანი ტური
 - 60 ₾-დანერთდღიანი ტურები
 
+ფოტო: [Sandromedia123](https://commons.wikimedia.org/w/index.php?curid=188463565), CC0
+
 ## აირჩიეთ ტურის ტიპი
 
 [34 ტური 

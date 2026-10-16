@@ -8,16 +8,19 @@ URL: https://besttraveler.ge/en/tours/egypt-hurghada-luxor-port-said-suez-canal/
 
 A 7-day stay in Hurghada with excursions: Port Said, Port Fuad and the Suez Canal, a day on Hula Hula island, Luxor and the monasteries of St Anthony and St Paul. You stay in a 4 or 5-star hotel with meals.
 
-- Duration: 7 days / 6 nights
-- Next departure: 9–15 Nov 2026
-- Departure: From Tbilisi airport
-- Price: 6,100 GEL
-
+- Egypt
 - Hurghada
 - Port Fuad
 - Port Said
 - Hula Hula
 - Luxor
+
+Photo: [reesorts.com](https://commons.wikimedia.org/w/index.php?curid=91890158), CC0
+
+- Duration: 7 days / 6 nights
+- Next departure: 9–15 Nov 2026
+- Departure: From Tbilisi airport
+- Price: 6,100 GEL
 
 ## Tour programme
 

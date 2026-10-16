@@ -10,6 +10,8 @@ URL: https://besttraveler.ge/ru/napravleniya/armeniya/
 
 4 туров
 
+Фото: [Marion&Christoph Aistleitner](https://commons.wikimedia.org/w/index.php?curid=44367539), CC0
+
 ## Туры в Армению
 
 На автобусе

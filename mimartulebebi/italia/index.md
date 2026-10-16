@@ -10,6 +10,8 @@ URL: https://besttraveler.ge/mimartulebebi/italia/
 
 10 ტური
 
+ფოტო: [Michal Kmeť mitko](https://commons.wikimedia.org/w/index.php?curid=62292487), CC0
+
 ## ტურები იტალიაში
 
 ავიატური

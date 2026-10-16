@@ -8,15 +8,18 @@ URL: https://besttraveler.ge/en/tours/samtskhe-javakheti-zarzma-akhaltsikhe-sapa
 
 Travel to mystical Meskheti with guide Giorgi Beridze-Berjavakhi. In one day we see Zarzma, Chule, Akhaltsikhe's Rabati and Sapara.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 07:00
-- Price: 60 GEL
-
+- Georgia
 - Zarzma
 - Chule
 - Akhaltsikhe
 - Sapara
+
+Photo: [יעקב](https://commons.wikimedia.org/w/index.php?curid=149268829), CC0
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 07:00
+- Price: 60 GEL
 
 ## Tour programme
 

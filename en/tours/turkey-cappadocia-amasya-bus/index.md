@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/en/tours/turkey-cappadocia-amasya-bus/
 
 A 6-day tour of Turkey by comfortable bus. We never travel overnight: every night is spent in a hotel.
 
-- Duration: 6 days
-- Next departure: 2–7 Nov 2026
-- Departure: From Tbilisi, 06:00
-- Price: 1,350 GEL
-
+- Turkey
 - Tbilisi
 - Amasya
 - Cappadocia
@@ -20,6 +16,13 @@ A 6-day tour of Turkey by comfortable bus. We never travel overnight: every nigh
 - Ordu
 - Trabzon
 - Tbilisi
+
+Photo: [Feridun F. Alkaya](https://commons.wikimedia.org/w/index.php?curid=91480044), CC0
+
+- Duration: 6 days
+- Next departure: 2–7 Nov 2026
+- Departure: From Tbilisi, 06:00
+- Price: 1,350 GEL
 
 ## Tour programme
 

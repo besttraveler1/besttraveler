@@ -8,15 +8,19 @@ URL: https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra/
 
 An 8-day tour: a stay in Sharm el-Sheikh at a first-line hotel with unlimited meals, a city tour and a day trip to Petra in Jordan. On the other days you can choose optional local excursions.
 
-- Duration: 8 days
-- Dates: Dates on request
-- Departure: From Tbilisi airport
-- Price: 3,700 GEL
-
+- Egypt
+- Jordan
 - Sharm el-Sheikh
 - Nuweiba
 - Aqaba
 - Petra
+
+Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605818), CC0
+
+- Duration: 8 days
+- Dates: Dates on request
+- Departure: From Tbilisi airport
+- Price: 3,700 GEL
 
 ## Tour programme
 

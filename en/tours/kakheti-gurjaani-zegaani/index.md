@@ -8,16 +8,17 @@ URL: https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani/
 
 A one-day tour to Kakheti: a medieval fortress and monasteries, the Nato Vachnadze house-museum and Ziari Lake.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 08:00
-- Price: 60 GEL
-
+- Georgia
 - Chailuri
 - Gurjaani
 - Ziari Lake
 - Zegaani
 - Sanagire
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 08:00
+- Price: 60 GEL
 
 ## Tour programme
 

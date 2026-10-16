@@ -10,6 +10,8 @@ Group tours to Spain: Barcelona, Andalusia, the Madrid region, and trips that ad
 
 4 tours
 
+Photo: [Jebulon](https://commons.wikimedia.org/w/index.php?curid=52005558), CC0
+
 ## Tours to Spain
 
 By plane

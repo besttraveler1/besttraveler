@@ -10,6 +10,8 @@ URL: https://besttraveler.ge/ru/napravleniya/gretsiya/
 
 2 туров
 
+Фото: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147606246), CC0
+
 ## Туры в Грецию
 
 Авиатур

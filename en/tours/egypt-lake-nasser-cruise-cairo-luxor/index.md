@@ -8,16 +8,19 @@ URL: https://besttraveler.ge/en/tours/egypt-lake-nasser-cruise-cairo-luxor/
 
 A group tour of Egypt with a Georgian-speaking tour leader from Tbilisi. It covers Cairo and the Giza pyramids, a 4-night Lake Nasser cruise on a 5-star ship, Abu Simbel and Luxor.
 
-- Duration: 11 days
-- Next departure: 14–24 Dec 2026
-- Departure: From Tbilisi airport
-- Price: 6,650 GEL
-
+- Egypt
 - Cairo
 - Aswan
 - Lake Nasser
 - Abu Simbel
 - Luxor
+
+Photo: [Warren LeMay from Cullowhee, NC, United States](https://commons.wikimedia.org/w/index.php?curid=83321532), CC0
+
+- Duration: 11 days
+- Next departure: 14–24 Dec 2026
+- Departure: From Tbilisi airport
+- Price: 6,650 GEL
 
 ## Tour programme
 

@@ -8,17 +8,20 @@ URL: https://besttraveler.ge/en/tours/kojori-manglisi-day-tour/
 
 A one-day minibus tour from Tbilisi to Kojori and Manglisi. The route ends at the Didgori battle memorial.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 08:00
-- Price: 60 GEL
-
+- Georgia
 - Koroghli Fortress
 - Udzo
 - Tsveri
 - Manglisi
 - Buratino Lake
 - Didgori
+
+Photo: [Unknown](https://commons.wikimedia.org/w/index.php?curid=81934884), CC0
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 08:00
+- Price: 60 GEL
 
 ## Tour programme
 

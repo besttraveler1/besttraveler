@@ -8,16 +8,19 @@ URL: https://besttraveler.ge/en/tours/turkey-kars-ani-van/
 
 A 3-day minibus tour of eastern Turkey. Your guide is Giorgi Beridze-Berjavakhi.
 
-- Duration: 3 days / 2 nights
-- Dates: Dates on request
-- Departure: From Tbilisi, 05:00
-- Price: 450 GEL
-
+- Turkey
 - Tbilisi
 - Kars
 - Ani
 - Van
 - Tbilisi
+
+Photo: [Varilci](https://commons.wikimedia.org/w/index.php?curid=172741136), CC0
+
+- Duration: 3 days / 2 nights
+- Dates: Dates on request
+- Departure: From Tbilisi, 05:00
+- Price: 450 GEL
 
 ## Tour programme
 

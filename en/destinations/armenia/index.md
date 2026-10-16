@@ -10,6 +10,8 @@ One-day and three-day tours to Armenia from Tbilisi by minibus: Dilijan, Lori, L
 
 4 tours
 
+Photo: [Marion&Christoph Aistleitner](https://commons.wikimedia.org/w/index.php?curid=44367539), CC0
+
 ## Tours to Armenia
 
 By bus

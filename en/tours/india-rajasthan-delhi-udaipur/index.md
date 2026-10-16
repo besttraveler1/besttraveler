@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/en/tours/india-rajasthan-delhi-udaipur/
 
 A 9-day / 8-night group tour of India: Delhi and the cities of Rajasthan, including Mandawa, Bikaner, Jaisalmer, Jodhpur, Ranakpur, Udaipur and Pushkar. Departure from Tbilisi on 25 October at 23:45.
 
-- Duration: 9 days / 8 nights
-- Next departure: 25 Oct 2026
-- Departure: From Tbilisi airport
-- Price: 4,800 GEL
-
+- India
 - Delhi
 - Mandawa
 - Bikaner
@@ -22,6 +18,13 @@ A 9-day / 8-night group tour of India: Delhi and the cities of Rajasthan, includ
 - Udaipur
 - Pushkar
 - Delhi
+
+Photo: [Dudva](https://commons.wikimedia.org/w/index.php?curid=177132884), CC0
+
+- Duration: 9 days / 8 nights
+- Next departure: 25 Oct 2026
+- Departure: From Tbilisi airport
+- Price: 4,800 GEL
 
 ## Tour programme
 

@@ -8,15 +8,18 @@ URL: https://besttraveler.ge/en/tours/gareja-colorful-desert-mravaltskaro/
 
 A one-day tour to the Gareja desert: monasteries, colorful mountains and views over the desert. The walking is easy, about 1 km in total.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 08:00
-- Price: 60 GEL
-
+- Georgia
 - Dodo's Rka
 - David Gareja
 - Colorful Mountains
 - Mravaltskaro
+
+Photo: [Orlova Maria orlovamaria](https://commons.wikimedia.org/w/index.php?curid=61868303), CC0
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 08:00
+- Price: 60 GEL
 
 ## Tour programme
 

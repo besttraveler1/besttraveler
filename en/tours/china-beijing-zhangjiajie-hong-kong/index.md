@@ -8,17 +8,20 @@ URL: https://besttraveler.ge/en/tours/china-beijing-zhangjiajie-hong-kong/
 
 A 13-day group tour of China: Beijing, Tianshui, Zhangjiajie, Leshan and Hong Kong. We travel between cities by high-speed train.
 
-- Duration: 13 days
-- Dates: Dates on request
-- Departure: From Tbilisi airport
-- Price: 3,500 USD
-
+- China
 - Beijing
 - Tianshui
 - Zhangjiajie
 - Leshan
 - Chengdu
 - Hong Kong
+
+Photo: [Nicolas Perrault III](https://commons.wikimedia.org/w/index.php?curid=11726877), CC0
+
+- Duration: 13 days
+- Dates: Dates on request
+- Departure: From Tbilisi airport
+- Price: 3,500 USD
 
 ## Tour programme
 

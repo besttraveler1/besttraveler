@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/en/tours/turkey-tao-klarjeti/
 
 A tour of historic Tao-Klarjeti (now in Turkey): Georgian monasteries, fortresses and the landscapes of Klarjeti. Departure from Tbilisi at 5 am, crossing the border at Vale.
 
-- Duration: By bus
-- Dates: Dates on request
-- Departure: From Tbilisi, 05:00
-- Price: 480 GEL
-
+- Turkey
 - Tbeti
 - Satle
 - Artanuji
@@ -24,6 +20,13 @@ A tour of historic Tao-Klarjeti (now in Turkey): Georgian monasteries, fortresse
 - Parkhali
 - Bana
 - Ardahan
+
+Photo: [sevdamujgan [1]](https://commons.wikimedia.org/w/index.php?curid=61679279), CC0
+
+- Duration: By bus
+- Dates: Dates on request
+- Departure: From Tbilisi, 05:00
+- Price: 480 GEL
 
 ## Tour programme
 

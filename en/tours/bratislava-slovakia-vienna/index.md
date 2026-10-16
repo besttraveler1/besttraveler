@@ -8,15 +8,19 @@ URL: https://besttraveler.ge/en/tours/bratislava-slovakia-vienna/
 
 A tour to Bratislava, the capital of Slovakia, with a day trip to Vienna and a visit to Bojnice Castle.
 
-- Duration: 6 days / 5 nights
-- Dates: Dates on request
-- Departure: From Kutaisi airport
-- Price: 1,700 GEL
-
+- Slovakia
+- Austria
 - Bratislava
 - Vienna
 - Bojnice
 - Bratislava
+
+Photo: [Pixabay](https://commons.wikimedia.org/w/index.php?curid=72064519), CC0
+
+- Duration: 6 days / 5 nights
+- Dates: Dates on request
+- Departure: From Kutaisi airport
+- Price: 1,700 GEL
 
 ## Tour programme
 

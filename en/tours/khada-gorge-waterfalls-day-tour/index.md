@@ -8,16 +8,17 @@ URL: https://besttraveler.ge/en/tours/khada-gorge-waterfalls-day-tour/
 
 A one-day tour to the Khada Gorge, starting at the confluence of the White and Black Aragvi. It includes an easy walk of 4.2 km one way.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 07:00
-- Price: 60 GEL
-
+- Georgia
 - Aragvi confluence
 - Khada Gorge
 - Vedza
 - Tskere
 - Rostiani
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 07:00
+- Price: 60 GEL
 
 ## Tour programme
 

@@ -8,13 +8,14 @@ URL: https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall/
 
 A one-day tour to Lagodekhi Reserve, up the Ninoskhevi gorge to the Gurgeniani waterfall. The trail is 8.3 km one way, medium, hard in places.
 
+- Georgia
+- Lagodekhi
+- Ninoskhevi
+
 - Duration: 1 day
 - Dates: Dates on request
 - Departure: From Tbilisi, 07:00
 - Price: 60 GEL
-
-- Lagodekhi
-- Ninoskhevi
 
 ## Tour programme
 

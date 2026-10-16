@@ -8,15 +8,16 @@ URL: https://besttraveler.ge/en/tours/tianeti-day-tour/
 
 A one-day tour to the Tianeti area: monasteries and churches, a bear shelter, Ertso fortress and Sioni Lake.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 08:00
-- Price: 60 GEL
-
+- Georgia
 - Mamkoda
 - Tskhvarichamia
 - Ertso
 - Sioni Lake
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 08:00
+- Price: 60 GEL
 
 ## Tour programme
 

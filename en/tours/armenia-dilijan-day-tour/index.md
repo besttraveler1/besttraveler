@@ -8,16 +8,19 @@ URL: https://besttraveler.ge/en/tours/armenia-dilijan-day-tour/
 
 A one-day tour to the Dilijan area of Armenia. A passport or ID card is needed to cross the border.
 
-- Duration: 1 day
-- Dates: Dates on request
-- Departure: From Tbilisi, 06:00
-- Price: 150 GEL
-
+- Armenia
 - Alaverdi
 - Dilijan
 - Haghartsin
 - Goshavank
 - Parz
+
+Photo: [Benoît Prieur](https://commons.wikimedia.org/w/index.php?curid=62585446), CC0
+
+- Duration: 1 day
+- Dates: Dates on request
+- Departure: From Tbilisi, 06:00
+- Price: 150 GEL
 
 ## Tour programme
 

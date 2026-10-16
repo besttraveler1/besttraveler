@@ -8,16 +8,19 @@ URL: https://besttraveler.ge/en/tours/egypt-nile-cruise-cairo-luxor-aswan-alexan
 
 A 9-day tour of Egypt with a Georgian-speaking tour leader from Tbilisi: 4 nights on a 5-star cruise ship from Luxor to Aswan, Abu Simbel, Cairo, Saqqara and Alexandria.
 
-- Duration: 9 days
-- Dates: Dates on request
-- Departure: From Tbilisi airport
-- Price: 6,550 GEL
-
+- Egypt
 - Luxor
 - Aswan
 - Abu Simbel
 - Cairo
 - Alexandria
+
+Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=178958053), CC0
+
+- Duration: 9 days
+- Dates: Dates on request
+- Departure: From Tbilisi airport
+- Price: 6,550 GEL
 
 ## Tour programme
 

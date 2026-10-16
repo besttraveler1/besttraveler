@@ -8,14 +8,17 @@ URL: https://besttraveler.ge/en/tours/egypt-cairo-alexandria/
 
 A 5-day group tour of Egypt with a Georgian-speaking tour leader from Tbilisi. You will see the Giza pyramids, the new Egyptian Museum, the Saqqara Necropolis and Alexandria.
 
+- Egypt
+- Cairo
+- Alexandria
+- Saqqara
+
+Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605971), CC0
+
 - Duration: 5 days / 4 nights
 - Next departure: 26–30 Nov 2026
 - Departure: From Tbilisi airport
 - Price: 2,500 GEL
-
-- Cairo
-- Alexandria
-- Saqqara
 
 ## Tour programme
 

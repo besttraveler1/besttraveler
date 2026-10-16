@@ -8,11 +8,7 @@ URL: https://besttraveler.ge/turebi/armenia-yerevan-garni-geghard-etchmiadzin/
 
 განსხვავებული სამდღიანი ტური ერევანში, გზად დილიჯანითა და სევანით. მეორე და მესამე დღეს ვნახავთ ერევანს და მის შემოგარენს.
 
-- ხანგრძლივობა: 3 დღე
-- თარიღები: თარიღები — მოთხოვნით
-- გასვლა: თბილისიდან, 06:00
-- ფასი: 450 ლარი
-
+- სომხეთი
 - დილიჯანი
 - სევანი
 - ერევანი
@@ -20,6 +16,13 @@ URL: https://besttraveler.ge/turebi/armenia-yerevan-garni-geghard-etchmiadzin/
 - გარნი
 - გეღარდი
 - ეჩმიაძინი
+
+ფოტო: [Marion&Christoph Aistleitner](https://commons.wikimedia.org/w/index.php?curid=44367471), CC0
+
+- ხანგრძლივობა: 3 დღე
+- თარიღები: თარიღები — მოთხოვნით
+- გასვლა: თბილისიდან, 06:00
+- ფასი: 450 ლარი
 
 ## ტურის პროგრამა
 

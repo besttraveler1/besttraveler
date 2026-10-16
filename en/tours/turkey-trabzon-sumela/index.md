@@ -8,15 +8,18 @@ URL: https://besttraveler.ge/en/tours/turkey-trabzon-sumela/
 
 A 3-day tour of Trabzon and its surroundings. Departure from Tbilisi (Didube) at 5 am.
 
-- Duration: 3 days
-- Dates: Dates on request
-- Departure: From Tbilisi, 05:00
-- Price: 470 GEL
-
+- Turkey
 - Trabzon
 - Duzkoy
 - Kayabasi
 - Sumela
+
+Photo: [Hamdigumus](https://commons.wikimedia.org/w/index.php?curid=151764689), CC0
+
+- Duration: 3 days
+- Dates: Dates on request
+- Departure: From Tbilisi, 05:00
+- Price: 470 GEL
 
 ## Tour programme
 
