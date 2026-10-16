@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/blogi/keukenhof-2027-tulip-season-netherlands/
 
 გამოქვეყნდა: 16 ოქტომბერი 20261 წთ საკითხავი
 
-ფოტო: [Roy Tanck](https://wordpress.org/photos/photo/4766269971/), CC0
+ფოტო: [Kent Wang](https://commons.wikimedia.org/wiki/File:Keukenhof_Garden1.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
 მოკლე პასუხიოფიციალური საიტის keukenhof.nl მიხედვით, კეუკენჰოფი 2027 წელს ღია იქნება 18 მარტიდან (ხუთშაბათი) 9 მაისამდე (კვირა), ყოველდღე 8:00-დან 19:00-მდე. ბოლო შესვლა 18:15-ზეა. ყვავილობა ამინდზეა დამოკიდებული, ამიტომ ზუსტად ვერავინ იტყვის, რომელი კვირა იქნება საუკეთესო.
 

@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/ru/blog/best-day-trips-from-tbilisi/
 
 Опубликовано: 16 октября 20262 мин чтения
 
-Фото: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=149966635), CC0
+Фото: [Bernard Gagnon](https://commons.wikimedia.org/wiki/File:Ananuri_Fortress_02.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 КороткоЕсли не хотите много ходить, выбирайте Кахетию, цветную пустыню или Казбеги. Любите походы — Трусо (6–7 км в одну сторону, легко) или Лагодехи (8,3 км в одну сторону, средней сложности). В горы лучше ехать в тёплые месяцы, а Кахетия и равнинные маршруты подходят почти на весь год.
 

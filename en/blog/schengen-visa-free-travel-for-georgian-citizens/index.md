@@ -10,7 +10,7 @@ Visas & borders
 
 Published: 16 Oct 20264 min read
 
-Photo: [Julian Lupyan](https://commons.wikimedia.org/w/index.php?curid=175885773), CC0
+Photo: [Sébastien Bertrand](https://commons.wikimedia.org/wiki/File:European_Commission_flags.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 Short answerGeorgian citizens with an ordinary biometric passport do not need a visa for short stays in the Schengen area: up to 90 days in any 180-day period. Since March 2026 the visa exemption has been suspended only for diplomatic, service and official passports. As of October 2026 ETIAS is not yet in operation and no start date has been announced.
 

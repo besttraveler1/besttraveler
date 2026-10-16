@@ -10,7 +10,7 @@ Guides
 
 Published: 16 Oct 20262 min read
 
-Photo: [Feridun F. Alkaya](https://commons.wikimedia.org/w/index.php?curid=91480044), CC0
+Photo: [Endersenkaya](https://commons.wikimedia.org/wiki/File:Flying_Over_Cappadocia_01.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Short answerAccording to GoTürkiye, Türkiye's official tourism portal, the best time for a balloon ride is spring or autumn, when the weather is milder and more settled. Flights start just before sunrise, depend on the weather and can be cancelled. On our tour the flight is optional and costs 200-250 EUR.
 

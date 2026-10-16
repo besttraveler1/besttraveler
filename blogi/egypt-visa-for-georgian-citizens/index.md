@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/blogi/egypt-visa-for-georgian-citizens/
 
 გამოქვეყნდა: 16 ოქტომბერი 20262 წთ საკითხავი
 
-ფოტო: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605971), CC0
+ფოტო: [Marc Ryckaert](https://commons.wikimedia.org/wiki/File:Luxor_Temple_R04.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 მოკლე პასუხიდიახ, საქართველოს მოქალაქეს ეგვიპტეში შესასვლელად ვიზა სჭირდება. ეგვიპტის ელექტრონული ვიზის ოფიციალურ პორტალზე საქართველო იმ ქვეყნებს შორისაა, რომელთა მოქალაქეებიც ვიზას ონლაინ იღებენ: ერთჯერადი ტურისტული ვიზა 30 აშშ დოლარი ღირს, მრავალჯერადი — 65 დოლარი (2026 წლის ოქტომბრის მდგომარეობით). პასპორტი ჩასვლის დღიდან მინიმუმ 6 თვე უნდა მოქმედებდეს.
 

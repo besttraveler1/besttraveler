@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/blogi/armenia-entry-from-georgia-id-card-or-passpor
 
 გამოქვეყნდა: 16 ოქტომბერი 20262 წთ საკითხავი
 
-ფოტო: [Камалян001](https://commons.wikimedia.org/w/index.php?curid=23397694), CC0
+ფოტო: [Սէրուժ Ուրիշեան (Serouj Ourishian)](https://commons.wikimedia.org/wiki/File:Mount_Ararat_and_the_Yerevan_skyline.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 მოკლე პასუხისაქართველოს მოქალაქეს სომხეთში ვიზა არ სჭირდება. 2023 წლიდან მოქმედი შეთანხმებით, სომხეთში შესვლა ბიომეტრიული პირადობის მოწმობით შეგიძლიათ, საერთაშორისო მიმოსვლის სასაზღვრო გამშვები პუნქტის გავლით; შესვლა პასპორტითაც შეიძლება. სომხეთის საგარეო საქმეთა სამინისტროს მიხედვით, უვიზო რეჟიმის მქონე უცხოელს წელიწადში არაუმეტეს 180 დღით დარჩენა შეუძლია, თუ შეთანხმებით სხვა ვადა არ არის დადგენილი.
 

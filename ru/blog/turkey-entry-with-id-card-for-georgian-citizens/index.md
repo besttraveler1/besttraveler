@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/ru/blog/turkey-entry-with-id-card-for-georgian-citi
 
 Опубликовано: 16 октября 20262 мин чтения
 
-Фото: [Feridun F. Alkaya](https://commons.wikimedia.org/w/index.php?curid=91480044), CC0
+Фото: [Abkhazian1](https://commons.wikimedia.org/wiki/File:Georgian-Turkish_border,_Sarpi_village,_Georgia.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
 КороткоДа. По данным МИД Турции, Грузия входит в список стран, граждане которых могут въезжать в Турцию по национальному удостоверению личности. Гражданам Грузии не нужна виза для поездок до 90 дней (на октябрь 2026 года). Ребёнку нужен собственный действующий документ.
 

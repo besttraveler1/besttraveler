@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/ru/blog/kazbegi-day-trip-from-tbilisi/
 
 Опубликовано: 16 октября 20262 мин чтения
 
-Фото: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=149966635), CC0
+Фото: [Gerd Eichmann](https://commons.wikimedia.org/wiki/File:Treaty_of_Georgievsk_Monument-12-2019-gje.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 КороткоНаш однодневный тур в Казбеги выезжает из Тбилиси в 07:00 и возвращается примерно в 22:00. По пути: монастырь Дариали, большой и малый Гвелетские водопады, Гергетская Троица и панорама Гудаури. Самая длинная прогулка — к большому водопаду: 1,2 км в одну сторону, средней сложности.
 

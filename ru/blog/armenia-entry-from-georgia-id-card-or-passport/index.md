@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/ru/blog/armenia-entry-from-georgia-id-card-or-passp
 
 Опубликовано: 16 октября 20262 мин чтения
 
-Фото: [Камалян001](https://commons.wikimedia.org/w/index.php?curid=23397694), CC0
+Фото: [Սէրուժ Ուրիշեան (Serouj Ourishian)](https://commons.wikimedia.org/wiki/File:Mount_Ararat_and_the_Yerevan_skyline.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 КороткоГражданам Грузии виза в Армению не нужна. По соглашению, действующему с 2023 года, въехать в Армению можно по биометрической ID-карте через пункт пропуска для международного сообщения, а также по паспорту. По данным МИД Армении, иностранцы с безвизовым режимом могут находиться в стране не более 180 дней в году, если соглашением не установлен другой срок.
 

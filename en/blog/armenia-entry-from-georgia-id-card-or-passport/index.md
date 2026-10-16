@@ -10,7 +10,7 @@ Visas & borders
 
 Published: 16 Oct 20262 min read
 
-Photo: [Камалян001](https://commons.wikimedia.org/w/index.php?curid=23397694), CC0
+Photo: [Սէրուժ Ուրիշեան (Serouj Ourishian)](https://commons.wikimedia.org/wiki/File:Mount_Ararat_and_the_Yerevan_skyline.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 Short answerGeorgian citizens do not need a visa for Armenia. Under an agreement in force since 2023, you can enter Armenia with a biometric ID card through an international border checkpoint, or with your passport. Armenia's Ministry of Foreign Affairs says visa-free foreigners may stay no more than 180 days in a year, unless an international agreement sets a different term.
 

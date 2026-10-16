@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/blogi/cappadocia-best-time-hot-air-balloons/
 
 გამოქვეყნდა: 16 ოქტომბერი 20262 წთ საკითხავი
 
-ფოტო: [Feridun F. Alkaya](https://commons.wikimedia.org/w/index.php?curid=91480044), CC0
+ფოტო: [Endersenkaya](https://commons.wikimedia.org/wiki/File:Flying_Over_Cappadocia_01.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 მოკლე პასუხითურქეთის ოფიციალური ტურისტული პორტალის (GoTürkiye) მიხედვით, საჰაერო ბურთით ფრენისთვის საუკეთესო დროა გაზაფხული და შემოდგომა, როცა ამინდი უფრო მშვიდი და სტაბილურია. ფრენა მზის ამოსვლამდე იწყება და ამინდზეა დამოკიდებული, ამიტომ შეიძლება გაუქმდეს. ჩვენს ტურზე ფრენა არჩევითია და 200–250 ევრო ღირს.
 

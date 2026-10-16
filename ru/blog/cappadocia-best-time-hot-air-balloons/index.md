@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/ru/blog/cappadocia-best-time-hot-air-balloons/
 
 Опубликовано: 16 октября 20262 мин чтения
 
-Фото: [Feridun F. Alkaya](https://commons.wikimedia.org/w/index.php?curid=91480044), CC0
+Фото: [Endersenkaya](https://commons.wikimedia.org/wiki/File:Flying_Over_Cappadocia_01.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 КороткоПо данным официального туристического портала Турции GoTürkiye, лучшее время для полёта на шаре — весна и осень, когда погода мягче и стабильнее. Полёты начинаются перед рассветом, зависят от погоды и могут быть отменены. В нашем туре полёт по желанию и стоит 200–250 евро.
 

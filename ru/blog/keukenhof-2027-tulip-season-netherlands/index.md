@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/ru/blog/keukenhof-2027-tulip-season-netherlands/
 
 Опубликовано: 16 октября 20262 мин чтения
 
-Фото: [Roy Tanck](https://wordpress.org/photos/photo/4766269971/), CC0
+Фото: [Kent Wang](https://commons.wikimedia.org/wiki/File:Keukenhof_Garden1.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
 КороткоПо данным официального сайта keukenhof.nl, в 2027 году Кёкенхоф открыт с четверга 18 марта по воскресенье 9 мая, ежедневно с 8:00 до 19:00, последний вход в 18:15. Цветение зависит от погоды, поэтому заранее точно сказать, какая неделя будет лучшей, нельзя.
 

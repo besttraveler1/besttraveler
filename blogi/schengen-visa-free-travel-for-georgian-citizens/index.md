@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/blogi/schengen-visa-free-travel-for-georgian-citize
 
 გამოქვეყნდა: 16 ოქტომბერი 20263 წთ საკითხავი
 
-ფოტო: [Julian Lupyan](https://commons.wikimedia.org/w/index.php?curid=175885773), CC0
+ფოტო: [Sébastien Bertrand](https://commons.wikimedia.org/wiki/File:European_Commission_flags.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 მოკლე პასუხიბიომეტრიული ჩვეულებრივი პასპორტის მქონე საქართველოს მოქალაქეებს შენგენის ზონაში მოკლევადიანი ვიზიტისთვის ვიზა არ სჭირდებათ: 180 დღის ნებისმიერ პერიოდში 90 დღემდე. 2026 წლის მარტიდან უვიზო რეჟიმი შეჩერდა მხოლოდ დიპლომატიური, სამსახურებრივი და ოფიციალური პასპორტებისთვის. ETIAS 2026 წლის ოქტომბრის მდგომარეობით ჯერ არ მოქმედებს და მისი ამოქმედების თარიღი გამოცხადებული არ არის.
 

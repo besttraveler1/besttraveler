@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/blogi/kazbegi-day-trip-from-tbilisi/
 
 გამოქვეყნდა: 16 ოქტომბერი 20262 წთ საკითხავი
 
-ფოტო: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=149966635), CC0
+ფოტო: [Gerd Eichmann](https://commons.wikimedia.org/wiki/File:Treaty_of_Georgievsk_Monument-12-2019-gje.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 მოკლე პასუხიყაზბეგის ერთდღიანი ტური თბილისიდან დილის 7:00-ზე გადის და დაახლოებით 22:00-ზე ბრუნდება. გზაზე ნახავთ დარიალის მონასტერს, გველეთის დიდ და პატარა ჩანჩქერებს, გერგეტის სამებას და გუდაურის პანორამას. ფეხით სავალი ყველაზე გრძელი მონაკვეთია დიდ ჩანჩქერამდე: 1,2 კმ ერთი მიმართულებით, საშუალო სირთულის.
 

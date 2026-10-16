@@ -10,7 +10,7 @@ Guides
 
 Published: 16 Oct 20262 min read
 
-Photo: [Roy Tanck](https://wordpress.org/photos/photo/4766269971/), CC0
+Photo: [Kent Wang](https://commons.wikimedia.org/wiki/File:Keukenhof_Garden1.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
 Short answerAccording to the official site keukenhof.nl, Keukenhof is open from Thursday 18 March to Sunday 9 May 2027, daily from 8:00 to 19:00, with last entry at 18:15. Flowering depends on the weather, so nobody can say in advance exactly which week will be best.
 

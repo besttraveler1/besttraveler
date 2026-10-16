@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/ru/blog/schengen-visa-free-travel-for-georgian-citi
 
 Опубликовано: 16 октября 20263 мин чтения
 
-Фото: [Julian Lupyan](https://commons.wikimedia.org/w/index.php?curid=175885773), CC0
+Фото: [Sébastien Bertrand](https://commons.wikimedia.org/wiki/File:European_Commission_flags.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 КороткоГражданам Грузии с обычным биометрическим паспортом виза для коротких поездок в Шенгенскую зону не нужна: до 90 дней в любом 180-дневном периоде. С марта 2026 года безвиз приостановлен только для дипломатических, служебных и официальных паспортов. На октябрь 2026 года ETIAS ещё не работает, дата запуска не объявлена.
 

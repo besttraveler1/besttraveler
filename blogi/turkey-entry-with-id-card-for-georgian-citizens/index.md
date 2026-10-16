@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/blogi/turkey-entry-with-id-card-for-georgian-citize
 
 გამოქვეყნდა: 16 ოქტომბერი 20262 წთ საკითხავი
 
-ფოტო: [Feridun F. Alkaya](https://commons.wikimedia.org/w/index.php?curid=91480044), CC0
+ფოტო: [Abkhazian1](https://commons.wikimedia.org/wiki/File:Georgian-Turkish_border,_Sarpi_village,_Georgia.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
 მოკლე პასუხიდიახ. თურქეთის საგარეო საქმეთა სამინისტროს მიხედვით, საქართველო იმ ქვეყნების სიაშია, რომელთა მოქალაქეებიც თურქეთში პირადობის მოწმობით შედიან. საქართველოს მოქალაქეებს ვიზა 90 დღემდე მოგზაურობისთვის არ სჭირდებათ (2026 წლის ოქტომბრის მდგომარეობით). ბავშვს საკუთარი მოქმედი დოკუმენტი სჭირდება.
 

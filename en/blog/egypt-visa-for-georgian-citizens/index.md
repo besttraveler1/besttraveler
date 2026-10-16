@@ -10,7 +10,7 @@ Visas & borders
 
 Published: 16 Oct 20263 min read
 
-Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605971), CC0
+Photo: [Marc Ryckaert](https://commons.wikimedia.org/wiki/File:Luxor_Temple_R04.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 Short answerYes, Georgian citizens need a visa for Egypt. Georgia is on the list of countries whose citizens can get an e-Visa on Egypt's official portal: as of October 2026 a single-entry tourist e-Visa costs 30 USD and a multiple-entry one 65 USD. Your passport must be valid for at least 6 months from the day you arrive.
 

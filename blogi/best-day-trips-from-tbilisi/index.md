@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/blogi/best-day-trips-from-tbilisi/
 
 გამოქვეყნდა: 16 ოქტომბერი 20262 წთ საკითხავი
 
-ფოტო: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=149966635), CC0
+ფოტო: [Bernard Gagnon](https://commons.wikimedia.org/wiki/File:Ananuri_Fortress_02.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 მოკლე პასუხითუ ცოტა სიარული გინდათ, აირჩიეთ კახეთი, ფერადი უდაბნო ან ყაზბეგი. თუ ლაშქრობა გიყვართ, აირჩიეთ თრუსო (6–7 კმ ერთი მიმართულებით, მარტივი) ან ლაგოდეხი (8,3 კმ ერთი მიმართულებით, საშუალო). მთის მარშრუტები თბილ თვეებში აირჩიეთ, კახეთისა და დაბლობის მარშრუტებზე კი თითქმის მთელი წლის განმავლობაში შეგიძლიათ წასვლა.
 

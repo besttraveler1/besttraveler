@@ -10,7 +10,7 @@ Visas & borders
 
 Published: 16 Oct 20263 min read
 
-Photo: [Feridun F. Alkaya](https://commons.wikimedia.org/w/index.php?curid=91480044), CC0
+Photo: [Abkhazian1](https://commons.wikimedia.org/wiki/File:Georgian-Turkish_border,_Sarpi_village,_Georgia.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
 
 Short answerYes. According to Türkiye's Ministry of Foreign Affairs, Georgia is on the list of countries whose citizens can enter Türkiye with their national ID card. Georgian citizens do not need a visa for trips of up to 90 days (as of October 2026). A child needs their own valid document.
 

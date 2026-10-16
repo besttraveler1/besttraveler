@@ -10,7 +10,7 @@ Guides
 
 Published: 16 Oct 20262 min read
 
-Photo: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=149966635), CC0
+Photo: [Gerd Eichmann](https://commons.wikimedia.org/wiki/File:Treaty_of_Georgievsk_Monument-12-2019-gje.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Short answerOur Kazbegi day tour leaves Tbilisi at 07:00 and is back at about 22:00. You see Dariali Monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama. The longest walk is to the big waterfall: 1.2 km one way, medium difficulty.
 

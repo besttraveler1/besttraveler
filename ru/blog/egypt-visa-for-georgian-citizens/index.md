@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/ru/blog/egypt-visa-for-georgian-citizens/
 
 Опубликовано: 16 октября 20262 мин чтения
 
-Фото: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605971), CC0
+Фото: [Marc Ryckaert](https://commons.wikimedia.org/wiki/File:Luxor_Temple_R04.jpg), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 КороткоДа, гражданам Грузии нужна виза в Египет. На официальном портале электронных виз Египта Грузия входит в список стран, чьи граждане могут оформить e-Visa: на октябрь 2026 года однократная туристическая виза стоит 30 долларов США, многократная — 65. Паспорт должен действовать не менее 6 месяцев с даты прибытия.
 

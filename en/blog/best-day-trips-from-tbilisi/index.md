@@ -10,7 +10,7 @@ Guides
 
 Published: 16 Oct 20263 min read
 
-Photo: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=149966635), CC0
+Photo: [Bernard Gagnon](https://commons.wikimedia.org/wiki/File:Ananuri_Fortress_02.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Short answerFor little walking, pick Kakheti, the colourful desert or Kazbegi. If you like hiking, pick Truso (6-7 km one way, easy) or Lagodekhi (8.3 km one way, medium). Go to the mountain routes in the warm months. Kakheti and the lowland routes work for most of the year.
 

@@ -10,7 +10,7 @@ Tips
 
 Published: 16 Oct 20263 min read
 
-Photo: [Sandromedia123](https://commons.wikimedia.org/w/index.php?curid=188463565), CC0
+Photo: [Aatu Dorochenko](https://commons.wikimedia.org/wiki/File:E2A0423.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Short answerBring a passport valid for at least 6 months after the trip, travel insurance, cash and a card, an adapter, your medicines and hand luggage that fits low-cost rules (10 kg, 40x30x20 cm on our tours from Kutaisi). Under Georgian law, a child under 16 needs one parent's permission and an adult escort. If the child travels without a parent, bring a notarised consent and confirm the details in advance.
 
