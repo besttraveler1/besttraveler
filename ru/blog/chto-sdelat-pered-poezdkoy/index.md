@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/ru/blog/chto-sdelat-pered-poezdkoy/
 
 Опубликовано: 17 октября 20264 мин чтения
 
-Фото: [Wei-Te Wong](https://commons.wikimedia.org/wiki/File:StarFlyer_boarding_pass_and_ROC_Passport_20181117.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+Фото: [Billy Hathorn](https://commons.wikimedia.org/wiki/File:Luggage_awaiting_loading_at_airport_IMG_3140.JPG), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 КороткоЗа одну-две недели до поездки проверьте срок действия паспорта и правила въезда, прочитайте страховой полис, предупредите банк о поездке и решите вопрос с интернетом. В последние дни сделайте копии документов, скачайте офлайн-карты, пройдите регистрацию на рейс и сохраните экстренные номера, в том числе горячую линию Консульского департамента МИД Грузии.
 

@@ -10,7 +10,7 @@ Tips
 
 Published: 17 Oct 20265 min read
 
-Photo: [Wei-Te Wong](https://commons.wikimedia.org/wiki/File:StarFlyer_boarding_pass_and_ROC_Passport_20181117.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+Photo: [Billy Hathorn](https://commons.wikimedia.org/wiki/File:Luggage_awaiting_loading_at_airport_IMG_3140.JPG), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 Short answerOne or two weeks before departure, check your passport's validity and the entry rules, read your insurance policy, tell your bank you're travelling and sort out mobile data. In the last few days, make copies of your documents, download offline maps, check in for your flight and save emergency numbers, including the Consular Department hotline of Georgia's Ministry of Foreign Affairs.
 

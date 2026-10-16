@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/blogi/ra-ar-unda-dagavitsqdet-mogzaurobamde/
 
 გამოქვეყნდა: 17 ოქტომბერი 20264 წთ საკითხავი
 
-ფოტო: [Wei-Te Wong](https://commons.wikimedia.org/wiki/File:StarFlyer_boarding_pass_and_ROC_Passport_20181117.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+ფოტო: [Billy Hathorn](https://commons.wikimedia.org/wiki/File:Luggage_awaiting_loading_at_airport_IMG_3140.JPG), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 მოკლე პასუხიგამგზავრებამდე ერთი-ორი კვირით ადრე შეამოწმეთ პასპორტის ვადა და ქვეყანაში შესვლის წესები, წაიკითხეთ დაზღვევის პოლისი, ბანკს შეატყობინეთ მოგზაურობის შესახებ და მოაგვარეთ ინტერნეტი. ბოლო დღეებში გააკეთეთ დოკუმენტების ასლები, ჩამოტვირთეთ რუკები, გაიარეთ რეისზე რეგისტრაცია და ჩაიწერეთ საგანგებო ნომრები, მათ შორის საგარეო საქმეთა სამინისტროს საკონსულო დეპარტამენტის ცხელი ხაზი.
 
