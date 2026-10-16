@@ -1,0 +1,100 @@
+# besttraveler
+
+> besttraveler (https://besttraveler.ge) is a Georgian travel company that runs group tours from Georgia (Tbilisi, Kutaisi and Yerevan airports, or by minibus from Tbilisi) to 26 countries, and one-day tours around Georgia. Tour organiser: Natali Iashvili. Contact: phone/WhatsApp +995 579 57 56 36, email info@besttraveler.ge. The site is in Georgian (default), English (/en/) and Russian (/ru/).
+
+Booking: a deposit holds a place; the rest is paid 15 days before the tour; money is not returned if the traveller cancels for their own reasons. Payment by bank transfer. Prices of flight tours depend on air fares and can change.
+
+## Main pages
+
+- [All tours — prices, dates and programmes](https://besttraveler.ge/en/tours/): Every besttraveler tour on one page: flight tours abroad, bus tours to Turkey and Armenia, and one-day tours around Georgia.
+- [Destinations — countries we travel to](https://besttraveler.ge/en/destinations/): Countries where besttraveler runs tours: Egypt, Italy, Spain, France, Turkey, Armenia, Greece and more, with prices and dates.
+- [Booking and payment terms](https://besttraveler.ge/en/booking-terms/): How to book a besttraveler tour: deposit, paying the rest, refunds, passport rules and the documents children need to travel abroad.
+- [Frequently asked questions about our tours](https://besttraveler.ge/en/faq/): Answers to common questions: how to book a tour, what the price includes, where tours start, which documents you need and when to pay.
+- [About besttraveler — who we are](https://besttraveler.ge/en/about/): besttraveler organises group tours abroad and one-day tours in Georgia. Learn how we work, what our tours include and how to reach us.
+- [Contact us — book a tour](https://besttraveler.ge/en/contact/): Contact besttraveler to book a tour: phone and WhatsApp +995 579 57 56 36, email info@besttraveler.ge, or Facebook. We reply quickly.
+
+## Destinations
+
+- [Tours to Egypt](https://besttraveler.ge/en/destinations/egypt/): Group tours to Egypt from Tbilisi: Cairo and the Giza pyramids, Luxor, Aswan, Nile cruises and the Red Sea.
+- [Tours to Italy](https://besttraveler.ge/en/destinations/italy/): Group tours to Italy: Rome, Venice, Tuscany, Sicily, the Amalfi Coast and southern Italy.
+- [Tours to Turkey](https://besttraveler.ge/en/destinations/turkey/): Tours to Turkey: Istanbul, Cappadocia, historic Tao-Klarjeti, Trabzon, Kars, Van and Mardin.
+- [Tours to Spain](https://besttraveler.ge/en/destinations/spain/): Group tours to Spain: Barcelona, Andalusia, the Madrid region, and trips that add Portugal or Andorra.
+- [Tours to France](https://besttraveler.ge/en/destinations/france/): Group tours to France: Paris, Alsace, Provence, the Côte d'Azur and the Alps.
+- [Tours to Greece](https://besttraveler.ge/en/destinations/greece/): Group tours to Greece: Athens and the Acropolis, Aegina island, Thessaloniki and Meteora.
+- [Tours to Armenia](https://besttraveler.ge/en/destinations/armenia/): One-day and three-day tours to Armenia from Tbilisi by minibus: Dilijan, Lori, Lake Sevan, Yerevan and Tatev.
+- [Tours to the Netherlands](https://besttraveler.ge/en/destinations/netherlands/): Group tours to the Netherlands and Belgium: Amsterdam, Giethoorn, windmills, Keukenhof, Bruges and Ghent.
+- [Tours to Sri Lanka](https://besttraveler.ge/en/destinations/sri-lanka/): Group tours to Sri Lanka: Sigiriya, Kandy, tea plantations, the train to Ella, a safari and the ocean — with an optional Maldives extension.
+- [Day tours in Georgia](https://besttraveler.ge/en/destinations/georgia/): One-day tours from Tbilisi by minibus: Kakheti, Kazbegi, Truso, David Gareja, Javakheti, Lagodekhi and more.
+
+## Tours abroad
+
+- [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-delhi-udaipur/): 4,800 GEL, 9 days / 8 nights, next 25 Oct 2026. 9 days in Rajasthan: forts, havelis, temples and a boat ride on Lake Pichola.
+- [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-aegina/): 1,200 GEL, 4 days / 3 nights, next 1–4 Nov 2026. 4 days in Athens: the Acropolis, Plaka, the Agora and a day on Aegina island. Flight from Kutaisi.
+- [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/bari-puglia-matera-italy/): 2,600 GEL, 5 days, next 2–6 Nov 2026. 5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
+- [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-madrid-porto-lisbon/): 4,500 GEL, 8 days / 7 nights, next 3–10 Nov 2026. 8 days by car: Segovia, Salamanca, Porto, Coimbra, Sintra, Lisbon and Toledo.
+- [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-port-said-suez-canal/): 6,100 GEL, 7 days / 6 nights, next 9–15 Nov 2026. 7 days in Hurghada: the Suez Canal and Port Said, Hula Hula island, Luxor and the monasteries.
+- [Morocco Group Tour with a Stop in Rome — 13–22 November](https://besttraveler.ge/en/tours/morocco-marrakesh-fes-rome/): 2,200 EUR, 10 days / 9 nights, next 13–22 Nov 2026. 10 days: Rome, Marrakesh, Ait Ben Haddou, Rabat, Chefchaouen, Fes and Casablanca. Morocco visa included.
+- [France: Alsace and Paris — Group Tour from Kutaisi](https://besttraveler.ge/en/tours/france-alsace-strasbourg-colmar-paris/): 4,200 GEL, 8 days / 7 nights, next 19–26 Nov 2026. 8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar, Paris and Versailles.
+- [Egypt Tour: Cairo and Alexandria, 5 Days](https://besttraveler.ge/en/tours/egypt-cairo-alexandria/): 2,500 GEL, 5 days / 4 nights, next 26–30 Nov 2026. 5 days in Egypt: the Giza pyramids, Saqqara and Alexandria. Three meals a day, 2500 GEL.
+- [Lake Nasser Cruise, Cairo and Luxor — Group Tour](https://besttraveler.ge/en/tours/egypt-lake-nasser-cruise-cairo-luxor/): 6,650 GEL, 11 days, next 14–24 Dec 2026. 11 days in Egypt: Cairo, a Lake Nasser cruise, Abu Simbel and Luxor. 14–24 December.
+- [Sri Lanka Tour: Sigiriya, Kandy, Ella, Mirissa and Colombo](https://besttraveler.ge/en/tours/sri-lanka-kandy-ella-mirissa/): 4,500 GEL, 8 days / 6 nights, next 9–16 Jan 2027. 7 days in Sri Lanka: Sigiriya, Kandy, tea plantations, a scenic train ride, safari and the ocean.
+- [Sri Lanka and Maldives Group Tour](https://besttraveler.ge/en/tours/sri-lanka-maldives/): 8,500 GEL, 11 days, next 9–19 Jan 2027. 7 days in Sri Lanka and 3 nights in the Maldives, 9-19 January, 8500 GEL.
+- [Venice Carnival 2027 — 4-Day Tour of Italy](https://besttraveler.ge/en/tours/italy-venice-carnival-2027/): 1,500 GEL, 4 days, next 23–26 Jan 2027. 4 days in Venice during the carnival: San Marco, the Doge's Palace, Murano and Burano.
+- [Southern Spain and Gibraltar — Group Tour, 27 January – 3 February](https://besttraveler.ge/en/tours/south-spain-andalusia-gibraltar/): 4,800 GEL, 8 days / 7 nights, next 27 Jan – 3 Feb 2027. 8 days in Andalusia: Gibraltar, white villages, Ronda, Seville, Córdoba and the Alhambra.
+- [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein](https://besttraveler.ge/en/tours/five-countries-alps-switzerland-france-germany/): 4,500 GEL, 8 days / 7 nights. 8 days by car in five countries: Annecy, Chillon, Lauterbrunnen, Lucerne, Vaduz, Neuschwanstein, Bern.
+- [Belgium and the Netherlands — 8-Day Group Tour](https://besttraveler.ge/en/tours/belgium-netherlands-brussels-amsterdam/): 4,300 GEL, 8 days. Brussels, Amsterdam, Dutch villages, Keukenhof, Ghent and Bruges — 8 days.
+- [Bratislava, Slovakia — Tour with a Day Trip to Vienna](https://besttraveler.ge/en/tours/bratislava-slovakia-vienna/): 1,700 GEL, 6 days / 5 nights. 6 days in Bratislava: old town, castle, Blue Church, Bojnice and a day trip to Vienna.
+- [China Group Tour: Beijing, Zhangjiajie, Leshan and Hong Kong](https://besttraveler.ge/en/tours/china-beijing-zhangjiajie-hong-kong/): 3,500 USD, 13 days. 13 days in China: Beijing, the Great Wall, Zhangjiajie's mountains, the Leshan Buddha and Hong Kong.
+- [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra/): 3,700 GEL, 8 days. 8 days in Sharm el-Sheikh with unlimited meals, a trip to Petra and optional excursions.
+- [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur](https://besttraveler.ge/en/tours/france-italy-monaco-provence-riviera/): 4,500 GEL, 8 days. The Alps, Turin, the Côte d'Azur and Provence — three countries in 8 days.
+- [Greece: Thessaloniki, Meteora and Athens — 8-Day Tour](https://besttraveler.ge/en/tours/greece-thessaloniki-meteora-athens/): 2,100 GEL, 8 days. Thessaloniki, the Meteora monasteries, Athens and Aegina island — 8 days in Greece.
+- [Istanbul: 7-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/turkey-istanbul-7-days/): 3,600 GEL, 7 days. 7 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
+- [Malta via Rome — 8-Day Tour](https://besttraveler.ge/en/tours/malta-valletta-via-rome/): 4,100 GEL, 8 days. Valletta, Mdina, fishing villages and Popeye Village — 8 days in Malta via Rome.
+- [Netherlands and Germany: Tulip Festival — 8-Day Tour](https://besttraveler.ge/en/tours/netherlands-germany-tulip-festival/): 4,100 GEL, 8 days. The tulip festival, Dutch castles, windmills and Amsterdam — 8 days.
+- [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria](https://besttraveler.ge/en/tours/egypt-nile-cruise-cairo-luxor-aswan-alexandria/): 6,550 GEL, 9 days. 9 days in Egypt: a Nile cruise, Abu Simbel, the Giza pyramids and Alexandria.
+- [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/egypt-nile-cruise-luxor-aswan-hurghada/): 4,500 GEL, 8 days. 8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
+- [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/france-paris/): 2,400 GEL, 5 days. 5 days in Paris: Versailles, the Louvre, Montmartre, the Champs-Élysées and Notre-Dame.
+- [Rome, Italy — 8-Day Tour from Kutaisi](https://besttraveler.ge/en/tours/italy-rome/): 2,300 GEL, 8 days. 8 days in Rome: the Vatican, Colosseum, Forum, gardens, palaces and museums.
+- [Sicily and Southern Italy — 8-Day Tour from Yerevan](https://besttraveler.ge/en/tours/italy-sicily-palermo-catania/): 5,700 GEL, 8 days. From Salerno to Catania: southern Italy and the towns of Sicily by minivan, 8 days.
+- [Southern Italy by Car — Naples, Capri and the Amalfi Coast](https://besttraveler.ge/en/tours/south-italy-naples-amalfi-coast-car/): 4,100 GEL, 10 days / 9 nights. 10 days by car: Castel Gandolfo, Naples, Capri, Pompeii, Positano, Amalfi and Tivoli.
+- [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia/): 4,500 GEL, 10 days. A loop around Spain: from Catalonia via Toledo, Seville and Granada to Valencia, 10 days.
+- [Spain, France and Andorra — 10-Day Tour from Barcelona](https://besttraveler.ge/en/tours/spain-france-andorra-barcelona/): 4,700 GEL, 10 days. Catalonia, Andorra and southern France, ending with three days in Barcelona — 10 days.
+- [Tuscany, Elba and San Marino — 10-Day Tour of Italy](https://besttraveler.ge/en/tours/italy-tuscany-elba-san-marino/): 4,000 GEL, 10 days / 9 nights. Tuscan towns, the Saturnia hot springs, Elba island and San Marino — 10 days.
+- [Venice and Padua — 5-Day Group Tour](https://besttraveler.ge/en/tours/italy-venice-padua/): 1,500 GEL, 5 days / 4 nights. Padua and Venice: San Marco, the Doge's Palace, Murano, Burano and the Rialto — 5 days.
+- [Vilnius, Lithuania — 5-Day Tour from Kutaisi](https://besttraveler.ge/en/tours/vilnius-lithuania-trakai/): 1,500 GEL, 5 days / 4 nights. 5 days in Vilnius: the old town, the cathedral, the university and Trakai Island Castle.
+
+## Multi-day by bus
+
+- [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/turkey-cappadocia-amasya-bus/): 1,350 GEL, 6 days, next 2–7 Nov 2026. Amasya, Cappadocia, Kayseri, Ordu and Trabzon by bus, with no nights spent on the bus.
+- [Armenia in 3 Days: Dilijan, Jermuk, Tatev, Noravank, Sevan](https://besttraveler.ge/en/tours/armenia-dilijan-jermuk-tatev-noravank/): 480 GEL, 3 days / 2 nights. Three days in Armenia: Dilijan, Jermuk waterfall, Tatev, Khndzoresk, Noravank and Sevan.
+- [Kars, Ani and Van: 3-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-kars-ani-van/): 450 GEL, 3 days / 2 nights. Kars, Ani, Ishak Pasha Palace, Van Fortress and Akdamar Island: 3 days by minibus.
+- [Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana](https://besttraveler.ge/en/tours/turkey-tao-klarjeti/): 480 GEL, . Georgian monasteries and fortresses of historic Tao-Klarjeti: Tbeti, Artanuji, Oshki, Parkhali and Bana.
+- [Trabzon and Sumela Monastery: 3-Day Tour](https://besttraveler.ge/en/tours/turkey-trabzon-sumela/): 470 GEL, 3 days. 3 days in and around Trabzon: Boztepe, Kayabasi park, Hagia Sophia and Sumela Monastery.
+- [Van and Mardin: 7-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-van-mardin-nemrut/): 1,450 GEL, 7 days / 6 nights. 7 days in eastern Turkey: Ani, Van, Mardin, Harran, Halfeti and Mount Nemrut.
+- [Yerevan in 3 Days: Sevan, Garni, Geghard, Etchmiadzin](https://besttraveler.ge/en/tours/armenia-yerevan-garni-geghard-etchmiadzin/): 450 GEL, 3 days. Three days in Armenia: Sevan, Yerevan, Khor Virap, Garni, Geghard, Zvartnots and Etchmiadzin.
+
+## Day tours
+
+- [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-ujarma-alaverdi/): 60 GEL, 1 day. Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
+- [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/gareja-colorful-desert-mravaltskaro/): 60 GEL, 1 day. Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
+- [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi/): 60 GEL, 1 day. The rock-cut Sabereebi monastery complex of Gareja, 9th–10th centuries.
+- [Dilijan Day Tour, Armenia: Haghartsin, Goshavank, Lake Parz](https://besttraveler.ge/en/tours/armenia-dilijan-day-tour/): 150 GEL, 1 day. Dilijan, the Haghartsin and Goshavank monasteries and Lake Parz in one day.
+- [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano](https://besttraveler.ge/en/tours/dzama-gorge-day-tour/): 60 GEL, 1 day. Fortresses and monasteries of the Dzama Gorge, Bateti Lake and Mount Shuano in one day.
+- [Historic Lori, Armenia: Akhtala, Haghpat, Sanahin, Odzun](https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-akhtala/): 90 GEL, 1 day. Akhtala, UNESCO-listed Haghpat and Sanahin, Odzun, Kobayr and Tamar's Bridge.
+- [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-poka/): 60 GEL, 1 day. Paravani and Saghamo lakes, the Poka monasteries, Gorelovka and the Madatapa reserve.
+- [Kakheti Day Tour: Chailuri, Gurjaani Kvelatsminda, Zegaani, Sanagire](https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani/): 60 GEL, 1 day. Chailuri Fortress, Gurjaani Kvelatsminda, Nato Vachnadze museum, Ziari Lake, Zegaani and Sanagire.
+- [Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi/): 60 GEL, 1 day. Nekresi monastery complex, Ilia Lake, Gremi and Batonis Tsikhe in Telavi in one day.
+- [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/kakheti-sighnaghi-bodbe/): 60 GEL, 1 day. Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
+- [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gveleti-gergeti-day-tour/): 60 GEL, 1 day. Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
+- [Khada Gorge Day Tour: Tskere and Rostiani Waterfalls](https://besttraveler.ge/en/tours/khada-gorge-waterfalls-day-tour/): 60 GEL, 1 day. Khada Gorge with the Tskere and Rostiani waterfalls; an easy 4.2 km hike one way.
+- [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-tour/): 60 GEL, 1 day. Koroghli Fortress, Udzo monastery, Manglisi Sioni, Buratino Lake and the Didgori memorial.
+- [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-tserakvi-gagi-tamarisi/): 60 GEL, 1 day. Tserakvi, Gagi Fortress, the Tamarisi lakes and Shavnabada monastery in one day.
+- [Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall/): 60 GEL, 1 day. A hike in Lagodekhi Reserve to the Ninoskhevi waterfall, 8.3 km one way.
+- [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-zarzma-akhaltsikhe-sapara/): 60 GEL, 1 day. Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+- [Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani](https://besttraveler.ge/en/tours/tabatskuri-lake-day-tour/): 70 GEL, 1 day. Tskhratskaro Pass, Tabatskuri Lake and its Red Church, and Timotesubani monastery.
+- [Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake](https://besttraveler.ge/en/tours/tianeti-day-tour/): 60 GEL, 1 day. Mamkoda monastery, a bear shelter, Tskhvarichamia, the Kor-Shevardeni tower and Sioni Lake.
+- [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-tour/): 60 GEL, 1 day. Truso Gorge: colorful travertines, the 'bottomless' lake, Abano convent and Zakagori fortress.
+
+## Full text
+
+- [llms-full.txt](https://besttraveler.ge/llms-full.txt): every tour with full programme (English).
