@@ -16,7 +16,7 @@ Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 22 more 
 - 60tours
 - 26countries
 - 19day tours
-- from 60 GELday tours
+- from 60 ₾day tours
 
 ## Choose a type of tour
 
