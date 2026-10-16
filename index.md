@@ -10,7 +10,7 @@ URL: https://besttraveler.ge/
 
 ჯგუფური მოგზაურობები თბილისიდან და ქუთაისიდან — ეგვიპტე, იტალია, ესპანეთი, თურქეთი და კიდევ 22 ქვეყანა. ერთდღიანი ტურები საქართველოში 60 ლარიდან.
 
-[ტურების ნახვა](https://besttraveler.ge/turebi/)
+[ტურების ნახვა](https://besttraveler.ge/ka/turebi/)
 [მოგვწერეთ WhatsApp-ზე](https://wa.me/995579575636?text=%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%91%E1%83%90%21%20%E1%83%9B%E1%83%90%E1%83%98%E1%83%9C%E1%83%A2%E1%83%94%E1%83%A0%E1%83%94%E1%83%A1%E1%83%94%E1%83%91%E1%83%A1%20%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98)
 
 - 60ტური
@@ -18,11 +18,11 @@ URL: https://besttraveler.ge/
 - 19ერთდღიანი ტური
 - 60 ₾-დანერთდღიანი ტურები
 
-- [ეგვიპტე](https://besttraveler.ge/mimartulebebi/egvipte/)
-- [იტალია](https://besttraveler.ge/mimartulebebi/italia/)
-- [თურქეთი](https://besttraveler.ge/mimartulebebi/turketi/)
-- [ესპანეთი](https://besttraveler.ge/mimartulebebi/espaneti/)
-- [საფრანგეთი](https://besttraveler.ge/mimartulebebi/saprangeti/)
+- [ეგვიპტე](https://besttraveler.ge/ka/mimartulebebi/egvipte/)
+- [იტალია](https://besttraveler.ge/ka/mimartulebebi/italia/)
+- [თურქეთი](https://besttraveler.ge/ka/mimartulebebi/turketi/)
+- [ესპანეთი](https://besttraveler.ge/ka/mimartulebebi/espaneti/)
+- [საფრანგეთი](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)
 
 ## აირჩიეთ ტურის ტიპი
 
@@ -30,23 +30,23 @@ URL: https://besttraveler.ge/
 
 ### ტურები საზღვარგარეთ
 
-ავიაბილეთით, სასტუმროთი და გამყოლით — ევროპა, ეგვიპტე, აზია.](https://besttraveler.ge/turebi/#flight)[7 ტური 
+ავიაბილეთით, სასტუმროთი და გამყოლით — ევროპა, ეგვიპტე, აზია.](https://besttraveler.ge/ka/turebi/#flight)[7 ტური 
 
 ### მრავალდღიანი ტურები ავტობუსით
 
-თურქეთი და სომხეთი — 2-დან 7 დღემდე, თბილისიდან.](https://besttraveler.ge/turebi/#bus)[19 ტური 
+თურქეთი და სომხეთი — 2-დან 7 დღემდე, თბილისიდან.](https://besttraveler.ge/ka/turebi/#bus)[19 ტური 
 
 ### ერთდღიანი ტურები
 
-კახეთი, ყაზბეგი, თრუსო, გარეჯა და სხვა — დილით გასვლა, საღამოს დაბრუნება.](https://besttraveler.ge/mimartulebebi/sakartvelo/)
+კახეთი, ყაზბეგი, თრუსო, გარეჯა და სხვა — დილით გასვლა, საღამოს დაბრუნება.](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
 
 ## უახლოესი ტურები
 
-[ყველა ტურის ნახვა](https://besttraveler.ge/turebi/)
+[ყველა ტურის ნახვა](https://besttraveler.ge/ka/turebi/)
 
 ავიატური
 
-### [ინდოეთი: რაჯასთანის ჯგუფური ტური — დელი, ჯაისალმერი, უდაიპური](https://besttraveler.ge/turebi/indoeti-rajastani-jgupuri-turi/)
+### [ინდოეთი: რაჯასთანის ჯგუფური ტური — დელი, ჯაისალმერი, უდაიპური](https://besttraveler.ge/ka/turebi/indoeti-rajastani-jgupuri-turi/)
 
 9 დღე / 8 ღამე25 ოქტომბერი 2026
 
@@ -58,7 +58,7 @@ URL: https://besttraveler.ge/
 
 ავიატური
 
-### [ათენი, საბერძნეთი — ჯგუფური ტური ქუთაისიდან, 1–4 ნოემბერი](https://besttraveler.ge/turebi/ateni-saberdzneti-jgupuri-turi/)
+### [ათენი, საბერძნეთი — ჯგუფური ტური ქუთაისიდან, 1–4 ნოემბერი](https://besttraveler.ge/ka/turebi/ateni-saberdzneti-jgupuri-turi/)
 
 4 დღე / 3 ღამე1–4 ნოემბერი 2026
 
@@ -70,7 +70,7 @@ URL: https://besttraveler.ge/
 
 ავიატური
 
-### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/turebi/italia-bari-apulia-saakhaltslo-turi/)
+### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/ka/turebi/italia-bari-apulia-saakhaltslo-turi/)
 
 5 დღე2–6 ნოემბერი 2026
 
@@ -82,7 +82,7 @@ URL: https://besttraveler.ge/
 
 ავტობუსით
 
-### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
+### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/ka/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
 
 6 დღე2–7 ნოემბერი 2026
 
@@ -94,7 +94,7 @@ URL: https://besttraveler.ge/
 
 ავიატური
 
-### [ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 3–10 ნოემბერი](https://besttraveler.ge/turebi/espaneti-portugalia-mankanit-turi/)
+### [ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 3–10 ნოემბერი](https://besttraveler.ge/ka/turebi/espaneti-portugalia-mankanit-turi/)
 
 8 დღე / 7 ღამე3–10 ნოემბერი 2026
 
@@ -106,7 +106,7 @@ URL: https://besttraveler.ge/
 
 ავიატური
 
-### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/turebi/egvipte-hurgada-luksori-suetsis-arkhi/)
+### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/ka/turebi/egvipte-hurgada-luksori-suetsis-arkhi/)
 
 7 დღე / 6 ღამე9–15 ნოემბერი 2026
 
@@ -118,9 +118,9 @@ URL: https://besttraveler.ge/
 
 ## პოპულარული მიმართულებები
 
-[მიმართულებები](https://besttraveler.ge/mimartulebebi/)
+[მიმართულებები](https://besttraveler.ge/ka/mimartulebebi/)
 
-[ეგვიპტე 6 ტური](https://besttraveler.ge/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/mimartulebebi/espaneti/)[საფრანგეთი 5 ტური](https://besttraveler.ge/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/mimartulebebi/shri-lanka/)[საქართველო 17 ტური](https://besttraveler.ge/mimartulebebi/sakartvelo/)
+[ეგვიპტე 6 ტური](https://besttraveler.ge/ka/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/ka/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/ka/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/espaneti/)[საფრანგეთი 5 ტური](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/ka/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/ka/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/ka/mimartulebebi/shri-lanka/)[საქართველო 17 ტური](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
 
 ## რატომ besttraveler
 
