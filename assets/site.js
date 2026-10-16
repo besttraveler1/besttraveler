@@ -214,6 +214,8 @@
           var once = el.hasAttribute('data-once');
           var an = window.lottie.loadAnimation({ container: el, renderer: 'svg', loop: !once, autoplay: !once, path: el.getAttribute('data-lottie'),
             rendererSettings: { preserveAspectRatio: 'xMidYMid meet', progressiveLoad: true } });
+          // whole frames only: the grass layer has a 1-frame jump at the end that must never be drawn in between
+          an.setSubframe(false);
           el.classList.add('on');
           if (once) {
             // play one time when it scrolls into view, then stay on the last frame
