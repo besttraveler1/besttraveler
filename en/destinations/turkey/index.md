@@ -8,7 +8,10 @@ URL: https://besttraveler.ge/en/destinations/turkey/
 
 Tours to Turkey: Istanbul, Cappadocia, historic Tao-Klarjeti, Trabzon, Kars, Van and Mardin.
 
-6 tours
+- 6 tours
+- from 450 ₾
+- 3–7 days
+- Next: 2–7 Nov 2026
 
 ## Tours to Turkey
 

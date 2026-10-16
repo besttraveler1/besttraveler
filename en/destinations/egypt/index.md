@@ -8,7 +8,10 @@ URL: https://besttraveler.ge/en/destinations/egypt/
 
 Group tours to Egypt from Tbilisi: Cairo and the Giza pyramids, Luxor, Aswan, Nile cruises and the Red Sea.
 
-6 tours
+- 6 tours
+- from 2500 ₾
+- 5–11 days
+- Next: 9–15 Nov 2026
 
 ## Tours to Egypt
 

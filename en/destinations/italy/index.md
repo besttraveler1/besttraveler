@@ -8,7 +8,10 @@ URL: https://besttraveler.ge/en/destinations/italy/
 
 Group tours to Italy: Rome, Venice, Tuscany, Sicily, the Amalfi Coast and southern Italy.
 
-8 tours
+- 8 tours
+- from 1500 ₾
+- 4–10 days
+- Next: 2–6 Nov 2026
 
 ## Tours to Italy
 

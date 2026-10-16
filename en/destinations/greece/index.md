@@ -8,7 +8,10 @@ URL: https://besttraveler.ge/en/destinations/greece/
 
 Group tours to Greece: Athens and the Acropolis, Aegina island, Thessaloniki and Meteora.
 
-2 tours
+- 2 tours
+- from 1200 ₾
+- 4–8 days
+- Next: 1–4 Nov 2026
 
 ## Tours to Greece
 

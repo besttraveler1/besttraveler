@@ -8,7 +8,10 @@ URL: https://besttraveler.ge/en/destinations/sri-lanka/
 
 Group tours to Sri Lanka: Sigiriya, Kandy, tea plantations, the train to Ella, a safari and the ocean — with an optional Maldives extension.
 
-2 tours
+- 2 tours
+- from 4500 ₾
+- 8–11 days
+- Next: 9–16 Jan 2027
 
 ## Tours to Sri Lanka
 

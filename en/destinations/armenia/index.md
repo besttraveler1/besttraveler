@@ -8,7 +8,9 @@ URL: https://besttraveler.ge/en/destinations/armenia/
 
 One-day and three-day tours to Armenia from Tbilisi by minibus: Dilijan, Lori, Lake Sevan, Yerevan and Tatev.
 
-4 tours
+- 4 tours
+- from 90 ₾
+- 1–3 days
 
 ## Tours to Armenia
 

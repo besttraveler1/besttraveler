@@ -8,7 +8,10 @@ URL: https://besttraveler.ge/en/destinations/france/
 
 Group tours to France: Paris, Alsace, Provence, the Côte d'Azur and the Alps.
 
-5 tours
+- 5 tours
+- from 2400 ₾
+- 5–10 days
+- Next: 19–26 Nov 2026
 
 ## Tours to France
 

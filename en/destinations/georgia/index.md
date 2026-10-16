@@ -8,7 +8,9 @@ URL: https://besttraveler.ge/en/destinations/georgia/
 
 One-day tours from Tbilisi by minibus: Kakheti, Kazbegi, Truso, David Gareja, Javakheti, Lagodekhi and more.
 
-17 tours
+- 17 tours
+- from 60 ₾
+- 1 day
 
 ## Day tours in Georgia
 

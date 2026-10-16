@@ -8,7 +8,9 @@ URL: https://besttraveler.ge/en/destinations/netherlands/
 
 Group tours to the Netherlands and Belgium: Amsterdam, Giethoorn, windmills, Keukenhof, Bruges and Ghent.
 
-2 tours
+- 2 tours
+- from 4100 ₾
+- 8 days
 
 ## Tours to the Netherlands
 

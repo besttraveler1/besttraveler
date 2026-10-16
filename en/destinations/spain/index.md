@@ -8,7 +8,10 @@ URL: https://besttraveler.ge/en/destinations/spain/
 
 Group tours to Spain: Barcelona, Andalusia, the Madrid region, and trips that add Portugal or Andorra.
 
-4 tours
+- 4 tours
+- from 4500 ₾
+- 8–10 days
+- Next: 3–10 Nov 2026
 
 ## Tours to Spain
 
