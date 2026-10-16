@@ -174,7 +174,7 @@
         map.addSource('route', { type: 'geojson', data: { type: 'Feature', geometry: { type: 'LineString', coordinates: [D.line[0]] } } });
         map.addLayer({ id: 'route-casing', type: 'line', source: 'route', paint: { 'line-color': '#ffffff', 'line-width': 7, 'line-opacity': .85 }, layout: { 'line-cap': 'round', 'line-join': 'round' } });
         map.addLayer({ id: 'route', type: 'line', source: 'route', paint: { 'line-color': '#6d28d9', 'line-width': 3.5, 'line-dasharray': [1.2, 1.6] }, layout: { 'line-cap': 'round', 'line-join': 'round' } });
-        box.classList.add('live');
+
         // pins
         var pins = D.pins.map(function (p, i) {
           var el = d.createElement('div'); el.className = 'mpin';
@@ -208,7 +208,10 @@
           busM.setLngLat(pos);
           if (f < 1) requestAnimationFrame(step); else { pins.forEach(function (p) { p.el.classList.add('on'); }); bus.classList.add('done'); }
         };
-        requestAnimationFrame(step);
+        // keep the drawn map until the real map has finished loading its tiles, then swap them smoothly
+        var go = function () { if (box.classList.contains('live')) return; box.classList.add('live'); requestAnimationFrame(step); };
+        map.once('idle', go);
+        setTimeout(go, 6000);
       });
     };
     var mio = new IntersectionObserver(function (ents) {

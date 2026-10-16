@@ -6,6 +6,8 @@ URL: https://besttraveler.ge/en/booking-terms/
 
 # Booking terms
 
+How to book a besttraveler tour: deposit, paying the rest, refunds, passport rules and the documents children need to travel abroad.
+
 ## Booking and deposit
 
 You hold a place on a tour with a deposit. The deposit amount is shown on each tour page. To confirm a place, contact us by phone or WhatsApp.

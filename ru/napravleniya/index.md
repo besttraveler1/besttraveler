@@ -10,22 +10,108 @@ URL: https://besttraveler.ge/ru/napravleniya/
 
 [Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 6 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 4 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 5 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Греция 2 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 4 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 17 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
 
-## Страны
+## Другие страны в наших турах
 
-- Иордания — [Египет и Иордания: Шарм-эль-Шейх и Петра, 8 дней](https://besttraveler.ge/ru/tury/egypt-jordan-sharm-el-sheikh-petra/)
-- Португалия — [Испания и Португалия на машине — групповой тур, 3–10 ноября](https://besttraveler.ge/ru/tury/spain-portugal-madrid-porto-lisbon/)
-- Монако — [Франция, Италия, Монако: Прованс, Альпы и Лазурный берег](https://besttraveler.ge/ru/tury/france-italy-monaco-provence-riviera/)
-- Андорра — [Испания, Франция, Андорра — тур на 10 дней из Барселоны](https://besttraveler.ge/ru/tury/spain-france-andorra-barcelona/)
-- Гибралтар — [Юг Испании и Гибралтар — групповой тур, 27 января – 3 февраля](https://besttraveler.ge/ru/tury/south-spain-andalusia-gibraltar/)
-- Швейцария — [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн](https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germany/)
-- Германия — [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн](https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germany/), [Нидерланды и Германия: фестиваль тюльпанов — тур на 8 дней](https://besttraveler.ge/ru/tury/netherlands-germany-tulip-festival/)
-- Австрия — [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн](https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germany/), [Братислава, Словакия — тур с экскурсией в Вену](https://besttraveler.ge/ru/tury/bratislava-slovakia-vienna/)
-- Лихтенштейн — [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн](https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germany/)
-- Словакия — [Братислава, Словакия — тур с экскурсией в Вену](https://besttraveler.ge/ru/tury/bratislava-slovakia-vienna/)
-- Литва — [Вильнюс, Литва — тур на 5 дней из Кутаиси](https://besttraveler.ge/ru/tury/vilnius-lithuania-trakai/)
-- Бельгия — [Бельгия и Нидерланды — групповой тур на 8 дней](https://besttraveler.ge/ru/tury/belgium-netherlands-brussels-amsterdam/)
-- Мальта — [Мальта через Рим — тур на 8 дней](https://besttraveler.ge/ru/tury/malta-valletta-via-rome/)
-- Марокко — [Групповой тур в Марокко с остановкой в Риме — 13–22 ноября](https://besttraveler.ge/ru/tury/morocco-marrakesh-fes-rome/)
-- Индия — [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур](https://besttraveler.ge/ru/tury/india-rajasthan-delhi-udaipur/)
-- Китай — [Групповой тур в Китай: Пекин, Чжанцзяцзе, Лэшань, Гонконг](https://besttraveler.ge/ru/tury/china-beijing-zhangjiajie-hong-kong/)
-- Мальдивы — [Шри-Ланка и Мальдивы — групповой тур](https://besttraveler.ge/ru/tury/sri-lanka-maldives/)
+### Иордания
+
+1 туров: 
+
+- [Египет и Иордания: Шарм-эль-Шейх и Петра, 8 дней 8 дней · 3 700 лари](https://besttraveler.ge/ru/tury/egypt-jordan-sharm-el-sheikh-petra/)
+
+### Португалия
+
+1 туров: 
+
+- [Испания и Португалия на машине — групповой тур, 3–10 ноября 8 дней / 7 ночей · 4 500 лари](https://besttraveler.ge/ru/tury/spain-portugal-madrid-porto-lisbon/)
+
+### Монако
+
+1 туров: 
+
+- [Франция, Италия, Монако: Прованс, Альпы и Лазурный берег 8 дней · 4 500 лари](https://besttraveler.ge/ru/tury/france-italy-monaco-provence-riviera/)
+
+### Андорра
+
+1 туров: 
+
+- [Испания, Франция, Андорра — тур на 10 дней из Барселоны 10 дней · 4 700 лари](https://besttraveler.ge/ru/tury/spain-france-andorra-barcelona/)
+
+### Гибралтар
+
+1 туров: 
+
+- [Юг Испании и Гибралтар — групповой тур, 27 января – 3 февраля 8 дней / 7 ночей · 4 800 лари](https://besttraveler.ge/ru/tury/south-spain-andalusia-gibraltar/)
+
+### Швейцария
+
+1 туров: 
+
+- [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн 8 дней / 7 ночей · 4 500 лари](https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germany/)
+
+### Германия
+
+2 туров: 
+
+- [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн 8 дней / 7 ночей · 4 500 лари](https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germany/)
+- [Нидерланды и Германия: фестиваль тюльпанов — тур на 8 дней 8 дней · 4 100 лари](https://besttraveler.ge/ru/tury/netherlands-germany-tulip-festival/)
+
+### Австрия
+
+2 туров: 
+
+- [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн 8 дней / 7 ночей · 4 500 лари](https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germany/)
+- [Братислава, Словакия — тур с экскурсией в Вену 6 дней / 5 ночей · 1 700 лари](https://besttraveler.ge/ru/tury/bratislava-slovakia-vienna/)
+
+### Лихтенштейн
+
+1 туров: 
+
+- [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн 8 дней / 7 ночей · 4 500 лари](https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germany/)
+
+### Словакия
+
+1 туров: 
+
+- [Братислава, Словакия — тур с экскурсией в Вену 6 дней / 5 ночей · 1 700 лари](https://besttraveler.ge/ru/tury/bratislava-slovakia-vienna/)
+
+### Литва
+
+1 туров: 
+
+- [Вильнюс, Литва — тур на 5 дней из Кутаиси 5 дней / 4 ночи · 1 500 лари](https://besttraveler.ge/ru/tury/vilnius-lithuania-trakai/)
+
+### Бельгия
+
+1 туров: 
+
+- [Бельгия и Нидерланды — групповой тур на 8 дней 8 дней · 4 300 лари](https://besttraveler.ge/ru/tury/belgium-netherlands-brussels-amsterdam/)
+
+### Мальта
+
+1 туров: 
+
+- [Мальта через Рим — тур на 8 дней 8 дней · 4 100 лари](https://besttraveler.ge/ru/tury/malta-valletta-via-rome/)
+
+### Марокко
+
+1 туров: 
+
+- [Групповой тур в Марокко с остановкой в Риме — 13–22 ноября 10 дней / 9 ночей · 2 200 евро](https://besttraveler.ge/ru/tury/morocco-marrakesh-fes-rome/)
+
+### Индия
+
+1 туров: 
+
+- [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур 9 дней / 8 ночей · 4 800 лари](https://besttraveler.ge/ru/tury/india-rajasthan-delhi-udaipur/)
+
+### Китай
+
+1 туров: 
+
+- [Групповой тур в Китай: Пекин, Чжанцзяцзе, Лэшань, Гонконг 13 дней · 3 500 долларов](https://besttraveler.ge/ru/tury/china-beijing-zhangjiajie-hong-kong/)
+
+### Мальдивы
+
+1 туров: 
+
+- [Шри-Ланка и Мальдивы — групповой тур 11 дней · 8 500 лари](https://besttraveler.ge/ru/tury/sri-lanka-maldives/)
