@@ -13,6 +13,11 @@ Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 22 more 
 [See tours](https://besttraveler.ge/en/tours/)
 [Message us on WhatsApp](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour)
 
+- 60tours
+- 26countries
+- 19day tours
+- from 60 GELday tours
+
 ## Choose a type of tour
 
 [34 tours 
