@@ -498,3 +498,8 @@ html[lang=ka] .answer b{text-transform:none;letter-spacing:0}
 .mbus.done{opacity:0}
 .maplibregl-ctrl-attrib{font-size:11px}
 @media (min-width:1000px){.hero{padding-top:32px;padding-bottom:40px}.hero-lt{max-width:380px;margin-top:-20px}.hero .badge{margin-bottom:14px}}
+/* calmer page titles */
+.phead h1{font-size:clamp(26px,3.4vw,38px);line-height:1.22;max-width:30ch}
+.thead h1{font-size:clamp(25px,3vw,34px)}
+html[lang=ka] .phead h1{font-size:clamp(24px,3vw,34px)}
+html[lang=ka] .eyebrow{text-transform:none;letter-spacing:0;font-size:14px}
