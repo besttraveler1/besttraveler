@@ -208,7 +208,7 @@
   if (lts.length && matchMedia('(min-width: 1000px)').matches && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
     var start = function () {
       var sc = d.createElement('script');
-      sc.src = '/assets/vendor/lottie_light.min.js';
+      sc.src = '/assets/vendor/lottie_svg.min.js';
       sc.onload = function () {
         lts.forEach(function (el) {
           var once = el.hasAttribute('data-once');
