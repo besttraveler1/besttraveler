@@ -550,3 +550,4 @@ html[lang=ka] .combo-g{text-transform:none;letter-spacing:0}
 .nf-pin{display:inline-flex;width:92px;height:92px;align-items:center;justify-content:center;border-radius:50%;background:var(--brand-soft)}
 .nf-pin .ico{width:54px;height:54px;stroke-width:1.8;animation:nfb 2.4s ease-in-out infinite}
 @keyframes nfb{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@media (min-width:1000px){.hlt-fun{grid-template-columns:minmax(0,1fr) 320px}.hlt-fun .page-lt{width:320px;aspect-ratio:5/4}}
