@@ -166,23 +166,37 @@
       var map = new ml.Map({ container: holder, style: 'https://tiles.openfreemap.org/styles/' + (dark() ? 'dark' : 'liberty'),
         bounds: b, fitBoundsOptions: { padding: { top: 50, bottom: 50, left: 50, right: 150 }, maxZoom: 10 }, cooperativeGestures: true, attributionControl: { compact: true } });
       map.addControl(new ml.NavigationControl({ showCompass: false }), 'top-right');
+      map.on('error', function (ev) { if (window.console) console.warn('map', ev && ev.error); });
       map.on('load', function () {
         map.getStyle().layers.forEach(function (ly) {
           if (ly.type === 'symbol' && ly.layout && ly.layout['text-field'])
-            map.setLayoutProperty(ly.id, 'text-field', ['coalesce', ['get', 'name:' + D.lang], ['get', 'name']]);
+            { map.setLayoutProperty(ly.id, 'text-field', ['coalesce', ['get', 'name:' + D.lang], ['get', 'name']]); map.setPaintProperty(ly.id, 'text-opacity', .7); }
         });
         map.addSource('route', { type: 'geojson', data: { type: 'Feature', geometry: { type: 'LineString', coordinates: [D.line[0]] } } });
         map.addLayer({ id: 'route-casing', type: 'line', source: 'route', paint: { 'line-color': '#ffffff', 'line-width': 7, 'line-opacity': .85 }, layout: { 'line-cap': 'round', 'line-join': 'round' } });
-        map.addLayer({ id: 'route', type: 'line', source: 'route', paint: { 'line-color': '#6d28d9', 'line-width': 3.5, 'line-dasharray': [1.2, 1.6] }, layout: { 'line-cap': 'round', 'line-join': 'round' } });
+        map.addLayer({ id: 'route', type: 'line', source: 'route', paint: { 'line-color': '#6d28d9', 'line-width': 3.5 }, layout: { 'line-cap': 'round', 'line-join': 'round' } });
 
-        // pins
-        var pins = D.pins.map(function (p, i) {
-          var el = d.createElement('div'); el.className = 'mpin';
-          el.innerHTML = '<b>' + (i + 1) + '</b><span></span>'; el.lastChild.textContent = p[2];
-          var mk = new ml.Marker({ element: el, anchor: 'left', offset: [-13, 0] }).setLngLat([p[1], p[0]]).addTo(map);
-          el.setAttribute('role', 'img'); el.setAttribute('aria-label', (i + 1) + '. ' + p[2]);
-          return { el: el, lng: p[1], lat: p[0] };
+        // pins as map layers, so the map itself keeps labels from overlapping
+        var feats = D.pins.map(function (p, k) {
+          return { type: 'Feature', geometry: { type: 'Point', coordinates: [p[1], p[0]] }, properties: { i: k, n: String(k + 1), label: p[2] } };
         });
+        map.addSource('pins', { type: 'geojson', data: { type: 'FeatureCollection', features: feats } });
+        var shownMax = -1;
+        var filt = function () { return ['<=', ['get', 'i'], shownMax]; };
+        map.addLayer({ id: 'pins-c', type: 'circle', source: 'pins', filter: filt(),
+          paint: { 'circle-radius': 11, 'circle-color': '#6d28d9', 'circle-stroke-color': '#ffffff', 'circle-stroke-width': 3 } });
+        map.addLayer({ id: 'pins-n', type: 'symbol', source: 'pins', filter: filt(),
+          layout: { 'text-field': ['get', 'n'], 'text-font': ['Noto Sans Bold'], 'text-size': 12, 'text-allow-overlap': true, 'text-padding': 9 },
+          paint: { 'text-color': '#ffffff' } });
+        map.addLayer({ id: 'pins-l', type: 'symbol', source: 'pins', filter: filt(),
+          layout: { 'text-field': ['get', 'label'], 'text-font': ['Noto Sans Bold'], 'text-size': 13, 'symbol-sort-key': ['get', 'i'],
+            'text-variable-anchor': ['left', 'right', 'top', 'bottom', 'top-left', 'bottom-right'], 'text-radial-offset': 1.25, 'text-justify': 'auto', 'text-padding': 3 },
+          paint: { 'text-color': '#1f1a33', 'text-halo-color': '#ffffff', 'text-halo-width': 2.2 } });
+        var reveal = function (k) {
+          if (k <= shownMax) return; shownMax = k;
+          ['pins-c', 'pins-n', 'pins-l'].forEach(function (id) { map.setFilter(id, filt()); });
+        };
+        var pins = D.pins.map(function (p, k) { return { k: k, lng: p[1], lat: p[0] }; });
         var bus = d.createElement('div'); bus.className = 'mbus';
         bus.innerHTML = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 6v6M15 6v6M2 12h19.6M18 18h3s.5-1.7.8-2.8c.1-.4.2-.8.2-1.2 0-.4-.1-.8-.2-1.2l-1.4-5C20.1 6.8 19.1 6 18 6H4a2 2 0 0 0-2 2v10h3"/><circle cx="7" cy="18" r="2"/><path d="M9 18h5"/><circle cx="16" cy="18" r="2"/></svg>';
         var busM = new ml.Marker({ element: bus }).setLngLat(D.line[0]).addTo(map);
@@ -192,7 +206,7 @@
         for (var i = 1; i < L.length; i++) { var dd = Math.hypot(L[i][0] - L[i - 1][0], L[i][1] - L[i - 1][1]); seg.push(dd); tot += dd; }
         var dur = still ? 0 : 3200, t0 = null;
         var reached = function (lng, lat) {
-          pins.forEach(function (p) { if (Math.abs(p.lng - lng) < 0.05 && Math.abs(p.lat - lat) < 0.04) p.el.classList.add('on'); });
+          pins.forEach(function (p) { if (Math.abs(p.lng - lng) < 0.05 && Math.abs(p.lat - lat) < 0.04) reveal(p.k); });
         };
         reached(L[0][0], L[0][1]);
         var step = function (ts) {
@@ -206,7 +220,7 @@
           }
           map.getSource('route').setData({ type: 'Feature', geometry: { type: 'LineString', coordinates: coords } });
           busM.setLngLat(pos);
-          if (f < 1) requestAnimationFrame(step); else { pins.forEach(function (p) { p.el.classList.add('on'); }); bus.classList.add('done'); }
+          if (f < 1) requestAnimationFrame(step); else { reveal(pins.length - 1); setTimeout(function () { busM.remove(); }, 400); }
         };
         // keep the drawn map until the real map has finished loading its tiles, then swap them smoothly
         var go = function () { if (box.classList.contains('live')) return; box.classList.add('live'); requestAnimationFrame(step); };
