@@ -542,3 +542,5 @@ html[lang=ka] .combo-g{text-transform:none;letter-spacing:0}
 .cc a small{color:var(--muted);font-size:13px}
 
 .mapbox:not(.live){background:linear-gradient(90deg,var(--soft) 0%,var(--soft2) 50%,var(--soft) 100%);background-size:200% 100%;animation:sk 1.6s linear infinite}
+.phead h1{max-width:none;text-wrap:balance}
+.phead h1 .hflag{display:inline-block;vertical-align:-.08em}
