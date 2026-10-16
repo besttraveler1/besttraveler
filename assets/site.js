@@ -281,7 +281,7 @@
       sc.onload = function () {
         lts.forEach(function (el) {
           var once = el.hasAttribute('data-once');
-          var an = window.lottie.loadAnimation({ container: el, renderer: 'svg', loop: !once, autoplay: !once, path: el.getAttribute('data-lottie'),
+          var an = window.lottie.loadAnimation({ container: el, renderer: 'svg', loop: !once, autoplay: !once, path: (el.getAttribute('data-lottie-dark') && (root.getAttribute('data-theme') === 'dark' || (!root.getAttribute('data-theme') && matchMedia('(prefers-color-scheme: dark)').matches))) ? el.getAttribute('data-lottie-dark') : el.getAttribute('data-lottie'),
             rendererSettings: { preserveAspectRatio: 'xMidYMid meet', progressiveLoad: true } });
           // whole frames only: the grass layer has a 1-frame jump at the end that must never be drawn in between
           an.setSubframe(false);
