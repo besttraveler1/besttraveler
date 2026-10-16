@@ -125,6 +125,24 @@
     maps.forEach(function (m) { m.classList.add('anim'); io.observe(m); });
   }
 
+  // Lottie animations: desktop only, loaded after the page is ready, off for reduced motion
+  var lts = $$('[data-lottie]');
+  if (lts.length && matchMedia('(min-width: 1000px)').matches && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    var start = function () {
+      var sc = d.createElement('script');
+      sc.src = '/assets/vendor/lottie_light.min.js';
+      sc.onload = function () {
+        lts.forEach(function (el) {
+          window.lottie.loadAnimation({ container: el, renderer: 'svg', loop: true, autoplay: true, path: el.getAttribute('data-lottie'),
+            rendererSettings: { preserveAspectRatio: 'xMidYMid meet', progressiveLoad: true } });
+          el.classList.add('on');
+        });
+      };
+      d.head.appendChild(sc);
+    };
+    if ('requestIdleCallback' in window) requestIdleCallback(start, { timeout: 2500 }); else setTimeout(start, 1200);
+  }
+
   // tour filters
   var grid = $('[data-filter-grid]');
   if (grid) {

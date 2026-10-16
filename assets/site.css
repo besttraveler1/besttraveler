@@ -468,3 +468,18 @@ html[lang=ka] .answer b{text-transform:none;letter-spacing:0}
 .smap h2{font-size:20px}
 .smap ul{padding-left:18px;margin:0}
 .smap li{margin-bottom:6px}
+
+/* hero with animation (desktop) */
+.lt{display:none}
+@media (min-width:1000px){
+  .hero{text-align:left}
+  .hgrid{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,.75fr);gap:32px;align-items:center}
+  .hero .lead{margin-left:0}
+  .hero .btns{justify-content:flex-start}
+  .hero-lt{display:block;aspect-ratio:1/1;width:100%;max-width:440px;justify-self:end;opacity:0;transition:opacity .6s}
+  .stepwrap{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:32px;align-items:center}
+  .steps-lt{display:block;aspect-ratio:1/1;width:300px;opacity:0;transition:opacity .6s}
+  .lt.on{opacity:1}
+  .stepwrap .steps{grid-template-columns:1fr}
+}
+@media (min-width:1000px){.hero h1{font-size:clamp(34px,3.6vw,48px)}.hero .stats{margin-left:0;max-width:none}}
