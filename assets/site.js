@@ -258,6 +258,56 @@
     if (h && chips.some(function (c) { return c.getAttribute('data-f') === h; })) apply(h);
   }
 
+  // searchable tour picker (enhances the native select; the select still works without JS)
+  $$('select[data-combo]').forEach(function (sel) {
+    var wrap = d.createElement('div'); wrap.className = 'combo';
+    var inp = d.createElement('input'); inp.type = 'text'; inp.id = sel.id; inp.autocomplete = 'off';
+    inp.placeholder = sel.getAttribute('data-ph'); inp.setAttribute('role', 'combobox');
+    inp.setAttribute('aria-expanded', 'false'); inp.setAttribute('aria-autocomplete', 'list');
+    var list = d.createElement('ul'); list.className = 'combo-list'; list.id = sel.id + '-list'; list.setAttribute('role', 'listbox'); list.hidden = true;
+    inp.setAttribute('aria-controls', list.id);
+    var hid = d.createElement('input'); hid.type = 'hidden'; hid.name = sel.name;
+    var clr = d.createElement('button'); clr.type = 'button'; clr.className = 'combo-x'; clr.hidden = true; clr.setAttribute('aria-label', '×'); clr.textContent = '×';
+    var items = [];
+    $$('optgroup', sel).forEach(function (g) {
+      $$('option', g).forEach(function (o) { items.push({ g: g.label, t: o.textContent, s: o.getAttribute('data-sub') || '', k: o.getAttribute('data-k') || '' }); });
+    });
+    sel.removeAttribute('id'); sel.removeAttribute('name'); sel.hidden = true;
+    sel.parentNode.insertBefore(wrap, sel);
+    wrap.appendChild(inp); wrap.appendChild(clr); wrap.appendChild(list); wrap.appendChild(hid);
+    var act = -1, shown = [];
+    function draw() {
+      var q = norm(inp.value), last = null, h = '';
+      shown = items.filter(function (it) { return !q || norm(it.t + ' ' + it.g + ' ' + it.k).indexOf(q) > -1; });
+      shown.forEach(function (it, i) {
+        if (it.g !== last) { h += '<li class="combo-g" role="presentation">' + esc(it.g) + '</li>'; last = it.g; }
+        h += '<li role="option" id="' + list.id + '-' + i + '" data-i="' + i + '"' + (i === act ? ' aria-selected="true"' : '') + '><b>' + esc(it.t) + '</b>' + (it.s ? '<small>' + esc(it.s) + '</small>' : '') + '</li>';
+      });
+      list.innerHTML = h || '<li class="combo-none">' + esc(sel.getAttribute('data-none')) + '</li>';
+    }
+    function open(v) { list.hidden = !v; inp.setAttribute('aria-expanded', v ? 'true' : 'false'); if (v) draw(); }
+    function pick(i) {
+      var it = shown[i]; if (!it) return;
+      inp.value = it.t; hid.value = it.t; clr.hidden = false; act = -1; open(false);
+    }
+    function move(k) {
+      if (list.hidden) open(true);
+      act = Math.max(0, Math.min(shown.length - 1, act + k)); draw();
+      var el = d.getElementById(list.id + '-' + act); if (el) { el.scrollIntoView({ block: 'nearest' }); inp.setAttribute('aria-activedescendant', el.id); }
+    }
+    inp.addEventListener('focus', function () { open(true); });
+    inp.addEventListener('input', function () { hid.value = ''; act = -1; clr.hidden = !inp.value; open(true); });
+    inp.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowDown') { e.preventDefault(); move(1); }
+      else if (e.key === 'ArrowUp') { e.preventDefault(); move(-1); }
+      else if (e.key === 'Enter' && !list.hidden && act > -1) { e.preventDefault(); pick(act); }
+      else if (e.key === 'Escape') { open(false); }
+    });
+    list.addEventListener('mousedown', function (e) { var li = e.target.closest('[data-i]'); if (li) { e.preventDefault(); pick(+li.getAttribute('data-i')); } });
+    clr.addEventListener('click', function () { inp.value = ''; hid.value = ''; clr.hidden = true; inp.focus(); });
+    d.addEventListener('click', function (e) { if (!wrap.contains(e.target)) open(false); });
+  });
+
   // WhatsApp request form
   $$('form[data-wa]').forEach(function (f) {
     f.addEventListener('submit', function (e) {

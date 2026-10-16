@@ -503,3 +503,16 @@ html[lang=ka] .answer b{text-transform:none;letter-spacing:0}
 .thead h1{font-size:clamp(25px,3vw,34px)}
 html[lang=ka] .phead h1{font-size:clamp(24px,3vw,34px)}
 html[lang=ka] .eyebrow{text-transform:none;letter-spacing:0;font-size:14px}
+
+.combo{position:relative}
+.combo input{padding-right:40px}
+.combo-x{position:absolute;right:6px;top:7px;width:36px;height:36px;border:0;border-radius:8px;background:transparent;color:var(--muted);font-size:22px;cursor:pointer}
+.combo-x:hover{background:var(--soft)}
+.combo-list{position:absolute;z-index:20;left:0;right:0;top:calc(100% + 6px);max-height:300px;overflow:auto;margin:0;padding:6px;list-style:none;background:var(--card);border:1px solid var(--border2);border-radius:12px;box-shadow:var(--shadow)}
+.combo-list li[role=option]{padding:9px 10px;border-radius:9px;cursor:pointer}
+.combo-list li[role=option]:hover,.combo-list li[aria-selected=true]{background:var(--brand-soft)}
+.combo-list b{display:block;font-weight:500;font-size:15px;line-height:1.35}
+.combo-list small{display:block;color:var(--muted);font-size:13px}
+.combo-g{position:sticky;top:-6px;background:var(--card);font-size:12px;font-weight:600;color:var(--brand-text);padding:8px 10px 4px;text-transform:uppercase;letter-spacing:.04em}
+html[lang=ka] .combo-g{text-transform:none;letter-spacing:0}
+.combo-none{padding:12px;color:var(--muted)}
