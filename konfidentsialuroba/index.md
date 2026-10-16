@@ -21,3 +21,7 @@ besttraveler.ge არის საინფორმაციო საიტ�
 ## კონტაქტი
 
 კითხვები მონაცემებზე: info@besttraveler.ge
+
+## ფოტოები და ანიმაციები
+
+ფოტოები Wikimedia Commons-იდან თავისუფალი ლიცენზიებით გამოიყენება — ავტორი და ლიცენზია თითოეულ ფოტოსთან წერია. ანიმაციები LottieFiles-იდანაა და Lottie Simple License-ით (lottiefiles.com/page/license) ვრცელდება.

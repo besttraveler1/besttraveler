@@ -21,3 +21,7 @@ When a tour map is shown, your browser loads map tiles from OpenFreeMap (tiles.o
 ## Contact
 
 Questions about data: info@besttraveler.ge
+
+## Photos and animations
+
+Photos come from Wikimedia Commons under free licences — the author and licence are shown under each photo. Animations come from LottieFiles and are used under the Lottie Simple License (lottiefiles.com/page/license).

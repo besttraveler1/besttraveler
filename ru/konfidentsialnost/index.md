@@ -21,3 +21,7 @@ besttraveler.ge — информационный сайт о наших тура
 ## Контакты
 
 Вопросы о данных: info@besttraveler.ge
+
+## Фото и анимации
+
+Фото взяты из Wikimedia Commons по свободным лицензиям — автор и лицензия указаны под каждым фото. Анимации взяты с LottieFiles и используются по лицензии Lottie Simple License (lottiefiles.com/page/license).

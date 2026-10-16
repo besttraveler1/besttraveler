@@ -560,3 +560,4 @@ html[lang=ka] .combo-g{text-transform:none;letter-spacing:0}
   .page-lt{height:200px;width:300px;aspect-ratio:auto}
   .hlt-world .page-lt{width:340px}
 }
+@media (min-width:1000px){.hlt-panda .page-lt,.hlt-contact .page-lt{height:150px;width:220px}}
