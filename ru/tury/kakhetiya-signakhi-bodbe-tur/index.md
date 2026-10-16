@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -35,6 +31,10 @@ URL: https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/
 - Крепость Манави
 - Женский монастырь Святой Нино в Бодбе
 - Сигнахи
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

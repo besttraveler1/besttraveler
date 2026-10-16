@@ -38,10 +38,6 @@ URL: https://besttraveler.ge/ru/tury/alpy-shveytsariya-5-stran-tur/
 
 Цена4 500 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -120,6 +116,10 @@ URL: https://besttraveler.ge/ru/tury/alpy-shveytsariya-5-stran-tur/
 
 - Лион — третий по величине город Франции, «столица гастрономии»; исторический центр в списке ЮНЕСКО
 - Трансфер в аэропорт
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

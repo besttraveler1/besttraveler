@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/turebi/bratislava-slovakia-vena-turi/
 
 ფასი1 700 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -75,6 +71,10 @@ URL: https://besttraveler.ge/turebi/bratislava-slovakia-vena-turi/
 
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ 05:30
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

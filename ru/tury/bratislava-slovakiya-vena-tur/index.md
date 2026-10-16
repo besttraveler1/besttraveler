@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/ru/tury/bratislava-slovakiya-vena-tur/
 
 Цена1 700 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -75,6 +71,10 @@ URL: https://besttraveler.ge/ru/tury/bratislava-slovakiya-vena-tur/
 
 - Трансфер в аэропорт
 - Вылет в Кутаиси в 05:30
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

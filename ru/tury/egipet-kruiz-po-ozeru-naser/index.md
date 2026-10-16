@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/ru/tury/egipet-kruiz-po-ozeru-naser/
 
 Цена6 650 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -119,6 +115,10 @@ URL: https://besttraveler.ge/ru/tury/egipet-kruiz-po-ozeru-naser/
 ### День 11
 
 - Вылет в Тбилиси в 02:05
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

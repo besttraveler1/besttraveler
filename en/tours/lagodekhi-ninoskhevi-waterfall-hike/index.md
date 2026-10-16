@@ -22,16 +22,16 @@ DepartureTbilisi, 07:00
 
 Price60 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
 - Ninoskhevi gorge, Lagodekhi
 - Ninoskhevi (Gurgeniani) waterfall
 - Walk: 8.3 km one way, medium, hard in places
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

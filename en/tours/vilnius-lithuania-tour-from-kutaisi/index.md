@@ -23,10 +23,6 @@ DepartureKutaisi (KUT)
 
 Price1,500 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -70,6 +66,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 - Transfer to the airport
 - Flight to Kutaisi at 08:45
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

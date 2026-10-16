@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/turebi/trapizoni-sumela-turi/
 
 ფასი470 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -59,6 +55,10 @@ URL: https://besttraveler.ge/turebi/trapizoni-sumela-turi/
 
 - სუმელას მონასტერი
 - დაბრუნება საქართველოში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## მნიშვნელოვანია
 

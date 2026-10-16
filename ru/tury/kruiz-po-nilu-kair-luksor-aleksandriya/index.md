@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/ru/tury/kruiz-po-nilu-kair-luksor-aleksandriya/
 
 Цена6 550 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -85,6 +81,10 @@ URL: https://besttraveler.ge/ru/tury/kruiz-po-nilu-kair-luksor-aleksandriya/
 ### День 9
 
 - Вылет в Тбилиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

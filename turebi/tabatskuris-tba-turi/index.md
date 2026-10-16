@@ -23,10 +23,6 @@ URL: https://besttraveler.ge/turebi/tabatskuris-tba-turi/
 
 ფასი70 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -36,6 +32,10 @@ URL: https://besttraveler.ge/turebi/tabatskuris-tba-turi/
 - ტაბაწყურის ტბა
 - თავისუფალი დრო ტბასთან
 - ტიმოთესუბნის ღვთისმშობლის სახელობის მონასტერი (XII–XIII საუკუნეები)
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## მნიშვნელოვანია
 

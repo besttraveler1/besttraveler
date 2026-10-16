@@ -33,10 +33,6 @@ URL: https://besttraveler.ge/turebi/provansi-monako-lazhvardovani-sanapiro/
 
 ფასი4 500 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -105,6 +101,10 @@ URL: https://besttraveler.ge/turebi/provansi-monako-lazhvardovani-sanapiro/
 - იდეალური სასახლე (Palais Idéal)
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ 18:40
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

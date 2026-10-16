@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/turebi/saberdzneti-saloniki-meteora-ateni-turi/
 
 ფასი2 100 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -98,6 +94,10 @@ URL: https://besttraveler.ge/turebi/saberdzneti-saloniki-meteora-ateni-turi/
 ### დღე 8
 
 - გამოფრენა ათენის აეროპორტიდან
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

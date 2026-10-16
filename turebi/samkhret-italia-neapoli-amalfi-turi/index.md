@@ -36,10 +36,6 @@ URL: https://besttraveler.ge/turebi/samkhret-italia-neapoli-amalfi-turi/
 
 ფასი4 100 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -115,6 +111,10 @@ URL: https://besttraveler.ge/turebi/samkhret-italia-neapoli-amalfi-turi/
 
 - სავაჭრო ცენტრი
 - ტრანსფერი აეროპორტში 13:00
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

@@ -34,10 +34,6 @@ URL: https://besttraveler.ge/turebi/niderlandebi-titebis-festivali-turi/
 
 ფასი4 100 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -103,6 +99,10 @@ URL: https://besttraveler.ge/turebi/niderlandebi-titebis-festivali-turi/
 - თავისუფალი დრო
 - ტრანსფერი აეროპორტში
 - გამოფრენა თბილისისკენ 16:30
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

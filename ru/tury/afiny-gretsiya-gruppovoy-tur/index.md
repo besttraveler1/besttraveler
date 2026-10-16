@@ -23,10 +23,6 @@ URL: https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/
 
 Цена1 200 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -67,6 +63,10 @@ URL: https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/
 - Трансфер в аэропорт
 - Вылет в Кутаиси в 08:35
 - Прилёт в Кутаиси в 12:10
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

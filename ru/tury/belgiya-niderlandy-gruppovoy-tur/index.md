@@ -31,10 +31,6 @@ URL: https://besttraveler.ge/ru/tury/belgiya-niderlandy-gruppovoy-tur/
 
 Цена4 300 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -98,6 +94,10 @@ URL: https://besttraveler.ge/ru/tury/belgiya-niderlandy-gruppovoy-tur/
 - Свободное время
 - Трансфер в аэропорт
 - Вылет в Кутаиси в 18:35
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

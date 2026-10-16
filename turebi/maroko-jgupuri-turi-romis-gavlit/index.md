@@ -32,10 +32,6 @@ URL: https://besttraveler.ge/turebi/maroko-jgupuri-turi-romis-gavlit/
 
 ფასი2 200 ევრო
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -116,6 +112,10 @@ URL: https://besttraveler.ge/turebi/maroko-jgupuri-turi-romis-gavlit/
 - თავისუფალი დრო ფიუმიჩინოში
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ 18:10
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

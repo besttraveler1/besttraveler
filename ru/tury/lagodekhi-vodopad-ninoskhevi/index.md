@@ -22,16 +22,16 @@ URL: https://besttraveler.ge/ru/tury/lagodekhi-vodopad-ninoskhevi/
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
 - Ущелье Ниносхеви, Лагодехи
 - Водопад Ниносхеви (Гургениани)
 - Пешая прогулка: 8,3 км в одну сторону, средняя сложность, местами сложно
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/turebi/peradi-udabno-davit-gareja-turi/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -39,6 +35,10 @@ URL: https://besttraveler.ge/turebi/peradi-udabno-davit-gareja-turi/
 - ნათლისმცემლის სახელობის გარეჯის მონასტერი
 - ხედები უდაბნოს მასივზე
 - ფეხით სვლა: მარტივი, ჯამში 1 კმ
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

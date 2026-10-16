@@ -25,10 +25,6 @@ DepartureTbilisi, 07:00
 
 Price60 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -39,6 +35,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Tskere village
 - Khada Church of the Great Martyr
 - Walk: 4.2 km one way, easy
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

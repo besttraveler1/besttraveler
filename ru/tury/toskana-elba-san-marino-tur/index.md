@@ -32,10 +32,6 @@ URL: https://besttraveler.ge/ru/tury/toskana-elba-san-marino-tur/
 
 Цена4 000 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -138,6 +134,10 @@ URL: https://besttraveler.ge/ru/tury/toskana-elba-san-marino-tur/
 
 - Трансфер в аэропорт
 - Вылет в Кутаиси в 08:20
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

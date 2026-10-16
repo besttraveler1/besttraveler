@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/ru/tury/trusovskoe-ushchele-tur/
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -37,6 +33,10 @@ URL: https://besttraveler.ge/ru/tury/trusovskoe-ushchele-tur/
 - Женский монастырь Абано
 - Крепость Закагори
 - Пешая прогулка: 6–7 км в одну сторону, лёгкая
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

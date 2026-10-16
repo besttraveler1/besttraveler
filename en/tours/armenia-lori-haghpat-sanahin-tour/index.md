@@ -26,10 +26,6 @@ DepartureTbilisi, 07:00
 
 Price90 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -39,6 +35,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Odzun, 6th-century church
 - Kobayr, Georgian monastery known for its unique frescoes
 - Tamar's Bridge in the town of Alaverdi
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

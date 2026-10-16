@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/ru/tury/egipet-khurgada-luksor-suetskiy-kanal/
 
 Цена6 100 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -101,6 +97,10 @@ URL: https://besttraveler.ge/ru/tury/egipet-khurgada-luksor-suetskiy-kanal/
 - Свободный день
 - Трансфер в аэропорт в 20:00
 - Вылет в Тбилиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

@@ -31,10 +31,6 @@ URL: https://besttraveler.ge/ru/tury/tao-klardzheti-tur/
 
 Цена480 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -58,6 +54,10 @@ URL: https://besttraveler.ge/ru/tury/tao-klardzheti-tur/
 - Руины храма Бана и древнего города
 - Шопинг и прогулка в городе Ардаган (Артаани)
 - Возвращение в Грузию
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

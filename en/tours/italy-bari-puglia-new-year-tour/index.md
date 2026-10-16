@@ -28,10 +28,6 @@ DepartureYerevan (EVN)
 
 Price2,600 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -73,6 +69,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Flight to Yerevan at 07:50
 - Arrival in Yerevan at 13:15
 - Return to Tbilisi
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

@@ -263,10 +263,13 @@
         mio.unobserve(en.target);
         loadML().then(function () { initMap(en.target); }).catch(function () {});
       });
-    }, { threshold: 0.2 });
-    // start watching only after the page has fully loaded, so the map never competes with the first paint
-    var watch = function () { mboxes.forEach(function (m) { mio.observe(m); }); };
-    if (d.readyState === 'complete') watch(); else window.addEventListener('load', function () { setTimeout(watch, 1500); });
+    }, { rootMargin: '600px 0px' });
+    // after the page has loaded: fetch the map library in the background, then draw maps that are near the screen
+    var watch = function () {
+      var go = function () { if (matchMedia('(min-width: 980px)').matches) loadML().catch(function () {}); mboxes.forEach(function (m) { mio.observe(m); }); };
+      if ('requestIdleCallback' in window) requestIdleCallback(go, { timeout: 1200 }); else setTimeout(go, 300);
+    };
+    if (d.readyState === 'complete') watch(); else window.addEventListener('load', watch);
   }
 
   // Lottie animations: desktop only, loaded after the page is ready, off for reduced motion

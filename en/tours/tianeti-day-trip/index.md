@@ -24,10 +24,6 @@ DepartureTbilisi, 08:00
 
 Price60 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -37,6 +33,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Monastery of St King Archil
 - Kor-Shevardeni tower (Ertso fortress)
 - Sioni Lake
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Good to know
 

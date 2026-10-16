@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/turebi/kakheti-gurjaani-zegaani-turi/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -38,6 +34,10 @@ URL: https://besttraveler.ge/turebi/kakheti-gurjaani-zegaani-turi/
 - ზიარის ტბა
 - ზეგაანის მონასტერი (V–IX საუკუნეები)
 - სანაგირეს სამონასტრო კომპლექსი (X–XI საუკუნეები)
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

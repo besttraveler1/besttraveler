@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/turebi/somkheti-dilijani-ertdghiani-turi/
 
 ფასი150 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -39,6 +35,10 @@ URL: https://besttraveler.ge/turebi/somkheti-dilijani-ertdghiani-turi/
 - ჰაღარცინი (უფასოდ)
 - გოშავანკი (უფასოდ)
 - პარზის ტბა (უფასოდ)
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

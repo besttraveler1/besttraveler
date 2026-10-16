@@ -23,10 +23,6 @@ DepartureTbilisi, 06:00
 
 Price70 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -36,6 +32,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Tabatskuri Lake
 - Free time by the lake
 - Timotesubani Monastery of the Mother of God (12th–13th centuries)
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Good to know
 

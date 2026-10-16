@@ -24,10 +24,6 @@ DepartureKutaisi (KUT)
 
 Price1,500 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -73,6 +69,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Basilica of Santa Maria della Salute
 - Transfer to the airport
 - Flight to Kutaisi at 16:35
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

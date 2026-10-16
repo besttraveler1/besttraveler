@@ -32,10 +32,6 @@ URL: https://besttraveler.ge/turebi/sitsilia-samkhret-italia-turi/
 
 ფასი5 700 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -105,6 +101,10 @@ URL: https://besttraveler.ge/turebi/sitsilia-samkhret-italia-turi/
 ### დღე 8
 
 - ჩამოფრენა თბილისში 01:35
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

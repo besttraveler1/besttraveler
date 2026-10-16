@@ -26,10 +26,6 @@ URL: https://besttraveler.ge/ru/tury/armeniya-tatev-dzhermuk-noravank-tur/
 
 Цена480 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -66,6 +62,10 @@ URL: https://besttraveler.ge/ru/tury/armeniya-tatev-dzhermuk-noravank-tur/
 - Остановка у кафе на озере Севан
 - Алаверди, мост Тамары
 - Возвращение в Тбилиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

@@ -26,10 +26,6 @@ DepartureTbilisi, 08:00
 
 Price60 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -39,6 +35,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Manglisi Sioni Cathedral
 - Buratino Lake
 - Didgori battle memorial
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

@@ -33,10 +33,6 @@ URL: https://besttraveler.ge/ru/tury/provans-monako-lazurnyy-bereg-tur/
 
 Цена4 500 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -105,6 +101,10 @@ URL: https://besttraveler.ge/ru/tury/provans-monako-lazurnyy-bereg-tur/
 - Идеальный дворец (Palais Idéal)
 - Трансфер в аэропорт
 - Вылет в Кутаиси в 18:40
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

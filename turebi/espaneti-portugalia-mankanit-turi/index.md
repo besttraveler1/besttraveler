@@ -32,10 +32,6 @@ URL: https://besttraveler.ge/turebi/espaneti-portugalia-mankanit-turi/
 
 ფასი4 500 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -114,6 +110,10 @@ URL: https://besttraveler.ge/turebi/espaneti-portugalia-mankanit-turi/
 - ბისაგრას კარიბჭე
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ 15:45
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

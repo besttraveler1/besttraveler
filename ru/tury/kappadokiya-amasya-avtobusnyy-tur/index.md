@@ -27,10 +27,6 @@ URL: https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/
 
 Цена1 350 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -92,6 +88,10 @@ URL: https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/
 - Малая Айя-София
 - Торговый центр (по желанию)
 - Возвращение в Тбилиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

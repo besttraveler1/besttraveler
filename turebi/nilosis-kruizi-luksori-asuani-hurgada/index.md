@@ -27,10 +27,6 @@ URL: https://besttraveler.ge/turebi/nilosis-kruizi-luksori-asuani-hurgada/
 
 ფასი4 500 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -97,6 +93,10 @@ URL: https://besttraveler.ge/turebi/nilosis-kruizi-luksori-asuani-hurgada/
 
 - გამოფრენა თბილისისკენ 03:20
 - ჩამოფრენა 15:50
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

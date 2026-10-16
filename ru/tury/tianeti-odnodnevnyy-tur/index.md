@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/ru/tury/tianeti-odnodnevnyy-tur/
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -37,6 +33,10 @@ URL: https://besttraveler.ge/ru/tury/tianeti-odnodnevnyy-tur/
 - Мужской монастырь Святого царя Арчила
 - Башня Кор-Шеварден (крепость Эрцо)
 - Озеро Сиони
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Важно знать
 

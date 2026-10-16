@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/turebi/javakhetis-tbebi-paravani-turi/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -38,6 +34,10 @@ URL: https://besttraveler.ge/turebi/javakhetis-tbebi-paravani-turi/
 - საღამოს ტბა
 - გორელოვკა
 - მადათაფას აღკვეთილი
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

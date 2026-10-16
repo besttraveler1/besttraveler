@@ -26,10 +26,6 @@ URL: https://besttraveler.ge/ru/tury/kitay-pekin-chzhantszyatsze-gonkong-tur/
 
 Цена3 500 долларов
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -120,6 +116,10 @@ URL: https://besttraveler.ge/ru/tury/kitay-pekin-chzhantszyatsze-gonkong-tur/
 
 - Трансфер в аэропорт
 - Вылет в Тбилиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

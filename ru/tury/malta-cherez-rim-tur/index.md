@@ -29,10 +29,6 @@ URL: https://besttraveler.ge/ru/tury/malta-cherez-rim-tur/
 
 Цена4 100 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -95,6 +91,10 @@ URL: https://besttraveler.ge/ru/tury/malta-cherez-rim-tur/
 
 - Трансфер в аэропорт
 - Вылет в Кутаиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

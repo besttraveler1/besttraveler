@@ -25,10 +25,6 @@ DepartureTbilisi (TBS)
 
 Price6,650 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -119,6 +115,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 ### Day 11
 
 - Flight to Tbilisi at 02:05
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

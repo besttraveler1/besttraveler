@@ -36,10 +36,6 @@ URL: https://besttraveler.ge/ru/tury/yug-italii-neapol-amalfi-tur/
 
 Цена4 100 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -115,6 +111,10 @@ URL: https://besttraveler.ge/ru/tury/yug-italii-neapol-amalfi-tur/
 
 - Торговый центр
 - Трансфер в аэропорт в 13:00
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

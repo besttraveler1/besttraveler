@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/turebi/egvipte-iordania-sharm-el-sheikhi-petra/
 
 ფასი3 700 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -88,6 +84,10 @@ URL: https://besttraveler.ge/turebi/egvipte-iordania-sharm-el-sheikhi-petra/
 ### დღე 8
 
 - ტრანსფერი აეროპორტში და დაბრუნება თბილისში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

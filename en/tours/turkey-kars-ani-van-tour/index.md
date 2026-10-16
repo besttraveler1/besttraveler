@@ -25,10 +25,6 @@ DepartureTbilisi, 05:00
 
 Price450 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -60,6 +56,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Akdamar Island
 - Muradiye Waterfall
 - Return to Tbilisi
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

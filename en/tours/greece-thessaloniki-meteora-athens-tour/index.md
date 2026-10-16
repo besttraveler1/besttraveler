@@ -25,10 +25,6 @@ DepartureKutaisi (KUT)
 
 Price2,100 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -98,6 +94,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 ### Day 8
 
 - Flight from Athens airport
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

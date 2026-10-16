@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/turebi/kakheti-sighnaghi-bodbe-turi/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -35,6 +31,10 @@ URL: https://besttraveler.ge/turebi/kakheti-sighnaghi-bodbe-turi/
 - მანავის ციხე
 - ბოდბის წმინდა ნინოს სახელობის დედათა მონასტერი
 - სიღნაღი
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

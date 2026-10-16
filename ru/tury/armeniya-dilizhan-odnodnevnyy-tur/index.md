@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/ru/tury/armeniya-dilizhan-odnodnevnyy-tur/
 
 Цена150 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -39,6 +35,10 @@ URL: https://besttraveler.ge/ru/tury/armeniya-dilizhan-odnodnevnyy-tur/
 - Агарцин (бесплатно)
 - Гошаванк (бесплатно)
 - Озеро Парз (бесплатно)
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

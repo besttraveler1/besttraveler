@@ -31,10 +31,6 @@ DepartureTbilisi, 05:00
 
 Price480 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -58,6 +54,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Ruins of Bana cathedral and the old town
 - Shopping and a walk in Ardahan (Artaani)
 - Return to Georgia
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

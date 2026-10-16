@@ -38,10 +38,6 @@ URL: https://besttraveler.ge/turebi/alpebi-shveitsaria-5-kveqana-turi/
 
 ფასი4 500 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -120,6 +116,10 @@ URL: https://besttraveler.ge/turebi/alpebi-shveitsaria-5-kveqana-turi/
 
 - ლიონი — საფრანგეთის სიდიდით მესამე ქალაქი, „გასტრონომიის დედაქალაქი“; ისტორიული ნაწილი UNESCO-ს სიაშია
 - ტრანსფერი აეროპორტში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

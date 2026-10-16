@@ -26,10 +26,6 @@ URL: https://besttraveler.ge/turebi/somkheti-lore-akhpati-sanahini-turi/
 
 ფასი90 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -39,6 +35,10 @@ URL: https://besttraveler.ge/turebi/somkheti-lore-akhpati-sanahini-turi/
 - ოძუნის VI საუკუნის ტაძარი
 - ქობაირის ქართული მონასტერი (ცნობილია უნიკალური ფრესკებით)
 - თამარის ხიდი ქალაქ ალავერდში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

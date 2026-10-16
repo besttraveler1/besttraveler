@@ -24,10 +24,6 @@ DepartureTbilisi, 08:00
 
 Price60 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -39,6 +35,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Gareja Monastery of St John the Baptist
 - Views over the desert
 - Walk: easy, 1 km in total
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

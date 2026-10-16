@@ -26,10 +26,6 @@ DepartureTbilisi, 06:00
 
 Price480 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -66,6 +62,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Stop at a food place by Lake Sevan
 - Alaverdi, Tamar's Bridge
 - Return to Tbilisi
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/ru/tury/kakhetiya-nekresi-gremi-telavi-tur/
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -35,6 +31,10 @@ URL: https://besttraveler.ge/ru/tury/kakhetiya-nekresi-gremi-telavi-tur/
 - Озеро Ильи
 - Греми
 - Телави, комплекс «Батонис Цихе»
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

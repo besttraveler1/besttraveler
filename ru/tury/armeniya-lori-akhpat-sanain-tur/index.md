@@ -26,10 +26,6 @@ URL: https://besttraveler.ge/ru/tury/armeniya-lori-akhpat-sanain-tur/
 
 Цена90 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -39,6 +35,10 @@ URL: https://besttraveler.ge/ru/tury/armeniya-lori-akhpat-sanain-tur/
 - Храм Одзун, VI век
 - Кобайр, грузинский монастырь, известный уникальными фресками
 - Мост Тамары в городе Алаверди
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

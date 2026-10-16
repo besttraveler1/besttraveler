@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/ru/tury/turtsiya-kars-ani-van-tur/
 
 Цена450 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -60,6 +56,10 @@ URL: https://besttraveler.ge/ru/tury/turtsiya-kars-ani-van-tur/
 - Остров Ахтамар
 - Водопад Мурадие
 - Возвращение в Тбилиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

@@ -32,10 +32,6 @@ URL: https://besttraveler.ge/ru/tury/ispaniya-portugaliya-tur-na-mashine/
 
 Цена4 500 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -114,6 +110,10 @@ URL: https://besttraveler.ge/ru/tury/ispaniya-portugaliya-tur-na-mashine/
 - Ворота Бисагра
 - Трансфер в аэропорт
 - Вылет в Кутаиси в 15:45
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

@@ -27,10 +27,6 @@ URL: https://besttraveler.ge/turebi/kapadokia-amasia-ordu-avtobusuri-turi/
 
 ფასი1 350 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -92,6 +88,10 @@ URL: https://besttraveler.ge/turebi/kapadokia-amasia-ordu-avtobusuri-turi/
 - მცირე აია-სოფია
 - სავაჭრო ცენტრი (სურვილისამებრ)
 - დაბრუნება თბილისში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

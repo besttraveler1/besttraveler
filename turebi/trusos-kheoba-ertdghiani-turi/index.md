@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/turebi/trusos-kheoba-ertdghiani-turi/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -37,6 +33,10 @@ URL: https://besttraveler.ge/turebi/trusos-kheoba-ertdghiani-turi/
 - აბანოს დედათა მონასტერი
 - ზაქაგორის ციხე
 - ფეხით სვლა: ცალმხრივად 6–7 კმ, დაბალი სირთულის
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

@@ -33,10 +33,6 @@ DepartureKutaisi (KUT)
 
 Price4,500 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -136,6 +132,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Sanctuary of Our Lady of Montserrat
 - Transfer to the airport
 - Flight to Kutaisi at 17:15
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

@@ -34,10 +34,6 @@ URL: https://besttraveler.ge/ru/tury/niderlandy-festival-tyulpanov-tur/
 
 Цена4 100 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -103,6 +99,10 @@ URL: https://besttraveler.ge/ru/tury/niderlandy-festival-tyulpanov-tur/
 - Свободное время
 - Трансфер в аэропорт
 - Вылет в Тбилиси в 16:30
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

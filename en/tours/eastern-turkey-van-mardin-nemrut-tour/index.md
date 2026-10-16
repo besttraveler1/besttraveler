@@ -29,10 +29,6 @@ DepartureTbilisi, 07:00
 
 Price1,450 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -95,6 +91,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 ### Day 7
 
 - Return to Tbilisi
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

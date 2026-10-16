@@ -24,10 +24,6 @@ DepartureTbilisi, 07:00
 
 Price60 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -36,6 +32,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Chule waterfall
 - Akhaltsikhe Fortress (Rabati)
 - Sapara Monastery Complex
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

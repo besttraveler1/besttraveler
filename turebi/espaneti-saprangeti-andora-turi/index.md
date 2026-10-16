@@ -34,10 +34,6 @@ URL: https://besttraveler.ge/turebi/espaneti-saprangeti-andora-turi/
 
 ფასი4 700 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -144,6 +140,10 @@ URL: https://besttraveler.ge/turebi/espaneti-saprangeti-andora-turi/
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ 18:25
 - ჩამოფრენა ქუთაისში 01:10
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

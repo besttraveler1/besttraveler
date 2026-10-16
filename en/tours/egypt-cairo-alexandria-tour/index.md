@@ -23,10 +23,6 @@ DepartureTbilisi (TBS)
 
 Price2,500 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -70,6 +66,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 - Flight from Cairo at 03:30
 - Arrival in Tbilisi at 16:00
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

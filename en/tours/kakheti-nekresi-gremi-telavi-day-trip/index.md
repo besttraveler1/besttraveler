@@ -24,10 +24,6 @@ DepartureTbilisi, 08:00
 
 Price60 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -35,6 +31,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Ilia Lake
 - Gremi
 - Telavi, Batonis Tsikhe complex
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

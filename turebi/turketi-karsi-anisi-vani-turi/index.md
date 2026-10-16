@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/turebi/turketi-karsi-anisi-vani-turi/
 
 ფასი450 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -60,6 +56,10 @@ URL: https://besttraveler.ge/turebi/turketi-karsi-anisi-vani-turi/
 - ახთამარის კუნძული
 - მურადიეს ჩანჩქერი
 - დაბრუნება თბილისში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

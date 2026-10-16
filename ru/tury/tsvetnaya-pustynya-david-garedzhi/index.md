@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -39,6 +35,10 @@ URL: https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/
 - Монастырь Иоанна Крестителя в Гареджи
 - Виды на пустынный массив
 - Пешая прогулка: легко, всего 1 км
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

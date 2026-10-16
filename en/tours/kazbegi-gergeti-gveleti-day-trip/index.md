@@ -24,10 +24,6 @@ DepartureTbilisi, 07:00
 
 Price60 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -36,6 +32,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Small Gveleti waterfall (walk, easy, 500 m)
 - Gergeti Trinity Church
 - Gudauri panorama
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Good to know
 

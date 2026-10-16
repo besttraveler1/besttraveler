@@ -31,10 +31,6 @@ URL: https://besttraveler.ge/turebi/belgia-niderlandebi-jgupuri-turi/
 
 ფასი4 300 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -98,6 +94,10 @@ URL: https://besttraveler.ge/turebi/belgia-niderlandebi-jgupuri-turi/
 - თავისუფალი დრო
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ 18:35
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

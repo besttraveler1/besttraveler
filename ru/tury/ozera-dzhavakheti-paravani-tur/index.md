@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -38,6 +34,10 @@ URL: https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/
 - Озеро Сагамо
 - Гореловка
 - Заказник Мадатапа
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

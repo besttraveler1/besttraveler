@@ -29,10 +29,6 @@ URL: https://besttraveler.ge/ru/tury/vostochnaya-turtsiya-van-mardin-tur/
 
 Цена1 450 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -95,6 +91,10 @@ URL: https://besttraveler.ge/ru/tury/vostochnaya-turtsiya-van-mardin-tur/
 ### День 7
 
 - Возвращение в Тбилиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

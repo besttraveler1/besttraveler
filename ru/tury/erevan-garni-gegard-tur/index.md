@@ -27,10 +27,6 @@ URL: https://besttraveler.ge/ru/tury/erevan-garni-gegard-tur/
 
 Цена450 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -66,6 +62,10 @@ URL: https://besttraveler.ge/ru/tury/erevan-garni-gegard-tur/
 - Церковь Святой Рипсиме (бесплатно)
 - Эчмиадзинский монастырь (бесплатно)
 - Возвращение в Тбилиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Дополнительно, по желанию
 

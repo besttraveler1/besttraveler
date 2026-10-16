@@ -25,10 +25,6 @@ DepartureTbilisi, 07:00
 
 Price60 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -37,6 +33,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Tamarisi lakes
 - Queen Ketevan Convent
 - Shavnabada Monastery of St George
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

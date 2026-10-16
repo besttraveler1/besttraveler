@@ -32,10 +32,6 @@ DepartureKutaisi (KUT)
 
 Price2,200 EUR
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -116,6 +112,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Free time in Fiumicino
 - Transfer to the airport
 - Flight to Kutaisi at 18:10
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

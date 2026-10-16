@@ -23,10 +23,6 @@ URL: https://besttraveler.ge/ru/tury/egipet-kair-aleksandriya-tur/
 
 Цена2 500 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -70,6 +66,10 @@ URL: https://besttraveler.ge/ru/tury/egipet-kair-aleksandriya-tur/
 
 - Вылет из Каира в 03:30
 - Прилёт в Тбилиси в 16:00
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/turebi/venetsia-padua-jgupuri-turi/
 
 ფასი1 500 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -73,6 +69,10 @@ URL: https://besttraveler.ge/turebi/venetsia-padua-jgupuri-turi/
 - სანტა მარია დელა სალუტეს ბაზილიკა
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ 16:35
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

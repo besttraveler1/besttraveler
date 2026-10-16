@@ -27,10 +27,6 @@ DepartureTbilisi, 06:00
 
 Price1,350 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -92,6 +88,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Little Hagia Sophia
 - Shopping centre (optional)
 - Return to Tbilisi
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

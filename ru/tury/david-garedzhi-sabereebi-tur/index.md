@@ -22,14 +22,14 @@ URL: https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
 - Комплекс Сабереби в Гареджи (IX–X века): высеченные в скале пещеры, расположенные группами
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

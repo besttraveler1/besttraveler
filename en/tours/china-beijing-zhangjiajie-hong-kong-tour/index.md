@@ -26,10 +26,6 @@ DepartureTbilisi (TBS)
 
 Price3,500 USD
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -120,6 +116,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 - Transfer to the airport
 - Flight to Tbilisi
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

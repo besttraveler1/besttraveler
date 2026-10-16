@@ -28,10 +28,6 @@ URL: https://besttraveler.ge/ru/tury/italiya-bari-apuliya-novogodniy-tur/
 
 Цена2 600 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -73,6 +69,10 @@ URL: https://besttraveler.ge/ru/tury/italiya-bari-apuliya-novogodniy-tur/
 - Вылет в Ереван в 07:50
 - Прилёт в Ереван в 13:15
 - Возвращение в Тбилиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

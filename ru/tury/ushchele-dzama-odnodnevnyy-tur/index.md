@@ -26,10 +26,6 @@ URL: https://besttraveler.ge/ru/tury/ushchele-dzama-odnodnevnyy-tur/
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -40,6 +36,10 @@ URL: https://besttraveler.ge/ru/tury/ushchele-dzama-odnodnevnyy-tur/
 - Квемо Шуано (подъём на Delica)
 - Гора Шуано
 - Церковь Святого Георгия Гориджвари
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Важно знать
 

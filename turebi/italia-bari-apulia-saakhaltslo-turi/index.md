@@ -28,10 +28,6 @@ URL: https://besttraveler.ge/turebi/italia-bari-apulia-saakhaltslo-turi/
 
 ფასი2 600 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -73,6 +69,10 @@ URL: https://besttraveler.ge/turebi/italia-bari-apulia-saakhaltslo-turi/
 - გამოფრენა ერევნისკენ 07:50
 - ჩამოფრენა ერევანში 13:15
 - დაბრუნება თბილისში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

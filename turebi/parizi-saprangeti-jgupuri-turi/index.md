@@ -23,10 +23,6 @@ URL: https://besttraveler.ge/turebi/parizi-saprangeti-jgupuri-turi/
 
 ფასი2 400 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -74,6 +70,10 @@ URL: https://besttraveler.ge/turebi/parizi-saprangeti-jgupuri-turi/
 - თავისუფალი დრო
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ 18:55
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

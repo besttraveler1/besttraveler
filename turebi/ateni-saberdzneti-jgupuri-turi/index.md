@@ -23,10 +23,6 @@ URL: https://besttraveler.ge/turebi/ateni-saberdzneti-jgupuri-turi/
 
 ფასი1 200 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -67,6 +63,10 @@ URL: https://besttraveler.ge/turebi/ateni-saberdzneti-jgupuri-turi/
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ 08:35
 - ჩამოფრენა ქუთაისში 12:10
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

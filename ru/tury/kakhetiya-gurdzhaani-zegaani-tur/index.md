@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/ru/tury/kakhetiya-gurdzhaani-zegaani-tur/
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -38,6 +34,10 @@ URL: https://besttraveler.ge/ru/tury/kakhetiya-gurdzhaani-zegaani-tur/
 - Озеро Зиари
 - Монастырь Зегаани (V–IX века)
 - Монастырский комплекс Санагире (X–XI века)
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

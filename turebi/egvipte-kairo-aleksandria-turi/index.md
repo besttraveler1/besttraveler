@@ -23,10 +23,6 @@ URL: https://besttraveler.ge/turebi/egvipte-kairo-aleksandria-turi/
 
 ფასი2 500 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -70,6 +66,10 @@ URL: https://besttraveler.ge/turebi/egvipte-kairo-aleksandria-turi/
 
 - გამოფრენა კაიროდან 03:30
 - ჩამოფრენა თბილისში 16:00
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

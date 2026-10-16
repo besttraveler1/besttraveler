@@ -22,10 +22,6 @@ URL: https://besttraveler.ge/ru/tury/rim-italiya-tur-iz-kutaisi/
 
 Цена2 300 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -112,6 +108,10 @@ URL: https://besttraveler.ge/ru/tury/rim-italiya-tur-iz-kutaisi/
 - Палаццо Барберини
 - Трансфер в аэропорт
 - Вылет в Кутаиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

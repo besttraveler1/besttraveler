@@ -32,10 +32,6 @@ URL: https://besttraveler.ge/ru/tury/sitsiliya-yuzhnaya-italiya-tur/
 
 Цена5 700 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -105,6 +101,10 @@ URL: https://besttraveler.ge/ru/tury/sitsiliya-yuzhnaya-italiya-tur/
 ### День 8
 
 - Прилёт в Тбилиси в 01:35
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

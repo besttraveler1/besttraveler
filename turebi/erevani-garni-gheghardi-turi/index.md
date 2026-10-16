@@ -27,10 +27,6 @@ URL: https://besttraveler.ge/turebi/erevani-garni-gheghardi-turi/
 
 ფასი450 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -66,6 +62,10 @@ URL: https://besttraveler.ge/turebi/erevani-garni-gheghardi-turi/
 - რიფსიმეს ეკლესია (უფასოდ)
 - ეჩმიაძინის მონასტერი (უფასოდ)
 - დაბრუნება თბილისში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## დამატებით, სურვილისამებრ
 

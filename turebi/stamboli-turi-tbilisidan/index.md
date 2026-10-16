@@ -23,10 +23,6 @@ URL: https://besttraveler.ge/turebi/stamboli-turi-tbilisidan/
 
 ფასი3 600 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -98,6 +94,10 @@ URL: https://besttraveler.ge/turebi/stamboli-turi-tbilisidan/
 - ემირგანის პარკი
 - ეგვიპტური ბაზარი და გრანდ ბაზარი — თავისუფალი დრო საყიდლებისთვის
 - ტრანსფერი აეროპორტში, დაბრუნება თბილისში (ან ბათუმში)
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

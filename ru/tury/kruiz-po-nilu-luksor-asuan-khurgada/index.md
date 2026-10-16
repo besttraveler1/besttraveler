@@ -27,10 +27,6 @@ URL: https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/
 
 Цена4 500 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -97,6 +93,10 @@ URL: https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/
 
 - Вылет в Тбилиси в 03:20
 - Прилёт в 15:50
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

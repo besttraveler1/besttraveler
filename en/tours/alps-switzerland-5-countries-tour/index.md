@@ -38,10 +38,6 @@ DatesOn request
 
 Price4,500 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -120,6 +116,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 - Lyon — France's third-largest city, known as the capital of gastronomy; its historic centre is on the UNESCO list
 - Transfer to the airport
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

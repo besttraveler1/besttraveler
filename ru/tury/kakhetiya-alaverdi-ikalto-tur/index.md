@@ -26,10 +26,6 @@ URL: https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -40,6 +36,10 @@ URL: https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/
 - Монастырский комплекс Икалто
 - Тетри Гиорги
 - Алаверди
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Важно знать
 

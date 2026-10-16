@@ -23,10 +23,6 @@ URL: https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/
 
 Цена2 400 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -74,6 +70,10 @@ URL: https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/
 - Свободное время
 - Трансфер в аэропорт
 - Вылет в Кутаиси в 18:55
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

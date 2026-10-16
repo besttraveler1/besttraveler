@@ -29,10 +29,6 @@ URL: https://besttraveler.ge/turebi/malta-romis-gavlit-turi/
 
 ფასი4 100 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -95,6 +91,10 @@ URL: https://besttraveler.ge/turebi/malta-romis-gavlit-turi/
 
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

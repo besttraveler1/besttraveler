@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/ru/tury/egipet-iordaniya-sharm-el-sheykh-petra/
 
 Цена3 700 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -88,6 +84,10 @@ URL: https://besttraveler.ge/ru/tury/egipet-iordaniya-sharm-el-sheykh-petra/
 ### День 8
 
 - Трансфер в аэропорт и возвращение в Тбилиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

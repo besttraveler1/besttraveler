@@ -29,10 +29,6 @@ URL: https://besttraveler.ge/turebi/indoeti-rajastani-jgupuri-turi/
 
 ფასი4 800 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -117,6 +113,10 @@ URL: https://besttraveler.ge/turebi/indoeti-rajastani-jgupuri-turi/
 - ბანგლა საჰიბი (Bangla Sahib)
 - აგრასენ კი ბაოლი (Agrasen ki Baoli) — 60 მ სიგრძისა და 15 მ სიგანის ისტორიული საფეხურიანი ჭა
 - საღამოს ვახშამი რესტორანში Lazeez, შემდეგ ტრანსფერი საერთაშორისო აეროპორტში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

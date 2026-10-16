@@ -28,10 +28,6 @@ URL: https://besttraveler.ge/turebi/shri-lanka-kandi-ela-mirisa-turi/
 
 ფასი4 500 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -106,6 +102,10 @@ URL: https://besttraveler.ge/turebi/shri-lanka-kandi-ela-mirisa-turi/
 - დამოუკიდებლობის მოედანი
 - გალ ფეის გრინი — კოლომბოს სანაპირო პრომენადი
 - საღამოს ტრანსფერი აეროპორტში, გამოფრენა თბილისში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

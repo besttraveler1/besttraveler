@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/turebi/nilosis-kruizi-kairo-luksori-aleksandria/
 
 ფასი6 550 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -85,6 +81,10 @@ URL: https://besttraveler.ge/turebi/nilosis-kruizi-kairo-luksori-aleksandria/
 ### დღე 9
 
 - გამოფრენა თბილისისკენ
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

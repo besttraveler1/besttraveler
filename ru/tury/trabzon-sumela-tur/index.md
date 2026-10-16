@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/ru/tury/trabzon-sumela-tur/
 
 Цена470 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -59,6 +55,10 @@ URL: https://besttraveler.ge/ru/tury/trabzon-sumela-tur/
 
 - Монастырь Сумела
 - Возвращение в Грузию
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Важно знать
 

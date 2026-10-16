@@ -26,10 +26,6 @@ URL: https://besttraveler.ge/turebi/dzamas-kheoba-ertdghiani-turi/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -40,6 +36,10 @@ URL: https://besttraveler.ge/turebi/dzamas-kheoba-ertdghiani-turi/
 - ქვემო შუანო (ასვლა დელიკებით)
 - შუანოს მთა
 - გორიჯვრის წმ. გიორგის ეკლესია
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## მნიშვნელოვანია
 

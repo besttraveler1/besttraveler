@@ -29,10 +29,6 @@ URL: https://besttraveler.ge/turebi/aghmosavlet-turketi-vani-mardini-turi/
 
 ფასი1 450 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -95,6 +91,10 @@ URL: https://besttraveler.ge/turebi/aghmosavlet-turketi-vani-mardini-turi/
 ### დღე 7
 
 - დაბრუნება თბილისში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

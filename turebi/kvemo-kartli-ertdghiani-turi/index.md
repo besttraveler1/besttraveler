@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/turebi/kvemo-kartli-ertdghiani-turi/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -37,6 +33,10 @@ URL: https://besttraveler.ge/turebi/kvemo-kartli-ertdghiani-turi/
 - თამარისის ტბები
 - ქეთევან დედოფლის სახელობის დედათა მონასტერი
 - შავნაბადის წმ. გიორგის მონასტერი
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

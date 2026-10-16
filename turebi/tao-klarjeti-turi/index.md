@@ -31,10 +31,6 @@ URL: https://besttraveler.ge/turebi/tao-klarjeti-turi/
 
 ფასი480 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -58,6 +54,10 @@ URL: https://besttraveler.ge/turebi/tao-klarjeti-turi/
 - ბანას ტაძრის ნანგრევები და ნაქალაქარი
 - საყიდლები და სეირნობა ქალაქ არდაგანში (არტაანში)
 - დაბრუნება საქართველოში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

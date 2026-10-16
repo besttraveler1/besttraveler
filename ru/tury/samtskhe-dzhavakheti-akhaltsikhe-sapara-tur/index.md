@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -36,6 +32,10 @@ URL: https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur
 - Водопад Чуле
 - Крепость Ахалцихе (Рабат)
 - Монастырский комплекс Сапара
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

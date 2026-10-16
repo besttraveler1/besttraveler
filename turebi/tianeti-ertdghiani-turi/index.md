@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/turebi/tianeti-ertdghiani-turi/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -37,6 +33,10 @@ URL: https://besttraveler.ge/turebi/tianeti-ertdghiani-turi/
 - წმ. არჩილ მეფის სახელობის მამათა მონასტერი
 - ქორ-შევარდენის ციხე-კოშკი (ერწოს ციხე)
 - სიონის ტბა
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## მნიშვნელოვანია
 

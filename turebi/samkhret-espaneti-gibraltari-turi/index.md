@@ -35,10 +35,6 @@ URL: https://besttraveler.ge/turebi/samkhret-espaneti-gibraltari-turi/
 
 ფასი4 800 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -107,6 +103,10 @@ URL: https://besttraveler.ge/turebi/samkhret-espaneti-gibraltari-turi/
 - ტრანსფერი აეროპორტში
 - გამოფრენა თბილისისკენ 17:40
 - ჩამოფრენა თბილისში მეორე დილით 05:40
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

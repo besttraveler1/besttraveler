@@ -25,10 +25,6 @@ DepartureTbilisi, 06:00
 
 Price150 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -39,6 +35,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Haghartsin (free)
 - Goshavank (free)
 - Lake Parz (free)
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

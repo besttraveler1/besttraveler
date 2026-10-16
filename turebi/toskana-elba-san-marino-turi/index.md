@@ -32,10 +32,6 @@ URL: https://besttraveler.ge/turebi/toskana-elba-san-marino-turi/
 
 ფასი4 000 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -138,6 +134,10 @@ URL: https://besttraveler.ge/turebi/toskana-elba-san-marino-turi/
 
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ 08:20
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

@@ -22,14 +22,14 @@ URL: https://besttraveler.ge/turebi/davit-gareja-sabereebi-turi/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
 - გარეჯის საბერეების კომპლექსი (IX–X საუკუნეები): კლდეში ნაკვეთი ქვაბულები, ერთმანეთის მიმდებარედ ჯგუფებად განლაგებული
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

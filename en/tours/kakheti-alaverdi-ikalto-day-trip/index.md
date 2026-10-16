@@ -26,10 +26,6 @@ DepartureTbilisi, 08:00
 
 Price60 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -40,6 +36,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Ikalto Monastery Complex
 - Tetri Giorgi
 - Alaverdi
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Good to know
 

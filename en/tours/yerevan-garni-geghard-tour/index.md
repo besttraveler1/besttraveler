@@ -27,10 +27,6 @@ DepartureTbilisi, 06:00
 
 Price450 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -66,6 +62,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - St Hripsime Church (free)
 - Etchmiadzin Monastery (free)
 - Return to Tbilisi
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Optional extras
 

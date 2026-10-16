@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/ru/tury/venetsiya-paduya-gruppovoy-tur/
 
 Цена1 500 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -73,6 +69,10 @@ URL: https://besttraveler.ge/ru/tury/venetsiya-paduya-gruppovoy-tur/
 - Базилика Санта-Мария-делла-Салюте
 - Трансфер в аэропорт
 - Вылет в Кутаиси в 16:35
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

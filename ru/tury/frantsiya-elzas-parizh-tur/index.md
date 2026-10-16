@@ -30,10 +30,6 @@ URL: https://besttraveler.ge/ru/tury/frantsiya-elzas-parizh-tur/
 
 Цена4 200 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -109,6 +105,10 @@ URL: https://besttraveler.ge/ru/tury/frantsiya-elzas-parizh-tur/
 
 - Версаль
 - Вылет из аэропорта Бове
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

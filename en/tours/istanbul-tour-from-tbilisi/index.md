@@ -23,10 +23,6 @@ DepartureTbilisi (TBS)
 
 Price3,600 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -98,6 +94,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Emirgan Park
 - Spice Bazaar and Grand Bazaar: free time for shopping
 - Transfer to the airport, flight back to Tbilisi (or Batumi)
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

@@ -29,10 +29,6 @@ DepartureTbilisi (TBS)
 
 Price4,800 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -117,6 +113,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Bangla Sahib
 - Agrasen ki Baoli, a historic stepwell 60 m long and 15 m wide
 - Dinner at Lazeez restaurant, then transfer to the international airport
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

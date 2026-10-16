@@ -33,10 +33,6 @@ URL: https://besttraveler.ge/turebi/espaneti-barselona-andalusia-valensia-turi/
 
 ფასი4 500 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -136,6 +132,10 @@ URL: https://besttraveler.ge/turebi/espaneti-barselona-andalusia-valensia-turi/
 - მონსერატის ღვთისმშობლის საკურთხეველი (Santuari de la Mare de Déu de Montserrat)
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ 17:15
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

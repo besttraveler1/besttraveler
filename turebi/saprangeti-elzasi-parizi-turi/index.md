@@ -30,10 +30,6 @@ URL: https://besttraveler.ge/turebi/saprangeti-elzasi-parizi-turi/
 
 ფასი4 200 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -109,6 +105,10 @@ URL: https://besttraveler.ge/turebi/saprangeti-elzasi-parizi-turi/
 
 - ვერსალი
 - გამოფრენა ბოვეს აეროპორტიდან
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

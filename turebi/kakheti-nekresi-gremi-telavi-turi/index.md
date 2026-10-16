@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/turebi/kakheti-nekresi-gremi-telavi-turi/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -35,6 +31,10 @@ URL: https://besttraveler.ge/turebi/kakheti-nekresi-gremi-telavi-turi/
 - ილიას ტბა
 - გრემი
 - თელავი, „ბატონის ციხის“ კომპლექსი
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

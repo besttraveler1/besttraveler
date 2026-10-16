@@ -28,10 +28,6 @@ DepartureTbilisi (TBS)
 
 Price4,500 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -106,6 +102,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Independence Square
 - Galle Face Green, Colombo's seaside promenade
 - Evening transfer to the airport, flight to Tbilisi
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

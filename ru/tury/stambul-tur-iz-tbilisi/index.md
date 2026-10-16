@@ -23,10 +23,6 @@ URL: https://besttraveler.ge/ru/tury/stambul-tur-iz-tbilisi/
 
 Цена3 600 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -98,6 +94,10 @@ URL: https://besttraveler.ge/ru/tury/stambul-tur-iz-tbilisi/
 - Парк Эмирган
 - Египетский базар и Гранд-базар — свободное время для покупок
 - Трансфер в аэропорт, возвращение в Тбилиси (или Батуми)
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

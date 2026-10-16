@@ -35,10 +35,6 @@ URL: https://besttraveler.ge/ru/tury/yug-ispanii-gibraltar-tur/
 
 Цена4 800 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -107,6 +103,10 @@ URL: https://besttraveler.ge/ru/tury/yug-ispanii-gibraltar-tur/
 - Трансфер в аэропорт
 - Вылет в Тбилиси в 17:40
 - Прилёт в Тбилиси на следующее утро в 05:40
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

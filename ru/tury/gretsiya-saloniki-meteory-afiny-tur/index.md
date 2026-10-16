@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/ru/tury/gretsiya-saloniki-meteory-afiny-tur/
 
 Цена2 100 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -98,6 +94,10 @@ URL: https://besttraveler.ge/ru/tury/gretsiya-saloniki-meteory-afiny-tur/
 ### День 8
 
 - Вылет из аэропорта Афин
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

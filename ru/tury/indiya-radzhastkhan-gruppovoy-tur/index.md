@@ -29,10 +29,6 @@ URL: https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/
 
 Цена4 800 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -117,6 +113,10 @@ URL: https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/
 - Бангла-Сахиб (Bangla Sahib)
 - Аграсен-ки-Баоли — исторический ступенчатый колодец длиной 60 м и шириной 15 м
 - Ужин в ресторане Lazeez, затем трансфер в международный аэропорт
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

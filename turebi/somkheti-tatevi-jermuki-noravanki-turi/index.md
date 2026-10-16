@@ -26,10 +26,6 @@ URL: https://besttraveler.ge/turebi/somkheti-tatevi-jermuki-noravanki-turi/
 
 ფასი480 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -66,6 +62,10 @@ URL: https://besttraveler.ge/turebi/somkheti-tatevi-jermuki-noravanki-turi/
 - გაჩერება სევანის ტბასთან, კვების ობიექტთან
 - ქ. ალავერდი, თამარის ხიდი
 - დაბრუნება თბილისში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

@@ -30,10 +30,6 @@ URL: https://besttraveler.ge/ru/tury/shri-lanka-maldivy-gruppovoy-tur/
 
 Цена8 500 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -122,6 +118,10 @@ URL: https://besttraveler.ge/ru/tury/shri-lanka-maldivy-gruppovoy-tur/
 
 - Трансфер в аэропорт
 - Вылет в Тбилиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

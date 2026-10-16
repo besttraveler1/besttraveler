@@ -23,10 +23,6 @@ URL: https://besttraveler.ge/ru/tury/ozero-tabatskuri-tur/
 
 Цена70 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -36,6 +32,10 @@ URL: https://besttraveler.ge/ru/tury/ozero-tabatskuri-tur/
 - Озеро Табацкури
 - Свободное время у озера
 - Монастырь Богородицы в Тимотесубани (XII–XIII века)
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Важно знать
 

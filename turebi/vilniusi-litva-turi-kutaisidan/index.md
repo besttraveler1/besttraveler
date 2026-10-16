@@ -23,10 +23,6 @@ URL: https://besttraveler.ge/turebi/vilniusi-litva-turi-kutaisidan/
 
 ფასი1 500 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -70,6 +66,10 @@ URL: https://besttraveler.ge/turebi/vilniusi-litva-turi-kutaisidan/
 
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ 08:45
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

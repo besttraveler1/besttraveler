@@ -22,16 +22,16 @@ URL: https://besttraveler.ge/turebi/lagodekhi-ninos-khevis-chanchkeri/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
 - ნინოს ხევის ხეობა, ლაგოდეხი
 - ნინოს ხევის (გურგენიანის) ჩანჩქერი
 - ფეხით სვლა: ცალმხრივად 8.3 კმ, საშუალო სირთულის, ზოგან რთული
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

@@ -33,10 +33,6 @@ URL: https://besttraveler.ge/ru/tury/ispaniya-barselona-andalusiya-valensiya-tur
 
 Цена4 500 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -136,6 +132,10 @@ URL: https://besttraveler.ge/ru/tury/ispaniya-barselona-andalusiya-valensiya-tur
 - Святилище Богоматери Монтсеррат
 - Трансфер в аэропорт
 - Вылет в Кутаиси в 17:15
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

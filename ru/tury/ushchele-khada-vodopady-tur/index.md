@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/ru/tury/ushchele-khada-vodopady-tur/
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -39,6 +35,10 @@ URL: https://besttraveler.ge/ru/tury/ushchele-khada-vodopady-tur/
 - Село Цкере
 - Церковь Великомученика в Хаде
 - Пешая прогулка: 4,2 км в одну сторону, лёгкая
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

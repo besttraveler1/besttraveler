@@ -34,10 +34,6 @@ URL: https://besttraveler.ge/ru/tury/ispaniya-frantsiya-andorra-tur/
 
 Цена4 700 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -144,6 +140,10 @@ URL: https://besttraveler.ge/ru/tury/ispaniya-frantsiya-andorra-tur/
 - Трансфер в аэропорт
 - Вылет в Кутаиси в 18:25
 - Прилёт в Кутаиси в 01:10
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

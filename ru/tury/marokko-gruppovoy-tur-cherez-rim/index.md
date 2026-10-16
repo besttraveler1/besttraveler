@@ -32,10 +32,6 @@ URL: https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/
 
 Цена2 200 евро
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -116,6 +112,10 @@ URL: https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/
 - Свободное время во Фьюмичино
 - Трансфер в аэропорт
 - Вылет в Кутаиси в 18:10
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

@@ -23,10 +23,6 @@ URL: https://besttraveler.ge/ru/tury/vilnyus-litva-tur-iz-kutaisi/
 
 Цена1 500 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -70,6 +66,10 @@ URL: https://besttraveler.ge/ru/tury/vilnyus-litva-tur-iz-kutaisi/
 
 - Трансфер в аэропорт
 - Вылет в Кутаиси в 08:45
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

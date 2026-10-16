@@ -22,10 +22,6 @@ URL: https://besttraveler.ge/turebi/romi-italia-turi-kutaisidan/
 
 ფასი2 300 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -112,6 +108,10 @@ URL: https://besttraveler.ge/turebi/romi-italia-turi-kutaisidan/
 - ბარბერინის სასახლე
 - ტრანსფერი აეროპორტში
 - გამოფრენა ქუთაისისკენ
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

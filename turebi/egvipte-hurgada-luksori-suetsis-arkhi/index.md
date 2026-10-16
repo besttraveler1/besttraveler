@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/turebi/egvipte-hurgada-luksori-suetsis-arkhi/
 
 ფასი6 100 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -101,6 +97,10 @@ URL: https://besttraveler.ge/turebi/egvipte-hurgada-luksori-suetsis-arkhi/
 - თავისუფალი დღე
 - ტრანსფერი აეროპორტში 20:00
 - გამოფრენა თბილისისკენ
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

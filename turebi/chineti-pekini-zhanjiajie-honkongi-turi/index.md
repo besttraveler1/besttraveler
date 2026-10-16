@@ -26,10 +26,6 @@ URL: https://besttraveler.ge/turebi/chineti-pekini-zhanjiajie-honkongi-turi/
 
 ფასი3 500 დოლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -120,6 +116,10 @@ URL: https://besttraveler.ge/turebi/chineti-pekini-zhanjiajie-honkongi-turi/
 
 - ტრანსფერი აეროპორტში
 - გამოფრენა თბილისში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

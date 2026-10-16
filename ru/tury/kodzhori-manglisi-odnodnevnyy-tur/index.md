@@ -26,10 +26,6 @@ URL: https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/
 
 Цена60 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -39,6 +35,10 @@ URL: https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/
 - Манглисский Сиони
 - Озеро Буратино
 - Мемориал Дидгорской битвы
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

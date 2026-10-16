@@ -24,10 +24,6 @@ URL: https://besttraveler.ge/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -36,6 +32,10 @@ URL: https://besttraveler.ge/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/
 - ჭულეს ჩანჩქერი
 - ახალციხის ციხე (რაბათი)
 - საფარას სამონასტრო კომპლექსი
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

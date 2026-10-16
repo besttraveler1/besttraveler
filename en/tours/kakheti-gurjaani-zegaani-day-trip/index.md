@@ -25,10 +25,6 @@ DepartureTbilisi, 08:00
 
 Price60 GEL
 
-## Route on the map
-
-Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Tour programme
 
 - 
@@ -38,6 +34,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Ziari Lake
 - Zegaani Monastery (5th–9th centuries)
 - Sanagire Monastery Complex (10th–11th centuries)
+
+## Route on the map
+
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 

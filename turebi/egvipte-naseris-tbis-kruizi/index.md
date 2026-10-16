@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/turebi/egvipte-naseris-tbis-kruizi/
 
 ფასი6 650 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -119,6 +115,10 @@ URL: https://besttraveler.ge/turebi/egvipte-naseris-tbis-kruizi/
 ### დღე 11
 
 - გამოფრენა თბილისისკენ 02:05
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

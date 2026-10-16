@@ -30,10 +30,6 @@ URL: https://besttraveler.ge/turebi/shri-lanka-maldivebi-jgupuri-turi/
 
 ფასი8 500 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -122,6 +118,10 @@ URL: https://besttraveler.ge/turebi/shri-lanka-maldivebi-jgupuri-turi/
 
 - ტრანსფერი აეროპორტში
 - გამოფრენა თბილისში
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

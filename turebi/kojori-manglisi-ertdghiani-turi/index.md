@@ -26,10 +26,6 @@ URL: https://besttraveler.ge/turebi/kojori-manglisi-ertdghiani-turi/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -39,6 +35,10 @@ URL: https://besttraveler.ge/turebi/kojori-manglisi-ertdghiani-turi/
 - მანგლისის სიონი
 - ბურატინოს ტბა
 - დიდგორის ბრძოლის მემორიალი
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 

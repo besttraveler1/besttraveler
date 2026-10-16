@@ -28,10 +28,6 @@ URL: https://besttraveler.ge/ru/tury/shri-lanka-kandi-ella-mirissa-tur/
 
 Цена4 500 лари
 
-## Маршрут на карте
-
-Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## Программа тура
 
 - 
@@ -106,6 +102,10 @@ URL: https://besttraveler.ge/ru/tury/shri-lanka-kandi-ella-mirissa-tur/
 - Площадь Независимости
 - Галле-Фейс-Грин — набережная Коломбо
 - Вечером трансфер в аэропорт, вылет в Тбилиси
+
+## Маршрут на карте
+
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## В стоимость входит
 

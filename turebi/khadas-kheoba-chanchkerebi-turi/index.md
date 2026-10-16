@@ -25,10 +25,6 @@ URL: https://besttraveler.ge/turebi/khadas-kheoba-chanchkerebi-turi/
 
 ფასი60 ლარი
 
-## მარშრუტი რუკაზე
-
-რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
-
 ## ტურის პროგრამა
 
 - 
@@ -39,6 +35,10 @@ URL: https://besttraveler.ge/turebi/khadas-kheoba-chanchkerebi-turi/
 - სოფელი წკერე
 - ხადის მთავარმოწამის ეკლესია
 - ფეხით სვლა: ცალმხრივად 4.2 კმ, დაბალი სირთულის
+
+## მარშრუტი რუკაზე
+
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ფასში შედის
 
