@@ -12,7 +12,87 @@ URL: https://besttraveler.ge/ru/blog/
 
 Путеводители
 
-### [Казбеги за один день из Тбилиси: маршрут, дорога и что надеть](https://besttraveler.ge/ru/blog/kazbegi-day-trip-from-tbilisi/)
+### [Ущелье Трусо из Тбилиси за один день: травертины, Кетриси, Закагори](https://besttraveler.ge/ru/blog/ushchele-truso-za-odin-den/)
+
+17 октября 20262 мин чтения
+
+Что вы увидите в ущелье Трусо, сколько придётся идти пешком и как подготовиться к дню в горах.
+
+Читать 
+
+Путеводители
+
+### [Давид Гареджи и цветные горы: что посмотреть и что взять с собой](https://besttraveler.ge/ru/blog/davidgaredzhi-i-tsvetnye-gory/)
+
+17 октября 20262 мин чтения
+
+Что вы увидите в Давид Гареджи и на цветных горах, сколько придётся идти и как пережить жару полупустыни.
+
+Читать 
+
+Путеводители
+
+### [Однодневные поездки в Кахетию из Тбилиси: четыре маршрута](https://besttraveler.ge/ru/blog/odnodnevnye-tury-v-kakhetiyu/)
+
+17 октября 20263 мин чтения
+
+Наши четыре однодневных маршрута по Кахетии из Тбилиси: что входит в каждый и как выбрать.
+
+Читать 
+
+Визы и границы
+
+### [Виза в Иорданию для граждан Грузии: виза по прилёте и Jordan Pass (2026)](https://besttraveler.ge/ru/blog/viza-v-iordaniyu-dlya-grazhdan-gruzii/)
+
+17 октября 20263 мин чтения
+
+Виза в Иорданию для граждан Грузии: виза в аэропорту, Jordan Pass и правила порта Акаба.
+
+Читать 
+
+Визы и границы
+
+### [Виза в Марокко для граждан Грузии: eVisa или консульская виза (2026)](https://besttraveler.ge/ru/blog/viza-v-marokko-dlya-grazhdan-gruzii/)
+
+17 октября 20262 мин чтения
+
+Виза в Марокко для граждан Грузии: когда можно оформить eVisa, а когда нужно консульство.
+
+Читать 
+
+Визы и границы
+
+### [Виза в Индию для граждан Грузии: электронная виза, цена и сроки (2026)](https://besttraveler.ge/ru/blog/viza-v-indiyu-dlya-grazhdan-gruzii/)
+
+17 октября 20262 мин чтения
+
+Электронная виза в Индию для граждан Грузии: виды, цена, сроки подачи и документы.
+
+Читать 
+
+Визы и границы
+
+### [Виза в Китай для граждан Грузии: безвизовый режим и Гонконг (2026)](https://besttraveler.ge/ru/blog/kitay-bez-vizy-dlya-grazhdan-gruzii/)
+
+17 октября 20262 мин чтения
+
+Китай и Гонконг для граждан Грузии: точные условия безвизового режима и лимиты дней.
+
+Читать 
+
+Визы и границы
+
+### [Виза на Шри-Ланку и Мальдивы для граждан Грузии: ETA и въезд (2026)](https://besttraveler.ge/ru/blog/viza-na-shri-lanku-dlya-grazhdan-gruzii/)
+
+17 октября 20262 мин чтения
+
+ETA на Шри-Ланку и правила въезда на Мальдивы для граждан Грузии: цены, сроки и документы.
+
+Читать 
+
+Путеводители
+
+### [Казбеги за один день из Тбилиси: маршрут, дорога и что надеть](https://besttraveler.ge/ru/blog/kazbegi-za-odin-den-iz-tbilisi/)
 
 16 октября 20262 мин чтения
 
@@ -22,7 +102,7 @@ URL: https://besttraveler.ge/ru/blog/
 
 Путеводители
 
-### [Лучшие однодневные туры из Тбилиси: куда поехать и кому что подойдёт](https://besttraveler.ge/ru/blog/best-day-trips-from-tbilisi/)
+### [Лучшие однодневные туры из Тбилиси: куда поехать и кому что подойдёт](https://besttraveler.ge/ru/blog/odnodnevnye-tury-iz-tbilisi/)
 
 16 октября 20262 мин чтения
 
@@ -32,7 +112,7 @@ URL: https://besttraveler.ge/ru/blog/
 
 Путеводители
 
-### [Каппадокия: когда ехать и как полетать на воздушном шаре](https://besttraveler.ge/ru/blog/cappadocia-best-time-hot-air-balloons/)
+### [Каппадокия: когда ехать и как полетать на воздушном шаре](https://besttraveler.ge/ru/blog/kappadokiya-vozdushnye-shary/)
 
 16 октября 20262 мин чтения
 
@@ -42,7 +122,7 @@ URL: https://besttraveler.ge/ru/blog/
 
 Путеводители
 
-### [Кёкенхоф 2027: когда открыт парк тюльпанов в Нидерландах](https://besttraveler.ge/ru/blog/keukenhof-2027-tulip-season-netherlands/)
+### [Кёкенхоф 2027: когда открыт парк тюльпанов в Нидерландах](https://besttraveler.ge/ru/blog/kekenhof-park-tyulpanov/)
 
 16 октября 20262 мин чтения
 
@@ -52,7 +132,7 @@ URL: https://besttraveler.ge/ru/blog/
 
 Советы
 
-### [Групповой тур за границу: документы и что взять с собой](https://besttraveler.ge/ru/blog/group-tour-checklist-documents-packing/)
+### [Групповой тур за границу: документы и что взять с собой](https://besttraveler.ge/ru/blog/gruppovoy-tur-dokumenty-chto-vzyat/)
 
 16 октября 20262 мин чтения
 
@@ -62,7 +142,7 @@ URL: https://besttraveler.ge/ru/blog/
 
 Визы и границы
 
-### [Виза в Египет для граждан Грузии: e-Visa, цена и паспорт (2026)](https://besttraveler.ge/ru/blog/egypt-visa-for-georgian-citizens/)
+### [Виза в Египет для граждан Грузии: e-Visa, цена и паспорт (2026)](https://besttraveler.ge/ru/blog/viza-v-egipet-dlya-grazhdan-gruzii/)
 
 16 октября 20262 мин чтения
 
@@ -72,7 +152,7 @@ URL: https://besttraveler.ge/ru/blog/
 
 Визы и границы
 
-### [В Турцию по ID-карте: правила въезда для граждан Грузии](https://besttraveler.ge/ru/blog/turkey-entry-with-id-card-for-georgian-citizens/)
+### [В Турцию по ID-карте: правила въезда для граждан Грузии](https://besttraveler.ge/ru/blog/turtsiya-vezd-po-id-karte/)
 
 16 октября 20262 мин чтения
 
@@ -82,7 +162,7 @@ URL: https://besttraveler.ge/ru/blog/
 
 Визы и границы
 
-### [В Армению из Грузии: по паспорту или по ID-карте?](https://besttraveler.ge/ru/blog/armenia-entry-from-georgia-id-card-or-passport/)
+### [В Армению из Грузии: по паспорту или по ID-карте?](https://besttraveler.ge/ru/blog/armeniya-vezd-iz-gruzii-po-id-karte/)
 
 16 октября 20262 мин чтения
 
@@ -92,7 +172,7 @@ URL: https://besttraveler.ge/ru/blog/
 
 Визы и границы
 
-### [Шенген без визы для граждан Грузии: правило 90/180, документы, ETIAS](https://besttraveler.ge/ru/blog/schengen-visa-free-travel-for-georgian-citizens/)
+### [Шенген без визы для граждан Грузии: правило 90/180, документы, ETIAS](https://besttraveler.ge/ru/blog/shengen-bez-vizy-dlya-gruzin/)
 
 16 октября 20263 мин чтения
 

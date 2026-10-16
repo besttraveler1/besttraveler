@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/mimartulebebi/saberdzneti/
 
 ავიატური
 
-### [ათენი, საბერძნეთი — ჯგუფური ტური ქუთაისიდან, 1–4 ნოემბერი](https://besttraveler.ge/turebi/athens-greece-aegina/)
+### [ათენი, საბერძნეთი — ჯგუფური ტური ქუთაისიდან, 1–4 ნოემბერი](https://besttraveler.ge/turebi/ateni-saberdzneti-jgupuri-turi/)
 
 4 დღე / 3 ღამე1–4 ნოემბერი 2026
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/mimartulebebi/saberdzneti/
 
 ავიატური
 
-### [საბერძნეთი: სალონიკი, მეტეორა და ათენი — 8-დღიანი ტური](https://besttraveler.ge/turebi/greece-thessaloniki-meteora-athens/)
+### [საბერძნეთი: სალონიკი, მეტეორა და ათენი — 8-დღიანი ტური](https://besttraveler.ge/turebi/saberdzneti-saloniki-meteora-ateni-turi/)
 
 8 დღესაბერძნეთი
 

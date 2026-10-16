@@ -14,7 +14,7 @@ Group tours to Italy: Rome, Venice, Tuscany, Sicily, the Amalfi Coast and southe
 
 By plane
 
-### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/bari-puglia-matera-italy/)
+### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
 
 5 days2–6 Nov 2026
 
@@ -26,7 +26,7 @@ View tour
 
 By plane
 
-### [Venice Carnival 2027 — 4-Day Tour of Italy](https://besttraveler.ge/en/tours/italy-venice-carnival-2027/)
+### [Venice Carnival 2027 — 4-Day Tour of Italy](https://besttraveler.ge/en/tours/venice-carnival-tour/)
 
 4 days23–26 Jan 2027
 
@@ -38,7 +38,7 @@ View tour
 
 By plane
 
-### [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur](https://besttraveler.ge/en/tours/france-italy-monaco-provence-riviera/)
+### [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
 
 8 daysFrance, Italy, Monaco
 
@@ -50,7 +50,7 @@ View tour
 
 By plane
 
-### [Rome, Italy — 8-Day Tour from Kutaisi](https://besttraveler.ge/en/tours/italy-rome/)
+### [Rome, Italy — 8-Day Tour from Kutaisi](https://besttraveler.ge/en/tours/rome-italy-tour-from-kutaisi/)
 
 8 daysItaly
 
@@ -62,7 +62,7 @@ View tour
 
 By plane
 
-### [Sicily and Southern Italy — 8-Day Tour from Yerevan](https://besttraveler.ge/en/tours/italy-sicily-palermo-catania/)
+### [Sicily and Southern Italy — 8-Day Tour from Yerevan](https://besttraveler.ge/en/tours/sicily-southern-italy-tour/)
 
 8 daysItaly
 
@@ -74,7 +74,7 @@ View tour
 
 By plane
 
-### [Southern Italy by Car — Naples, Capri and the Amalfi Coast](https://besttraveler.ge/en/tours/south-italy-naples-amalfi-coast-car/)
+### [Southern Italy by Car — Naples, Capri and the Amalfi Coast](https://besttraveler.ge/en/tours/southern-italy-naples-amalfi-coast-tour/)
 
 10 days / 9 nightsItaly
 
@@ -86,7 +86,7 @@ View tour
 
 By plane
 
-### [Tuscany, Elba and San Marino — 10-Day Tour of Italy](https://besttraveler.ge/en/tours/italy-tuscany-elba-san-marino/)
+### [Tuscany, Elba and San Marino — 10-Day Tour of Italy](https://besttraveler.ge/en/tours/tuscany-elba-san-marino-tour/)
 
 10 days / 9 nightsItaly
 
@@ -98,7 +98,7 @@ View tour
 
 By plane
 
-### [Venice and Padua — 5-Day Group Tour](https://besttraveler.ge/en/tours/italy-venice-padua/)
+### [Venice and Padua — 5-Day Group Tour](https://besttraveler.ge/en/tours/venice-padua-group-tour/)
 
 5 days / 4 nightsItaly
 

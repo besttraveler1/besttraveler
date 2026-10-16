@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/mimartulebebi/niderlandebi/
 
 ავიატური
 
-### [ბელგია და ნიდერლანდები — 8-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/belgium-netherlands-brussels-amsterdam/)
+### [ბელგია და ნიდერლანდები — 8-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/belgia-niderlandebi-jgupuri-turi/)
 
 8 დღებელგია, ნიდერლანდები
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/mimartulebebi/niderlandebi/
 
 ავიატური
 
-### [ნიდერლანდები და გერმანია: ტიტების ფესტივალი — 8-დღიანი ტური](https://besttraveler.ge/turebi/netherlands-germany-tulip-festival/)
+### [ნიდერლანდები და გერმანია: ტიტების ფესტივალი — 8-დღიანი ტური](https://besttraveler.ge/turebi/niderlandebi-titebis-festivali-turi/)
 
 8 დღენიდერლანდები, გერმანია
 

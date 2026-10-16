@@ -46,7 +46,7 @@ URL: https://besttraveler.ge/ru/
 
 Авиатур
 
-### [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур](https://besttraveler.ge/ru/tury/india-rajasthan-delhi-udaipur/)
+### [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур](https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/)
 
 9 дней / 8 ночей25 октября 2026
 
@@ -58,7 +58,7 @@ URL: https://besttraveler.ge/ru/
 
 Авиатур
 
-### [Афины, Греция — групповой тур из Кутаиси, 1–4 ноября](https://besttraveler.ge/ru/tury/athens-greece-aegina/)
+### [Афины, Греция — групповой тур из Кутаиси, 1–4 ноября](https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/)
 
 4 дня / 3 ночи1–4 ноября 2026
 
@@ -70,7 +70,7 @@ URL: https://besttraveler.ge/ru/
 
 Авиатур
 
-### [Бари и Апулия, Италия — новогодний групповой тур через Ереван](https://besttraveler.ge/ru/tury/bari-puglia-matera-italy/)
+### [Бари и Апулия, Италия — новогодний групповой тур через Ереван](https://besttraveler.ge/ru/tury/italiya-bari-apuliya-novogodniy-tur/)
 
 5 дней2–6 ноября 2026
 
@@ -82,7 +82,7 @@ URL: https://besttraveler.ge/ru/
 
 На автобусе
 
-### [Каппадокия, Амасья и Орду: автобусный тур на 6 дней](https://besttraveler.ge/ru/tury/turkey-cappadocia-amasya-bus/)
+### [Каппадокия, Амасья и Орду: автобусный тур на 6 дней](https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/)
 
 6 дней2–7 ноября 2026
 
@@ -94,7 +94,7 @@ URL: https://besttraveler.ge/ru/
 
 Авиатур
 
-### [Испания и Португалия на машине — групповой тур, 3–10 ноября](https://besttraveler.ge/ru/tury/spain-portugal-madrid-porto-lisbon/)
+### [Испания и Португалия на машине — групповой тур, 3–10 ноября](https://besttraveler.ge/ru/tury/ispaniya-portugaliya-tur-na-mashine/)
 
 8 дней / 7 ночей3–10 ноября 2026
 
@@ -106,7 +106,7 @@ URL: https://besttraveler.ge/ru/
 
 Авиатур
 
-### [Хургада, Луксор, Порт-Саид и Суэцкий канал — 7 дней](https://besttraveler.ge/ru/tury/egypt-hurghada-luxor-port-said-suez-canal/)
+### [Хургада, Луксор, Порт-Саид и Суэцкий канал — 7 дней](https://besttraveler.ge/ru/tury/egipet-khurgada-luksor-suetskiy-kanal/)
 
 7 дней / 6 ночей9–15 ноября 2026
 

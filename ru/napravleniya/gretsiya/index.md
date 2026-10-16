@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gretsiya/
 
 Авиатур
 
-### [Афины, Греция — групповой тур из Кутаиси, 1–4 ноября](https://besttraveler.ge/ru/tury/athens-greece-aegina/)
+### [Афины, Греция — групповой тур из Кутаиси, 1–4 ноября](https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/)
 
 4 дня / 3 ночи1–4 ноября 2026
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gretsiya/
 
 Авиатур
 
-### [Греция: Салоники, Метеоры и Афины — тур на 8 дней](https://besttraveler.ge/ru/tury/greece-thessaloniki-meteora-athens/)
+### [Греция: Салоники, Метеоры и Афины — тур на 8 дней](https://besttraveler.ge/ru/tury/gretsiya-saloniki-meteory-afiny-tur/)
 
 8 днейГреция
 

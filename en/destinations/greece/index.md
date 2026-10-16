@@ -14,7 +14,7 @@ Group tours to Greece: Athens and the Acropolis, Aegina island, Thessaloniki and
 
 By plane
 
-### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-aegina/)
+### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
 
 4 days / 3 nights1–4 Nov 2026
 
@@ -26,7 +26,7 @@ View tour
 
 By plane
 
-### [Greece: Thessaloniki, Meteora and Athens — 8-Day Tour](https://besttraveler.ge/en/tours/greece-thessaloniki-meteora-athens/)
+### [Greece: Thessaloniki, Meteora and Athens — 8-Day Tour](https://besttraveler.ge/en/tours/greece-thessaloniki-meteora-athens-tour/)
 
 8 daysGreece
 

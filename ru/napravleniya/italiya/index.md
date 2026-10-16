@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ru/napravleniya/italiya/
 
 Авиатур
 
-### [Бари и Апулия, Италия — новогодний групповой тур через Ереван](https://besttraveler.ge/ru/tury/bari-puglia-matera-italy/)
+### [Бари и Апулия, Италия — новогодний групповой тур через Ереван](https://besttraveler.ge/ru/tury/italiya-bari-apuliya-novogodniy-tur/)
 
 5 дней2–6 ноября 2026
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/napravleniya/italiya/
 
 Авиатур
 
-### [Карнавал в Венеции 2027 — тур на 4 дня](https://besttraveler.ge/ru/tury/italy-venice-carnival-2027/)
+### [Карнавал в Венеции 2027 — тур на 4 дня](https://besttraveler.ge/ru/tury/venetsianskiy-karnaval-tur/)
 
 4 дня23–26 января 2027
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/ru/napravleniya/italiya/
 
 Авиатур
 
-### [Франция, Италия, Монако: Прованс, Альпы и Лазурный берег](https://besttraveler.ge/ru/tury/france-italy-monaco-provence-riviera/)
+### [Франция, Италия, Монако: Прованс, Альпы и Лазурный берег](https://besttraveler.ge/ru/tury/provans-monako-lazurnyy-bereg-tur/)
 
 8 днейФранция, Италия, Монако
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/ru/napravleniya/italiya/
 
 Авиатур
 
-### [Рим, Италия — тур на 8 дней из Кутаиси](https://besttraveler.ge/ru/tury/italy-rome/)
+### [Рим, Италия — тур на 8 дней из Кутаиси](https://besttraveler.ge/ru/tury/rim-italiya-tur-iz-kutaisi/)
 
 8 днейИталия
 
@@ -62,7 +62,7 @@ URL: https://besttraveler.ge/ru/napravleniya/italiya/
 
 Авиатур
 
-### [Сицилия и Южная Италия — тур на 8 дней из Еревана](https://besttraveler.ge/ru/tury/italy-sicily-palermo-catania/)
+### [Сицилия и Южная Италия — тур на 8 дней из Еревана](https://besttraveler.ge/ru/tury/sitsiliya-yuzhnaya-italiya-tur/)
 
 8 днейИталия
 
@@ -74,7 +74,7 @@ URL: https://besttraveler.ge/ru/napravleniya/italiya/
 
 Авиатур
 
-### [Юг Италии на машине — Неаполь, Капри и Амальфитанское побережье](https://besttraveler.ge/ru/tury/south-italy-naples-amalfi-coast-car/)
+### [Юг Италии на машине — Неаполь, Капри и Амальфитанское побережье](https://besttraveler.ge/ru/tury/yug-italii-neapol-amalfi-tur/)
 
 10 дней / 9 ночейИталия
 
@@ -86,7 +86,7 @@ URL: https://besttraveler.ge/ru/napravleniya/italiya/
 
 Авиатур
 
-### [Тоскана, Эльба и Сан-Марино — тур по Италии на 10 дней](https://besttraveler.ge/ru/tury/italy-tuscany-elba-san-marino/)
+### [Тоскана, Эльба и Сан-Марино — тур по Италии на 10 дней](https://besttraveler.ge/ru/tury/toskana-elba-san-marino-tur/)
 
 10 дней / 9 ночейИталия
 
@@ -98,7 +98,7 @@ URL: https://besttraveler.ge/ru/napravleniya/italiya/
 
 Авиатур
 
-### [Венеция и Падуя — групповой тур на 5 дней](https://besttraveler.ge/ru/tury/italy-venice-padua/)
+### [Венеция и Падуя — групповой тур на 5 дней](https://besttraveler.ge/ru/tury/venetsiya-paduya-gruppovoy-tur/)
 
 5 дней / 4 ночиИталия
 

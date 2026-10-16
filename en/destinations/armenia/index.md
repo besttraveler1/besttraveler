@@ -14,7 +14,7 @@ One-day and three-day tours to Armenia from Tbilisi by minibus: Dilijan, Lori, L
 
 By bus
 
-### [Armenia in 3 Days: Dilijan, Jermuk, Tatev, Noravank, Sevan](https://besttraveler.ge/en/tours/armenia-dilijan-jermuk-tatev-noravank/)
+### [Armenia in 3 Days: Dilijan, Jermuk, Tatev, Noravank, Sevan](https://besttraveler.ge/en/tours/armenia-tatev-jermuk-noravank-tour/)
 
 3 days / 2 nightsArmenia
 
@@ -26,7 +26,7 @@ View tour
 
 By bus
 
-### [Yerevan in 3 Days: Sevan, Garni, Geghard, Etchmiadzin](https://besttraveler.ge/en/tours/armenia-yerevan-garni-geghard-etchmiadzin/)
+### [Yerevan in 3 Days: Sevan, Garni, Geghard, Etchmiadzin](https://besttraveler.ge/en/tours/yerevan-garni-geghard-tour/)
 
 3 daysArmenia
 
@@ -38,7 +38,7 @@ View tour
 
 Day tour
 
-### [Dilijan Day Tour, Armenia: Haghartsin, Goshavank, Lake Parz](https://besttraveler.ge/en/tours/armenia-dilijan-day-tour/)
+### [Dilijan Day Tour, Armenia: Haghartsin, Goshavank, Lake Parz](https://besttraveler.ge/en/tours/armenia-dilijan-day-trip/)
 
 1 dayArmenia
 
@@ -50,7 +50,7 @@ View tour
 
 Day tour
 
-### [Historic Lori, Armenia: Akhtala, Haghpat, Sanahin, Odzun](https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-akhtala/)
+### [Historic Lori, Armenia: Akhtala, Haghpat, Sanahin, Odzun](https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-tour/)
 
 1 dayArmenia
 

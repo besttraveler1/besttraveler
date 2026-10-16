@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ru/napravleniya/frantsiya/
 
 Авиатур
 
-### [Франция: Эльзас и Париж — групповой тур из Кутаиси](https://besttraveler.ge/ru/tury/france-alsace-strasbourg-colmar-paris/)
+### [Франция: Эльзас и Париж — групповой тур из Кутаиси](https://besttraveler.ge/ru/tury/frantsiya-elzas-parizh-tur/)
 
 8 дней / 7 ночей19–26 ноября 2026
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/napravleniya/frantsiya/
 
 Авиатур
 
-### [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн](https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germany/)
+### [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн](https://besttraveler.ge/ru/tury/alpy-shveytsariya-5-stran-tur/)
 
 8 дней / 7 ночейШвейцария, Франция, Германия, Австрия, Лихтенштейн
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/ru/napravleniya/frantsiya/
 
 Авиатур
 
-### [Франция, Италия, Монако: Прованс, Альпы и Лазурный берег](https://besttraveler.ge/ru/tury/france-italy-monaco-provence-riviera/)
+### [Франция, Италия, Монако: Прованс, Альпы и Лазурный берег](https://besttraveler.ge/ru/tury/provans-monako-lazurnyy-bereg-tur/)
 
 8 днейФранция, Италия, Монако
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/ru/napravleniya/frantsiya/
 
 Авиатур
 
-### [Париж, Франция — групповой тур на 5 дней](https://besttraveler.ge/ru/tury/france-paris/)
+### [Париж, Франция — групповой тур на 5 дней](https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/)
 
 5 днейФранция
 
@@ -62,7 +62,7 @@ URL: https://besttraveler.ge/ru/napravleniya/frantsiya/
 
 Авиатур
 
-### [Испания, Франция, Андорра — тур на 10 дней из Барселоны](https://besttraveler.ge/ru/tury/spain-france-andorra-barcelona/)
+### [Испания, Франция, Андорра — тур на 10 дней из Барселоны](https://besttraveler.ge/ru/tury/ispaniya-frantsiya-andorra-tur/)
 
 10 днейИспания, Франция, Андорра
 

@@ -61,7 +61,7 @@ Flight tour prices are based on current air fares. Fares rise as the departure g
 
 ## India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur
 
-URL: https://besttraveler.ge/en/tours/india-rajasthan-delhi-udaipur/
+URL: https://besttraveler.ge/en/tours/india-rajasthan-group-tour/
 
 - Type: By plane
 - Countries: India
@@ -101,7 +101,7 @@ Not included:
 
 ## Athens, Greece — Group Tour from Kutaisi, 1–4 November
 
-URL: https://besttraveler.ge/en/tours/athens-greece-aegina/
+URL: https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/
 
 - Type: By plane
 - Countries: Greece
@@ -132,7 +132,7 @@ Not included:
 
 ## Bari and Puglia, Italy — New Year Group Tour via Yerevan
 
-URL: https://besttraveler.ge/en/tours/bari-puglia-matera-italy/
+URL: https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/
 
 - Type: By plane
 - Countries: Italy
@@ -164,7 +164,7 @@ Not included:
 
 ## Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi
 
-URL: https://besttraveler.ge/en/tours/turkey-cappadocia-amasya-bus/
+URL: https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/
 
 - Type: By bus
 - Countries: Turkey
@@ -198,7 +198,7 @@ Optional extras:
 
 ## Spain and Portugal by Car — Group Tour, 3–10 November
 
-URL: https://besttraveler.ge/en/tours/spain-portugal-madrid-porto-lisbon/
+URL: https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/
 
 - Type: By plane
 - Countries: Spain, Portugal
@@ -234,7 +234,7 @@ Not included:
 
 ## Hurghada, Luxor, Port Said and the Suez Canal — 7 Days
 
-URL: https://besttraveler.ge/en/tours/egypt-hurghada-luxor-port-said-suez-canal/
+URL: https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/
 
 - Type: By plane
 - Countries: Egypt
@@ -273,7 +273,7 @@ Optional extras:
 
 ## Morocco Group Tour with a Stop in Rome — 13–22 November
 
-URL: https://besttraveler.ge/en/tours/morocco-marrakesh-fes-rome/
+URL: https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/
 
 - Type: By plane
 - Countries: Morocco, Italy
@@ -315,7 +315,7 @@ Not included:
 
 ## France: Alsace and Paris — Group Tour from Kutaisi
 
-URL: https://besttraveler.ge/en/tours/france-alsace-strasbourg-colmar-paris/
+URL: https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/
 
 - Type: By plane
 - Countries: France
@@ -351,7 +351,7 @@ Not included:
 
 ## Egypt Tour: Cairo and Alexandria, 5 Days
 
-URL: https://besttraveler.ge/en/tours/egypt-cairo-alexandria/
+URL: https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/
 
 - Type: By plane
 - Countries: Egypt
@@ -424,7 +424,7 @@ Not included:
 
 ## Sri Lanka Tour: Sigiriya, Kandy, Ella, Mirissa and Colombo
 
-URL: https://besttraveler.ge/en/tours/sri-lanka-kandy-ella-mirissa/
+URL: https://besttraveler.ge/en/tours/sri-lanka-kandy-ella-mirissa-tour/
 
 - Type: By plane
 - Countries: Sri Lanka
@@ -468,7 +468,7 @@ Optional extras:
 
 ## Sri Lanka and Maldives Group Tour
 
-URL: https://besttraveler.ge/en/tours/sri-lanka-maldives/
+URL: https://besttraveler.ge/en/tours/sri-lanka-maldives-group-tour/
 
 - Type: By plane
 - Countries: Sri Lanka, Maldives
@@ -511,7 +511,7 @@ Not included:
 
 ## Venice Carnival 2027 — 4-Day Tour of Italy
 
-URL: https://besttraveler.ge/en/tours/italy-venice-carnival-2027/
+URL: https://besttraveler.ge/en/tours/venice-carnival-tour/
 
 - Type: By plane
 - Countries: Italy
@@ -540,7 +540,7 @@ Not included:
 
 ## Southern Spain and Gibraltar — Group Tour, 27 January – 3 February
 
-URL: https://besttraveler.ge/en/tours/south-spain-andalusia-gibraltar/
+URL: https://besttraveler.ge/en/tours/southern-spain-andalusia-gibraltar-tour/
 
 - Type: By plane
 - Countries: Spain, Gibraltar
@@ -575,7 +575,7 @@ Not included:
 
 ## 5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein
 
-URL: https://besttraveler.ge/en/tours/five-countries-alps-switzerland-france-germany/
+URL: https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/
 
 - Type: By plane
 - Countries: Switzerland, France, Germany, Austria, Liechtenstein
@@ -608,7 +608,7 @@ Optional extras:
 
 ## Belgium and the Netherlands — 8-Day Group Tour
 
-URL: https://besttraveler.ge/en/tours/belgium-netherlands-brussels-amsterdam/
+URL: https://besttraveler.ge/en/tours/belgium-netherlands-group-tour/
 
 - Type: By plane
 - Countries: Belgium, Netherlands
@@ -643,7 +643,7 @@ Not included:
 
 ## Bratislava, Slovakia — Tour with a Day Trip to Vienna
 
-URL: https://besttraveler.ge/en/tours/bratislava-slovakia-vienna/
+URL: https://besttraveler.ge/en/tours/bratislava-slovakia-vienna-tour/
 
 - Type: By plane
 - Countries: Slovakia, Austria
@@ -677,7 +677,7 @@ Not included:
 
 ## China Group Tour: Beijing, Zhangjiajie, Leshan and Hong Kong
 
-URL: https://besttraveler.ge/en/tours/china-beijing-zhangjiajie-hong-kong/
+URL: https://besttraveler.ge/en/tours/china-beijing-zhangjiajie-hong-kong-tour/
 
 - Type: By plane
 - Countries: China
@@ -720,7 +720,7 @@ Notes:
 
 ## Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days
 
-URL: https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra/
+URL: https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/
 
 - Type: By plane
 - Countries: Egypt, Jordan
@@ -768,7 +768,7 @@ Notes:
 
 ## France, Italy and Monaco: Provence, the Alps and the Côte d'Azur
 
-URL: https://besttraveler.ge/en/tours/france-italy-monaco-provence-riviera/
+URL: https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/
 
 - Type: By plane
 - Countries: France, Italy, Monaco
@@ -803,7 +803,7 @@ Not included:
 
 ## Greece: Thessaloniki, Meteora and Athens — 8-Day Tour
 
-URL: https://besttraveler.ge/en/tours/greece-thessaloniki-meteora-athens/
+URL: https://besttraveler.ge/en/tours/greece-thessaloniki-meteora-athens-tour/
 
 - Type: By plane
 - Countries: Greece
@@ -833,7 +833,7 @@ Included:
 
 ## Istanbul: 7-Day Tour with Flights from Tbilisi or Batumi
 
-URL: https://besttraveler.ge/en/tours/turkey-istanbul-7-days/
+URL: https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/
 
 - Type: By plane
 - Countries: Turkey
@@ -867,7 +867,7 @@ Included:
 
 ## Malta via Rome — 8-Day Tour
 
-URL: https://besttraveler.ge/en/tours/malta-valletta-via-rome/
+URL: https://besttraveler.ge/en/tours/malta-tour-via-rome/
 
 - Type: By plane
 - Countries: Malta, Italy
@@ -898,7 +898,7 @@ Included:
 
 ## Netherlands and Germany: Tulip Festival — 8-Day Tour
 
-URL: https://besttraveler.ge/en/tours/netherlands-germany-tulip-festival/
+URL: https://besttraveler.ge/en/tours/netherlands-tulip-festival-tour/
 
 - Type: By plane
 - Countries: Netherlands, Germany
@@ -929,7 +929,7 @@ Included:
 
 ## Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria
 
-URL: https://besttraveler.ge/en/tours/egypt-nile-cruise-cairo-luxor-aswan-alexandria/
+URL: https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/
 
 - Type: By plane
 - Countries: Egypt
@@ -967,7 +967,7 @@ Notes:
 
 ## Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna
 
-URL: https://besttraveler.ge/en/tours/egypt-nile-cruise-luxor-aswan-hurghada/
+URL: https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/
 
 - Type: By plane
 - Countries: Egypt
@@ -1011,7 +1011,7 @@ Optional extras:
 
 ## Paris, France — 5-Day Group Tour
 
-URL: https://besttraveler.ge/en/tours/france-paris/
+URL: https://besttraveler.ge/en/tours/paris-france-group-tour/
 
 - Type: By plane
 - Countries: France
@@ -1037,7 +1037,7 @@ Included:
 
 ## Rome, Italy — 8-Day Tour from Kutaisi
 
-URL: https://besttraveler.ge/en/tours/italy-rome/
+URL: https://besttraveler.ge/en/tours/rome-italy-tour-from-kutaisi/
 
 - Type: By plane
 - Countries: Italy
@@ -1070,7 +1070,7 @@ Not included:
 
 ## Sicily and Southern Italy — 8-Day Tour from Yerevan
 
-URL: https://besttraveler.ge/en/tours/italy-sicily-palermo-catania/
+URL: https://besttraveler.ge/en/tours/sicily-southern-italy-tour/
 
 - Type: By plane
 - Countries: Italy
@@ -1108,7 +1108,7 @@ Not included:
 
 ## Southern Italy by Car — Naples, Capri and the Amalfi Coast
 
-URL: https://besttraveler.ge/en/tours/south-italy-naples-amalfi-coast-car/
+URL: https://besttraveler.ge/en/tours/southern-italy-naples-amalfi-coast-tour/
 
 - Type: By plane
 - Countries: Italy
@@ -1141,7 +1141,7 @@ Included:
 
 ## Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days
 
-URL: https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia/
+URL: https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia-tour/
 
 - Type: By plane
 - Countries: Spain
@@ -1179,7 +1179,7 @@ Not included:
 
 ## Spain, France and Andorra — 10-Day Tour from Barcelona
 
-URL: https://besttraveler.ge/en/tours/spain-france-andorra-barcelona/
+URL: https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/
 
 - Type: By plane
 - Countries: Spain, France, Andorra
@@ -1217,7 +1217,7 @@ Not included:
 
 ## Tuscany, Elba and San Marino — 10-Day Tour of Italy
 
-URL: https://besttraveler.ge/en/tours/italy-tuscany-elba-san-marino/
+URL: https://besttraveler.ge/en/tours/tuscany-elba-san-marino-tour/
 
 - Type: By plane
 - Countries: Italy
@@ -1250,7 +1250,7 @@ Included:
 
 ## Venice and Padua — 5-Day Group Tour
 
-URL: https://besttraveler.ge/en/tours/italy-venice-padua/
+URL: https://besttraveler.ge/en/tours/venice-padua-group-tour/
 
 - Type: By plane
 - Countries: Italy
@@ -1282,7 +1282,7 @@ Optional extras:
 
 ## Vilnius, Lithuania — 5-Day Tour from Kutaisi
 
-URL: https://besttraveler.ge/en/tours/vilnius-lithuania-trakai/
+URL: https://besttraveler.ge/en/tours/vilnius-lithuania-tour-from-kutaisi/
 
 - Type: By plane
 - Countries: Lithuania
@@ -1309,7 +1309,7 @@ Included:
 
 ## Armenia in 3 Days: Dilijan, Jermuk, Tatev, Noravank, Sevan
 
-URL: https://besttraveler.ge/en/tours/armenia-dilijan-jermuk-tatev-noravank/
+URL: https://besttraveler.ge/en/tours/armenia-tatev-jermuk-noravank-tour/
 
 - Type: By bus
 - Countries: Armenia
@@ -1339,7 +1339,7 @@ Notes:
 
 ## Kars, Ani and Van: 3-Day Tour of Eastern Turkey
 
-URL: https://besttraveler.ge/en/tours/turkey-kars-ani-van/
+URL: https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/
 
 - Type: By bus
 - Countries: Turkey
@@ -1361,7 +1361,7 @@ Included:
 
 ## Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana
 
-URL: https://besttraveler.ge/en/tours/turkey-tao-klarjeti/
+URL: https://besttraveler.ge/en/tours/tao-klarjeti-tour-turkey/
 
 - Type: By bus
 - Countries: Turkey
@@ -1383,7 +1383,7 @@ Notes:
 
 ## Trabzon and Sumela Monastery: 3-Day Tour
 
-URL: https://besttraveler.ge/en/tours/turkey-trabzon-sumela/
+URL: https://besttraveler.ge/en/tours/trabzon-sumela-monastery-tour/
 
 - Type: By bus
 - Countries: Turkey
@@ -1403,7 +1403,7 @@ Notes:
 
 ## Van and Mardin: 7-Day Tour of Eastern Turkey
 
-URL: https://besttraveler.ge/en/tours/turkey-van-mardin-nemrut/
+URL: https://besttraveler.ge/en/tours/eastern-turkey-van-mardin-nemrut-tour/
 
 - Type: By bus
 - Countries: Turkey
@@ -1431,7 +1431,7 @@ Included:
 
 ## Yerevan in 3 Days: Sevan, Garni, Geghard, Etchmiadzin
 
-URL: https://besttraveler.ge/en/tours/armenia-yerevan-garni-geghard-etchmiadzin/
+URL: https://besttraveler.ge/en/tours/yerevan-garni-geghard-tour/
 
 - Type: By bus
 - Countries: Armenia
@@ -1451,7 +1451,7 @@ Optional extras:
 
 ## Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi
 
-URL: https://besttraveler.ge/en/tours/kakheti-ujarma-alaverdi/
+URL: https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1469,7 +1469,7 @@ Notes:
 
 ## Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro
 
-URL: https://besttraveler.ge/en/tours/gareja-colorful-desert-mravaltskaro/
+URL: https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1492,7 +1492,7 @@ Notes:
 
 ## David Gareja: Sabereebi Desert Monastery Day Tour
 
-URL: https://besttraveler.ge/en/tours/david-gareja-sabereebi/
+URL: https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1515,7 +1515,7 @@ Notes:
 
 ## Dilijan Day Tour, Armenia: Haghartsin, Goshavank, Lake Parz
 
-URL: https://besttraveler.ge/en/tours/armenia-dilijan-day-tour/
+URL: https://besttraveler.ge/en/tours/armenia-dilijan-day-trip/
 
 - Type: Day tour
 - Countries: Armenia
@@ -1539,7 +1539,7 @@ Notes:
 
 ## Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano
 
-URL: https://besttraveler.ge/en/tours/dzama-gorge-day-tour/
+URL: https://besttraveler.ge/en/tours/dzama-gorge-day-trip/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1557,7 +1557,7 @@ Notes:
 
 ## Historic Lori, Armenia: Akhtala, Haghpat, Sanahin, Odzun
 
-URL: https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-akhtala/
+URL: https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-tour/
 
 - Type: Day tour
 - Countries: Armenia
@@ -1579,7 +1579,7 @@ Not included:
 
 ## Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka
 
-URL: https://besttraveler.ge/en/tours/javakheti-lakes-paravani-poka/
+URL: https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1599,7 +1599,7 @@ Included:
 
 ## Kakheti Day Tour: Chailuri, Gurjaani Kvelatsminda, Zegaani, Sanagire
 
-URL: https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani/
+URL: https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani-day-trip/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1622,7 +1622,7 @@ Notes:
 
 ## Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi
 
-URL: https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi/
+URL: https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1645,7 +1645,7 @@ Notes:
 
 ## Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe
 
-URL: https://besttraveler.ge/en/tours/kakheti-sighnaghi-bodbe/
+URL: https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1671,7 +1671,7 @@ Notes:
 
 ## Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity
 
-URL: https://besttraveler.ge/en/tours/kazbegi-gveleti-gergeti-day-tour/
+URL: https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1686,7 +1686,7 @@ Stops: Dariali Monastery Complex; Big Gveleti waterfall (walk, 1.2 km one way, m
 
 ## Khada Gorge Day Tour: Tskere and Rostiani Waterfalls
 
-URL: https://besttraveler.ge/en/tours/khada-gorge-waterfalls-day-tour/
+URL: https://besttraveler.ge/en/tours/khada-gorge-waterfalls-day-trip/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1706,7 +1706,7 @@ Included:
 
 ## Kojori and Manglisi Day Tour
 
-URL: https://besttraveler.ge/en/tours/kojori-manglisi-day-tour/
+URL: https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1729,7 +1729,7 @@ Notes:
 
 ## Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes
 
-URL: https://besttraveler.ge/en/tours/kvemo-kartli-tserakvi-gagi-tamarisi/
+URL: https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1749,7 +1749,7 @@ Included:
 
 ## Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike
 
-URL: https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall/
+URL: https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1769,7 +1769,7 @@ Included:
 
 ## Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara
 
-URL: https://besttraveler.ge/en/tours/samtskhe-javakheti-zarzma-akhaltsikhe-sapara/
+URL: https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1789,7 +1789,7 @@ Included:
 
 ## Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani
 
-URL: https://besttraveler.ge/en/tours/tabatskuri-lake-day-tour/
+URL: https://besttraveler.ge/en/tours/tabatskuri-lake-tour/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1804,7 +1804,7 @@ Stops: Tskhratskaro Pass (2462 m above sea level); Tabatskuri village (2000 m ab
 
 ## Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake
 
-URL: https://besttraveler.ge/en/tours/tianeti-day-tour/
+URL: https://besttraveler.ge/en/tours/tianeti-day-trip/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1819,7 +1819,7 @@ Stops: Mamkoda Monastery; Zoological centre (bear shelter); St Elijah Church of 
 
 ## Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori
 
-URL: https://besttraveler.ge/en/tours/truso-gorge-day-tour/
+URL: https://besttraveler.ge/en/tours/truso-gorge-day-trip/
 
 - Type: Day tour
 - Countries: Georgia
@@ -1837,6 +1837,575 @@ Included:
 - Services of a qualified tour organizer (organization, short overview of each sight)
 - Photography
 
+
+# Truso Valley Day Trip from Tbilisi: Travertines, Ketrisi, Zakagori
+
+URL: https://besttraveler.ge/en/blog/truso-valley-day-trip/
+
+Our Truso tour leaves Tbilisi at 07:00 and is back at about 22:00. In the valley you walk 6-7 km one way on an easy path. On the way you see colourful travertines, the 'bottomless' lake, Ketrisi village, Abano Convent and Zakagori Fortress.
+
+## Where the Truso valley is
+
+The Truso valley lies in Kazbegi municipality, in the historic Khevi region, on the north side of the main Caucasus watershed. The Terek (Tergi) river starts here. The valley runs about 25 km from the Truso Pass down to the village of Kobi, and its lowest part, near Kobi, is at about 2,000 m above sea level.
+
+According to Georgia's national tourism site, the valley is about 22 km from Stepantsminda, and Stepantsminda is about 157 km from Tbilisi. So a good part of the day is spent on the road.
+
+## What you see
+
+- Colourful travertines: orange and reddish formations left by the valley's mineral springs. The valley is known for its mineral water.
+- The 'bottomless' lake, one of the stops on our tour.
+- Ketrisi village. The valley has more than ten abandoned villages and many towers, and Ketrisi is one of them. A well-known mineral spring carries its name.
+- Abano Convent. Abano is also the name of one of the valley's well-known mineral springs.
+- Zakagori Fortress, a fortress complex not far from the Russian border.
+
+Do not climb or step on the travertines. The official tourism site warns that this damages them.
+
+## How hard is the walking?
+
+Our tour data gives the walk as 6-7 km one way. The path is easy, with no big climbs, but it is long. Remember that you also need to get back, so pace yourself for the whole day.
+
+This trip suits people who can walk at a steady pace for several hours. If walking is hard for you or you have knee or foot problems, ask us before you book. The valley is high, so you may feel tired sooner than in the city.
+
+## When to go
+
+Truso is a high mountain valley, so the warm months are the best time. In the cold season snow and ice make walking hard. Check the exact dates on the tour page or with us.
+
+## What to wear and bring
+
+Mountain weather changes fast and is cooler than in Tbilisi. Dress in layers you can easily take off or put on.
+
+- Comfortable hiking or sports shoes with good grip. The path can be wet or muddy.
+- A wind and rain jacket and a warm jumper.
+- Sunglasses, a hat and sunscreen: the sun is stronger up high.
+- Water and food for the whole day. Meals are not listed in the tour data.
+- Your ID card or passport. The valley is a border area, and you need a permit to go beyond Zakagori Fortress.
+- A power bank.
+
+## Truso or Kazbegi?
+
+The Truso tour is mostly about walking: a quiet valley, abandoned villages and nature. The Kazbegi tour shows you more places with less walking: Dariali Monastery, the Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama. Its longest walk is to the big waterfall, 1.2 km one way, medium difficulty. If you like walking, choose Truso. If you want to see a lot with less effort, choose Kazbegi.
+
+## What to do next
+
+The tour page has the price and the latest details. Book your seat early and check the mountain forecast the day before.
+
+**How far do I walk in Truso?** According to the tour data, 6-7 km one way on an easy path. Plan for the way back too.
+
+**What time does the tour leave and return?** It leaves at 07:00 and is back at about 22:00.
+
+**Which document should I bring?** Bring your ID card or passport. The valley is a border area, and a permit is needed to go beyond Zakagori Fortress.
+
+**Can I walk on the travertines?** No. Walking on them damages them, so enjoy them from the path.
+
+**Does the Truso tour include Gergeti Trinity Church?** No, Gergeti is not on the Truso route. If you want to see it, choose our Kazbegi tour.
+
+Sources:
+- Georgia Travel (Georgian National Tourism Administration): Upper Truso Gorge: https://georgia.travel/en_US/mtskheta-mtianeti/kazbegi/Upper-Truso-Gorge
+- Wikipedia (ka): თრუსოს ხეობა (length, lowest point, mineral springs): https://ka.wikipedia.org/wiki/თრუსოს_ხეობა
+- Wikipedia: Truso Gorge (location, Terek source, border region): https://en.wikipedia.org/wiki/Truso_Gorge
+- Wikipedia: Stepantsminda (distance from Tbilisi): https://en.wikipedia.org/wiki/Stepantsminda
+
+# David Gareja and the Colourful Mountains: What to See and Bring
+
+URL: https://besttraveler.ge/en/blog/david-gareja-colorful-mountains/
+
+David Gareja is a rock-cut monastery complex founded in the 6th century, about 60-70 km southeast of Tbilisi in semi-desert. Our colourful desert tour combines the monasteries with the Mravaltskaro colourful mountains, with only about 1 km of easy walking in total. Summers here are very hot, so bring water, a hat and sunscreen.
+
+## What David Gareja is
+
+The David Gareja monastery complex lies in Kakheti, in Sagarejo municipality, on the semi-desert slopes of Mount Gareja at the edge of the Iori Plateau, about 60-70 km southeast of Tbilisi. It was founded in the first half of the 6th century by Saint David, one of the Thirteen Assyrian Fathers.
+
+The complex has hundreds of cells, churches, chapels and refectories, most of them cut into the rock. David's Lavra was expanded by his disciples Dodo and Lukiane. Dodo's Rka ('Dodo's horn') is named after Dodo, and Natlismtsemeli is named after John the Baptist. The complex was at its height from the late 11th to the early 13th century, when the Udabno, Bertubani and Chichkhituri monasteries were built and wall painting flourished.
+
+Part of the complex lies on the Georgia-Azerbaijan border: Bertubani is on the Azerbaijani side, and parts of Udabno and Chichkhituri are disputed. On site, follow the tour escort's directions.
+
+## The colourful mountains and Mravaltskaro
+
+The Gareja semi-desert has striped red and yellow hills that people call the colourful or rainbow mountains. Georgia's national tourism site describes Mravaltskaro reservoir, where the hills and sky are reflected in the water, and notes that many people call the place 'Georgian Mars'. The site places the reservoir in Gardabani municipality, in Kvemo Kartli.
+
+## Our two tours: which to choose
+
+- Colourful desert and David Gareja: Dodo's Rka, the David Gareja monastery complex, the colourful mountains, the Mravaltskaro colourful mountains and reservoir, the Monastery of St John the Baptist and views over the desert. About 1 km of easy walking in total. Leaves at 08:00, back at about 22:00.
+- Sabereebi: the Sabereebi complex of Gareja (9th-10th centuries), with groups of rock-cut caves. Leaves at 08:00, back at about 23:00.
+
+If it is your first visit and you want both monasteries and colourful landscapes in one day, choose the colourful desert tour. If you have already seen Gareja or are especially interested in cave monasteries, choose Sabereebi. Both tours include minibus transport, a tour escort and photography.
+
+## Walking and heat
+
+There is little walking on the colourful desert tour and it is easy, but the paths are stony and sloping in places. Gareja is semi-desert: there is almost no shade and midday in summer is very hot. If you do not cope well with heat, go in spring or autumn.
+
+Georgia's national tourism site says the Gareja semi-desert is especially beautiful in late spring, when fresh grass comes up through the red soil. Our Gareja tours run in any weather and are postponed only if there is a problem with the road. After rain the ground can be muddy and slippery.
+
+## What to bring
+
+- Plenty of water, more than usual in summer.
+- A hat, sunglasses and sunscreen.
+- Closed shoes with good grip for stony paths.
+- Light clothes that cover shoulders and knees. To enter a monastery, women need a headscarf and a skirt, men long trousers.
+- Snacks. Meals are not listed in the tour data.
+- Your ID card or passport, as the complex is close to the border.
+- In spring and autumn, a warm layer: mornings and evenings in the desert are cool.
+
+Stay on the paths, especially near cliff edges and on the border side. The soil on the colourful hills is loose and slippery.
+
+## What to do next
+
+Pick a tour, check the price and latest details on the tour page and book your seat early. If you cannot decide which Gareja trip suits you, write to us.
+
+**How much walking is there?** On the colourful desert tour, about 1 km in total, easy. The Sabereebi tour data gives no distance, so ask us when you book.
+
+**When is the best time to visit Gareja?** Spring and autumn are the most comfortable. Summer is very hot and there is almost no shade.
+
+**What should I wear for the monastery?** Women need a headscarf and a skirt, men long trousers. Shoulders and knees should be covered.
+
+**Which tour is best for a first visit?** The colourful desert and David Gareja tour, because it includes both the monasteries and the colourful mountains.
+
+**Does the tour run in the rain?** Yes. It runs in any weather and is postponed only if there is a problem with the road.
+
+Sources:
+- Wikipedia: David Gareji monastery complex (founding, location, history, border): https://en.wikipedia.org/wiki/David_Gareji_monastery_complex
+- Wikipedia: Sagarejo Municipality (David Gareja section): https://en.wikipedia.org/wiki/Sagarejo_Municipality
+- Georgia Travel (Georgian National Tourism Administration): Mravaltskaro Reservoir: https://georgia.travel/mravaltskaro-reservoir
+
+# Kakheti Day Trips from Tbilisi: Four Routes and Who Each Suits
+
+URL: https://besttraveler.ge/en/blog/kakheti-day-trips-from-tbilisi/
+
+We run four Kakheti day routes: Sighnaghi and Bodbe; Ujarma to Alaverdi; Nekresi, Gremi and Telavi; and Gurjaani and Zegaani. Sighnaghi and Bodbe is best for a first visit, the Alaverdi route for monastery lovers, Gremi and Telavi for history fans, and Gurjaani and Zegaani for people who have already seen the classic sights.
+
+## What all four routes have in common
+
+All four tours leave Tbilisi at 08:00 and are back at about 23:00. We travel by minibus with a tour escort. The tours run in any weather and are postponed only if there is a problem with the road. Walking is light on every route, mostly around the sites and town streets.
+
+## 1. Sighnaghi and Bodbe: for a first visit
+
+Route: Ninotsminda monastery complex, Manavi Fortress, the Bodbe Convent of St Nino and Sighnaghi.
+
+- Ninotsminda Cathedral was built around 575. It collapsed after earthquakes in 1824 and 1848, and only the eastern apse and part of the western wall survive. The bell tower dates from the 16th century, the reign of King Levan.
+- Bodbe Monastery stands, by tradition, over the grave of St Nino. The first monastery was built in the 9th century, and today it is a convent about 2 km from Sighnaghi.
+- Sighnaghi is about 113 km from Tbilisi. The town is ringed by remains of 18th-century walls and looks out over the Alazani Valley. It is known as the 'City of Love'.
+
+Who it suits: first-time visitors to Kakheti, families and older travellers. You get time to stroll the streets of Sighnaghi and enjoy the views. Meals are not included on this tour.
+
+## 2. Ujarma to Alaverdi: the classic monasteries
+
+Route: Ujarma fortress-town, Gombori Pass, Shuamta convent and monastery, Ikalto monastery complex, Tetri Giorgi and Alaverdi. The road crosses the Gombori range: from Tbilisi to Telavi this way is about 96 km, compared with about 156 km on the main highway.
+
+- Ujarma fortress stands 4 km north of Ujarma village, near the Gombori Pass. It dates to the reign of King Aspagur (3rd-4th centuries) and was later strengthened by Vakhtang Gorgasali.
+- Old Shuamta has a 5th-century basilica and two 7th-century domed churches. New Shuamta was founded by the wife of King Levan.
+- The Academy of Ikalto was founded between the 11th and 13th centuries. Its first rector was Arsen of Ikalto.
+- Alaverdi's Cathedral of St George was built in the 11th century under King Kvirike III of Kakheti. It is over 55 m tall and was the tallest church in Georgia until 2004.
+
+Who it suits: people who love churches, old architecture and mountain-road views.
+
+## 3. Nekresi, Gremi and Telavi: the Kakhetian kingdom
+
+Route: Nekresi monastery complex, Ilia Lake, Gremi and the Batonis Tsikhe complex in Telavi.
+
+- Nekresi Monastery stands on a hill in the foothills of the Greater Caucasus, between Kvareli and the village of Shilda. Monastic life here began in the 6th century, and the monastery is still active. It is linked to Abibos of Nekresi, one of the Thirteen Assyrian Fathers.
+- Gremi was the capital of the Kingdom of Kakheti in the 16th and 17th centuries. King Levan built the Church of the Archangels in 1565. In 1615 the town was destroyed by the army of Shah Abbas I. The bell tower houses a museum.
+- Batonis Tsikhe in Telavi is a 17th-century fortress and royal palace. King Erekle II was born and died in Telavi.
+
+Who it suits: history lovers and anyone who wants to see Kakheti's old royal capitals. Nekresi Monastery is on a hill, so if uphill walking is hard for you, ask us before you book.
+
+## 4. Gurjaani and Zegaani: lesser-known Kakheti
+
+Route: Chailuri (Niakhura) Fortress (16th century), Gurjaani Kvelatsminda (8th-9th centuries), the Nato Vachnadze House-Museum, Ziari Lake, Zegaani Monastery (5th-9th centuries) and the Sanagire monastery complex (10th-11th centuries).
+
+Gurjaani Kvelatsminda is the only surviving two-domed church in Georgia. This tour meets at Didube metro station.
+
+Who it suits: people who have already seen Sighnaghi and Alaverdi and want another side of Kakheti, and fans of Georgian cinema, who will enjoy the Nato Vachnadze House-Museum.
+
+## Other day trips in Kakheti
+
+- David Gareja: the colourful desert tour (monasteries plus the Mravaltskaro colourful mountains, about 1 km of walking in total) or the Sabereebi cave monasteries.
+- Lagodekhi: a hike to the Ninoskhevi (Gurgeniani) waterfall, 8.3 km one way, medium and hard in places. This tour leaves at 07:00.
+
+## What to bring
+
+- Comfortable shoes: monastery yards and Sighnaghi's streets have cobbles and slopes.
+- For monasteries: a headscarf and skirt for women, long trousers for men.
+- Water and money for food. Meals are not listed in the tour data.
+- A hat and sunscreen in summer, a warm jacket in winter: the Gombori Pass is colder than Tbilisi.
+
+## What to do next
+
+Pick a route, check the price and latest details on the tour page and book your seat early. If you plan to visit Kakheti more than once, start with Sighnaghi or Alaverdi, then do Gremi and Gurjaani.
+
+**Which Kakheti tour is best for a first visit?** Sighnaghi and Bodbe: Ninotsminda, Manavi Fortress, Bodbe Monastery and Sighnaghi. There is little walking and it suits all ages.
+
+**What time do the tours leave and return?** All four routes leave at 08:00 and are back at about 23:00.
+
+**Do the tours run in bad weather?** Yes. The Kakheti tours run in any weather and are postponed only if there is a problem with the road.
+
+**Which tour includes Alaverdi?** The classic Kakheti route, together with Ujarma, Shuamta and Ikalto.
+
+**Are meals included?** Meals are not included on the Sighnaghi tour and are not listed for the others. Budget for food.
+
+Sources:
+- Wikipedia: Sighnaghi (distance from Tbilisi, fortifications, Alazani Valley): https://en.wikipedia.org/wiki/Sighnaghi
+- Wikipedia: Bodbe Monastery: https://en.wikipedia.org/wiki/Bodbe_Monastery
+- Wikipedia: Ninotsminda Cathedral: https://en.wikipedia.org/wiki/Ninotsminda_Cathedral
+- Wikipedia: Sagarejo Municipality (Ujarma fortress): https://en.wikipedia.org/wiki/Sagarejo_Municipality
+- Wikipedia: Old Shuamta: https://en.wikipedia.org/wiki/Old_Shuamta
+- Wikipedia: Academy of Ikalto: https://en.wikipedia.org/wiki/Academy_of_Ikalto
+- Wikipedia: Alaverdi Monastery: https://en.wikipedia.org/wiki/Alaverdi_Monastery
+- Wikipedia: Nekresi: https://en.wikipedia.org/wiki/Nekresi
+- Wikipedia: Gremi: https://en.wikipedia.org/wiki/Gremi
+- Wikipedia: Telavi (Batonis Tsikhe, routes from Tbilisi): https://en.wikipedia.org/wiki/Telavi
+- Wikipedia: Gurjaani Kvelatsminda Church: https://en.wikipedia.org/wiki/Gurjaani_Kvelatsminda_Church
+
+# Jordan Visa for Georgian Citizens: On Arrival and Jordan Pass (2026)
+
+URL: https://besttraveler.ge/en/blog/jordan-visa-for-georgians/
+
+Georgian citizens need a visa for Jordan, but usually do not have to get it in advance: Georgia is not on the Jordanian Ministry of Interior's list of 'restricted' nationalities, so you get the visa on arrival at Amman airport. A single-entry visa costs 40 Jordanian dinars, and Jordan Pass holders who stay at least two nights pay no visa fee (as of October 2026).
+
+## Do Georgian citizens need a visa for Jordan?
+
+Yes, but it is easy to get. Jordan's Ministry of Interior splits countries into two groups: citizens of 'restricted' countries need prior approval to enter, citizens of 'non-restricted' countries do not. Georgia is not on the ministry's published list of restricted countries.
+
+According to the official Jordan Pass website, citizens of non-restricted countries get a visa on arrival at Queen Alia International Airport in Amman and at the Sheikh Hussein Bridge (Jordan River) border crossing.
+
+## How much does the Jordan visa cost?
+
+According to the official Jordan Pass website, as of October 2026:
+
+- Single-entry tourist visa without the Jordan Pass: 40 Jordanian dinars (about 60 USD, as the site puts it)
+- The single-entry visa is valid for one month and can be extended at a police station for an extra fee
+
+## The Jordan Pass: visa and entry tickets in one
+
+The Jordan Pass is an official tourist pass. It covers entry to more than 40 sites, including Petra, Jerash and Wadi Rum, and it also covers the single-entry tourist visa fee. There are three versions:
+
+- Jordan Wanderer: 70 dinars (one day in Petra)
+- Jordan Explorer: 75 dinars (two consecutive days in Petra)
+- Jordan Expert: 80 dinars (three consecutive days in Petra)
+
+The visa fee is waived only if you buy the Jordan Pass before you arrive in Jordan and stay at least two full nights (three days). The airport immigration system checks this when you leave. The pass covers a single-entry visa only, not a multiple-entry one.
+
+## Aqaba: a free visa when you arrive by sea
+
+Aqaba is a special economic zone. The official tourism website of the zone's authority (ASEZA) says that visitors entering through Aqaba's port, airport or land border (except the southern Wadi Araba crossing) receive a free visa to Jordan. The condition: you must leave Jordan within one month through the same border.
+
+The same site notes that some nationalities need a visa before travel and that the rules can change without notice, so check again before you go.
+
+## Petra from Egypt: the ferry from Nuweiba to Aqaba
+
+On our 8-day tour 'Egypt and Jordan: Sharm el-Sheikh and Petra' we visit Petra in one day. We leave by bus at night for the port of Nuweiba, take a ferry of about an hour to Aqaba and drive on to Petra. In the evening we take the ferry from Aqaba back to Nuweiba.
+
+So you enter and leave Jordan through the same border, the port of Aqaba, on the same day. This matches the Aqaba special economic zone rule described above.
+
+When you book, check two things with our manager: what is included for the Jordan part (for example, the Petra ticket and port fees), and which Egyptian visa you need. You re-enter Egypt from Jordan, and Egypt's official portal issues single-entry and multiple-entry visas separately.
+
+## What to carry
+
+- A valid passport (for our tours, valid for at least 6 months)
+- Your Jordan Pass, if you bought one
+- Hotel booking and return ticket
+- Enough money for the visa or any fees paid on the spot
+
+## Travel to Jordan with us
+
+You can see Petra as part of our Egypt holiday: the 8-day programme combines a beach stay in Sharm el-Sheikh with a day trip to Petra. If you only want Egypt, look at our Cairo and Alexandria tour or our Hurghada tour. Each tour page shows what is included, and our manager will answer visa questions when you book.
+
+**Do Georgian citizens need a visa for Jordan?** Yes, but usually not in advance: Georgia is not on the 'restricted' list, and the visa is issued on arrival at Amman airport.
+
+**How much is the Jordan visa?** As of October 2026 a single-entry tourist visa costs 40 Jordanian dinars and is valid for one month.
+
+**Does the Jordan Pass cover the visa fee?** Yes, if you buy it before arrival and stay at least two full nights in Jordan. It covers a single-entry visa only.
+
+**Do I pay for a visa if I arrive in Aqaba by ferry?** According to the official site of the Aqaba special economic zone, visitors arriving through Aqaba port get a free visa if they leave within one month through the same border.
+
+**What should I check when booking the Petra trip?** What is included for the Jordan part, and which Egyptian visa you need, because you re-enter Egypt from Jordan.
+
+Sources:
+- Ministry of Interior of Jordan: Restricted and Non-Restricted Countries/Nationalities: https://moi.gov.jo/En/Pages/Restricted_and_Non_Restricted_Countries_Nationalities
+- Jordan Pass (official): FAQ on visa on arrival, visa fee and the two-night rule: https://www.jordanpass.jo/Contents/FAQs.aspx
+- Jordan Pass (official): packages and prices: https://www.jordanpass.jo/Contents/Prices.aspx
+- Visit Aqaba, Aqaba Special Economic Zone Authority (ASEZA): Visa and travel requirements: https://visitaqaba.com/EN/List/Visa
+- Jordan government portal: Travel visas: https://jordan.gov.jo/EN/Pages/Travel_Visas
+- Ministry of Interior of Jordan: visa e-services: https://moi.gov.jo/EN/Pages/Visa_E_Applications
+
+# Morocco Visa for Georgian Citizens: eVisa or Embassy Visa (2026)
+
+URL: https://besttraveler.ge/en/blog/morocco-visa-for-georgians/
+
+Yes, Georgian citizens need a visa for Morocco. According to Morocco's official portal (acces-maroc.ma), a Georgian can get an eVisa only if they hold a valid multiple-entry visa from the Schengen area, the USA, the UK or another listed country; otherwise the visa is issued through an embassy or consulate. The Morocco visa is included in the price of our Morocco tour.
+
+## Do Georgian citizens need a visa for Morocco?
+
+Yes. The official portal of Morocco's Ministry of Foreign Affairs, acces-maroc.ma, has a form called 'Do I need a visa to enter Morocco?'. On 17 October 2026 we filled it in for a Georgian citizen living in Georgia, travelling on an ordinary passport for tourism.
+
+The answer depends on whether the traveller holds another country's valid visa:
+
+- No other visa: the portal points you to a regular visa issued through an embassy or consulate
+- A valid visa from one of the listed countries: you can apply for an eVisa online
+
+## Who can get the eVisa
+
+According to the portal, a Georgian citizen can get an eVisa if they hold one of these visas:
+
+- a Schengen visa
+- a UK, USA or Ireland visa
+- a Canada, Australia or New Zealand visa
+- a Japan or Norway visa
+
+That visa must be multiple-entry and valid for more than 90 days.
+
+Georgian citizens travel to the Schengen area without a visa, so many of them do not have a Schengen visa. In that case the eVisa is not available and you need a regular visa.
+
+## eVisa fee and processing time
+
+As of October 2026 the portal offers two eVisa options:
+
+- Standard: 770 Moroccan dirhams, processed in 3 to 7 business days
+- Express: 1100 Moroccan dirhams, processed in 1 to 3 business days
+
+The eVisa is single-entry and allows a stay of up to 30 days. The fee for a refused application is not refunded.
+
+## What you confirm in the application
+
+In the eVisa application the traveller confirms that they:
+
+- are travelling for tourism
+- have a return ticket
+- have a hotel booking or an invitation
+- have enough money, at least 70 EUR per day
+- will still hold a valid passport when leaving Morocco
+
+The portal also checks that your passport is valid for more than 90 days. For our tours, your passport must be valid for at least 6 months.
+
+## If you do not have another country's visa
+
+In this case the portal tells you to contact a Moroccan embassy or consulate and book an appointment. Check the list of documents and the processing times on the consular portal consulat.ma or with the embassy directly, as they can change.
+
+## Morocco with us: the visa is included
+
+The Morocco visa is included in the price of our 10-day group tour of Morocco with a stop in Rome. The programme covers Rome, Marrakesh, Ait Ben Haddou, Rabat, Chefchaouen, Fes and Casablanca. When you book, our manager will tell you which documents to bring for the visa and by what date.
+
+Visa processing takes time, so book early and get your documents ready in good time.
+
+**Do Georgian citizens need a visa for Morocco?** Yes. According to Morocco's official portal, Georgian citizens need a visa.
+
+**Can I get the Morocco eVisa?** Only if you hold a valid multiple-entry visa from the Schengen area, the UK, the USA, Ireland, Canada, Australia, New Zealand, Japan or Norway, valid for more than 90 days.
+
+**How much is the Morocco eVisa?** As of October 2026 the standard eVisa costs 770 dirhams and the express one 1100 dirhams.
+
+**How long can I stay on the eVisa?** The eVisa is single-entry and allows a stay of up to 30 days.
+
+**Is the visa included in your Morocco tour?** Yes, the Morocco visa is included in our 10-day tour of Morocco with a stop in Rome.
+
+Sources:
+- Accès Maroc, official visa and eVisa portal of the Moroccan Ministry of Foreign Affairs (eligibility check): https://www.acces-maroc.ma/
+- Accès Maroc portal data: eVisa prices, processing time and length of stay: https://api.acces-maroc.ma/evisa-api/api/referentiel/prixEvisa
+- Consular portal of Morocco (Ministry of Foreign Affairs): https://www.consulat.ma/
+
+# India Visa for Georgian Citizens: e-Visa Types, Fees and Timing (2026)
+
+URL: https://besttraveler.ge/en/blog/india-e-visa-for-georgians/
+
+Georgian citizens need a visa for India, but they can get it online: Georgia is on the list of countries eligible for India's official e-Visa. As of October 2026 the 30-day e-Tourist Visa costs 25 USD from July to March and 10 USD from April to June, and the 1-year one 40 USD. Apply at least 4 days before you arrive.
+
+## Do Georgian citizens need a visa for India?
+
+Yes. Georgian citizens cannot get a visa on arrival: according to the official portal, that option is only for citizens of Japan, South Korea and, under a condition, the UAE. Georgians can apply for an e-Visa on the official portal, indianvisaonline.gov.in. Georgia is on the portal's list of eligible countries.
+
+## Types of e-Tourist Visa
+
+- 30-day e-Tourist Visa: valid for 30 days from your first arrival in India, multiple entry, cannot be extended or converted
+- 1-year e-Tourist Visa: valid for 365 days from the date it is granted, multiple entry
+- 5-year e-Tourist Visa: valid for five years from the date it is granted, multiple entry
+
+With the 1-year and 5-year visas you cannot stay in India for more than 180 days in total in one calendar year. The portal also offers business, medical, conference and other e-Visas.
+
+## How much does the India visa cost for Georgians?
+
+The e-Visa fee depends on your nationality. As of October 2026, the official fee table lists these amounts for Georgia:
+
+- 30-day e-Tourist Visa (April to June): 10 USD
+- 30-day e-Tourist Visa (July to March): 25 USD
+- 1-year e-Tourist Visa: 40 USD
+- 5-year e-Tourist Visa: 200 USD
+
+A bank charge of 3% is added. The fee is not refunded, even if the visa is refused. The portal stresses that the Government of India charges no extra fee for an urgent visa and that nothing more is paid at the airport.
+
+Our India tour lists a 'visa fee of 40 USD' as not included. That matches the 1-year visa; for the October group the 30-day visa costs 25 USD. Please confirm the exact amount and visa type with our manager when you book.
+
+## When to apply
+
+Apply for the e-Tourist Visa at least 4 days before your arrival and no earlier than 120 days before your trip. The fee must also be paid at least 4 days before travel, or the application will not be processed. The decision comes by email, and you can check the status on the portal.
+
+## Documents you need
+
+- A passport valid for at least 6 months on the day you apply
+- A recent photo on a white background: JPEG, square, 10 KB to 1 MB, no glasses
+- A scan of your passport's photo page in PDF
+- A return or onward ticket and enough money for your stay
+
+Every traveller, including children, needs their own passport and their own application. Your fingerprints and other biometric data are taken at immigration when you arrive in India.
+
+## Where you can enter on an e-Visa
+
+With an e-Visa you can enter India only through designated airports (Delhi is one of them) and seaports, not by land. You can leave through any immigration check post.
+
+Before you travel, make sure your application status on the portal shows 'GRANTED', and carry a copy of the approval. Pay only on the official portal, indianvisaonline.gov.in.
+
+## Travel to India with us
+
+Our 9-day group tour of India covers Delhi and the cities of Rajasthan: Mandawa, Bikaner, Jaisalmer, Jodhpur, Udaipur and Pushkar. We fly from Tbilisi straight to Delhi, so the e-Visa works for this route. The tour page shows what is included.
+
+**Do Georgian citizens need a visa for India?** Yes. Georgians can get an e-Visa on the official portal, indianvisaonline.gov.in.
+
+**How much is the India tourist visa?** As of October 2026 the 30-day visa costs 25 USD from July to March and 10 USD from April to June; the 1-year visa is 40 USD and the 5-year visa 200 USD. A 3% bank charge is added.
+
+**How early should I apply?** At least 4 days before arrival and no earlier than 120 days before.
+
+**Can I get a visa at Delhi airport?** No. Visa on arrival is not available to Georgian citizens; get the e-Visa in advance.
+
+**How long must my passport be valid?** At least 6 months on the day you apply.
+
+**Does my child need a separate visa?** Yes, each traveller needs their own passport and their own application.
+
+Sources:
+- Indian e-Visa portal (Government of India): e-Visa types, eligible countries, instructions and FAQ: https://indianvisaonline.gov.in/evisa/tvoa.html
+- Indian e-Visa portal: country-wise e-Tourist Visa fee (PDF): https://indianvisaonline.gov.in/evisa/images/Etourist_fee_final.pdf
+- Indian e-Visa portal: country-wise e-Business / e-Medical visa fee (PDF): https://indianvisaonline.gov.in/evisa/images/eTV_revised_fee_final.pdf
+
+# China Visa for Georgian Citizens: Visa-Free Rules and Hong Kong (2026)
+
+URL: https://besttraveler.ge/en/blog/china-visa-free-for-georgians/
+
+No, Georgian citizens do not need a visa for a short trip to China. Since 28 May 2024 a mutual visa exemption agreement for ordinary passport holders has been in force: each stay must not exceed 30 days, and the total must not exceed 90 days in any 180-day period. Hong Kong has its own rules: Georgians can stay there visa-free for up to 30 days (as of October 2026).
+
+## Do Georgian citizens need a visa for China?
+
+Not for a short visit. On 10 April 2024 the governments of Georgia and China signed an agreement on mutual visa exemption for holders of ordinary passports. According to the official notice of the Chinese Embassy in Georgia, the agreement took effect at 00:00 Beijing time on 28 May 2024.
+
+## The exact visa-free terms
+
+According to the embassy notice, citizens of both countries holding a valid ordinary passport of their own country may enter, leave or transit the other country without a visa, provided that:
+
+- each stay does not exceed 30 days
+- the total stay does not exceed 90 days in any 180-day period
+
+## When you still need a visa
+
+The embassy notice also says you must apply for a visa before travel if you:
+
+- plan to stay in China for more than 30 days
+- are moving there to live
+- plan to work, study, report as a journalist or do anything else that needs prior approval from the Chinese authorities
+
+In those cases apply to the Chinese Embassy in Georgia.
+
+The agreement covers ordinary passports only. Count your days: you cannot go over 30 days on one visit, and if you travel often, keep the 90-days-in-180 limit in mind.
+
+## Hong Kong: separate rules
+
+Hong Kong is a special administrative region of China with its own entry rules. The official table of the Hong Kong Immigration Department (updated August 2026) gives Georgian citizens a visa-free visit of 30 days.
+
+The department's requirements for visitors:
+
+- enough money to cover your stay
+- a return or onward ticket (unless you are travelling on to mainland China or Macao)
+- visitors may not work (paid or unpaid), set up or join a business, or study
+
+If you want to stay in Hong Kong longer than 30 days, you must get a visa before you travel.
+
+## Our China and Hong Kong tour
+
+Our 13-day group tour starts in Beijing and continues to the Great Wall, Tianshui, Zhangjiajie, the Leshan Giant Buddha and Chengdu. We spend about 9 days in mainland China, then fly from Chengdu to Hong Kong for three days. Both stays fit within the visa-free limits.
+
+For our tours your passport must be valid for at least 6 months. If you travel on another country's passport or on a service passport, check the rules with the embassy.
+
+**Do Georgian citizens need a visa for China?** No, as long as each visit is no longer than 30 days and you stay no more than 90 days in total in any 180 days. This applies to ordinary passports.
+
+**Since when is travel to China visa-free?** Since 00:00 Beijing time on 28 May 2024.
+
+**When do I need a Chinese visa?** If you stay longer than 30 days, or go to live, work, study, report as a journalist or do anything else that needs prior approval.
+
+**Do Georgians need a visa for Hong Kong?** No. According to the Hong Kong Immigration Department, Georgian citizens can visit visa-free for up to 30 days.
+
+**Does your tour fit within the visa-free limits?** Yes. On our 13-day tour we spend about 9 days in mainland China and three days in Hong Kong.
+
+Sources:
+- Embassy of the People's Republic of China in Georgia: note on the China-Georgia agreement on mutual visa exemption for ordinary passport holders (27 May 2024): https://ge.china-embassy.gov.cn/lsfw/202405/t20240527_11312566.htm
+- Ministry of Foreign Affairs of Georgia: signing of the visa exemption agreement with China (10 April 2024): https://mfa.gov.ge/en/news/641804-saqartvelosa-da-chinets-mtavrobas-shoris-kheli-moetsera-ordinaluri-pasportebis-mphlobelta-savizo-mot
+- Hong Kong Immigration Department: visit visa / entry permit requirements (updated August 2026): https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html
+
+# Sri Lanka and Maldives Visa for Georgian Citizens (2026)
+
+URL: https://besttraveler.ge/en/blog/sri-lanka-eta-visa-for-georgians/
+
+Georgian citizens need an Electronic Travel Authorization (ETA) for Sri Lanka, obtained on eta.gov.lk before arrival: a 30-day tourist ETA costs 50 USD in advance, 60 USD on arrival, and is free for children under 12 (as of October 2026). The Maldives grants a tourist visa on arrival free of charge, but you must submit an online Traveller Declaration within 96 hours before you arrive.
+
+## Do Georgian citizens need a visa for Sri Lanka?
+
+Yes. For a short visit to Sri Lanka you need an Electronic Travel Authorization (ETA), issued by the Department of Immigration and Emigration on the official site eta.gov.lk. The site says that all foreign nationals must obtain an ETA before arriving in Sri Lanka.
+
+From 25 May 2026 citizens of 40 countries get the tourist ETA free of charge. Georgia is not on that list, so Georgians pay the ETA fee.
+
+## How much is the Sri Lanka ETA for Georgians?
+
+According to the official site, as of October 2026 the fees for 'all other countries' are:
+
+- Tourist ETA obtained in advance (online, at a Sri Lankan mission or at the department's head office): 50 USD
+- Tourist ETA on arrival: 60 USD
+- Business ETA: 55 USD
+- Transit up to 2 days: free
+- Children under 12: tourist ETA free for up to 30 days
+
+Online payment is by Visa, Mastercard or American Express only. The fee is not refunded.
+
+Our Sri Lanka tour lists a visa fee of 60 USD as not included; that is the on-arrival price. An ETA obtained in advance costs 50 USD on the official site. On the Sri Lanka and Maldives tour the Sri Lanka visa fee is included. Please confirm the exact amount with our manager.
+
+## What the ETA gives you and how long it lasts
+
+- The tourist ETA is for 30 days with double entry: you can enter a second time within 30 days of your first arrival
+- You must enter Sri Lanka within three months of the date the ETA is issued
+- Your stay can be extended up to six months through the immigration department's online service after you arrive
+- The tourist ETA does not cover work, journalism or NGO activities
+
+## What the border officer will ask for
+
+- A passport valid for at least 6 months from the date of arrival
+- A confirmed return ticket
+- Enough money for your stay
+- A copy of your ETA approval (the site advises carrying one)
+
+## Maldives: tourist visa on arrival
+
+According to the official Maldives Immigration website, the tourist visa is granted on arrival and no prior approval is needed. You must still meet the basic entry requirements:
+
+- A passport with a machine-readable zone (MRZ), valid for at least one month
+- A full itinerary: a confirmed return ticket and a prepaid confirmed booking at a registered facility
+- Enough money for your stay
+- A yellow fever vaccination certificate if you arrive from a country with a risk of yellow fever
+
+Every foreigner must submit a Traveller Declaration on the IMUGA portal (imuga.immigration.gov.mv) within 96 hours before arriving in the Maldives. It is free. Each traveller, including children, needs their own declaration.
+
+## Sri Lanka and the Maldives with us
+
+In January 2027 we run two tours: a Sri Lanka tour with Sigiriya, Kandy, Ella, Mirissa and Colombo, and a tour that adds three nights in the Maldives. On the second tour the Sri Lanka visa fee and the Maldives electronic declaration are included. Each tour page shows what is included.
+
+**Do Georgian citizens need a visa for Sri Lanka?** Yes, you need an Electronic Travel Authorization (ETA), obtained on eta.gov.lk before you arrive.
+
+**How much is the Sri Lanka ETA?** As of October 2026 a tourist ETA costs 50 USD in advance and 60 USD on arrival. It is free for children under 12.
+
+**Is the ETA free for Georgians from 2026?** No. From 25 May 2026 the ETA is free for citizens of 40 countries, and Georgia is not one of them.
+
+**How long can I stay in Sri Lanka?** The tourist ETA is for 30 days with double entry. It can be extended up to six months.
+
+**Do Georgians need a visa for the Maldives?** A tourist visa is granted on arrival. Submit the Traveller Declaration on the IMUGA portal within 96 hours before arrival.
+
+Sources:
+- Sri Lanka ETA (Department of Immigration and Emigration): fees and the 40-country free ETA list from 25.05.2026: https://eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US
+- Sri Lanka ETA: how to apply and entry requirements: https://eta.gov.lk/slvisa/visainfo/apply.jsp?locale=en_US
+- Sri Lanka ETA: short visit and types of ETA: https://eta.gov.lk/slvisa/visainfo/shortvisit.jsp?locale=en_US
+- Sri Lanka ETA: FAQ: https://eta.gov.lk/slvisa/visainfo/faq.jsp?locale=en_US
+- Maldives Immigration: Tourist Visa on arrival (updated 10/09/2026): https://www.immigration.gov.mv/visa/tourist-visa
+- Maldives Immigration: IMUGA portal (Traveller Declaration): https://imuga.immigration.gov.mv/
 
 # Kazbegi Day Trip from Tbilisi: Route, Drive and What to Wear
 
@@ -1968,7 +2537,7 @@ Sources:
 
 # Cappadocia: Best Time to Visit and Hot-Air Balloon Flights
 
-URL: https://besttraveler.ge/en/blog/cappadocia-best-time-hot-air-balloons/
+URL: https://besttraveler.ge/en/blog/cappadocia-hot-air-balloons-best-time/
 
 According to GoTürkiye, Türkiye's official tourism portal, the best time for a balloon ride is spring or autumn, when the weather is milder and more settled. Flights start just before sunrise, depend on the weather and can be cancelled. On our tour the flight is optional and costs 200-250 EUR.
 
@@ -2026,7 +2595,7 @@ Sources:
 
 # Keukenhof 2027: When the Tulip Park in the Netherlands Is Open
 
-URL: https://besttraveler.ge/en/blog/keukenhof-2027-tulip-season-netherlands/
+URL: https://besttraveler.ge/en/blog/keukenhof-tulip-season/
 
 According to the official site keukenhof.nl, Keukenhof is open from Thursday 18 March to Sunday 9 May 2027, daily from 8:00 to 19:00, with last entry at 18:15. Flowering depends on the weather, so nobody can say in advance exactly which week will be best.
 
@@ -2081,7 +2650,7 @@ Sources:
 
 # Group Tour Checklist: Documents and Packing for Travel from Georgia
 
-URL: https://besttraveler.ge/en/blog/group-tour-checklist-documents-packing/
+URL: https://besttraveler.ge/en/blog/group-tour-documents-packing-list/
 
 Bring a passport valid for at least 6 months after the trip, travel insurance, cash and a card, an adapter, your medicines and hand luggage that fits low-cost rules (10 kg, 40x30x20 cm on our tours from Kutaisi). Under Georgian law, a child under 16 needs one parent's permission and an adult escort. If the child travels without a parent, bring a notarised consent and confirm the details in advance.
 
@@ -2154,7 +2723,7 @@ Sources:
 
 # Egypt Visa for Georgian Citizens: e-Visa, Fee and Passport (2026)
 
-URL: https://besttraveler.ge/en/blog/egypt-visa-for-georgian-citizens/
+URL: https://besttraveler.ge/en/blog/egypt-visa-for-georgians/
 
 Yes, Georgian citizens need a visa for Egypt. Georgia is on the list of countries whose citizens can get an e-Visa on Egypt's official portal: as of October 2026 a single-entry tourist e-Visa costs 30 USD and a multiple-entry one 65 USD. Your passport must be valid for at least 6 months from the day you arrive.
 
@@ -2232,7 +2801,7 @@ Sources:
 
 # Turkey with a Georgian ID Card: Entry Rules for Georgian Citizens
 
-URL: https://besttraveler.ge/en/blog/turkey-entry-with-id-card-for-georgian-citizens/
+URL: https://besttraveler.ge/en/blog/turkey-entry-with-georgian-id-card/
 
 Yes. According to Türkiye's Ministry of Foreign Affairs, Georgia is on the list of countries whose citizens can enter Türkiye with their national ID card. Georgian citizens do not need a visa for trips of up to 90 days (as of October 2026). A child needs their own valid document.
 
@@ -2296,7 +2865,7 @@ Sources:
 
 # Entering Armenia from Georgia: ID Card or Passport?
 
-URL: https://besttraveler.ge/en/blog/armenia-entry-from-georgia-id-card-or-passport/
+URL: https://besttraveler.ge/en/blog/armenia-entry-from-georgia-id-or-passport/
 
 Georgian citizens do not need a visa for Armenia. Under an agreement in force since 2023, you can enter Armenia with a biometric ID card through an international border checkpoint, or with your passport. Armenia's Ministry of Foreign Affairs says visa-free foreigners may stay no more than 180 days in a year, unless an international agreement sets a different term.
 
@@ -2359,7 +2928,7 @@ Sources:
 
 # Schengen Without a Visa for Georgians: 90/180, Documents, ETIAS
 
-URL: https://besttraveler.ge/en/blog/schengen-visa-free-travel-for-georgian-citizens/
+URL: https://besttraveler.ge/en/blog/schengen-visa-free-for-georgians/
 
 Georgian citizens with an ordinary biometric passport do not need a visa for short stays in the Schengen area: up to 90 days in any 180-day period. Since March 2026 the visa exemption has been suspended only for diplomatic, service and official passports. As of October 2026 ETIAS is not yet in operation and no start date has been announced.
 

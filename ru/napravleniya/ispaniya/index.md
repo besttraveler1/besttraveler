@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ru/napravleniya/ispaniya/
 
 Авиатур
 
-### [Испания и Португалия на машине — групповой тур, 3–10 ноября](https://besttraveler.ge/ru/tury/spain-portugal-madrid-porto-lisbon/)
+### [Испания и Португалия на машине — групповой тур, 3–10 ноября](https://besttraveler.ge/ru/tury/ispaniya-portugaliya-tur-na-mashine/)
 
 8 дней / 7 ночей3–10 ноября 2026
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/napravleniya/ispaniya/
 
 Авиатур
 
-### [Юг Испании и Гибралтар — групповой тур, 27 января – 3 февраля](https://besttraveler.ge/ru/tury/south-spain-andalusia-gibraltar/)
+### [Юг Испании и Гибралтар — групповой тур, 27 января – 3 февраля](https://besttraveler.ge/ru/tury/yug-ispanii-gibraltar-tur/)
 
 8 дней / 7 ночей27 января – 3 февраля 2027
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/ru/napravleniya/ispaniya/
 
 Авиатур
 
-### [Тур по Испании: Барселона, Толедо, Андалусия, Валенсия — 10 дней](https://besttraveler.ge/ru/tury/spain-barcelona-andalusia-valencia/)
+### [Тур по Испании: Барселона, Толедо, Андалусия, Валенсия — 10 дней](https://besttraveler.ge/ru/tury/ispaniya-barselona-andalusiya-valensiya-tur/)
 
 10 днейИспания
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/ru/napravleniya/ispaniya/
 
 Авиатур
 
-### [Испания, Франция, Андорра — тур на 10 дней из Барселоны](https://besttraveler.ge/ru/tury/spain-france-andorra-barcelona/)
+### [Испания, Франция, Андорра — тур на 10 дней из Барселоны](https://besttraveler.ge/ru/tury/ispaniya-frantsiya-andorra-tur/)
 
 10 днейИспания, Франция, Андорра
 

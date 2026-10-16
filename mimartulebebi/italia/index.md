@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/mimartulebebi/italia/
 
 ავიატური
 
-### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/turebi/bari-puglia-matera-italy/)
+### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/turebi/italia-bari-apulia-saakhaltslo-turi/)
 
 5 დღე2–6 ნოემბერი 2026
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/mimartulebebi/italia/
 
 ავიატური
 
-### [ვენეციის კარნავალი 2027 — 4-დღიანი ტური იტალიაში](https://besttraveler.ge/turebi/italy-venice-carnival-2027/)
+### [ვენეციის კარნავალი 2027 — 4-დღიანი ტური იტალიაში](https://besttraveler.ge/turebi/venetsiis-karnavali-turi/)
 
 4 დღე23–26 იანვარი 2027
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/mimartulebebi/italia/
 
 ავიატური
 
-### [საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო](https://besttraveler.ge/turebi/france-italy-monaco-provence-riviera/)
+### [საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო](https://besttraveler.ge/turebi/provansi-monako-lazhvardovani-sanapiro/)
 
 8 დღესაფრანგეთი, იტალია, მონაკო
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/mimartulebebi/italia/
 
 ავიატური
 
-### [რომი, იტალია — 8-დღიანი ტური ქუთაისიდან](https://besttraveler.ge/turebi/italy-rome/)
+### [რომი, იტალია — 8-დღიანი ტური ქუთაისიდან](https://besttraveler.ge/turebi/romi-italia-turi-kutaisidan/)
 
 8 დღეიტალია
 
@@ -62,7 +62,7 @@ URL: https://besttraveler.ge/mimartulebebi/italia/
 
 ავიატური
 
-### [სიცილია და სამხრეთ იტალია — 8-დღიანი ტური ერევნიდან](https://besttraveler.ge/turebi/italy-sicily-palermo-catania/)
+### [სიცილია და სამხრეთ იტალია — 8-დღიანი ტური ერევნიდან](https://besttraveler.ge/turebi/sitsilia-samkhret-italia-turi/)
 
 8 დღეიტალია
 
@@ -74,7 +74,7 @@ URL: https://besttraveler.ge/mimartulebebi/italia/
 
 ავიატური
 
-### [სამხრეთ იტალია მანქანით — ნეაპოლი, კაპრი, ამალფის სანაპირო](https://besttraveler.ge/turebi/south-italy-naples-amalfi-coast-car/)
+### [სამხრეთ იტალია მანქანით — ნეაპოლი, კაპრი, ამალფის სანაპირო](https://besttraveler.ge/turebi/samkhret-italia-neapoli-amalfi-turi/)
 
 10 დღე / 9 ღამეიტალია
 
@@ -86,7 +86,7 @@ URL: https://besttraveler.ge/mimartulebebi/italia/
 
 ავიატური
 
-### [ტოსკანა, ელბა და სან-მარინო — 10-დღიანი ტური იტალიაში](https://besttraveler.ge/turebi/italy-tuscany-elba-san-marino/)
+### [ტოსკანა, ელბა და სან-მარინო — 10-დღიანი ტური იტალიაში](https://besttraveler.ge/turebi/toskana-elba-san-marino-turi/)
 
 10 დღე / 9 ღამეიტალია
 
@@ -98,7 +98,7 @@ URL: https://besttraveler.ge/mimartulebebi/italia/
 
 ავიატური
 
-### [ვენეცია და პადუა — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/italy-venice-padua/)
+### [ვენეცია და პადუა — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/venetsia-padua-jgupuri-turi/)
 
 5 დღე / 4 ღამეიტალია
 

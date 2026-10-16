@@ -14,7 +14,7 @@ Group tours to Spain: Barcelona, Andalusia, the Madrid region, and trips that ad
 
 By plane
 
-### [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-madrid-porto-lisbon/)
+### [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
 
 8 days / 7 nights3–10 Nov 2026
 
@@ -26,7 +26,7 @@ View tour
 
 By plane
 
-### [Southern Spain and Gibraltar — Group Tour, 27 January – 3 February](https://besttraveler.ge/en/tours/south-spain-andalusia-gibraltar/)
+### [Southern Spain and Gibraltar — Group Tour, 27 January – 3 February](https://besttraveler.ge/en/tours/southern-spain-andalusia-gibraltar-tour/)
 
 8 days / 7 nights27 Jan – 3 Feb 2027
 
@@ -38,7 +38,7 @@ View tour
 
 By plane
 
-### [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia/)
+### [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia-tour/)
 
 10 daysSpain
 
@@ -50,7 +50,7 @@ View tour
 
 By plane
 
-### [Spain, France and Andorra — 10-Day Tour from Barcelona](https://besttraveler.ge/en/tours/spain-france-andorra-barcelona/)
+### [Spain, France and Andorra — 10-Day Tour from Barcelona](https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/)
 
 10 daysSpain, France, Andorra
 

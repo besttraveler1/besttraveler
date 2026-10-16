@@ -14,7 +14,7 @@ Group tours to Egypt from Tbilisi: Cairo and the Giza pyramids, Luxor, Aswan, Ni
 
 By plane
 
-### [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-port-said-suez-canal/)
+### [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
 
 7 days / 6 nights9–15 Nov 2026
 
@@ -26,7 +26,7 @@ View tour
 
 By plane
 
-### [Egypt Tour: Cairo and Alexandria, 5 Days](https://besttraveler.ge/en/tours/egypt-cairo-alexandria/)
+### [Egypt Tour: Cairo and Alexandria, 5 Days](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 
 5 days / 4 nights26–30 Nov 2026
 
@@ -50,7 +50,7 @@ View tour
 
 By plane
 
-### [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra/)
+### [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
 
 8 daysEgypt, Jordan
 
@@ -62,7 +62,7 @@ View tour
 
 By plane
 
-### [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria](https://besttraveler.ge/en/tours/egypt-nile-cruise-cairo-luxor-aswan-alexandria/)
+### [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
 
 9 daysEgypt
 
@@ -74,7 +74,7 @@ View tour
 
 By plane
 
-### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/egypt-nile-cruise-luxor-aswan-hurghada/)
+### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
 
 8 daysEgypt
 

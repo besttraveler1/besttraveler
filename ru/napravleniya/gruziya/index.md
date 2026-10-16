@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakheti-ujarma-alaverdi/)
+### [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
 
 1 деньГрузия
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/gareja-colorful-desert-mravaltskaro/)
+### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 
 1 деньГрузия
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Давид Гареджи: однодневный тур в пустыню Сабереби](https://besttraveler.ge/ru/tury/david-gareja-sabereebi/)
+### [Давид Гареджи: однодневный тур в пустыню Сабереби](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
 
 1 деньГрузия
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Однодневный тур в ущелье Дзама: Самцевриси, озеро Батети, Шуано](https://besttraveler.ge/ru/tury/dzama-gorge-day-tour/)
+### [Однодневный тур в ущелье Дзама: Самцевриси, озеро Батети, Шуано](https://besttraveler.ge/ru/tury/ushchele-dzama-odnodnevnyy-tur/)
 
 1 деньГрузия
 
@@ -62,7 +62,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка](https://besttraveler.ge/ru/tury/javakheti-lakes-paravani-poka/)
+### [Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
 
 1 деньГрузия
 
@@ -74,7 +74,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Тур по Кахетии: Чаилури, Гурджаанская Квелацминда, Зегаани, Санагире](https://besttraveler.ge/ru/tury/kakheti-gurjaani-zegaani/)
+### [Тур по Кахетии: Чаилури, Гурджаанская Квелацминда, Зегаани, Санагире](https://besttraveler.ge/ru/tury/kakhetiya-gurdzhaani-zegaani-tur/)
 
 1 деньГрузия
 
@@ -86,7 +86,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Тур по Кахетии: Некреси, озеро Ильи, Греми, Телави](https://besttraveler.ge/ru/tury/kakheti-nekresi-gremi-telavi/)
+### [Тур по Кахетии: Некреси, озеро Ильи, Греми, Телави](https://besttraveler.ge/ru/tury/kakhetiya-nekresi-gremi-telavi-tur/)
 
 1 деньГрузия
 
@@ -98,7 +98,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakheti-sighnaghi-bodbe/)
+### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
 
 1 деньГрузия
 
@@ -110,7 +110,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gveleti-gergeti-day-tour/)
+### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
 
 1 деньГрузия
 
@@ -122,7 +122,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Тур в ущелье Хада: водопады Цкере и Ростиани](https://besttraveler.ge/ru/tury/khada-gorge-waterfalls-day-tour/)
+### [Тур в ущелье Хада: водопады Цкере и Ростиани](https://besttraveler.ge/ru/tury/ushchele-khada-vodopady-tur/)
 
 1 деньГрузия
 
@@ -134,7 +134,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Однодневный тур Коджори – Манглиси](https://besttraveler.ge/ru/tury/kojori-manglisi-day-tour/)
+### [Однодневный тур Коджори – Манглиси](https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/)
 
 1 деньГрузия
 
@@ -146,7 +146,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Однодневный тур по Квемо Картли: Церакви, крепость Гаги, озёра Тамариси](https://besttraveler.ge/ru/tury/kvemo-kartli-tserakvi-gagi-tamarisi/)
+### [Однодневный тур по Квемо Картли: Церакви, крепость Гаги, озёра Тамариси](https://besttraveler.ge/ru/tury/kvemo-kartli-odnodnevnyy-tur/)
 
 1 деньГрузия
 
@@ -158,7 +158,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Лагодехский заповедник: водопад Ниносхеви (Гургениани)](https://besttraveler.ge/ru/tury/lagodekhi-ninoskhevi-waterfall/)
+### [Лагодехский заповедник: водопад Ниносхеви (Гургениани)](https://besttraveler.ge/ru/tury/lagodekhi-vodopad-ninoskhevi/)
 
 1 деньГрузия
 
@@ -170,7 +170,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-javakheti-zarzma-akhaltsikhe-sapara/)
+### [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
 
 1 деньГрузия
 
@@ -182,7 +182,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Тур на озеро Табацкури: перевал Цхрацкаро, Тимотесубани](https://besttraveler.ge/ru/tury/tabatskuri-lake-day-tour/)
+### [Тур на озеро Табацкури: перевал Цхрацкаро, Тимотесубани](https://besttraveler.ge/ru/tury/ozero-tabatskuri-tur/)
 
 1 деньГрузия
 
@@ -194,7 +194,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Однодневный тур в Тианети: Мамкода, Цхваричамия, Эрцо, озеро Сиони](https://besttraveler.ge/ru/tury/tianeti-day-tour/)
+### [Однодневный тур в Тианети: Мамкода, Цхваричамия, Эрцо, озеро Сиони](https://besttraveler.ge/ru/tury/tianeti-odnodnevnyy-tur/)
 
 1 деньГрузия
 
@@ -206,7 +206,7 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 Однодневный
 
-### [Тур в Трусовское ущелье: травертины, «бездонное» озеро, Закагори](https://besttraveler.ge/ru/tury/truso-gorge-day-tour/)
+### [Тур в Трусовское ущелье: травертины, «бездонное» озеро, Закагори](https://besttraveler.ge/ru/tury/trusovskoe-ushchele-tur/)
 
 1 деньГрузия
 

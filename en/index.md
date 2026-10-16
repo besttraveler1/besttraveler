@@ -46,7 +46,7 @@ Kakheti, Kazbegi, Truso, Gareja and more — out in the morning, back at night.]
 
 By plane
 
-### [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-delhi-udaipur/)
+### [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-group-tour/)
 
 9 days / 8 nights25 Oct 2026
 
@@ -58,7 +58,7 @@ View tour
 
 By plane
 
-### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-aegina/)
+### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
 
 4 days / 3 nights1–4 Nov 2026
 
@@ -70,7 +70,7 @@ View tour
 
 By plane
 
-### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/bari-puglia-matera-italy/)
+### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
 
 5 days2–6 Nov 2026
 
@@ -82,7 +82,7 @@ View tour
 
 By bus
 
-### [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/turkey-cappadocia-amasya-bus/)
+### [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/)
 
 6 days2–7 Nov 2026
 
@@ -94,7 +94,7 @@ View tour
 
 By plane
 
-### [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-madrid-porto-lisbon/)
+### [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
 
 8 days / 7 nights3–10 Nov 2026
 
@@ -106,7 +106,7 @@ View tour
 
 By plane
 
-### [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-port-said-suez-canal/)
+### [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
 
 7 days / 6 nights9–15 Nov 2026
 

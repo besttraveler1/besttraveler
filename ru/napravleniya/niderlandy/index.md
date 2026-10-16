@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ru/napravleniya/niderlandy/
 
 Авиатур
 
-### [Бельгия и Нидерланды — групповой тур на 8 дней](https://besttraveler.ge/ru/tury/belgium-netherlands-brussels-amsterdam/)
+### [Бельгия и Нидерланды — групповой тур на 8 дней](https://besttraveler.ge/ru/tury/belgiya-niderlandy-gruppovoy-tur/)
 
 8 днейБельгия, Нидерланды
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/napravleniya/niderlandy/
 
 Авиатур
 
-### [Нидерланды и Германия: фестиваль тюльпанов — тур на 8 дней](https://besttraveler.ge/ru/tury/netherlands-germany-tulip-festival/)
+### [Нидерланды и Германия: фестиваль тюльпанов — тур на 8 дней](https://besttraveler.ge/ru/tury/niderlandy-festival-tyulpanov-tur/)
 
 8 днейНидерланды, Германия
 

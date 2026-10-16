@@ -12,7 +12,87 @@ URL: https://besttraveler.ge/blogi/
 
 გზამკვლევი
 
-### [ყაზბეგი ერთ დღეში თბილისიდან: მარშრუტი, გზა და რა ჩავიცვათ](https://besttraveler.ge/blogi/kazbegi-day-trip-from-tbilisi/)
+### [თრუსოს ხეობა თბილისიდან ერთ დღეში: ტრავერტინები, კეთრისი, ზაქაგორი](https://besttraveler.ge/blogi/trusos-kheoba-ert-dgheshi/)
+
+17 ოქტომბერი 20262 წთ საკითხავი
+
+რას ნახავთ თრუსოს ხეობაში, რამდენი უნდა იაროთ ფეხით და როგორ მოემზადოთ ერთდღიანი გასვლისთვის.
+
+წაკითხვა 
+
+გზამკვლევი
+
+### [დავით გარეჯი და ფერადი მთები: რას ნახავთ, როდის წახვიდეთ და რა წაიღოთ](https://besttraveler.ge/blogi/davit-gareji-da-peradi-mtebi/)
+
+17 ოქტომბერი 20262 წთ საკითხავი
+
+რას ნახავთ დავით გარეჯსა და ფერად მთებში, რამდენი უნდა იაროთ ფეხით და როგორ მოემზადოთ უდაბნოს სიცხისთვის.
+
+წაკითხვა 
+
+გზამკვლევი
+
+### [კახეთის ერთდღიანი მარშრუტები თბილისიდან: რომელი ვის შეეფერება](https://besttraveler.ge/blogi/kakhetis-ertdghiani-turebi/)
+
+17 ოქტომბერი 20263 წთ საკითხავი
+
+ჩვენი ოთხი კახური მარშრუტი თბილისიდან: რას ნახავთ თითოეულში და რომელი აირჩიოთ.
+
+წაკითხვა 
+
+ვიზა და საზღვარი
+
+### [იორდანიის ვიზა საქართველოს მოქალაქეებისთვის — 2026](https://besttraveler.ge/blogi/iordaniis-viza-kartvelebistvis/)
+
+17 ოქტომბერი 20262 წთ საკითხავი
+
+იორდანიის ვიზა ქართველებისთვის: ვიზა აეროპორტში, Jordan Pass და აქაბის პორტის წესები.
+
+წაკითხვა 
+
+ვიზა და საზღვარი
+
+### [მაროკოს ვიზა საქართველოს მოქალაქეებისთვის — 2026](https://besttraveler.ge/blogi/marokos-viza-kartvelebistvis/)
+
+17 ოქტომბერი 20262 წთ საკითხავი
+
+მაროკოს ვიზა ქართველებისთვის: როდის გაიცემა ელექტრონული ვიზა და როდის საჭიროა საკონსულო.
+
+წაკითხვა 
+
+ვიზა და საზღვარი
+
+### [ინდოეთის ვიზა საქართველოს მოქალაქეებისთვის: ელექტრონული ვიზა 2026](https://besttraveler.ge/blogi/indoetis-viza-kartvelebistvis/)
+
+17 ოქტომბერი 20262 წთ საკითხავი
+
+ინდოეთის ელექტრონული ვიზა ქართველებისთვის: სახეები, ფასი, ვადები და საჭირო დოკუმენტები.
+
+წაკითხვა 
+
+ვიზა და საზღვარი
+
+### [ჩინეთის ვიზა საქართველოს მოქალაქეებისთვის: უვიზო რეჟიმი და ჰონკონგი](https://besttraveler.ge/blogi/chineti-uvizod-kartvelebistvis/)
+
+17 ოქტომბერი 20261 წთ საკითხავი
+
+ჩინეთი და ჰონკონგი ქართველებისთვის: უვიზო რეჟიმის ზუსტი პირობები და დღეების ლიმიტი.
+
+წაკითხვა 
+
+ვიზა და საზღვარი
+
+### [შრი-ლანკისა და მალდივების ვიზა საქართველოს მოქალაქეებისთვის — 2026](https://besttraveler.ge/blogi/shri-lankis-viza-kartvelebistvis/)
+
+17 ოქტომბერი 20262 წთ საკითხავი
+
+შრი-ლანკის ETA და მალდივებზე შესვლის წესები ქართველებისთვის: ფასი, ვადები და დოკუმენტები.
+
+წაკითხვა 
+
+გზამკვლევი
+
+### [ყაზბეგი ერთ დღეში თბილისიდან: მარშრუტი, გზა და რა ჩავიცვათ](https://besttraveler.ge/blogi/kazbegi-ert-dgheshi-tbilisidan/)
 
 16 ოქტომბერი 20262 წთ საკითხავი
 
@@ -22,7 +102,7 @@ URL: https://besttraveler.ge/blogi/
 
 გზამკვლევი
 
-### [საუკეთესო ერთდღიანი ტურები თბილისიდან: სად წავიდეთ და ვის რომელი შეეფერება](https://besttraveler.ge/blogi/best-day-trips-from-tbilisi/)
+### [საუკეთესო ერთდღიანი ტურები თბილისიდან: სად წავიდეთ და ვის რომელი შეეფერება](https://besttraveler.ge/blogi/ertdghiani-turebi-tbilisidan/)
 
 16 ოქტომბერი 20262 წთ საკითხავი
 
@@ -32,17 +112,17 @@ URL: https://besttraveler.ge/blogi/
 
 გზამკვლევი
 
-### [კაპადოკია: როდის წავიდეთ და როგორ ავფრინდეთ საჰაერო ბურთით](https://besttraveler.ge/blogi/cappadocia-best-time-hot-air-balloons/)
+### [კაპადოკია: როდის წავიდეთ და როგორ ავფრინდეთ საჰაერო ბუშტით](https://besttraveler.ge/blogi/kapadokia-sahaero-bushtebi/)
 
 16 ოქტომბერი 20262 წთ საკითხავი
 
-კაპადოკიის საუკეთესო სეზონი, საჰაერო ბურთები, ამინდი და რა ჩავიცვათ.
+კაპადოკიის საუკეთესო სეზონი, საჰაერო ბუშტები, ამინდი და რა ჩავიცვათ.
 
 წაკითხვა 
 
 გზამკვლევი
 
-### [კეუკენჰოფი 2027: როდის იქნება ღია ტიტების პარკი ნიდერლანდებში](https://besttraveler.ge/blogi/keukenhof-2027-tulip-season-netherlands/)
+### [კეუკენჰოფი 2027: როდის იქნება ღია ტიტების პარკი ნიდერლანდებში](https://besttraveler.ge/blogi/keukenhofi-titebis-parki/)
 
 16 ოქტომბერი 20261 წთ საკითხავი
 
@@ -52,7 +132,7 @@ URL: https://besttraveler.ge/blogi/
 
 რჩევები
 
-### [ჯგუფური ტური საზღვარგარეთ: დოკუმენტები და ბარგის სია](https://besttraveler.ge/blogi/group-tour-checklist-documents-packing/)
+### [ჯგუფური ტური საზღვარგარეთ: დოკუმენტები და ბარგის სია](https://besttraveler.ge/blogi/jgupuri-turi-dokumentebi-bargi/)
 
 16 ოქტომბერი 20262 წთ საკითხავი
 
@@ -62,7 +142,7 @@ URL: https://besttraveler.ge/blogi/
 
 ვიზა და საზღვარი
 
-### [ეგვიპტის ვიზა საქართველოს მოქალაქეებისთვის — 2026](https://besttraveler.ge/blogi/egypt-visa-for-georgian-citizens/)
+### [ეგვიპტის ვიზა საქართველოს მოქალაქეებისთვის — 2026](https://besttraveler.ge/blogi/egviptis-viza-kartvelebistvis/)
 
 16 ოქტომბერი 20262 წთ საკითხავი
 
@@ -72,7 +152,7 @@ URL: https://besttraveler.ge/blogi/
 
 ვიზა და საზღვარი
 
-### [თურქეთში პირადობის მოწმობით: რა უნდა იცოდეს საქართველოს მოქალაქემ](https://besttraveler.ge/blogi/turkey-entry-with-id-card-for-georgian-citizens/)
+### [თურქეთში პირადობის მოწმობით: რა უნდა იცოდეს საქართველოს მოქალაქემ](https://besttraveler.ge/blogi/turketshi-piradobis-motsmobit/)
 
 16 ოქტომბერი 20262 წთ საკითხავი
 
@@ -82,7 +162,7 @@ URL: https://besttraveler.ge/blogi/
 
 ვიზა და საზღვარი
 
-### [სომხეთში საქართველოდან: პასპორტით თუ პირადობის მოწმობით?](https://besttraveler.ge/blogi/armenia-entry-from-georgia-id-card-or-passport/)
+### [სომხეთში საქართველოდან: პასპორტით თუ პირადობის მოწმობით?](https://besttraveler.ge/blogi/somkhetshi-pasportit-tu-piradobit/)
 
 16 ოქტომბერი 20262 წთ საკითხავი
 
@@ -92,7 +172,7 @@ URL: https://besttraveler.ge/blogi/
 
 ვიზა და საზღვარი
 
-### [შენგენი უვიზოდ: 90/180 წესი, საბუთები და ETIAS — 2026](https://besttraveler.ge/blogi/schengen-visa-free-travel-for-georgian-citizens/)
+### [შენგენი უვიზოდ: 90/180 წესი, საბუთები და ETIAS — 2026](https://besttraveler.ge/blogi/shengeni-uvizod-kartvelebistvis/)
 
 16 ოქტომბერი 20263 წთ საკითხავი
 

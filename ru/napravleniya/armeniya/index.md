@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ru/napravleniya/armeniya/
 
 На автобусе
 
-### [Армения за 3 дня: Дилижан, Джермук, Татев, Нораванк, Севан](https://besttraveler.ge/ru/tury/armenia-dilijan-jermuk-tatev-noravank/)
+### [Армения за 3 дня: Дилижан, Джермук, Татев, Нораванк, Севан](https://besttraveler.ge/ru/tury/armeniya-tatev-dzhermuk-noravank-tur/)
 
 3 дня / 2 ночиАрмения
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/napravleniya/armeniya/
 
 На автобусе
 
-### [Ереван за 3 дня: Севан, Гарни, Гегард, Эчмиадзин](https://besttraveler.ge/ru/tury/armenia-yerevan-garni-geghard-etchmiadzin/)
+### [Ереван за 3 дня: Севан, Гарни, Гегард, Эчмиадзин](https://besttraveler.ge/ru/tury/erevan-garni-gegard-tur/)
 
 3 дняАрмения
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/ru/napravleniya/armeniya/
 
 Однодневный
 
-### [Однодневный тур в Дилижан, Армения: Агарцин, Гошаванк, озеро Парз](https://besttraveler.ge/ru/tury/armenia-dilijan-day-tour/)
+### [Однодневный тур в Дилижан, Армения: Агарцин, Гошаванк, озеро Парз](https://besttraveler.ge/ru/tury/armeniya-dilizhan-odnodnevnyy-tur/)
 
 1 деньАрмения
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/ru/napravleniya/armeniya/
 
 Однодневный
 
-### [Исторический Лори, Армения: Ахтала, Ахпат, Санаин, Одзун](https://besttraveler.ge/ru/tury/armenia-lori-haghpat-sanahin-akhtala/)
+### [Исторический Лори, Армения: Ахтала, Ахпат, Санаин, Одзун](https://besttraveler.ge/ru/tury/armeniya-lori-akhpat-sanain-tur/)
 
 1 деньАрмения
 

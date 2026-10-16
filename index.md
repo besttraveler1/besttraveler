@@ -46,7 +46,7 @@ URL: https://besttraveler.ge/
 
 ავიატური
 
-### [ინდოეთი: რაჯასთანის ჯგუფური ტური — დელი, ჯაისალმერი, უდაიპური](https://besttraveler.ge/turebi/india-rajasthan-delhi-udaipur/)
+### [ინდოეთი: რაჯასთანის ჯგუფური ტური — დელი, ჯაისალმერი, უდაიპური](https://besttraveler.ge/turebi/indoeti-rajastani-jgupuri-turi/)
 
 9 დღე / 8 ღამე25 ოქტომბერი 2026
 
@@ -58,7 +58,7 @@ URL: https://besttraveler.ge/
 
 ავიატური
 
-### [ათენი, საბერძნეთი — ჯგუფური ტური ქუთაისიდან, 1–4 ნოემბერი](https://besttraveler.ge/turebi/athens-greece-aegina/)
+### [ათენი, საბერძნეთი — ჯგუფური ტური ქუთაისიდან, 1–4 ნოემბერი](https://besttraveler.ge/turebi/ateni-saberdzneti-jgupuri-turi/)
 
 4 დღე / 3 ღამე1–4 ნოემბერი 2026
 
@@ -70,7 +70,7 @@ URL: https://besttraveler.ge/
 
 ავიატური
 
-### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/turebi/bari-puglia-matera-italy/)
+### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/turebi/italia-bari-apulia-saakhaltslo-turi/)
 
 5 დღე2–6 ნოემბერი 2026
 
@@ -82,7 +82,7 @@ URL: https://besttraveler.ge/
 
 ავტობუსით
 
-### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/turebi/turkey-cappadocia-amasya-bus/)
+### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
 
 6 დღე2–7 ნოემბერი 2026
 
@@ -94,7 +94,7 @@ URL: https://besttraveler.ge/
 
 ავიატური
 
-### [ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 3–10 ნოემბერი](https://besttraveler.ge/turebi/spain-portugal-madrid-porto-lisbon/)
+### [ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 3–10 ნოემბერი](https://besttraveler.ge/turebi/espaneti-portugalia-mankanit-turi/)
 
 8 დღე / 7 ღამე3–10 ნოემბერი 2026
 
@@ -106,7 +106,7 @@ URL: https://besttraveler.ge/
 
 ავიატური
 
-### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/turebi/egypt-hurghada-luxor-port-said-suez-canal/)
+### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/turebi/egvipte-hurgada-luksori-suetsis-arkhi/)
 
 7 დღე / 6 ღამე9–15 ნოემბერი 2026
 

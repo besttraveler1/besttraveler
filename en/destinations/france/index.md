@@ -14,7 +14,7 @@ Group tours to France: Paris, Alsace, Provence, the Côte d'Azur and the Alps.
 
 By plane
 
-### [France: Alsace and Paris — Group Tour from Kutaisi](https://besttraveler.ge/en/tours/france-alsace-strasbourg-colmar-paris/)
+### [France: Alsace and Paris — Group Tour from Kutaisi](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
 
 8 days / 7 nights19–26 Nov 2026
 
@@ -26,7 +26,7 @@ View tour
 
 By plane
 
-### [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein](https://besttraveler.ge/en/tours/five-countries-alps-switzerland-france-germany/)
+### [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
 
 8 days / 7 nightsSwitzerland, France, Germany, Austria, Liechtenstein
 
@@ -38,7 +38,7 @@ View tour
 
 By plane
 
-### [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur](https://besttraveler.ge/en/tours/france-italy-monaco-provence-riviera/)
+### [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
 
 8 daysFrance, Italy, Monaco
 
@@ -50,7 +50,7 @@ View tour
 
 By plane
 
-### [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/france-paris/)
+### [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 
 5 daysFrance
 
@@ -62,7 +62,7 @@ View tour
 
 By plane
 
-### [Spain, France and Andorra — 10-Day Tour from Barcelona](https://besttraveler.ge/en/tours/spain-france-andorra-barcelona/)
+### [Spain, France and Andorra — 10-Day Tour from Barcelona](https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/)
 
 10 daysSpain, France, Andorra
 

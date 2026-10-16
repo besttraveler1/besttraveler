@@ -14,11 +14,11 @@ URL: https://besttraveler.ge/mimartulebebi/somkheti/
 
 ავტობუსით
 
-### [სომხეთი 3 დღე: დილიჯანი, ჯერმუკი, ტატევი, ნორავანკი, სევანი](https://besttraveler.ge/turebi/armenia-dilijan-jermuk-tatev-noravank/)
+### [სომხეთი 3 დღე: დილიჯანი, ჯერმუკი, ტათევი, ნორავანკი, სევანი](https://besttraveler.ge/turebi/somkheti-tatevi-jermuki-noravanki-turi/)
 
 3 დღე / 2 ღამესომხეთი
 
-სამი დღე სომხეთში: დილიჯანი, ჯერმუკის ჩანჩქერი, ტატევი, ხნძორესკი, ნორავანკი და სევანი.
+სამი დღე სომხეთში: დილიჯანი, ჯერმუკის ჩანჩქერი, ტათევი, ხნძორესკი, ნორავანკი და სევანი.
 
 ერთ ადამიანზე480 ლარი
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/mimartulebebi/somkheti/
 
 ავტობუსით
 
-### [ერევნის ტური 3 დღე: სევანი, გარნი, გეღარდი, ეჩმიაძინი](https://besttraveler.ge/turebi/armenia-yerevan-garni-geghard-etchmiadzin/)
+### [ერევნის ტური 3 დღე: სევანი, გარნი, გეღარდი, ეჩმიაძინი](https://besttraveler.ge/turebi/erevani-garni-gheghardi-turi/)
 
 3 დღესომხეთი
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/mimartulebebi/somkheti/
 
 ერთდღიანი
 
-### [დილიჯანის ერთდღიანი ტური, სომხეთი: ჰაღარცინი, გოშავანკი, პარზი](https://besttraveler.ge/turebi/armenia-dilijan-day-tour/)
+### [დილიჯანის ერთდღიანი ტური, სომხეთი: ჰაღარცინი, გოშავანკი, პარზი](https://besttraveler.ge/turebi/somkheti-dilijani-ertdghiani-turi/)
 
 1 დღესომხეთი
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/mimartulebebi/somkheti/
 
 ერთდღიანი
 
-### [ისტორიული ლორე, სომხეთი: ახტალა, ახპატი, სანაჰინი, ოძუნი](https://besttraveler.ge/turebi/armenia-lori-haghpat-sanahin-akhtala/)
+### [ისტორიული ლორე, სომხეთი: ახტალა, ახპატი, სანაჰინი, ოძუნი](https://besttraveler.ge/turebi/somkheti-lore-akhpati-sanahini-turi/)
 
 1 დღესომხეთი
 

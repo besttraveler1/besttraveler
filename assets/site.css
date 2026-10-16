@@ -544,3 +544,9 @@ html[lang=ka] .combo-g{text-transform:none;letter-spacing:0}
 .mapbox:not(.live){background:linear-gradient(90deg,var(--soft) 0%,var(--soft2) 50%,var(--soft) 100%);background-size:200% 100%;animation:sk 1.6s linear infinite}
 .phead h1{max-width:none;text-wrap:balance}
 .phead h1 .hflag{display:inline-block;vertical-align:-.08em}
+
+.nf{text-align:center;padding-top:56px;padding-bottom:48px}
+.nf .code{display:flex;align-items:center;justify-content:center;gap:6px;font-size:96px;font-weight:700;color:var(--brand-text);line-height:1;margin-bottom:18px}
+.nf-pin{display:inline-flex;width:92px;height:92px;align-items:center;justify-content:center;border-radius:50%;background:var(--brand-soft)}
+.nf-pin .ico{width:54px;height:54px;stroke-width:1.8;animation:nfb 2.4s ease-in-out infinite}
+@keyframes nfb{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}

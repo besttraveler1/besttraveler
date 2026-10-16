@@ -163,6 +163,7 @@
       var holder = d.createElement('div'); holder.className = 'imap'; box.appendChild(holder);
       var b = new ml.LngLatBounds();
       D.line.forEach(function (c) { b.extend(c); });
+      (D.legs || []).forEach(function (lg) { lg.c.forEach(function (c) { b.extend(c); }); });
       var map = new ml.Map({ container: holder, style: 'https://tiles.openfreemap.org/styles/' + (dark() ? 'dark' : 'liberty'),
         bounds: b, fitBoundsOptions: { padding: { top: 50, bottom: 50, left: 50, right: 150 }, maxZoom: 10 }, cooperativeGestures: true, attributionControl: { compact: true } });
       map.addControl(new ml.NavigationControl({ showCompass: false }), 'top-right');
@@ -172,10 +173,19 @@
           if (ly.type === 'symbol' && ly.layout && ly.layout['text-field'])
             { map.setLayoutProperty(ly.id, 'text-field', ['coalesce', ['get', 'name:' + D.lang], ['get', 'name']]); map.setPaintProperty(ly.id, 'text-opacity', .7); }
         });
-        map.addSource('route', { type: 'geojson', data: { type: 'Feature', geometry: { type: 'LineString', coordinates: [D.line[0]] } } });
-        map.addLayer({ id: 'route-casing', type: 'line', source: 'route', paint: { 'line-color': '#ffffff', 'line-width': 7, 'line-opacity': .85 }, layout: { 'line-cap': 'round', 'line-join': 'round' } });
-        map.addLayer({ id: 'route', type: 'line', source: 'route', paint: { 'line-color': '#6d28d9', 'line-width': 3.5 }, layout: { 'line-cap': 'round', 'line-join': 'round' } });
-
+        // route legs: each part keeps its own look (road, sea, flight, train)
+        var LEGS = D.legs && D.legs.length ? D.legs : [{ m: 'road', c: D.line }];
+        map.addSource('route', { type: 'geojson', data: { type: 'FeatureCollection', features: [] } });
+        map.addLayer({ id: 'route-casing', type: 'line', source: 'route', filter: ['==', ['get', 'm'], 'road'],
+          paint: { 'line-color': '#ffffff', 'line-width': 7, 'line-opacity': .85 }, layout: { 'line-cap': 'round', 'line-join': 'round' } });
+        map.addLayer({ id: 'route-road', type: 'line', source: 'route', filter: ['==', ['get', 'm'], 'road'],
+          paint: { 'line-color': '#6d28d9', 'line-width': 3.5 }, layout: { 'line-cap': 'round', 'line-join': 'round' } });
+        map.addLayer({ id: 'route-sea', type: 'line', source: 'route', filter: ['in', ['get', 'm'], ['literal', ['ferry', 'cruise']]],
+          paint: { 'line-color': '#0369a1', 'line-width': 3, 'line-dasharray': [1.5, 1.5] }, layout: { 'line-cap': 'round' } });
+        map.addLayer({ id: 'route-air', type: 'line', source: 'route', filter: ['==', ['get', 'm'], 'flight'],
+          paint: { 'line-color': '#6d28d9', 'line-width': 2.5, 'line-dasharray': [2, 2], 'line-opacity': .9 }, layout: { 'line-cap': 'round' } });
+        map.addLayer({ id: 'route-rail', type: 'line', source: 'route', filter: ['==', ['get', 'm'], 'train'],
+          paint: { 'line-color': '#1f1a33', 'line-width': 3, 'line-dasharray': [3, 1] } });
         // pins as map layers, so the map itself keeps labels from overlapping
         var feats = D.pins.map(function (p, k) {
           return { type: 'Feature', geometry: { type: 'Point', coordinates: [p[1], p[0]] }, properties: { i: k, n: String(k + 1), label: p[2] } };
@@ -197,28 +207,47 @@
           ['pins-c', 'pins-n', 'pins-l'].forEach(function (id) { map.setFilter(id, filt()); });
         };
         var pins = D.pins.map(function (p, k) { return { k: k, lng: p[1], lat: p[0] }; });
+        var VI = {
+          road: '<path d="M8 6v6M15 6v6M2 12h19.6M18 18h3s.5-1.7.8-2.8c.1-.4.2-.8.2-1.2 0-.4-.1-.8-.2-1.2l-1.4-5C20.1 6.8 19.1 6 18 6H4a2 2 0 0 0-2 2v10h3"/><circle cx="7" cy="18" r="2"/><path d="M9 18h5"/><circle cx="16" cy="18" r="2"/>',
+          ferry: '<path d="M2 21c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1 .6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"/><path d="M19.38 20A11.6 11.6 0 0 0 21 14l-9-4-9 4c0 2.9.94 5.34 2.81 7.76"/><path d="M19 13V7a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v6M12 10v4M12 2v3"/>',
+          flight: '<path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"/>',
+          train: '<rect width="16" height="16" x="4" y="3" rx="2"/><path d="M4 11h16M12 3v8M8 19l-2 3M18 22l-2-3M8 15h.01M16 15h.01"/>'
+        };
+        VI.cruise = VI.ferry;
+        var vSvg = function (m) { return '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' + (VI[m] || VI.road) + '</svg>'; };
         var bus = d.createElement('div'); bus.className = 'mbus';
         bus.innerHTML = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 6v6M15 6v6M2 12h19.6M18 18h3s.5-1.7.8-2.8c.1-.4.2-.8.2-1.2 0-.4-.1-.8-.2-1.2l-1.4-5C20.1 6.8 19.1 6 18 6H4a2 2 0 0 0-2 2v10h3"/><circle cx="7" cy="18" r="2"/><path d="M9 18h5"/><circle cx="16" cy="18" r="2"/></svg>';
         var busM = new ml.Marker({ element: bus }).setLngLat(D.line[0]).addTo(map);
         bus.removeAttribute('aria-label'); bus.setAttribute('aria-hidden', 'true');
-        // animation along the route
-        var L = D.line, seg = [], tot = 0;
-        for (var i = 1; i < L.length; i++) { var dd = Math.hypot(L[i][0] - L[i - 1][0], L[i][1] - L[i - 1][1]); seg.push(dd); tot += dd; }
-        var dur = still ? 0 : 3200, t0 = null;
+        // animation along the route, leg by leg
+        var segs = [], tot = 0;
+        LEGS.forEach(function (lg, li) {
+          for (var q = 1; q < lg.c.length; q++) {
+            var a = lg.c[q - 1], b2 = lg.c[q], dd = Math.hypot(b2[0] - a[0], b2[1] - a[1]);
+            segs.push({ li: li, a: a, b: b2, d: dd }); tot += dd;
+          }
+        });
+        var dur = still ? 0 : Math.min(6000, 2600 + LEGS.length * 300), t0 = null, curMode = null;
         var reached = function (lng, lat) {
           pins.forEach(function (p) { if (Math.abs(p.lng - lng) < 0.05 && Math.abs(p.lat - lat) < 0.04) reveal(p.k); });
         };
-        reached(L[0][0], L[0][1]);
+        reached(LEGS[0].c[0][0], LEGS[0].c[0][1]);
         var step = function (ts) {
           if (t0 === null) t0 = ts;
-          var f = dur ? Math.min(1, (ts - t0) / dur) : 1, want = f * tot, acc = 0, coords = [L[0]], pos = L[0];
-          for (var j = 0; j < seg.length; j++) {
-            if (acc + seg[j] <= want) { acc += seg[j]; coords.push(L[j + 1]); reached(L[j + 1][0], L[j + 1][1]); pos = L[j + 1]; continue; }
-            var k = seg[j] ? (want - acc) / seg[j] : 0;
-            pos = [L[j][0] + (L[j + 1][0] - L[j][0]) * k, L[j][1] + (L[j + 1][1] - L[j][1]) * k];
-            coords.push(pos); break;
+          var f = dur ? Math.min(1, (ts - t0) / dur) : 1, want = f * tot, acc = 0, pos = LEGS[0].c[0], li = 0;
+          var parts = LEGS.map(function (lg) { return { type: 'Feature', properties: { m: lg.m }, geometry: { type: 'LineString', coordinates: [] } }; });
+          for (var j2 = 0; j2 < segs.length; j2++) {
+            var sg = segs[j2], co = parts[sg.li].geometry.coordinates;
+            if (!co.length) co.push(sg.a);
+            if (acc + sg.d <= want) { acc += sg.d; co.push(sg.b); pos = sg.b; li = sg.li;
+              if (j2 === segs.length - 1 || segs[j2 + 1].li !== sg.li) reached(sg.b[0], sg.b[1]);
+              continue; }
+            var r = sg.d ? (want - acc) / sg.d : 0;
+            pos = [sg.a[0] + (sg.b[0] - sg.a[0]) * r, sg.a[1] + (sg.b[1] - sg.a[1]) * r];
+            co.push(pos); li = sg.li; break;
           }
-          map.getSource('route').setData({ type: 'Feature', geometry: { type: 'LineString', coordinates: coords } });
+          map.getSource('route').setData({ type: 'FeatureCollection', features: parts.filter(function (p) { return p.geometry.coordinates.length > 1; }) });
+          var m = LEGS[li].m; if (m !== curMode) { curMode = m; bus.innerHTML = vSvg(m); }
           busM.setLngLat(pos);
           if (f < 1) requestAnimationFrame(step); else { reveal(pins.length - 1); setTimeout(function () { busM.remove(); }, 400); }
         };

@@ -12,7 +12,7 @@ Every besttraveler tour on one page: flight tours abroad, bus tours to Turkey an
 
 By plane
 
-### [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-delhi-udaipur/)
+### [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-group-tour/)
 
 9 days / 8 nights25 Oct 2026
 
@@ -24,7 +24,7 @@ View tour
 
 By plane
 
-### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-aegina/)
+### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
 
 4 days / 3 nights1–4 Nov 2026
 
@@ -36,7 +36,7 @@ View tour
 
 By plane
 
-### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/bari-puglia-matera-italy/)
+### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
 
 5 days2–6 Nov 2026
 
@@ -48,7 +48,7 @@ View tour
 
 By bus
 
-### [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/turkey-cappadocia-amasya-bus/)
+### [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/)
 
 6 days2–7 Nov 2026
 
@@ -60,7 +60,7 @@ View tour
 
 By plane
 
-### [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-madrid-porto-lisbon/)
+### [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
 
 8 days / 7 nights3–10 Nov 2026
 
@@ -72,7 +72,7 @@ View tour
 
 By plane
 
-### [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-port-said-suez-canal/)
+### [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
 
 7 days / 6 nights9–15 Nov 2026
 
@@ -84,7 +84,7 @@ View tour
 
 By plane
 
-### [Morocco Group Tour with a Stop in Rome — 13–22 November](https://besttraveler.ge/en/tours/morocco-marrakesh-fes-rome/)
+### [Morocco Group Tour with a Stop in Rome — 13–22 November](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 
 10 days / 9 nights13–22 Nov 2026
 
@@ -96,7 +96,7 @@ View tour
 
 By plane
 
-### [France: Alsace and Paris — Group Tour from Kutaisi](https://besttraveler.ge/en/tours/france-alsace-strasbourg-colmar-paris/)
+### [France: Alsace and Paris — Group Tour from Kutaisi](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
 
 8 days / 7 nights19–26 Nov 2026
 
@@ -108,7 +108,7 @@ View tour
 
 By plane
 
-### [Egypt Tour: Cairo and Alexandria, 5 Days](https://besttraveler.ge/en/tours/egypt-cairo-alexandria/)
+### [Egypt Tour: Cairo and Alexandria, 5 Days](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 
 5 days / 4 nights26–30 Nov 2026
 
@@ -132,7 +132,7 @@ View tour
 
 By plane
 
-### [Sri Lanka Tour: Sigiriya, Kandy, Ella, Mirissa and Colombo](https://besttraveler.ge/en/tours/sri-lanka-kandy-ella-mirissa/)
+### [Sri Lanka Tour: Sigiriya, Kandy, Ella, Mirissa and Colombo](https://besttraveler.ge/en/tours/sri-lanka-kandy-ella-mirissa-tour/)
 
 8 days / 6 nights9–16 Jan 2027
 
@@ -144,7 +144,7 @@ View tour
 
 By plane
 
-### [Sri Lanka and Maldives Group Tour](https://besttraveler.ge/en/tours/sri-lanka-maldives/)
+### [Sri Lanka and Maldives Group Tour](https://besttraveler.ge/en/tours/sri-lanka-maldives-group-tour/)
 
 11 days9–19 Jan 2027
 
@@ -156,7 +156,7 @@ View tour
 
 By plane
 
-### [Venice Carnival 2027 — 4-Day Tour of Italy](https://besttraveler.ge/en/tours/italy-venice-carnival-2027/)
+### [Venice Carnival 2027 — 4-Day Tour of Italy](https://besttraveler.ge/en/tours/venice-carnival-tour/)
 
 4 days23–26 Jan 2027
 
@@ -168,7 +168,7 @@ View tour
 
 By plane
 
-### [Southern Spain and Gibraltar — Group Tour, 27 January – 3 February](https://besttraveler.ge/en/tours/south-spain-andalusia-gibraltar/)
+### [Southern Spain and Gibraltar — Group Tour, 27 January – 3 February](https://besttraveler.ge/en/tours/southern-spain-andalusia-gibraltar-tour/)
 
 8 days / 7 nights27 Jan – 3 Feb 2027
 
@@ -180,7 +180,7 @@ View tour
 
 By plane
 
-### [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein](https://besttraveler.ge/en/tours/five-countries-alps-switzerland-france-germany/)
+### [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
 
 8 days / 7 nightsSwitzerland, France, Germany, Austria, Liechtenstein
 
@@ -192,7 +192,7 @@ View tour
 
 By plane
 
-### [Belgium and the Netherlands — 8-Day Group Tour](https://besttraveler.ge/en/tours/belgium-netherlands-brussels-amsterdam/)
+### [Belgium and the Netherlands — 8-Day Group Tour](https://besttraveler.ge/en/tours/belgium-netherlands-group-tour/)
 
 8 daysBelgium, Netherlands
 
@@ -204,7 +204,7 @@ View tour
 
 By plane
 
-### [Bratislava, Slovakia — Tour with a Day Trip to Vienna](https://besttraveler.ge/en/tours/bratislava-slovakia-vienna/)
+### [Bratislava, Slovakia — Tour with a Day Trip to Vienna](https://besttraveler.ge/en/tours/bratislava-slovakia-vienna-tour/)
 
 6 days / 5 nightsSlovakia, Austria
 
@@ -216,7 +216,7 @@ View tour
 
 By plane
 
-### [China Group Tour: Beijing, Zhangjiajie, Leshan and Hong Kong](https://besttraveler.ge/en/tours/china-beijing-zhangjiajie-hong-kong/)
+### [China Group Tour: Beijing, Zhangjiajie, Leshan and Hong Kong](https://besttraveler.ge/en/tours/china-beijing-zhangjiajie-hong-kong-tour/)
 
 13 daysChina
 
@@ -228,7 +228,7 @@ View tour
 
 By plane
 
-### [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra/)
+### [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
 
 8 daysEgypt, Jordan
 
@@ -240,7 +240,7 @@ View tour
 
 By plane
 
-### [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur](https://besttraveler.ge/en/tours/france-italy-monaco-provence-riviera/)
+### [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
 
 8 daysFrance, Italy, Monaco
 
@@ -252,7 +252,7 @@ View tour
 
 By plane
 
-### [Greece: Thessaloniki, Meteora and Athens — 8-Day Tour](https://besttraveler.ge/en/tours/greece-thessaloniki-meteora-athens/)
+### [Greece: Thessaloniki, Meteora and Athens — 8-Day Tour](https://besttraveler.ge/en/tours/greece-thessaloniki-meteora-athens-tour/)
 
 8 daysGreece
 
@@ -264,7 +264,7 @@ View tour
 
 By plane
 
-### [Istanbul: 7-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/turkey-istanbul-7-days/)
+### [Istanbul: 7-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
 
 7 daysTurkey
 
@@ -276,7 +276,7 @@ View tour
 
 By plane
 
-### [Malta via Rome — 8-Day Tour](https://besttraveler.ge/en/tours/malta-valletta-via-rome/)
+### [Malta via Rome — 8-Day Tour](https://besttraveler.ge/en/tours/malta-tour-via-rome/)
 
 8 daysMalta, Italy
 
@@ -288,7 +288,7 @@ View tour
 
 By plane
 
-### [Netherlands and Germany: Tulip Festival — 8-Day Tour](https://besttraveler.ge/en/tours/netherlands-germany-tulip-festival/)
+### [Netherlands and Germany: Tulip Festival — 8-Day Tour](https://besttraveler.ge/en/tours/netherlands-tulip-festival-tour/)
 
 8 daysNetherlands, Germany
 
@@ -300,7 +300,7 @@ View tour
 
 By plane
 
-### [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria](https://besttraveler.ge/en/tours/egypt-nile-cruise-cairo-luxor-aswan-alexandria/)
+### [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
 
 9 daysEgypt
 
@@ -312,7 +312,7 @@ View tour
 
 By plane
 
-### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/egypt-nile-cruise-luxor-aswan-hurghada/)
+### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
 
 8 daysEgypt
 
@@ -324,7 +324,7 @@ View tour
 
 By plane
 
-### [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/france-paris/)
+### [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 
 5 daysFrance
 
@@ -336,7 +336,7 @@ View tour
 
 By plane
 
-### [Rome, Italy — 8-Day Tour from Kutaisi](https://besttraveler.ge/en/tours/italy-rome/)
+### [Rome, Italy — 8-Day Tour from Kutaisi](https://besttraveler.ge/en/tours/rome-italy-tour-from-kutaisi/)
 
 8 daysItaly
 
@@ -348,7 +348,7 @@ View tour
 
 By plane
 
-### [Sicily and Southern Italy — 8-Day Tour from Yerevan](https://besttraveler.ge/en/tours/italy-sicily-palermo-catania/)
+### [Sicily and Southern Italy — 8-Day Tour from Yerevan](https://besttraveler.ge/en/tours/sicily-southern-italy-tour/)
 
 8 daysItaly
 
@@ -360,7 +360,7 @@ View tour
 
 By plane
 
-### [Southern Italy by Car — Naples, Capri and the Amalfi Coast](https://besttraveler.ge/en/tours/south-italy-naples-amalfi-coast-car/)
+### [Southern Italy by Car — Naples, Capri and the Amalfi Coast](https://besttraveler.ge/en/tours/southern-italy-naples-amalfi-coast-tour/)
 
 10 days / 9 nightsItaly
 
@@ -372,7 +372,7 @@ View tour
 
 By plane
 
-### [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia/)
+### [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia-tour/)
 
 10 daysSpain
 
@@ -384,7 +384,7 @@ View tour
 
 By plane
 
-### [Spain, France and Andorra — 10-Day Tour from Barcelona](https://besttraveler.ge/en/tours/spain-france-andorra-barcelona/)
+### [Spain, France and Andorra — 10-Day Tour from Barcelona](https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/)
 
 10 daysSpain, France, Andorra
 
@@ -396,7 +396,7 @@ View tour
 
 By plane
 
-### [Tuscany, Elba and San Marino — 10-Day Tour of Italy](https://besttraveler.ge/en/tours/italy-tuscany-elba-san-marino/)
+### [Tuscany, Elba and San Marino — 10-Day Tour of Italy](https://besttraveler.ge/en/tours/tuscany-elba-san-marino-tour/)
 
 10 days / 9 nightsItaly
 
@@ -408,7 +408,7 @@ View tour
 
 By plane
 
-### [Venice and Padua — 5-Day Group Tour](https://besttraveler.ge/en/tours/italy-venice-padua/)
+### [Venice and Padua — 5-Day Group Tour](https://besttraveler.ge/en/tours/venice-padua-group-tour/)
 
 5 days / 4 nightsItaly
 
@@ -420,7 +420,7 @@ View tour
 
 By plane
 
-### [Vilnius, Lithuania — 5-Day Tour from Kutaisi](https://besttraveler.ge/en/tours/vilnius-lithuania-trakai/)
+### [Vilnius, Lithuania — 5-Day Tour from Kutaisi](https://besttraveler.ge/en/tours/vilnius-lithuania-tour-from-kutaisi/)
 
 5 days / 4 nightsLithuania
 
@@ -432,7 +432,7 @@ View tour
 
 By bus
 
-### [Armenia in 3 Days: Dilijan, Jermuk, Tatev, Noravank, Sevan](https://besttraveler.ge/en/tours/armenia-dilijan-jermuk-tatev-noravank/)
+### [Armenia in 3 Days: Dilijan, Jermuk, Tatev, Noravank, Sevan](https://besttraveler.ge/en/tours/armenia-tatev-jermuk-noravank-tour/)
 
 3 days / 2 nightsArmenia
 
@@ -444,7 +444,7 @@ View tour
 
 By bus
 
-### [Kars, Ani and Van: 3-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-kars-ani-van/)
+### [Kars, Ani and Van: 3-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/)
 
 3 days / 2 nightsTurkey
 
@@ -456,7 +456,7 @@ View tour
 
 By bus
 
-### [Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana](https://besttraveler.ge/en/tours/turkey-tao-klarjeti/)
+### [Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana](https://besttraveler.ge/en/tours/tao-klarjeti-tour-turkey/)
 
 By busTurkey
 
@@ -468,7 +468,7 @@ View tour
 
 By bus
 
-### [Trabzon and Sumela Monastery: 3-Day Tour](https://besttraveler.ge/en/tours/turkey-trabzon-sumela/)
+### [Trabzon and Sumela Monastery: 3-Day Tour](https://besttraveler.ge/en/tours/trabzon-sumela-monastery-tour/)
 
 3 daysTurkey
 
@@ -480,7 +480,7 @@ View tour
 
 By bus
 
-### [Van and Mardin: 7-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-van-mardin-nemrut/)
+### [Van and Mardin: 7-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/eastern-turkey-van-mardin-nemrut-tour/)
 
 7 days / 6 nightsTurkey
 
@@ -492,7 +492,7 @@ View tour
 
 By bus
 
-### [Yerevan in 3 Days: Sevan, Garni, Geghard, Etchmiadzin](https://besttraveler.ge/en/tours/armenia-yerevan-garni-geghard-etchmiadzin/)
+### [Yerevan in 3 Days: Sevan, Garni, Geghard, Etchmiadzin](https://besttraveler.ge/en/tours/yerevan-garni-geghard-tour/)
 
 3 daysArmenia
 
@@ -504,7 +504,7 @@ View tour
 
 Day tour
 
-### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-ujarma-alaverdi/)
+### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
 
 1 dayGeorgia
 
@@ -516,7 +516,7 @@ View tour
 
 Day tour
 
-### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/gareja-colorful-desert-mravaltskaro/)
+### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 
 1 dayGeorgia
 
@@ -528,7 +528,7 @@ View tour
 
 Day tour
 
-### [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi/)
+### [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 
 1 dayGeorgia
 
@@ -540,7 +540,7 @@ View tour
 
 Day tour
 
-### [Dilijan Day Tour, Armenia: Haghartsin, Goshavank, Lake Parz](https://besttraveler.ge/en/tours/armenia-dilijan-day-tour/)
+### [Dilijan Day Tour, Armenia: Haghartsin, Goshavank, Lake Parz](https://besttraveler.ge/en/tours/armenia-dilijan-day-trip/)
 
 1 dayArmenia
 
@@ -552,7 +552,7 @@ View tour
 
 Day tour
 
-### [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano](https://besttraveler.ge/en/tours/dzama-gorge-day-tour/)
+### [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
 
 1 dayGeorgia
 
@@ -564,7 +564,7 @@ View tour
 
 Day tour
 
-### [Historic Lori, Armenia: Akhtala, Haghpat, Sanahin, Odzun](https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-akhtala/)
+### [Historic Lori, Armenia: Akhtala, Haghpat, Sanahin, Odzun](https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-tour/)
 
 1 dayArmenia
 
@@ -576,7 +576,7 @@ View tour
 
 Day tour
 
-### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-poka/)
+### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
 1 dayGeorgia
 
@@ -588,7 +588,7 @@ View tour
 
 Day tour
 
-### [Kakheti Day Tour: Chailuri, Gurjaani Kvelatsminda, Zegaani, Sanagire](https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani/)
+### [Kakheti Day Tour: Chailuri, Gurjaani Kvelatsminda, Zegaani, Sanagire](https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani-day-trip/)
 
 1 dayGeorgia
 
@@ -600,7 +600,7 @@ View tour
 
 Day tour
 
-### [Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi/)
+### [Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/)
 
 1 dayGeorgia
 
@@ -612,7 +612,7 @@ View tour
 
 Day tour
 
-### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/kakheti-sighnaghi-bodbe/)
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
 1 dayGeorgia
 
@@ -624,7 +624,7 @@ View tour
 
 Day tour
 
-### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gveleti-gergeti-day-tour/)
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
 1 dayGeorgia
 
@@ -636,7 +636,7 @@ View tour
 
 Day tour
 
-### [Khada Gorge Day Tour: Tskere and Rostiani Waterfalls](https://besttraveler.ge/en/tours/khada-gorge-waterfalls-day-tour/)
+### [Khada Gorge Day Tour: Tskere and Rostiani Waterfalls](https://besttraveler.ge/en/tours/khada-gorge-waterfalls-day-trip/)
 
 1 dayGeorgia
 
@@ -648,7 +648,7 @@ View tour
 
 Day tour
 
-### [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-tour/)
+### [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
 
 1 dayGeorgia
 
@@ -660,7 +660,7 @@ View tour
 
 Day tour
 
-### [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-tserakvi-gagi-tamarisi/)
+### [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
 
 1 dayGeorgia
 
@@ -672,7 +672,7 @@ View tour
 
 Day tour
 
-### [Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall/)
+### [Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/)
 
 1 dayGeorgia
 
@@ -684,7 +684,7 @@ View tour
 
 Day tour
 
-### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-zarzma-akhaltsikhe-sapara/)
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
 
 1 dayGeorgia
 
@@ -696,7 +696,7 @@ View tour
 
 Day tour
 
-### [Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani](https://besttraveler.ge/en/tours/tabatskuri-lake-day-tour/)
+### [Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani](https://besttraveler.ge/en/tours/tabatskuri-lake-tour/)
 
 1 dayGeorgia
 
@@ -708,7 +708,7 @@ View tour
 
 Day tour
 
-### [Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake](https://besttraveler.ge/en/tours/tianeti-day-tour/)
+### [Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake](https://besttraveler.ge/en/tours/tianeti-day-trip/)
 
 1 dayGeorgia
 
@@ -720,7 +720,7 @@ View tour
 
 Day tour
 
-### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-tour/)
+### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
 
 1 dayGeorgia
 
@@ -731,3 +731,7 @@ per person60 GEL
 View tour 
 
 Nothing found
+
+## Tours by month
+
+[November 2026 8](https://besttraveler.ge/en/tours/november-2026/)[December 2026 5](https://besttraveler.ge/en/tours/december-2026/)[January 2027 4](https://besttraveler.ge/en/tours/january-2027/)[New Year tours 2027 7](https://besttraveler.ge/en/tours/new-year-tours-2027/)

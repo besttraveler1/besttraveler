@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/mimartulebebi/espaneti/
 
 ავიატური
 
-### [ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 3–10 ნოემბერი](https://besttraveler.ge/turebi/spain-portugal-madrid-porto-lisbon/)
+### [ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 3–10 ნოემბერი](https://besttraveler.ge/turebi/espaneti-portugalia-mankanit-turi/)
 
 8 დღე / 7 ღამე3–10 ნოემბერი 2026
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/mimartulebebi/espaneti/
 
 ავიატური
 
-### [სამხრეთ ესპანეთი და გიბრალტარი — ჯგუფური ტური, 27 იანვარი – 3 თებერვალი](https://besttraveler.ge/turebi/south-spain-andalusia-gibraltar/)
+### [სამხრეთ ესპანეთი და გიბრალტარი — ჯგუფური ტური, 27 იანვარი – 3 თებერვალი](https://besttraveler.ge/turebi/samkhret-espaneti-gibraltari-turi/)
 
 8 დღე / 7 ღამე27 იანვარი – 3 თებერვალი 2027
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/mimartulebebi/espaneti/
 
 ავიატური
 
-### [ესპანეთის ტური: ბარსელონა, ტოლედო, ანდალუსია, ვალენსია — 10 დღე](https://besttraveler.ge/turebi/spain-barcelona-andalusia-valencia/)
+### [ესპანეთის ტური: ბარსელონა, ტოლედო, ანდალუსია, ვალენსია — 10 დღე](https://besttraveler.ge/turebi/espaneti-barselona-andalusia-valensia-turi/)
 
 10 დღეესპანეთი
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/mimartulebebi/espaneti/
 
 ავიატური
 
-### [ესპანეთი, საფრანგეთი, ანდორა — 10-დღიანი ტური ბარსელონიდან](https://besttraveler.ge/turebi/spain-france-andorra-barcelona/)
+### [ესპანეთი, საფრანგეთი, ანდორა — 10-დღიანი ტური ბარსელონიდან](https://besttraveler.ge/turebi/espaneti-saprangeti-andora-turi/)
 
 10 დღეესპანეთი, საფრანგეთი, ანდორა
 

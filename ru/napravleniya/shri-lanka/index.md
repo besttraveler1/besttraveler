@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ru/napravleniya/shri-lanka/
 
 Авиатур
 
-### [Шри-Ланка: Сигирия, Канди, Элла, Мирисса и Коломбо](https://besttraveler.ge/ru/tury/sri-lanka-kandy-ella-mirissa/)
+### [Шри-Ланка: Сигирия, Канди, Элла, Мирисса и Коломбо](https://besttraveler.ge/ru/tury/shri-lanka-kandi-ella-mirissa-tur/)
 
 8 дней / 6 ночей9–16 января 2027
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/napravleniya/shri-lanka/
 
 Авиатур
 
-### [Шри-Ланка и Мальдивы — групповой тур](https://besttraveler.ge/ru/tury/sri-lanka-maldives/)
+### [Шри-Ланка и Мальдивы — групповой тур](https://besttraveler.ge/ru/tury/shri-lanka-maldivy-gruppovoy-tur/)
 
 11 дней9–19 января 2027
 

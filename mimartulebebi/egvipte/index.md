@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/mimartulebebi/egvipte/
 
 ავიატური
 
-### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/turebi/egypt-hurghada-luxor-port-said-suez-canal/)
+### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/turebi/egvipte-hurgada-luksori-suetsis-arkhi/)
 
 7 დღე / 6 ღამე9–15 ნოემბერი 2026
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/mimartulebebi/egvipte/
 
 ავიატური
 
-### [ეგვიპტის ტური: კაირო და ალექსანდრია, 5 დღე](https://besttraveler.ge/turebi/egypt-cairo-alexandria/)
+### [ეგვიპტის ტური: კაირო და ალექსანდრია, 5 დღე](https://besttraveler.ge/turebi/egvipte-kairo-aleksandria-turi/)
 
 5 დღე / 4 ღამე26–30 ნოემბერი 2026
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/mimartulebebi/egvipte/
 
 ავიატური
 
-### [ნასერის ტბის კრუიზი, კაირო და ლუქსორი — ჯგუფური ტური](https://besttraveler.ge/turebi/egypt-lake-nasser-cruise-cairo-luxor/)
+### [ნასერის ტბის კრუიზი, კაირო და ლუქსორი — ჯგუფური ტური](https://besttraveler.ge/turebi/egvipte-naseris-tbis-kruizi/)
 
 11 დღე14–24 დეკემბერი 2026
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/mimartulebebi/egvipte/
 
 ავიატური
 
-### [ეგვიპტე და იორდანია: შარმ-ელ-შეიხი და პეტრა, 8 დღე](https://besttraveler.ge/turebi/egypt-jordan-sharm-el-sheikh-petra/)
+### [ეგვიპტე და იორდანია: შარმ-ელ-შეიხი და პეტრა, 8 დღე](https://besttraveler.ge/turebi/egvipte-iordania-sharm-el-sheikhi-petra/)
 
 8 დღეეგვიპტე, იორდანია
 
@@ -62,7 +62,7 @@ URL: https://besttraveler.ge/mimartulebebi/egvipte/
 
 ავიატური
 
-### [ნილოსის კრუიზი: კაირო, ლუქსორი, ასუანი, აბუ-სიმბელი, ალექსანდრია](https://besttraveler.ge/turebi/egypt-nile-cruise-cairo-luxor-aswan-alexandria/)
+### [ნილოსის კრუიზი: კაირო, ლუქსორი, ასუანი, აბუ-სიმბელი, ალექსანდრია](https://besttraveler.ge/turebi/nilosis-kruizi-kairo-luksori-aleksandria/)
 
 9 დღეეგვიპტე
 
@@ -74,7 +74,7 @@ URL: https://besttraveler.ge/mimartulebebi/egvipte/
 
 ავიატური
 
-### [ნილოსის კრუიზი: ლუქსორი, ასუანი, აბუ-სიმბელი, ჰურგადა და ელ-გუნა](https://besttraveler.ge/turebi/egypt-nile-cruise-luxor-aswan-hurghada/)
+### [ნილოსის კრუიზი: ლუქსორი, ასუანი, აბუ-სიმბელი, ჰურგადა და ელ-გუნა](https://besttraveler.ge/turebi/nilosis-kruizi-luksori-asuani-hurgada/)
 
 8 დღეეგვიპტე
 

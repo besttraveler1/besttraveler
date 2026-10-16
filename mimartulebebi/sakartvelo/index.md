@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/turebi/kakheti-ujarma-alaverdi/)
+### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/turebi/kakheti-alaverdi-ikalto-turi/)
 
 1 დღესაქართველო
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/turebi/gareja-colorful-desert-mravaltskaro/)
+### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/turebi/peradi-udabno-davit-gareja-turi/)
 
 1 დღესაქართველო
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/turebi/david-gareja-sabereebi/)
+### [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/turebi/davit-gareja-sabereebi-turi/)
 
 1 დღესაქართველო
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [ძამას ხეობის ერთდღიანი ტური: სამწევრისი, ბატეთის ტბა, შუანო](https://besttraveler.ge/turebi/dzama-gorge-day-tour/)
+### [ძამას ხეობის ერთდღიანი ტური: სამწევრისი, ბატეთის ტბა, შუანო](https://besttraveler.ge/turebi/dzamas-kheoba-ertdghiani-turi/)
 
 1 დღესაქართველო
 
@@ -62,7 +62,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/turebi/javakheti-lakes-paravani-poka/)
+### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/turebi/javakhetis-tbebi-paravani-turi/)
 
 1 დღესაქართველო
 
@@ -74,7 +74,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [კახეთის ტური: ჩაილური, გურჯაანის ყველაწმინდა, ზეგაანი, სანაგირე](https://besttraveler.ge/turebi/kakheti-gurjaani-zegaani/)
+### [კახეთის ტური: ჩაილური, გურჯაანის ყველაწმინდა, ზეგაანი, სანაგირე](https://besttraveler.ge/turebi/kakheti-gurjaani-zegaani-turi/)
 
 1 დღესაქართველო
 
@@ -86,7 +86,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი](https://besttraveler.ge/turebi/kakheti-nekresi-gremi-telavi/)
+### [კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი](https://besttraveler.ge/turebi/kakheti-nekresi-gremi-telavi-turi/)
 
 1 დღესაქართველო
 
@@ -98,7 +98,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/turebi/kakheti-sighnaghi-bodbe/)
+### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/turebi/kakheti-sighnaghi-bodbe-turi/)
 
 1 დღესაქართველო
 
@@ -110,7 +110,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/turebi/kazbegi-gveleti-gergeti-day-tour/)
+### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
 
 1 დღესაქართველო
 
@@ -122,7 +122,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [ხადას ხეობის ტური: წკერესა და როსტიანის ჩანჩქერები](https://besttraveler.ge/turebi/khada-gorge-waterfalls-day-tour/)
+### [ხადას ხეობის ტური: წკერესა და როსტიანის ჩანჩქერები](https://besttraveler.ge/turebi/khadas-kheoba-chanchkerebi-turi/)
 
 1 დღესაქართველო
 
@@ -134,7 +134,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/turebi/kojori-manglisi-day-tour/)
+### [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/turebi/kojori-manglisi-ertdghiani-turi/)
 
 1 დღესაქართველო
 
@@ -146,7 +146,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [ქვემო ქართლის ერთდღიანი ტური: წერაქვი, გაგის ციხე, თამარისის ტბები](https://besttraveler.ge/turebi/kvemo-kartli-tserakvi-gagi-tamarisi/)
+### [ქვემო ქართლის ერთდღიანი ტური: წერაქვი, გაგის ციხე, თამარისის ტბები](https://besttraveler.ge/turebi/kvemo-kartli-ertdghiani-turi/)
 
 1 დღესაქართველო
 
@@ -158,7 +158,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [ლაგოდეხის ნაკრძალი: ნინოს ხევის (გურგენიანის) ჩანჩქერი](https://besttraveler.ge/turebi/lagodekhi-ninoskhevi-waterfall/)
+### [ლაგოდეხის ნაკრძალი: ნინოს ხევის (გურგენიანის) ჩანჩქერი](https://besttraveler.ge/turebi/lagodekhi-ninos-khevis-chanchkeri/)
 
 1 დღესაქართველო
 
@@ -170,7 +170,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/turebi/samtskhe-javakheti-zarzma-akhaltsikhe-sapara/)
+### [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/)
 
 1 დღესაქართველო
 
@@ -182,7 +182,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [ტაბაწყურის ტბის ტური: ცხრაწყაროს უღელტეხილი, ტიმოთესუბანი](https://besttraveler.ge/turebi/tabatskuri-lake-day-tour/)
+### [ტაბაწყურის ტბის ტური: ცხრაწყაროს უღელტეხილი, ტიმოთესუბანი](https://besttraveler.ge/turebi/tabatskuris-tba-turi/)
 
 1 დღესაქართველო
 
@@ -194,7 +194,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [თიანეთის ერთდღიანი ტური: მამკოდა, ცხვარიჭამია, ერწო, სიონის ტბა](https://besttraveler.ge/turebi/tianeti-day-tour/)
+### [თიანეთის ერთდღიანი ტური: მამკოდა, ცხვარიჭამია, ერწო, სიონის ტბა](https://besttraveler.ge/turebi/tianeti-ertdghiani-turi/)
 
 1 დღესაქართველო
 
@@ -206,7 +206,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [თრუსოს ხეობის ტური: ტრავერტინები, უძირო ტბა, ზაქაგორი](https://besttraveler.ge/turebi/truso-gorge-day-tour/)
+### [თრუსოს ხეობის ტური: ტრავერტინები, უძირო ტბა, ზაქაგორი](https://besttraveler.ge/turebi/trusos-kheoba-ertdghiani-turi/)
 
 1 დღესაქართველო
 

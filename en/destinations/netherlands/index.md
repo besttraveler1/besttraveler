@@ -14,7 +14,7 @@ Group tours to the Netherlands and Belgium: Amsterdam, Giethoorn, windmills, Keu
 
 By plane
 
-### [Belgium and the Netherlands — 8-Day Group Tour](https://besttraveler.ge/en/tours/belgium-netherlands-brussels-amsterdam/)
+### [Belgium and the Netherlands — 8-Day Group Tour](https://besttraveler.ge/en/tours/belgium-netherlands-group-tour/)
 
 8 daysBelgium, Netherlands
 
@@ -26,7 +26,7 @@ View tour
 
 By plane
 
-### [Netherlands and Germany: Tulip Festival — 8-Day Tour](https://besttraveler.ge/en/tours/netherlands-germany-tulip-festival/)
+### [Netherlands and Germany: Tulip Festival — 8-Day Tour](https://besttraveler.ge/en/tours/netherlands-tulip-festival-tour/)
 
 8 daysNetherlands, Germany
 

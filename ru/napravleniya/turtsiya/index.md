@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ru/napravleniya/turtsiya/
 
 На автобусе
 
-### [Каппадокия, Амасья и Орду: автобусный тур на 6 дней](https://besttraveler.ge/ru/tury/turkey-cappadocia-amasya-bus/)
+### [Каппадокия, Амасья и Орду: автобусный тур на 6 дней](https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/)
 
 6 дней2–7 ноября 2026
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/napravleniya/turtsiya/
 
 Авиатур
 
-### [Стамбул — тур на 7 дней с вылетом из Тбилиси или Батуми](https://besttraveler.ge/ru/tury/turkey-istanbul-7-days/)
+### [Стамбул — тур на 7 дней с вылетом из Тбилиси или Батуми](https://besttraveler.ge/ru/tury/stambul-tur-iz-tbilisi/)
 
 7 днейТурция
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/ru/napravleniya/turtsiya/
 
 На автобусе
 
-### [Карс, Ани и Ван — тур по Турции на 3 дня](https://besttraveler.ge/ru/tury/turkey-kars-ani-van/)
+### [Карс, Ани и Ван — тур по Турции на 3 дня](https://besttraveler.ge/ru/tury/turtsiya-kars-ani-van-tur/)
 
 3 дня / 2 ночиТурция
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/ru/napravleniya/turtsiya/
 
 На автобусе
 
-### [Тур в Тао-Кларджети: Тбети, Артануджи, Ошки, Пархали, Бана](https://besttraveler.ge/ru/tury/turkey-tao-klarjeti/)
+### [Тур в Тао-Кларджети: Тбети, Артануджи, Ошки, Пархали, Бана](https://besttraveler.ge/ru/tury/tao-klardzheti-tur/)
 
 На автобусеТурция
 
@@ -62,7 +62,7 @@ URL: https://besttraveler.ge/ru/napravleniya/turtsiya/
 
 На автобусе
 
-### [Трабзон и монастырь Сумела — тур на 3 дня](https://besttraveler.ge/ru/tury/turkey-trabzon-sumela/)
+### [Трабзон и монастырь Сумела — тур на 3 дня](https://besttraveler.ge/ru/tury/trabzon-sumela-tur/)
 
 3 дняТурция
 
@@ -74,7 +74,7 @@ URL: https://besttraveler.ge/ru/napravleniya/turtsiya/
 
 На автобусе
 
-### [Ван и Мардин — тур по Восточной Турции на 7 дней](https://besttraveler.ge/ru/tury/turkey-van-mardin-nemrut/)
+### [Ван и Мардин — тур по Восточной Турции на 7 дней](https://besttraveler.ge/ru/tury/vostochnaya-turtsiya-van-mardin-tur/)
 
 7 дней / 6 ночейТурция
 

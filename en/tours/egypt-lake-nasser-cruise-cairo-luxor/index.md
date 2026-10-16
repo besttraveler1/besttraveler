@@ -186,7 +186,7 @@ Dates
 
 By plane
 
-### [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-port-said-suez-canal/)
+### [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
 
 7 days / 6 nights9–15 Nov 2026
 
@@ -198,7 +198,7 @@ View tour
 
 By plane
 
-### [Egypt Tour: Cairo and Alexandria, 5 Days](https://besttraveler.ge/en/tours/egypt-cairo-alexandria/)
+### [Egypt Tour: Cairo and Alexandria, 5 Days](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 
 5 days / 4 nights26–30 Nov 2026
 
@@ -210,7 +210,7 @@ View tour
 
 By plane
 
-### [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra/)
+### [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
 
 8 daysEgypt, Jordan
 

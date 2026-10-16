@@ -12,7 +12,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ინდოეთი: რაჯასთანის ჯგუფური ტური — დელი, ჯაისალმერი, უდაიპური](https://besttraveler.ge/turebi/india-rajasthan-delhi-udaipur/)
+### [ინდოეთი: რაჯასთანის ჯგუფური ტური — დელი, ჯაისალმერი, უდაიპური](https://besttraveler.ge/turebi/indoeti-rajastani-jgupuri-turi/)
 
 9 დღე / 8 ღამე25 ოქტომბერი 2026
 
@@ -24,7 +24,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ათენი, საბერძნეთი — ჯგუფური ტური ქუთაისიდან, 1–4 ნოემბერი](https://besttraveler.ge/turebi/athens-greece-aegina/)
+### [ათენი, საბერძნეთი — ჯგუფური ტური ქუთაისიდან, 1–4 ნოემბერი](https://besttraveler.ge/turebi/ateni-saberdzneti-jgupuri-turi/)
 
 4 დღე / 3 ღამე1–4 ნოემბერი 2026
 
@@ -36,7 +36,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/turebi/bari-puglia-matera-italy/)
+### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/turebi/italia-bari-apulia-saakhaltslo-turi/)
 
 5 დღე2–6 ნოემბერი 2026
 
@@ -48,7 +48,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავტობუსით
 
-### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/turebi/turkey-cappadocia-amasya-bus/)
+### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
 
 6 დღე2–7 ნოემბერი 2026
 
@@ -60,7 +60,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 3–10 ნოემბერი](https://besttraveler.ge/turebi/spain-portugal-madrid-porto-lisbon/)
+### [ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 3–10 ნოემბერი](https://besttraveler.ge/turebi/espaneti-portugalia-mankanit-turi/)
 
 8 დღე / 7 ღამე3–10 ნოემბერი 2026
 
@@ -72,7 +72,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/turebi/egypt-hurghada-luxor-port-said-suez-canal/)
+### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/turebi/egvipte-hurgada-luksori-suetsis-arkhi/)
 
 7 დღე / 6 ღამე9–15 ნოემბერი 2026
 
@@ -84,7 +84,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [მაროკოს ჯგუფური ტური რომის გავლით — 13–22 ნოემბერი](https://besttraveler.ge/turebi/morocco-marrakesh-fes-rome/)
+### [მაროკოს ჯგუფური ტური რომის გავლით — 13–22 ნოემბერი](https://besttraveler.ge/turebi/maroko-jgupuri-turi-romis-gavlit/)
 
 10 დღე / 9 ღამე13–22 ნოემბერი 2026
 
@@ -96,7 +96,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [საფრანგეთი: ელზასი და პარიზი — ჯგუფური ტური ქუთაისიდან](https://besttraveler.ge/turebi/france-alsace-strasbourg-colmar-paris/)
+### [საფრანგეთი: ელზასი და პარიზი — ჯგუფური ტური ქუთაისიდან](https://besttraveler.ge/turebi/saprangeti-elzasi-parizi-turi/)
 
 8 დღე / 7 ღამე19–26 ნოემბერი 2026
 
@@ -108,7 +108,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ეგვიპტის ტური: კაირო და ალექსანდრია, 5 დღე](https://besttraveler.ge/turebi/egypt-cairo-alexandria/)
+### [ეგვიპტის ტური: კაირო და ალექსანდრია, 5 დღე](https://besttraveler.ge/turebi/egvipte-kairo-aleksandria-turi/)
 
 5 დღე / 4 ღამე26–30 ნოემბერი 2026
 
@@ -120,7 +120,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ნასერის ტბის კრუიზი, კაირო და ლუქსორი — ჯგუფური ტური](https://besttraveler.ge/turebi/egypt-lake-nasser-cruise-cairo-luxor/)
+### [ნასერის ტბის კრუიზი, კაირო და ლუქსორი — ჯგუფური ტური](https://besttraveler.ge/turebi/egvipte-naseris-tbis-kruizi/)
 
 11 დღე14–24 დეკემბერი 2026
 
@@ -132,7 +132,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [შრი-ლანკა: სიგირია, კანდი, ელა, მირისა და კოლომბო](https://besttraveler.ge/turebi/sri-lanka-kandy-ella-mirissa/)
+### [შრი-ლანკა: სიგირია, კანდი, ელა, მირისა და კოლომბო](https://besttraveler.ge/turebi/shri-lanka-kandi-ela-mirisa-turi/)
 
 8 დღე / 6 ღამე9–16 იანვარი 2027
 
@@ -144,7 +144,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [შრი-ლანკა და მალდივები — ჯგუფური ტური](https://besttraveler.ge/turebi/sri-lanka-maldives/)
+### [შრი-ლანკა და მალდივები — ჯგუფური ტური](https://besttraveler.ge/turebi/shri-lanka-maldivebi-jgupuri-turi/)
 
 11 დღე9–19 იანვარი 2027
 
@@ -156,7 +156,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ვენეციის კარნავალი 2027 — 4-დღიანი ტური იტალიაში](https://besttraveler.ge/turebi/italy-venice-carnival-2027/)
+### [ვენეციის კარნავალი 2027 — 4-დღიანი ტური იტალიაში](https://besttraveler.ge/turebi/venetsiis-karnavali-turi/)
 
 4 დღე23–26 იანვარი 2027
 
@@ -168,7 +168,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [სამხრეთ ესპანეთი და გიბრალტარი — ჯგუფური ტური, 27 იანვარი – 3 თებერვალი](https://besttraveler.ge/turebi/south-spain-andalusia-gibraltar/)
+### [სამხრეთ ესპანეთი და გიბრალტარი — ჯგუფური ტური, 27 იანვარი – 3 თებერვალი](https://besttraveler.ge/turebi/samkhret-espaneti-gibraltari-turi/)
 
 8 დღე / 7 ღამე27 იანვარი – 3 თებერვალი 2027
 
@@ -180,7 +180,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [5 ქვეყანა ერთ ტურში მანქანით: საფრანგეთი, შვეიცარია, გერმანია, ავსტრია, ლიხტენშტაინი](https://besttraveler.ge/turebi/five-countries-alps-switzerland-france-germany/)
+### [5 ქვეყანა ერთ ტურში მანქანით: საფრანგეთი, შვეიცარია, გერმანია, ავსტრია, ლიხტენშტაინი](https://besttraveler.ge/turebi/alpebi-shveitsaria-5-kveqana-turi/)
 
 8 დღე / 7 ღამეშვეიცარია, საფრანგეთი, გერმანია, ავსტრია, ლიხტენშტაინი
 
@@ -192,7 +192,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ბელგია და ნიდერლანდები — 8-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/belgium-netherlands-brussels-amsterdam/)
+### [ბელგია და ნიდერლანდები — 8-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/belgia-niderlandebi-jgupuri-turi/)
 
 8 დღებელგია, ნიდერლანდები
 
@@ -204,7 +204,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ბრატისლავა, სლოვაკეთი — ტური ვენაში ექსკურსიით](https://besttraveler.ge/turebi/bratislava-slovakia-vienna/)
+### [ბრატისლავა, სლოვაკეთი — ტური ვენაში ექსკურსიით](https://besttraveler.ge/turebi/bratislava-slovakia-vena-turi/)
 
 6 დღე / 5 ღამესლოვაკეთი, ავსტრია
 
@@ -216,7 +216,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ჩინეთის ჯგუფური ტური: პეკინი, ჟანჯიაჯიე, ლეშანი, ჰონკონგი](https://besttraveler.ge/turebi/china-beijing-zhangjiajie-hong-kong/)
+### [ჩინეთის ჯგუფური ტური: პეკინი, ჟანჯიაჯიე, ლეშანი, ჰონკონგი](https://besttraveler.ge/turebi/chineti-pekini-zhanjiajie-honkongi-turi/)
 
 13 დღეჩინეთი
 
@@ -228,7 +228,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ეგვიპტე და იორდანია: შარმ-ელ-შეიხი და პეტრა, 8 დღე](https://besttraveler.ge/turebi/egypt-jordan-sharm-el-sheikh-petra/)
+### [ეგვიპტე და იორდანია: შარმ-ელ-შეიხი და პეტრა, 8 დღე](https://besttraveler.ge/turebi/egvipte-iordania-sharm-el-sheikhi-petra/)
 
 8 დღეეგვიპტე, იორდანია
 
@@ -240,7 +240,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო](https://besttraveler.ge/turebi/france-italy-monaco-provence-riviera/)
+### [საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო](https://besttraveler.ge/turebi/provansi-monako-lazhvardovani-sanapiro/)
 
 8 დღესაფრანგეთი, იტალია, მონაკო
 
@@ -252,7 +252,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [საბერძნეთი: სალონიკი, მეტეორა და ათენი — 8-დღიანი ტური](https://besttraveler.ge/turebi/greece-thessaloniki-meteora-athens/)
+### [საბერძნეთი: სალონიკი, მეტეორა და ათენი — 8-დღიანი ტური](https://besttraveler.ge/turebi/saberdzneti-saloniki-meteora-ateni-turi/)
 
 8 დღესაბერძნეთი
 
@@ -264,7 +264,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [სტამბოლი — 7-დღიანი ტური თბილისიდან ან ბათუმიდან](https://besttraveler.ge/turebi/turkey-istanbul-7-days/)
+### [სტამბოლი — 7-დღიანი ტური თბილისიდან ან ბათუმიდან](https://besttraveler.ge/turebi/stamboli-turi-tbilisidan/)
 
 7 დღეთურქეთი
 
@@ -276,7 +276,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [მალტა რომის გავლით — 8-დღიანი ტური](https://besttraveler.ge/turebi/malta-valletta-via-rome/)
+### [მალტა რომის გავლით — 8-დღიანი ტური](https://besttraveler.ge/turebi/malta-romis-gavlit-turi/)
 
 8 დღემალტა, იტალია
 
@@ -288,7 +288,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ნიდერლანდები და გერმანია: ტიტების ფესტივალი — 8-დღიანი ტური](https://besttraveler.ge/turebi/netherlands-germany-tulip-festival/)
+### [ნიდერლანდები და გერმანია: ტიტების ფესტივალი — 8-დღიანი ტური](https://besttraveler.ge/turebi/niderlandebi-titebis-festivali-turi/)
 
 8 დღენიდერლანდები, გერმანია
 
@@ -300,7 +300,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ნილოსის კრუიზი: კაირო, ლუქსორი, ასუანი, აბუ-სიმბელი, ალექსანდრია](https://besttraveler.ge/turebi/egypt-nile-cruise-cairo-luxor-aswan-alexandria/)
+### [ნილოსის კრუიზი: კაირო, ლუქსორი, ასუანი, აბუ-სიმბელი, ალექსანდრია](https://besttraveler.ge/turebi/nilosis-kruizi-kairo-luksori-aleksandria/)
 
 9 დღეეგვიპტე
 
@@ -312,7 +312,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ნილოსის კრუიზი: ლუქსორი, ასუანი, აბუ-სიმბელი, ჰურგადა და ელ-გუნა](https://besttraveler.ge/turebi/egypt-nile-cruise-luxor-aswan-hurghada/)
+### [ნილოსის კრუიზი: ლუქსორი, ასუანი, აბუ-სიმბელი, ჰურგადა და ელ-გუნა](https://besttraveler.ge/turebi/nilosis-kruizi-luksori-asuani-hurgada/)
 
 8 დღეეგვიპტე
 
@@ -324,7 +324,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [პარიზი, საფრანგეთი — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/france-paris/)
+### [პარიზი, საფრანგეთი — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/parizi-saprangeti-jgupuri-turi/)
 
 5 დღესაფრანგეთი
 
@@ -336,7 +336,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [რომი, იტალია — 8-დღიანი ტური ქუთაისიდან](https://besttraveler.ge/turebi/italy-rome/)
+### [რომი, იტალია — 8-დღიანი ტური ქუთაისიდან](https://besttraveler.ge/turebi/romi-italia-turi-kutaisidan/)
 
 8 დღეიტალია
 
@@ -348,7 +348,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [სიცილია და სამხრეთ იტალია — 8-დღიანი ტური ერევნიდან](https://besttraveler.ge/turebi/italy-sicily-palermo-catania/)
+### [სიცილია და სამხრეთ იტალია — 8-დღიანი ტური ერევნიდან](https://besttraveler.ge/turebi/sitsilia-samkhret-italia-turi/)
 
 8 დღეიტალია
 
@@ -360,7 +360,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [სამხრეთ იტალია მანქანით — ნეაპოლი, კაპრი, ამალფის სანაპირო](https://besttraveler.ge/turebi/south-italy-naples-amalfi-coast-car/)
+### [სამხრეთ იტალია მანქანით — ნეაპოლი, კაპრი, ამალფის სანაპირო](https://besttraveler.ge/turebi/samkhret-italia-neapoli-amalfi-turi/)
 
 10 დღე / 9 ღამეიტალია
 
@@ -372,7 +372,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ესპანეთის ტური: ბარსელონა, ტოლედო, ანდალუსია, ვალენსია — 10 დღე](https://besttraveler.ge/turebi/spain-barcelona-andalusia-valencia/)
+### [ესპანეთის ტური: ბარსელონა, ტოლედო, ანდალუსია, ვალენსია — 10 დღე](https://besttraveler.ge/turebi/espaneti-barselona-andalusia-valensia-turi/)
 
 10 დღეესპანეთი
 
@@ -384,7 +384,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ესპანეთი, საფრანგეთი, ანდორა — 10-დღიანი ტური ბარსელონიდან](https://besttraveler.ge/turebi/spain-france-andorra-barcelona/)
+### [ესპანეთი, საფრანგეთი, ანდორა — 10-დღიანი ტური ბარსელონიდან](https://besttraveler.ge/turebi/espaneti-saprangeti-andora-turi/)
 
 10 დღეესპანეთი, საფრანგეთი, ანდორა
 
@@ -396,7 +396,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ტოსკანა, ელბა და სან-მარინო — 10-დღიანი ტური იტალიაში](https://besttraveler.ge/turebi/italy-tuscany-elba-san-marino/)
+### [ტოსკანა, ელბა და სან-მარინო — 10-დღიანი ტური იტალიაში](https://besttraveler.ge/turebi/toskana-elba-san-marino-turi/)
 
 10 დღე / 9 ღამეიტალია
 
@@ -408,7 +408,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ვენეცია და პადუა — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/italy-venice-padua/)
+### [ვენეცია და პადუა — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/venetsia-padua-jgupuri-turi/)
 
 5 დღე / 4 ღამეიტალია
 
@@ -420,7 +420,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ვილნიუსი, ლიტვა — 5-დღიანი ტური ქუთაისიდან](https://besttraveler.ge/turebi/vilnius-lithuania-trakai/)
+### [ვილნიუსი, ლიტვა — 5-დღიანი ტური ქუთაისიდან](https://besttraveler.ge/turebi/vilniusi-litva-turi-kutaisidan/)
 
 5 დღე / 4 ღამელიტვა
 
@@ -432,11 +432,11 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავტობუსით
 
-### [სომხეთი 3 დღე: დილიჯანი, ჯერმუკი, ტატევი, ნორავანკი, სევანი](https://besttraveler.ge/turebi/armenia-dilijan-jermuk-tatev-noravank/)
+### [სომხეთი 3 დღე: დილიჯანი, ჯერმუკი, ტათევი, ნორავანკი, სევანი](https://besttraveler.ge/turebi/somkheti-tatevi-jermuki-noravanki-turi/)
 
 3 დღე / 2 ღამესომხეთი
 
-სამი დღე სომხეთში: დილიჯანი, ჯერმუკის ჩანჩქერი, ტატევი, ხნძორესკი, ნორავანკი და სევანი.
+სამი დღე სომხეთში: დილიჯანი, ჯერმუკის ჩანჩქერი, ტათევი, ხნძორესკი, ნორავანკი და სევანი.
 
 ერთ ადამიანზე480 ლარი
 
@@ -444,7 +444,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავტობუსით
 
-### [ყარსი, ანისი და ვანი — 3-დღიანი ტური თურქეთში](https://besttraveler.ge/turebi/turkey-kars-ani-van/)
+### [ყარსი, ანისი და ვანი — 3-დღიანი ტური თურქეთში](https://besttraveler.ge/turebi/turketi-karsi-anisi-vani-turi/)
 
 3 დღე / 2 ღამეთურქეთი
 
@@ -456,7 +456,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავტობუსით
 
-### [ტაო-კლარჯეთის ტური — ტბეთი, არტანუჯი, ოშკი, პარხალი](https://besttraveler.ge/turebi/turkey-tao-klarjeti/)
+### [ტაო-კლარჯეთის ტური — ტბეთი, არტანუჯი, ოშკი, პარხალი](https://besttraveler.ge/turebi/tao-klarjeti-turi/)
 
 ავტობუსითთურქეთი
 
@@ -468,7 +468,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავტობუსით
 
-### [ტრაპიზონი და სუმელას მონასტერი — 3-დღიანი ტური](https://besttraveler.ge/turebi/turkey-trabzon-sumela/)
+### [ტრაპიზონი და სუმელას მონასტერი — 3-დღიანი ტური](https://besttraveler.ge/turebi/trapizoni-sumela-turi/)
 
 3 დღეთურქეთი
 
@@ -480,7 +480,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავტობუსით
 
-### [ვანი და მარდინი — 7-დღიანი ტური აღმოსავლეთ თურქეთში](https://besttraveler.ge/turebi/turkey-van-mardin-nemrut/)
+### [ვანი და მარდინი — 7-დღიანი ტური აღმოსავლეთ თურქეთში](https://besttraveler.ge/turebi/aghmosavlet-turketi-vani-mardini-turi/)
 
 7 დღე / 6 ღამეთურქეთი
 
@@ -492,7 +492,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავტობუსით
 
-### [ერევნის ტური 3 დღე: სევანი, გარნი, გეღარდი, ეჩმიაძინი](https://besttraveler.ge/turebi/armenia-yerevan-garni-geghard-etchmiadzin/)
+### [ერევნის ტური 3 დღე: სევანი, გარნი, გეღარდი, ეჩმიაძინი](https://besttraveler.ge/turebi/erevani-garni-gheghardi-turi/)
 
 3 დღესომხეთი
 
@@ -504,7 +504,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/turebi/kakheti-ujarma-alaverdi/)
+### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/turebi/kakheti-alaverdi-ikalto-turi/)
 
 1 დღესაქართველო
 
@@ -516,7 +516,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/turebi/gareja-colorful-desert-mravaltskaro/)
+### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/turebi/peradi-udabno-davit-gareja-turi/)
 
 1 დღესაქართველო
 
@@ -528,7 +528,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/turebi/david-gareja-sabereebi/)
+### [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/turebi/davit-gareja-sabereebi-turi/)
 
 1 დღესაქართველო
 
@@ -540,7 +540,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [დილიჯანის ერთდღიანი ტური, სომხეთი: ჰაღარცინი, გოშავანკი, პარზი](https://besttraveler.ge/turebi/armenia-dilijan-day-tour/)
+### [დილიჯანის ერთდღიანი ტური, სომხეთი: ჰაღარცინი, გოშავანკი, პარზი](https://besttraveler.ge/turebi/somkheti-dilijani-ertdghiani-turi/)
 
 1 დღესომხეთი
 
@@ -552,7 +552,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [ძამას ხეობის ერთდღიანი ტური: სამწევრისი, ბატეთის ტბა, შუანო](https://besttraveler.ge/turebi/dzama-gorge-day-tour/)
+### [ძამას ხეობის ერთდღიანი ტური: სამწევრისი, ბატეთის ტბა, შუანო](https://besttraveler.ge/turebi/dzamas-kheoba-ertdghiani-turi/)
 
 1 დღესაქართველო
 
@@ -564,7 +564,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [ისტორიული ლორე, სომხეთი: ახტალა, ახპატი, სანაჰინი, ოძუნი](https://besttraveler.ge/turebi/armenia-lori-haghpat-sanahin-akhtala/)
+### [ისტორიული ლორე, სომხეთი: ახტალა, ახპატი, სანაჰინი, ოძუნი](https://besttraveler.ge/turebi/somkheti-lore-akhpati-sanahini-turi/)
 
 1 დღესომხეთი
 
@@ -576,7 +576,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/turebi/javakheti-lakes-paravani-poka/)
+### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/turebi/javakhetis-tbebi-paravani-turi/)
 
 1 დღესაქართველო
 
@@ -588,7 +588,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [კახეთის ტური: ჩაილური, გურჯაანის ყველაწმინდა, ზეგაანი, სანაგირე](https://besttraveler.ge/turebi/kakheti-gurjaani-zegaani/)
+### [კახეთის ტური: ჩაილური, გურჯაანის ყველაწმინდა, ზეგაანი, სანაგირე](https://besttraveler.ge/turebi/kakheti-gurjaani-zegaani-turi/)
 
 1 დღესაქართველო
 
@@ -600,7 +600,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი](https://besttraveler.ge/turebi/kakheti-nekresi-gremi-telavi/)
+### [კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი](https://besttraveler.ge/turebi/kakheti-nekresi-gremi-telavi-turi/)
 
 1 დღესაქართველო
 
@@ -612,7 +612,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/turebi/kakheti-sighnaghi-bodbe/)
+### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/turebi/kakheti-sighnaghi-bodbe-turi/)
 
 1 დღესაქართველო
 
@@ -624,7 +624,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/turebi/kazbegi-gveleti-gergeti-day-tour/)
+### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
 
 1 დღესაქართველო
 
@@ -636,7 +636,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [ხადას ხეობის ტური: წკერესა და როსტიანის ჩანჩქერები](https://besttraveler.ge/turebi/khada-gorge-waterfalls-day-tour/)
+### [ხადას ხეობის ტური: წკერესა და როსტიანის ჩანჩქერები](https://besttraveler.ge/turebi/khadas-kheoba-chanchkerebi-turi/)
 
 1 დღესაქართველო
 
@@ -648,7 +648,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/turebi/kojori-manglisi-day-tour/)
+### [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/turebi/kojori-manglisi-ertdghiani-turi/)
 
 1 დღესაქართველო
 
@@ -660,7 +660,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [ქვემო ქართლის ერთდღიანი ტური: წერაქვი, გაგის ციხე, თამარისის ტბები](https://besttraveler.ge/turebi/kvemo-kartli-tserakvi-gagi-tamarisi/)
+### [ქვემო ქართლის ერთდღიანი ტური: წერაქვი, გაგის ციხე, თამარისის ტბები](https://besttraveler.ge/turebi/kvemo-kartli-ertdghiani-turi/)
 
 1 დღესაქართველო
 
@@ -672,7 +672,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [ლაგოდეხის ნაკრძალი: ნინოს ხევის (გურგენიანის) ჩანჩქერი](https://besttraveler.ge/turebi/lagodekhi-ninoskhevi-waterfall/)
+### [ლაგოდეხის ნაკრძალი: ნინოს ხევის (გურგენიანის) ჩანჩქერი](https://besttraveler.ge/turebi/lagodekhi-ninos-khevis-chanchkeri/)
 
 1 დღესაქართველო
 
@@ -684,7 +684,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/turebi/samtskhe-javakheti-zarzma-akhaltsikhe-sapara/)
+### [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/)
 
 1 დღესაქართველო
 
@@ -696,7 +696,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [ტაბაწყურის ტბის ტური: ცხრაწყაროს უღელტეხილი, ტიმოთესუბანი](https://besttraveler.ge/turebi/tabatskuri-lake-day-tour/)
+### [ტაბაწყურის ტბის ტური: ცხრაწყაროს უღელტეხილი, ტიმოთესუბანი](https://besttraveler.ge/turebi/tabatskuris-tba-turi/)
 
 1 დღესაქართველო
 
@@ -708,7 +708,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [თიანეთის ერთდღიანი ტური: მამკოდა, ცხვარიჭამია, ერწო, სიონის ტბა](https://besttraveler.ge/turebi/tianeti-day-tour/)
+### [თიანეთის ერთდღიანი ტური: მამკოდა, ცხვარიჭამია, ერწო, სიონის ტბა](https://besttraveler.ge/turebi/tianeti-ertdghiani-turi/)
 
 1 დღესაქართველო
 
@@ -720,7 +720,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ერთდღიანი
 
-### [თრუსოს ხეობის ტური: ტრავერტინები, უძირო ტბა, ზაქაგორი](https://besttraveler.ge/turebi/truso-gorge-day-tour/)
+### [თრუსოს ხეობის ტური: ტრავერტინები, უძირო ტბა, ზაქაგორი](https://besttraveler.ge/turebi/trusos-kheoba-ertdghiani-turi/)
 
 1 დღესაქართველო
 
@@ -731,3 +731,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 ტურის ნახვა 
 
 ვერაფერი მოიძებნა
+
+## ტურები თვეების მიხედვით
+
+[ნოემბერში 2026 8](https://besttraveler.ge/turebi/noemberi-2026/)[დეკემბერში 2026 5](https://besttraveler.ge/turebi/dekemberi-2026/)[იანვარში 2027 4](https://besttraveler.ge/turebi/ianvari-2027/)[საახალწლო ტურები 2027 7](https://besttraveler.ge/turebi/saakhaltslo-turebi-2027/)

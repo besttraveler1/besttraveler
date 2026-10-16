@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ru/napravleniya/egipet/
 
 Авиатур
 
-### [Хургада, Луксор, Порт-Саид и Суэцкий канал — 7 дней](https://besttraveler.ge/ru/tury/egypt-hurghada-luxor-port-said-suez-canal/)
+### [Хургада, Луксор, Порт-Саид и Суэцкий канал — 7 дней](https://besttraveler.ge/ru/tury/egipet-khurgada-luksor-suetskiy-kanal/)
 
 7 дней / 6 ночей9–15 ноября 2026
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/napravleniya/egipet/
 
 Авиатур
 
-### [Тур в Египет: Каир и Александрия, 5 дней](https://besttraveler.ge/ru/tury/egypt-cairo-alexandria/)
+### [Тур в Египет: Каир и Александрия, 5 дней](https://besttraveler.ge/ru/tury/egipet-kair-aleksandriya-tur/)
 
 5 дней / 4 ночи26–30 ноября 2026
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/ru/napravleniya/egipet/
 
 Авиатур
 
-### [Круиз по озеру Насер, Каир и Луксор — групповой тур](https://besttraveler.ge/ru/tury/egypt-lake-nasser-cruise-cairo-luxor/)
+### [Круиз по озеру Насер, Каир и Луксор — групповой тур](https://besttraveler.ge/ru/tury/egipet-kruiz-po-ozeru-naser/)
 
 11 дней14–24 декабря 2026
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/ru/napravleniya/egipet/
 
 Авиатур
 
-### [Египет и Иордания: Шарм-эль-Шейх и Петра, 8 дней](https://besttraveler.ge/ru/tury/egypt-jordan-sharm-el-sheikh-petra/)
+### [Египет и Иордания: Шарм-эль-Шейх и Петра, 8 дней](https://besttraveler.ge/ru/tury/egipet-iordaniya-sharm-el-sheykh-petra/)
 
 8 днейЕгипет, Иордания
 
@@ -62,7 +62,7 @@ URL: https://besttraveler.ge/ru/napravleniya/egipet/
 
 Авиатур
 
-### [Круиз по Нилу: Каир, Луксор, Асуан, Абу-Симбел и Александрия](https://besttraveler.ge/ru/tury/egypt-nile-cruise-cairo-luxor-aswan-alexandria/)
+### [Круиз по Нилу: Каир, Луксор, Асуан, Абу-Симбел и Александрия](https://besttraveler.ge/ru/tury/kruiz-po-nilu-kair-luksor-aleksandriya/)
 
 9 днейЕгипет
 
@@ -74,7 +74,7 @@ URL: https://besttraveler.ge/ru/napravleniya/egipet/
 
 Авиатур
 
-### [Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна](https://besttraveler.ge/ru/tury/egypt-nile-cruise-luxor-aswan-hurghada/)
+### [Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
 
 8 днейЕгипет
 

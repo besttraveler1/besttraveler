@@ -14,7 +14,7 @@ Tours to Turkey: Istanbul, Cappadocia, historic Tao-Klarjeti, Trabzon, Kars, Van
 
 By bus
 
-### [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/turkey-cappadocia-amasya-bus/)
+### [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/)
 
 6 days2–7 Nov 2026
 
@@ -26,7 +26,7 @@ View tour
 
 By plane
 
-### [Istanbul: 7-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/turkey-istanbul-7-days/)
+### [Istanbul: 7-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
 
 7 daysTurkey
 
@@ -38,7 +38,7 @@ View tour
 
 By bus
 
-### [Kars, Ani and Van: 3-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-kars-ani-van/)
+### [Kars, Ani and Van: 3-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/)
 
 3 days / 2 nightsTurkey
 
@@ -50,7 +50,7 @@ View tour
 
 By bus
 
-### [Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana](https://besttraveler.ge/en/tours/turkey-tao-klarjeti/)
+### [Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana](https://besttraveler.ge/en/tours/tao-klarjeti-tour-turkey/)
 
 By busTurkey
 
@@ -62,7 +62,7 @@ View tour
 
 By bus
 
-### [Trabzon and Sumela Monastery: 3-Day Tour](https://besttraveler.ge/en/tours/turkey-trabzon-sumela/)
+### [Trabzon and Sumela Monastery: 3-Day Tour](https://besttraveler.ge/en/tours/trabzon-sumela-monastery-tour/)
 
 3 daysTurkey
 
@@ -74,7 +74,7 @@ View tour
 
 By bus
 
-### [Van and Mardin: 7-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-van-mardin-nemrut/)
+### [Van and Mardin: 7-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/eastern-turkey-van-mardin-nemrut-tour/)
 
 7 days / 6 nightsTurkey
 

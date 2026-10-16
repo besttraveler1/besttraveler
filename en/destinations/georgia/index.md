@@ -14,7 +14,7 @@ One-day tours from Tbilisi by minibus: Kakheti, Kazbegi, Truso, David Gareja, Ja
 
 Day tour
 
-### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-ujarma-alaverdi/)
+### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
 
 1 dayGeorgia
 
@@ -26,7 +26,7 @@ View tour
 
 Day tour
 
-### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/gareja-colorful-desert-mravaltskaro/)
+### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 
 1 dayGeorgia
 
@@ -38,7 +38,7 @@ View tour
 
 Day tour
 
-### [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi/)
+### [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 
 1 dayGeorgia
 
@@ -50,7 +50,7 @@ View tour
 
 Day tour
 
-### [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano](https://besttraveler.ge/en/tours/dzama-gorge-day-tour/)
+### [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
 
 1 dayGeorgia
 
@@ -62,7 +62,7 @@ View tour
 
 Day tour
 
-### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-poka/)
+### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
 1 dayGeorgia
 
@@ -74,7 +74,7 @@ View tour
 
 Day tour
 
-### [Kakheti Day Tour: Chailuri, Gurjaani Kvelatsminda, Zegaani, Sanagire](https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani/)
+### [Kakheti Day Tour: Chailuri, Gurjaani Kvelatsminda, Zegaani, Sanagire](https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani-day-trip/)
 
 1 dayGeorgia
 
@@ -86,7 +86,7 @@ View tour
 
 Day tour
 
-### [Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi/)
+### [Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/)
 
 1 dayGeorgia
 
@@ -98,7 +98,7 @@ View tour
 
 Day tour
 
-### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/kakheti-sighnaghi-bodbe/)
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
 1 dayGeorgia
 
@@ -110,7 +110,7 @@ View tour
 
 Day tour
 
-### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gveleti-gergeti-day-tour/)
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
 1 dayGeorgia
 
@@ -122,7 +122,7 @@ View tour
 
 Day tour
 
-### [Khada Gorge Day Tour: Tskere and Rostiani Waterfalls](https://besttraveler.ge/en/tours/khada-gorge-waterfalls-day-tour/)
+### [Khada Gorge Day Tour: Tskere and Rostiani Waterfalls](https://besttraveler.ge/en/tours/khada-gorge-waterfalls-day-trip/)
 
 1 dayGeorgia
 
@@ -134,7 +134,7 @@ View tour
 
 Day tour
 
-### [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-tour/)
+### [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
 
 1 dayGeorgia
 
@@ -146,7 +146,7 @@ View tour
 
 Day tour
 
-### [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-tserakvi-gagi-tamarisi/)
+### [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
 
 1 dayGeorgia
 
@@ -158,7 +158,7 @@ View tour
 
 Day tour
 
-### [Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall/)
+### [Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/)
 
 1 dayGeorgia
 
@@ -170,7 +170,7 @@ View tour
 
 Day tour
 
-### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-zarzma-akhaltsikhe-sapara/)
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
 
 1 dayGeorgia
 
@@ -182,7 +182,7 @@ View tour
 
 Day tour
 
-### [Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani](https://besttraveler.ge/en/tours/tabatskuri-lake-day-tour/)
+### [Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani](https://besttraveler.ge/en/tours/tabatskuri-lake-tour/)
 
 1 dayGeorgia
 
@@ -194,7 +194,7 @@ View tour
 
 Day tour
 
-### [Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake](https://besttraveler.ge/en/tours/tianeti-day-tour/)
+### [Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake](https://besttraveler.ge/en/tours/tianeti-day-trip/)
 
 1 dayGeorgia
 
@@ -206,7 +206,7 @@ View tour
 
 Day tour
 
-### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-tour/)
+### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
 
 1 dayGeorgia
 

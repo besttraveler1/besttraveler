@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/mimartulebebi/turketi/
 
 ავტობუსით
 
-### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/turebi/turkey-cappadocia-amasya-bus/)
+### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
 
 6 დღე2–7 ნოემბერი 2026
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/mimartulebebi/turketi/
 
 ავიატური
 
-### [სტამბოლი — 7-დღიანი ტური თბილისიდან ან ბათუმიდან](https://besttraveler.ge/turebi/turkey-istanbul-7-days/)
+### [სტამბოლი — 7-დღიანი ტური თბილისიდან ან ბათუმიდან](https://besttraveler.ge/turebi/stamboli-turi-tbilisidan/)
 
 7 დღეთურქეთი
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/mimartulebebi/turketi/
 
 ავტობუსით
 
-### [ყარსი, ანისი და ვანი — 3-დღიანი ტური თურქეთში](https://besttraveler.ge/turebi/turkey-kars-ani-van/)
+### [ყარსი, ანისი და ვანი — 3-დღიანი ტური თურქეთში](https://besttraveler.ge/turebi/turketi-karsi-anisi-vani-turi/)
 
 3 დღე / 2 ღამეთურქეთი
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/mimartulebebi/turketi/
 
 ავტობუსით
 
-### [ტაო-კლარჯეთის ტური — ტბეთი, არტანუჯი, ოშკი, პარხალი](https://besttraveler.ge/turebi/turkey-tao-klarjeti/)
+### [ტაო-კლარჯეთის ტური — ტბეთი, არტანუჯი, ოშკი, პარხალი](https://besttraveler.ge/turebi/tao-klarjeti-turi/)
 
 ავტობუსითთურქეთი
 
@@ -62,7 +62,7 @@ URL: https://besttraveler.ge/mimartulebebi/turketi/
 
 ავტობუსით
 
-### [ტრაპიზონი და სუმელას მონასტერი — 3-დღიანი ტური](https://besttraveler.ge/turebi/turkey-trabzon-sumela/)
+### [ტრაპიზონი და სუმელას მონასტერი — 3-დღიანი ტური](https://besttraveler.ge/turebi/trapizoni-sumela-turi/)
 
 3 დღეთურქეთი
 
@@ -74,7 +74,7 @@ URL: https://besttraveler.ge/mimartulebebi/turketi/
 
 ავტობუსით
 
-### [ვანი და მარდინი — 7-დღიანი ტური აღმოსავლეთ თურქეთში](https://besttraveler.ge/turebi/turkey-van-mardin-nemrut/)
+### [ვანი და მარდინი — 7-დღიანი ტური აღმოსავლეთ თურქეთში](https://besttraveler.ge/turebi/aghmosavlet-turketi-vani-mardini-turi/)
 
 7 დღე / 6 ღამეთურქეთი
 

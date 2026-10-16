@@ -89,7 +89,7 @@ Dress in layers and bring a rain jacket and comfortable shoes. In winter, wear s
 
 Day tour
 
-### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gveleti-gergeti-day-tour/)
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
 1 dayGeorgia
 
@@ -101,7 +101,7 @@ View tour
 
 Day tour
 
-### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-tour/)
+### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
 
 1 dayGeorgia
 
@@ -115,30 +115,30 @@ View tour
 
 Guides
 
-### [Best Day Trips from Tbilisi: Where to Go and Who Each Suits](https://besttraveler.ge/en/blog/best-day-trips-from-tbilisi/)
+### [Truso Valley Day Trip from Tbilisi: Travertines, Ketrisi, Zakagori](https://besttraveler.ge/en/blog/truso-valley-day-trip/)
 
-16 Oct 20263 min read
+17 Oct 20263 min read
 
-Our one-day routes from Tbilisi, sorted by how much walking they involve and the best season for each.
-
-Read 
-
-Guides
-
-### [Cappadocia: Best Time to Visit and Hot-Air Balloon Flights](https://besttraveler.ge/en/blog/cappadocia-best-time-hot-air-balloons/)
-
-16 Oct 20262 min read
-
-Best season for Cappadocia, how the balloon flights work, weather cancellations and what to wear.
+What you see in the Truso valley, how far you walk and how to get ready for a day in the mountains.
 
 Read 
 
 Guides
 
-### [Keukenhof 2027: When the Tulip Park in the Netherlands Is Open](https://besttraveler.ge/en/blog/keukenhof-2027-tulip-season-netherlands/)
+### [David Gareja and the Colourful Mountains: What to See and Bring](https://besttraveler.ge/en/blog/david-gareja-colorful-mountains/)
 
-16 Oct 20262 min read
+17 Oct 20263 min read
 
-Keukenhof 2027 dates, opening hours, tickets and how to plan around the tulip season.
+What you see at David Gareja and the colourful mountains, how much walking there is and how to handle the desert heat.
+
+Read 
+
+Guides
+
+### [Kakheti Day Trips from Tbilisi: Four Routes and Who Each Suits](https://besttraveler.ge/en/blog/kakheti-day-trips-from-tbilisi/)
+
+17 Oct 20264 min read
+
+Our four Kakheti day routes from Tbilisi: what each one covers and how to choose.
 
 Read

@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/mimartulebebi/shri-lanka/
 
 ავიატური
 
-### [შრი-ლანკა: სიგირია, კანდი, ელა, მირისა და კოლომბო](https://besttraveler.ge/turebi/sri-lanka-kandy-ella-mirissa/)
+### [შრი-ლანკა: სიგირია, კანდი, ელა, მირისა და კოლომბო](https://besttraveler.ge/turebi/shri-lanka-kandi-ela-mirisa-turi/)
 
 8 დღე / 6 ღამე9–16 იანვარი 2027
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/mimartulebebi/shri-lanka/
 
 ავიატური
 
-### [შრი-ლანკა და მალდივები — ჯგუფური ტური](https://besttraveler.ge/turebi/sri-lanka-maldives/)
+### [შრი-ლანკა და მალდივები — ჯგუფური ტური](https://besttraveler.ge/turebi/shri-lanka-maldivebi-jgupuri-turi/)
 
 11 დღე9–19 იანვარი 2027
 

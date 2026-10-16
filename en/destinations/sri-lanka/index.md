@@ -14,7 +14,7 @@ Group tours to Sri Lanka: Sigiriya, Kandy, tea plantations, the train to Ella, a
 
 By plane
 
-### [Sri Lanka Tour: Sigiriya, Kandy, Ella, Mirissa and Colombo](https://besttraveler.ge/en/tours/sri-lanka-kandy-ella-mirissa/)
+### [Sri Lanka Tour: Sigiriya, Kandy, Ella, Mirissa and Colombo](https://besttraveler.ge/en/tours/sri-lanka-kandy-ella-mirissa-tour/)
 
 8 days / 6 nights9–16 Jan 2027
 
@@ -26,7 +26,7 @@ View tour
 
 By plane
 
-### [Sri Lanka and Maldives Group Tour](https://besttraveler.ge/en/tours/sri-lanka-maldives/)
+### [Sri Lanka and Maldives Group Tour](https://besttraveler.ge/en/tours/sri-lanka-maldives-group-tour/)
 
 11 days9–19 Jan 2027
 

@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/mimartulebebi/saprangeti/
 
 ავიატური
 
-### [საფრანგეთი: ელზასი და პარიზი — ჯგუფური ტური ქუთაისიდან](https://besttraveler.ge/turebi/france-alsace-strasbourg-colmar-paris/)
+### [საფრანგეთი: ელზასი და პარიზი — ჯგუფური ტური ქუთაისიდან](https://besttraveler.ge/turebi/saprangeti-elzasi-parizi-turi/)
 
 8 დღე / 7 ღამე19–26 ნოემბერი 2026
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/mimartulebebi/saprangeti/
 
 ავიატური
 
-### [5 ქვეყანა ერთ ტურში მანქანით: საფრანგეთი, შვეიცარია, გერმანია, ავსტრია, ლიხტენშტაინი](https://besttraveler.ge/turebi/five-countries-alps-switzerland-france-germany/)
+### [5 ქვეყანა ერთ ტურში მანქანით: საფრანგეთი, შვეიცარია, გერმანია, ავსტრია, ლიხტენშტაინი](https://besttraveler.ge/turebi/alpebi-shveitsaria-5-kveqana-turi/)
 
 8 დღე / 7 ღამეშვეიცარია, საფრანგეთი, გერმანია, ავსტრია, ლიხტენშტაინი
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/mimartulebebi/saprangeti/
 
 ავიატური
 
-### [საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო](https://besttraveler.ge/turebi/france-italy-monaco-provence-riviera/)
+### [საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო](https://besttraveler.ge/turebi/provansi-monako-lazhvardovani-sanapiro/)
 
 8 დღესაფრანგეთი, იტალია, მონაკო
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/mimartulebebi/saprangeti/
 
 ავიატური
 
-### [პარიზი, საფრანგეთი — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/france-paris/)
+### [პარიზი, საფრანგეთი — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/parizi-saprangeti-jgupuri-turi/)
 
 5 დღესაფრანგეთი
 
@@ -62,7 +62,7 @@ URL: https://besttraveler.ge/mimartulebebi/saprangeti/
 
 ავიატური
 
-### [ესპანეთი, საფრანგეთი, ანდორა — 10-დღიანი ტური ბარსელონიდან](https://besttraveler.ge/turebi/spain-france-andorra-barcelona/)
+### [ესპანეთი, საფრანგეთი, ანდორა — 10-დღიანი ტური ბარსელონიდან](https://besttraveler.ge/turebi/espaneti-saprangeti-andora-turi/)
 
 10 დღეესპანეთი, საფრანგეთი, ანდორა
 
