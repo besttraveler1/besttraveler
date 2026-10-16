@@ -151,7 +151,7 @@ main{display:block}
 .hflag{display:inline-block;width:1em;height:.75em;border-radius:.12em;vertical-align:-.02em;margin-right:.3em;object-fit:cover;box-shadow:0 0 0 1px rgb(0 0 0 / .08)}
 
 /* page head */
-.phead{padding:16px 0 28px}
+.phead{padding-top:16px;padding-bottom:28px}
 .phead h1{font-size:clamp(28px,5vw,46px);margin-bottom:12px}
 .crumbs{font-size:12.5px;line-height:1.4;color:var(--muted);margin-bottom:10px}
 .crumbs ol{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:2px 6px}
@@ -383,7 +383,7 @@ html[lang=ka] .ftr h2{text-transform:none;letter-spacing:0;font-size:15px}
 @media (max-width:899px){body{padding-bottom:74px}}
 
 /* 404 */
-.nf{text-align:center;padding:72px 0}
+.nf{text-align:center;padding-top:72px;padding-bottom:72px}
 .nf .code{font-size:80px;font-weight:700;color:var(--brand-text);line-height:1}
 
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
