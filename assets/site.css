@@ -561,3 +561,10 @@ html[lang=ka] .combo-g{text-transform:none;letter-spacing:0}
   .hlt-world .page-lt{width:340px}
 }
 @media (min-width:1000px){.hlt-panda .page-lt,.hlt-contact .page-lt{height:150px;width:220px}}
+
+/* articles: one centred reading column */
+.post{margin-left:auto;margin-right:auto}
+.post-head{max-width:828px}
+.post-head .hlt{grid-template-columns:minmax(0,1fr) 180px}
+.post-head .page-lt{height:150px;width:180px}
+.post .prose,.post .faq{max-width:none}
