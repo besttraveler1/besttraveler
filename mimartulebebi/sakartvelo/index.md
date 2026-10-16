@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [დავითგარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/turebi/david-gareja-sabereebi/)
+### [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/turebi/david-gareja-sabereebi/)
 
 1 დღესაქართველო
 
@@ -66,7 +66,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 1 დღესაქართველო
 
-ფარავნის და საღამოს ტბები, ფოკას მონასტრები, გორელოვკა და მადათაფას აღკვეთილი.
+ფარავნისა და საღამოს ტბები, ფოკას მონასტრები, გორელოვკა და მადათაფას აღკვეთილი.
 
 ერთ ადამიანზე60 ლარი
 
@@ -98,7 +98,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [კახეთი-სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/turebi/kakheti-sighnaghi-bodbe/)
+### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/turebi/kakheti-sighnaghi-bodbe/)
 
 1 დღესაქართველო
 
@@ -134,7 +134,7 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 ერთდღიანი
 
-### [კოჯორი-მანგლისის ერთდღიანი ტური](https://besttraveler.ge/turebi/kojori-manglisi-day-tour/)
+### [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/turebi/kojori-manglisi-day-tour/)
 
 1 დღესაქართველო
 
@@ -224,9 +224,9 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 **როგორ დავჯავშნო ტური?**
 
-დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე ნომერზე 579 57 56 36. დაგიდასტურებთ თავისუფალ ადგილს და ფასს, შემდეგ ადგილს ავანსით აჯავშნით. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
+დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე: 579 57 56 36. დაგიდასტურებთ თავისუფალ ადგილსა და ფასს, შემდეგ ადგილს ავანსით აჯავშნით. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
 
-**როგორ ვიხდი?**
+**როგორ გადავიხადო?**
 
 გადახდა ხდება საბანკო გადარიცხვით — საქართველოს ბანკის ან თიბისი ბანკის ანგარიშზე. ანგარიშის ნომერს ჯავშნისას გიგზავნით.
 

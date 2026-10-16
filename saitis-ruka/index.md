@@ -12,7 +12,7 @@ URL: https://besttraveler.ge/saitis-ruka/
 - [ყველა ტური](https://besttraveler.ge/turebi/)
 - [მიმართულებები](https://besttraveler.ge/mimartulebebi/)
 - [ბლოგი](https://besttraveler.ge/blogi/)
-- [ჩვენ შესახებ](https://besttraveler.ge/chven-shesakheb/)
+- [ჩვენს შესახებ](https://besttraveler.ge/chven-shesakheb/)
 - [ჯავშნის პირობები](https://besttraveler.ge/javshnis-pirobebi/)
 - [ხშირად დასმული კითხვები](https://besttraveler.ge/kitkhvebi/)
 - [კონტაქტი](https://besttraveler.ge/kontaqti/)
@@ -49,7 +49,7 @@ URL: https://besttraveler.ge/saitis-ruka/
 - [5 ქვეყანა ერთ ტურში მანქანით: საფრანგეთი, შვეიცარია, გერმანია, ავსტრია, ლიხტენშტაინი](https://besttraveler.ge/turebi/five-countries-alps-switzerland-france-germany/)
 - [ბელგია და ნიდერლანდები — 8-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/belgium-netherlands-brussels-amsterdam/)
 - [ბრატისლავა, სლოვაკეთი — ტური ვენაში ექსკურსიით](https://besttraveler.ge/turebi/bratislava-slovakia-vienna/)
-- [ჩინეთის ჯგუფური ტური: პეკინი, ჟანჯიაჯიე, ლეშანი, ჰონგ-კონგი](https://besttraveler.ge/turebi/china-beijing-zhangjiajie-hong-kong/)
+- [ჩინეთის ჯგუფური ტური: პეკინი, ჟანჯიაჯიე, ლეშანი, ჰონკონგი](https://besttraveler.ge/turebi/china-beijing-zhangjiajie-hong-kong/)
 - [ეგვიპტე და იორდანია: შარმ-ელ-შეიხი და პეტრა, 8 დღე](https://besttraveler.ge/turebi/egypt-jordan-sharm-el-sheikh-petra/)
 - [საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო](https://besttraveler.ge/turebi/france-italy-monaco-provence-riviera/)
 - [საბერძნეთი: სალონიკი, მეტეორა და ათენი — 8-დღიანი ტური](https://besttraveler.ge/turebi/greece-thessaloniki-meteora-athens/)
@@ -68,9 +68,9 @@ URL: https://besttraveler.ge/saitis-ruka/
 - [ვენეცია და პადუა — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/turebi/italy-venice-padua/)
 - [ვილნიუსი, ლიტვა — 5-დღიანი ტური ქუთაისიდან](https://besttraveler.ge/turebi/vilnius-lithuania-trakai/)
 
-## ავტობუსით მრავალდღიანი
+## მრავალდღიანი ტურები ავტობუსით
 
-- [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსით ტური](https://besttraveler.ge/turebi/turkey-cappadocia-amasya-bus/)
+- [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/turebi/turkey-cappadocia-amasya-bus/)
 - [სომხეთი 3 დღე: დილიჯანი, ჯერმუკი, ტატევი, ნორავანკი, სევანი](https://besttraveler.ge/turebi/armenia-dilijan-jermuk-tatev-noravank/)
 - [ყარსი, ანისი და ვანი — 3-დღიანი ტური თურქეთში](https://besttraveler.ge/turebi/turkey-kars-ani-van/)
 - [ტაო-კლარჯეთის ტური — ტბეთი, არტანუჯი, ოშკი, პარხალი](https://besttraveler.ge/turebi/turkey-tao-klarjeti/)
@@ -82,17 +82,17 @@ URL: https://besttraveler.ge/saitis-ruka/
 
 - [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/turebi/kakheti-ujarma-alaverdi/)
 - [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/turebi/gareja-colorful-desert-mravaltskaro/)
-- [დავითგარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/turebi/david-gareja-sabereebi/)
+- [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/turebi/david-gareja-sabereebi/)
 - [დილიჯანის ერთდღიანი ტური, სომხეთი: ჰაღარცინი, გოშავანკი, პარზი](https://besttraveler.ge/turebi/armenia-dilijan-day-tour/)
 - [ძამას ხეობის ერთდღიანი ტური: სამწევრისი, ბატეთის ტბა, შუანო](https://besttraveler.ge/turebi/dzama-gorge-day-tour/)
 - [ისტორიული ლორე, სომხეთი: ახტალა, ახპატი, სანაჰინი, ოძუნი](https://besttraveler.ge/turebi/armenia-lori-haghpat-sanahin-akhtala/)
 - [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/turebi/javakheti-lakes-paravani-poka/)
 - [კახეთის ტური: ჩაილური, გურჯაანის ყველაწმინდა, ზეგაანი, სანაგირე](https://besttraveler.ge/turebi/kakheti-gurjaani-zegaani/)
 - [კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი](https://besttraveler.ge/turebi/kakheti-nekresi-gremi-telavi/)
-- [კახეთი-სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/turebi/kakheti-sighnaghi-bodbe/)
+- [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/turebi/kakheti-sighnaghi-bodbe/)
 - [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/turebi/kazbegi-gveleti-gergeti-day-tour/)
 - [ხადას ხეობის ტური: წკერესა და როსტიანის ჩანჩქერები](https://besttraveler.ge/turebi/khada-gorge-waterfalls-day-tour/)
-- [კოჯორი-მანგლისის ერთდღიანი ტური](https://besttraveler.ge/turebi/kojori-manglisi-day-tour/)
+- [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/turebi/kojori-manglisi-day-tour/)
 - [ქვემო ქართლის ერთდღიანი ტური: წერაქვი, გაგის ციხე, თამარისის ტბები](https://besttraveler.ge/turebi/kvemo-kartli-tserakvi-gagi-tamarisi/)
 - [ლაგოდეხის ნაკრძალი: ნინოს ხევის (გურგენიანის) ჩანჩქერი](https://besttraveler.ge/turebi/lagodekhi-ninoskhevi-waterfall/)
 - [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/turebi/samtskhe-javakheti-zarzma-akhaltsikhe-sapara/)
@@ -103,9 +103,9 @@ URL: https://besttraveler.ge/saitis-ruka/
 ## ბლოგი
 
 - [ყაზბეგი ერთ დღეში თბილისიდან: მარშრუტი, გზა და რა ჩავიცვათ](https://besttraveler.ge/blogi/kazbegi-day-trip-from-tbilisi/)
-- [საუკეთესო ერთდღიანი ტურები თბილისიდან: სად წავიდეთ და ვის რა უხდება](https://besttraveler.ge/blogi/best-day-trips-from-tbilisi/)
+- [საუკეთესო ერთდღიანი ტურები თბილისიდან: სად წავიდეთ და ვის რომელი შეეფერება](https://besttraveler.ge/blogi/best-day-trips-from-tbilisi/)
 - [კაპადოკია: როდის წავიდეთ და როგორ ავფრინდეთ საჰაერო ბურთით](https://besttraveler.ge/blogi/cappadocia-best-time-hot-air-balloons/)
-- [კეუკენჰოფი 2027: როდის ღიაა ტიტების პარკი ნიდერლანდებში](https://besttraveler.ge/blogi/keukenhof-2027-tulip-season-netherlands/)
+- [კეუკენჰოფი 2027: როდის იქნება ღია ტიტების პარკი ნიდერლანდებში](https://besttraveler.ge/blogi/keukenhof-2027-tulip-season-netherlands/)
 - [ჯგუფური ტური საზღვარგარეთ: დოკუმენტები და ბარგის სია](https://besttraveler.ge/blogi/group-tour-checklist-documents-packing/)
 - [ეგვიპტის ვიზა საქართველოს მოქალაქეებისთვის — 2026](https://besttraveler.ge/blogi/egypt-visa-for-georgian-citizens/)
 - [თურქეთში პირადობის მოწმობით: რა უნდა იცოდეს საქართველოს მოქალაქემ](https://besttraveler.ge/blogi/turkey-entry-with-id-card-for-georgian-citizens/)

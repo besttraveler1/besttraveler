@@ -27,5 +27,5 @@ URL: https://besttraveler.ge/mimartulebebi/
 - მალტა — [მალტა რომის გავლით — 8-დღიანი ტური](https://besttraveler.ge/turebi/malta-valletta-via-rome/)
 - მაროკო — [მაროკოს ჯგუფური ტური რომის გავლით — 13–22 ნოემბერი](https://besttraveler.ge/turebi/morocco-marrakesh-fes-rome/)
 - ინდოეთი — [ინდოეთი: რაჯასთანის ჯგუფური ტური — დელი, ჯაისალმერი, უდაიპური](https://besttraveler.ge/turebi/india-rajasthan-delhi-udaipur/)
-- ჩინეთი — [ჩინეთის ჯგუფური ტური: პეკინი, ჟანჯიაჯიე, ლეშანი, ჰონგ-კონგი](https://besttraveler.ge/turebi/china-beijing-zhangjiajie-hong-kong/)
+- ჩინეთი — [ჩინეთის ჯგუფური ტური: პეკინი, ჟანჯიაჯიე, ლეშანი, ჰონკონგი](https://besttraveler.ge/turebi/china-beijing-zhangjiajie-hong-kong/)
 - მალდივები — [შრი-ლანკა და მალდივები — ჯგუფური ტური](https://besttraveler.ge/turebi/sri-lanka-maldives/)
