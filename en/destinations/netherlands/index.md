@@ -10,8 +10,6 @@ Group tours to the Netherlands and Belgium: Amsterdam, Giethoorn, windmills, Keu
 
 2 tours
 
-Photo: [DimiTalen](https://commons.wikimedia.org/w/index.php?curid=135598785), CC0
-
 ## Tours to the Netherlands
 
 By plane

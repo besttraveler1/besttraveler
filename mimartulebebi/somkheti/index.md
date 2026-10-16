@@ -10,8 +10,6 @@ URL: https://besttraveler.ge/mimartulebebi/somkheti/
 
 4 ტური
 
-ფოტო: [Marion&Christoph Aistleitner](https://commons.wikimedia.org/w/index.php?curid=44367539), CC0
-
 ## ტურები სომხეთში
 
 ავტობუსით

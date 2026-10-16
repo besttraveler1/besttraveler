@@ -10,8 +10,6 @@ URL: https://besttraveler.ge/ru/napravleniya/gruziya/
 
 17 туров
 
-Фото: [Maesi64](https://commons.wikimedia.org/w/index.php?curid=51777900), CC0
-
 ## Однодневные туры по Грузии
 
 Однодневный

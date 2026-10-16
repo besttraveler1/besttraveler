@@ -10,8 +10,6 @@ URL: https://besttraveler.ge/mimartulebebi/shri-lanka/
 
 2 ტური
 
-ფოტო: [Xandrium](https://commons.wikimedia.org/w/index.php?curid=142180535), CC0
-
 ## ტურები შრი-ლანკაზე
 
 ავიატური

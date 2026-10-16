@@ -10,8 +10,6 @@ Tours to Turkey: Istanbul, Cappadocia, historic Tao-Klarjeti, Trabzon, Kars, Van
 
 6 tours
 
-Photo: [LoggaWiggler](https://commons.wikimedia.org/w/index.php?curid=94436673), CC0
-
 ## Tours to Turkey
 
 By bus

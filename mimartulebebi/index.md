@@ -8,7 +8,7 @@ URL: https://besttraveler.ge/mimartulebebi/
 
 ქვეყნები, სადაც besttraveler ტურებს აწყობს: ეგვიპტე, იტალია, ესპანეთი, საფრანგეთი, თურქეთი, სომხეთი, საბერძნეთი და სხვა.
 
-[ეგვიპტე 6 ტური](https://besttraveler.ge/mimartulebebi/egvipte/)[იტალია 10 ტური](https://besttraveler.ge/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/mimartulebebi/espaneti/)[საფრანგეთი 5 ტური](https://besttraveler.ge/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/mimartulebebi/shri-lanka/)[საქართველო 17 ტური](https://besttraveler.ge/mimartulebebi/sakartvelo/)
+[ეგვიპტე 6 ტური](https://besttraveler.ge/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/mimartulebebi/espaneti/)[საფრანგეთი 5 ტური](https://besttraveler.ge/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/mimartulebebi/shri-lanka/)[საქართველო 17 ტური](https://besttraveler.ge/mimartulebebi/sakartvelo/)
 
 ## ქვეყნები
 

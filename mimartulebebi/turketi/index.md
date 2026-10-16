@@ -10,8 +10,6 @@ URL: https://besttraveler.ge/mimartulebebi/turketi/
 
 6 ტური
 
-ფოტო: [LoggaWiggler](https://commons.wikimedia.org/w/index.php?curid=94436673), CC0
-
 ## ტურები თურქეთში
 
 ავტობუსით

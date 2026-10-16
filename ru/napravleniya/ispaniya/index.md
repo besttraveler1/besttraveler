@@ -10,8 +10,6 @@ URL: https://besttraveler.ge/ru/napravleniya/ispaniya/
 
 4 туров
 
-Фото: [Jebulon](https://commons.wikimedia.org/w/index.php?curid=52005558), CC0
-
 ## Туры в Испанию
 
 Авиатур

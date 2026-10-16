@@ -10,8 +10,6 @@ URL: https://besttraveler.ge/mimartulebebi/sakartvelo/
 
 17 ტური
 
-ფოტო: [Maesi64](https://commons.wikimedia.org/w/index.php?curid=51777900), CC0
-
 ## ერთდღიანი ტურები საქართველოში
 
 ერთდღიანი

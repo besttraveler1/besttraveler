@@ -10,8 +10,6 @@ URL: https://besttraveler.ge/mimartulebebi/saberdzneti/
 
 2 ტური
 
-ფოტო: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147606246), CC0
-
 ## ტურები საბერძნეთში
 
 ავიატური

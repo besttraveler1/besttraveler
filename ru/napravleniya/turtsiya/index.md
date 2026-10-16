@@ -10,8 +10,6 @@ URL: https://besttraveler.ge/ru/napravleniya/turtsiya/
 
 6 туров
 
-Фото: [LoggaWiggler](https://commons.wikimedia.org/w/index.php?curid=94436673), CC0
-
 ## Туры в Турцию
 
 На автобусе

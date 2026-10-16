@@ -10,8 +10,6 @@ URL: https://besttraveler.ge/mimartulebebi/saprangeti/
 
 5 ტური
 
-ფოტო: [DimiTalen](https://commons.wikimedia.org/w/index.php?curid=151554370), CC0
-
 ## ტურები საფრანგეთში
 
 ავიატური

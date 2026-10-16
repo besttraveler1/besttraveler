@@ -10,8 +10,6 @@ Group tours to France: Paris, Alsace, Provence, the Côte d'Azur and the Alps.
 
 5 tours
 
-Photo: [DimiTalen](https://commons.wikimedia.org/w/index.php?curid=151554370), CC0
-
 ## Tours to France
 
 By plane

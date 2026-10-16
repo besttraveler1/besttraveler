@@ -18,7 +18,11 @@ Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 22 more 
 - 19day tours
 - from 60 ₾day tours
 
-Photo: [Sandromedia123](https://commons.wikimedia.org/w/index.php?curid=188463565), CC0
+- [Egypt](https://besttraveler.ge/en/destinations/egypt/)
+- [Italy](https://besttraveler.ge/en/destinations/italy/)
+- [Turkey](https://besttraveler.ge/en/destinations/turkey/)
+- [Spain](https://besttraveler.ge/en/destinations/spain/)
+- [France](https://besttraveler.ge/en/destinations/france/)
 
 ## Choose a type of tour
 
@@ -116,7 +120,7 @@ View tour
 
 [Destinations](https://besttraveler.ge/en/destinations/)
 
-[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 10 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 6 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 4 tours](https://besttraveler.ge/en/destinations/spain/)[France 5 tours](https://besttraveler.ge/en/destinations/france/)[Greece 2 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 4 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 17 tours](https://besttraveler.ge/en/destinations/georgia/)
+[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 8 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 6 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 4 tours](https://besttraveler.ge/en/destinations/spain/)[France 5 tours](https://besttraveler.ge/en/destinations/france/)[Greece 2 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 4 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 17 tours](https://besttraveler.ge/en/destinations/georgia/)
 
 ## Why besttraveler
 

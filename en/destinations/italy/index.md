@@ -8,9 +8,7 @@ URL: https://besttraveler.ge/en/destinations/italy/
 
 Group tours to Italy: Rome, Venice, Tuscany, Sicily, the Amalfi Coast and southern Italy.
 
-10 tours
-
-Photo: [Michal Kmeť mitko](https://commons.wikimedia.org/w/index.php?curid=62292487), CC0
+8 tours
 
 ## Tours to Italy
 
@@ -23,18 +21,6 @@ By plane
 5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
 
 per person2,600 GEL
-
-View tour 
-
-By plane
-
-### [Morocco Group Tour with a Stop in Rome — 13–22 November](https://besttraveler.ge/en/tours/morocco-marrakesh-fes-rome/)
-
-10 days / 9 nights13–22 Nov 2026
-
-10 days: Rome, Marrakesh, Ait Ben Haddou, Rabat, Chefchaouen, Fes and Casablanca. Morocco visa included.
-
-per person2,200 EUR
 
 View tour 
 
@@ -59,18 +45,6 @@ By plane
 The Alps, Turin, the Côte d'Azur and Provence — three countries in 8 days.
 
 per person4,500 GEL
-
-View tour 
-
-By plane
-
-### [Malta via Rome — 8-Day Tour](https://besttraveler.ge/en/tours/malta-valletta-via-rome/)
-
-8 daysMalta, Italy
-
-Valletta, Mdina, fishing villages and Popeye Village — 8 days in Malta via Rome.
-
-per person4,100 GEL
 
 View tour 
 

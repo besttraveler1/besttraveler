@@ -18,7 +18,11 @@ URL: https://besttraveler.ge/
 - 19ერთდღიანი ტური
 - 60 ₾-დანერთდღიანი ტურები
 
-ფოტო: [Sandromedia123](https://commons.wikimedia.org/w/index.php?curid=188463565), CC0
+- [ეგვიპტე](https://besttraveler.ge/mimartulebebi/egvipte/)
+- [იტალია](https://besttraveler.ge/mimartulebebi/italia/)
+- [თურქეთი](https://besttraveler.ge/mimartulebebi/turketi/)
+- [ესპანეთი](https://besttraveler.ge/mimartulebebi/espaneti/)
+- [საფრანგეთი](https://besttraveler.ge/mimartulebebi/saprangeti/)
 
 ## აირჩიეთ ტურის ტიპი
 
@@ -116,7 +120,7 @@ URL: https://besttraveler.ge/
 
 [მიმართულებები](https://besttraveler.ge/mimartulebebi/)
 
-[ეგვიპტე 6 ტური](https://besttraveler.ge/mimartulebebi/egvipte/)[იტალია 10 ტური](https://besttraveler.ge/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/mimartulebebi/espaneti/)[საფრანგეთი 5 ტური](https://besttraveler.ge/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/mimartulebebi/shri-lanka/)[საქართველო 17 ტური](https://besttraveler.ge/mimartulebebi/sakartvelo/)
+[ეგვიპტე 6 ტური](https://besttraveler.ge/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/mimartulebebi/espaneti/)[საფრანგეთი 5 ტური](https://besttraveler.ge/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/mimartulebebi/shri-lanka/)[საქართველო 17 ტური](https://besttraveler.ge/mimartulebebi/sakartvelo/)
 
 ## რატომ besttraveler
 

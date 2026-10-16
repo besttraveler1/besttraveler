@@ -10,8 +10,6 @@ Group tours to Sri Lanka: Sigiriya, Kandy, tea plantations, the train to Ella, a
 
 2 tours
 
-Photo: [Xandrium](https://commons.wikimedia.org/w/index.php?curid=142180535), CC0
-
 ## Tours to Sri Lanka
 
 By plane
