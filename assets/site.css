@@ -497,3 +497,4 @@ html[lang=ka] .answer b{text-transform:none;letter-spacing:0}
 .mbus{display:flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;color:#6d28d9;border:2px solid #6d28d9;box-shadow:0 2px 8px rgb(0 0 0 / .25);transition:opacity .4s}
 .mbus.done{opacity:0}
 .maplibregl-ctrl-attrib{font-size:11px}
+@media (min-width:1000px){.hero{padding-top:32px;padding-bottom:40px}.hero-lt{max-width:380px;margin-top:-20px}.hero .badge{margin-bottom:14px}}
