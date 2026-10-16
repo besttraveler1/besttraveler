@@ -16,7 +16,7 @@ Photo: [Vyacheslav Argenberg](https://commons.wikimedia.org/wiki/File:David_Gare
 
 Duration1 day
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 08:00
 

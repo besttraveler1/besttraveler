@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/turebi/armenia-dilijan-day-tour/
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 06:00
 

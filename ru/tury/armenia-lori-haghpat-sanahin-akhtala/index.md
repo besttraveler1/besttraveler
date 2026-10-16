@@ -20,7 +20,7 @@ URL: https://besttraveler.ge/ru/tury/armenia-lori-haghpat-sanahin-akhtala/
 
 Длительность1 день
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси, 07:00
 

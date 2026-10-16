@@ -28,7 +28,7 @@ Photo: [Roy Tanck](https://wordpress.org/photos/photo/4766269971/), CC0
 
 Duration8 days
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi (TBS)
 

@@ -19,7 +19,7 @@ Photo: [Giorgi13](https://commons.wikimedia.org/wiki/File:GagiFortress2.jpg), [C
 
 Duration1 day
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 07:00
 

@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/turebi/kazbegi-gveleti-gergeti-day-tour/
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 07:00
 

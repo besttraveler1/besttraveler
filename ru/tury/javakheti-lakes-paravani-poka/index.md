@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/ru/tury/javakheti-lakes-paravani-poka/
 
 Длительность1 день
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси, 07:00
 

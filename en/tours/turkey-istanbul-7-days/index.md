@@ -17,7 +17,7 @@ Photo: [Hunanuk](https://commons.wikimedia.org/w/index.php?curid=141472475), CC0
 
 Duration7 days
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi (TBS)
 

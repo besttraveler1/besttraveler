@@ -19,7 +19,7 @@ Photo: [Steve Petty potshots](https://commons.wikimedia.org/w/index.php?curid=62
 
 Duration8 days
 
-DatesDates on request
+DatesOn request
 
 DepartureKutaisi (KUT)
 

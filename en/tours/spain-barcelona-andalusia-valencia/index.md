@@ -27,7 +27,7 @@ Photo: [NeusCGarcia](https://commons.wikimedia.org/w/index.php?curid=141175999),
 
 Duration10 days
 
-DatesDates on request
+DatesOn request
 
 DepartureKutaisi (KUT)
 

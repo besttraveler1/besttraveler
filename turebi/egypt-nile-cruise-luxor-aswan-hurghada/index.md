@@ -21,7 +21,7 @@ URL: https://besttraveler.ge/turebi/egypt-nile-cruise-luxor-aswan-hurghada/
 
 ხანგრძლივობა8 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი (TBS)
 

@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/turebi/bratislava-slovakia-vienna/
 
 ხანგრძლივობა6 დღე / 5 ღამე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლაქუთაისი (KUT)
 

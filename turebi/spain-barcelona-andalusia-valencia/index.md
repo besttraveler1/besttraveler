@@ -27,7 +27,7 @@ URL: https://besttraveler.ge/turebi/spain-barcelona-andalusia-valencia/
 
 ხანგრძლივობა10 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლაქუთაისი (KUT)
 

@@ -20,7 +20,7 @@ URL: https://besttraveler.ge/ru/tury/kakheti-ujarma-alaverdi/
 
 Длительность1 день
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси, 08:00
 

@@ -28,7 +28,7 @@ Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605798),
 
 Duration10 days
 
-DatesDates on request
+DatesOn request
 
 DepartureKutaisi (KUT)
 

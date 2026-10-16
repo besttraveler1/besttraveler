@@ -27,7 +27,7 @@ URL: https://besttraveler.ge/turebi/france-italy-monaco-provence-riviera/
 
 ხანგრძლივობა8 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლაქუთაისი (KUT)
 

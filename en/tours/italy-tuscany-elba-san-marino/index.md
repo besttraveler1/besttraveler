@@ -26,7 +26,7 @@ Photo: [Lucía García González](https://commons.wikimedia.org/w/index.php?curi
 
 Duration10 days / 9 nights
 
-DatesDates on request
+DatesOn request
 
 DepartureKutaisi (KUT)
 

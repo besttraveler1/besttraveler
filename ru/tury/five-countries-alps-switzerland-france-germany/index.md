@@ -34,7 +34,7 @@ URL: https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germ
 
 Длительность8 дней / 7 ночей
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 Цена4 500 лари
 

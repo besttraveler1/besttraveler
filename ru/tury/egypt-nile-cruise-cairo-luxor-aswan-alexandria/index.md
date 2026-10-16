@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/ru/tury/egypt-nile-cruise-cairo-luxor-aswan-alexand
 
 Длительность9 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси (TBS)
 

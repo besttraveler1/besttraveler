@@ -20,7 +20,7 @@ Photo: [Nicolas Perrault III](https://commons.wikimedia.org/w/index.php?curid=11
 
 Duration13 days
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi (TBS)
 

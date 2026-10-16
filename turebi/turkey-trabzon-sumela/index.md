@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/turebi/turkey-trabzon-sumela/
 
 ხანგრძლივობა3 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 05:00
 

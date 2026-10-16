@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/turebi/egypt-nile-cruise-cairo-luxor-aswan-alexandr
 
 ხანგრძლივობა9 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი (TBS)
 

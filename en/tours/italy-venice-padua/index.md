@@ -18,7 +18,7 @@ Photo: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=151283980), C
 
 Duration5 days / 4 nights
 
-DatesDates on request
+DatesOn request
 
 DepartureKutaisi (KUT)
 

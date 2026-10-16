@@ -18,7 +18,7 @@ Photo: [Tamar kurtanidze](https://commons.wikimedia.org/wiki/File:%E1%83%9B%E1%8
 
 Duration1 day
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 08:00
 

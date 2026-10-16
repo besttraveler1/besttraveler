@@ -30,7 +30,7 @@ Photo: [Jan Tielens jtlns](https://commons.wikimedia.org/w/index.php?curid=62227
 
 Duration10 days / 9 nights
 
-DatesDates on request
+DatesOn request
 
 DepartureKutaisi (KUT)
 

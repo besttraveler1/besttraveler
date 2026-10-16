@@ -25,7 +25,7 @@ URL: https://besttraveler.ge/ru/tury/turkey-tao-klarjeti/
 
 ДлительностьНа автобусе
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси, 05:00
 

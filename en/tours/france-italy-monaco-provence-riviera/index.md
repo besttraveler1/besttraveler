@@ -27,7 +27,7 @@ Photo: [Pierre Blaché from Paris, France](https://commons.wikimedia.org/w/index
 
 Duration8 days
 
-DatesDates on request
+DatesOn request
 
 DepartureKutaisi (KUT)
 

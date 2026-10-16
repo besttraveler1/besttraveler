@@ -21,7 +21,7 @@ URL: https://besttraveler.ge/ru/tury/armenia-yerevan-garni-geghard-etchmiadzin/
 
 Длительность3 дня
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси, 06:00
 

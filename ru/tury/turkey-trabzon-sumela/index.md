@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/ru/tury/turkey-trabzon-sumela/
 
 Длительность3 дня
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси, 05:00
 

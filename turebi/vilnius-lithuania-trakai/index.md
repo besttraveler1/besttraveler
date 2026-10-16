@@ -17,7 +17,7 @@ URL: https://besttraveler.ge/turebi/vilnius-lithuania-trakai/
 
 ხანგრძლივობა5 დღე / 4 ღამე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლაქუთაისი (KUT)
 

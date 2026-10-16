@@ -23,7 +23,7 @@ Photo: [Hamdigumus](https://commons.wikimedia.org/w/index.php?curid=151677849), 
 
 Duration7 days / 6 nights
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 07:00
 

@@ -23,7 +23,7 @@ URL: https://besttraveler.ge/turebi/turkey-van-mardin-nemrut/
 
 ხანგრძლივობა7 დღე / 6 ღამე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 07:00
 

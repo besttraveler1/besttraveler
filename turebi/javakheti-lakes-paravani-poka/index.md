@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/turebi/javakheti-lakes-paravani-poka/
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 07:00
 

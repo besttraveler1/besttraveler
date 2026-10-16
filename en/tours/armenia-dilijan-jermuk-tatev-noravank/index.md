@@ -20,7 +20,7 @@ Photo: [Камалян001](https://commons.wikimedia.org/w/index.php?curid=23397
 
 Duration3 days / 2 nights
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 06:00
 

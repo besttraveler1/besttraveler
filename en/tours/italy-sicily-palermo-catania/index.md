@@ -26,7 +26,7 @@ Photo: [Erik Albers](https://commons.wikimedia.org/w/index.php?curid=63496829), 
 
 Duration8 days
 
-DatesDates on request
+DatesOn request
 
 DepartureYerevan (EVN)
 

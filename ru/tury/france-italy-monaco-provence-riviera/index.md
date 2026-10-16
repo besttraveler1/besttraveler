@@ -27,7 +27,7 @@ URL: https://besttraveler.ge/ru/tury/france-italy-monaco-provence-riviera/
 
 Длительность8 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездКутаиси (KUT)
 

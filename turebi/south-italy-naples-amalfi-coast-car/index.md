@@ -30,7 +30,7 @@ URL: https://besttraveler.ge/turebi/south-italy-naples-amalfi-coast-car/
 
 ხანგრძლივობა10 დღე / 9 ღამე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლაქუთაისი (KUT)
 

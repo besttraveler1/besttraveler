@@ -30,7 +30,7 @@ URL: https://besttraveler.ge/ru/tury/south-italy-naples-amalfi-coast-car/
 
 Длительность10 дней / 9 ночей
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездКутаиси (KUT)
 

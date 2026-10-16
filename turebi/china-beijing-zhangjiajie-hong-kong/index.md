@@ -20,7 +20,7 @@ URL: https://besttraveler.ge/turebi/china-beijing-zhangjiajie-hong-kong/
 
 ხანგრძლივობა13 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი (TBS)
 

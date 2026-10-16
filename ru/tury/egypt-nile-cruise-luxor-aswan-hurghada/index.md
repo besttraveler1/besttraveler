@@ -21,7 +21,7 @@ URL: https://besttraveler.ge/ru/tury/egypt-nile-cruise-luxor-aswan-hurghada/
 
 Длительность8 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси (TBS)
 

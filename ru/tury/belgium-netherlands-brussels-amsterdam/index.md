@@ -25,7 +25,7 @@ URL: https://besttraveler.ge/ru/tury/belgium-netherlands-brussels-amsterdam/
 
 Длительность8 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездКутаиси (KUT)
 

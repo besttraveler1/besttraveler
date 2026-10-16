@@ -34,7 +34,7 @@ URL: https://besttraveler.ge/turebi/five-countries-alps-switzerland-france-germa
 
 ხანგრძლივობა8 დღე / 7 ღამე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 ფასი4 500 ლარი
 

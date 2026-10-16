@@ -20,7 +20,7 @@ URL: https://besttraveler.ge/turebi/armenia-lori-haghpat-sanahin-akhtala/
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 07:00
 

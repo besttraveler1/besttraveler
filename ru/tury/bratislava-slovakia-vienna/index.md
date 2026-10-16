@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/ru/tury/bratislava-slovakia-vienna/
 
 Длительность6 дней / 5 ночей
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездКутаиси (KUT)
 

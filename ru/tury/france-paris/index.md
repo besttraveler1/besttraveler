@@ -17,7 +17,7 @@ URL: https://besttraveler.ge/ru/tury/france-paris/
 
 Длительность5 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездКутаиси (KUT)
 

@@ -20,7 +20,7 @@ Photo: [Diego Delso](https://commons.wikimedia.org/wiki/File:Monasterio_de_Haghp
 
 Duration1 day
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 07:00
 

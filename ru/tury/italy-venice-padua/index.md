@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/ru/tury/italy-venice-padua/
 
 Длительность5 дней / 4 ночи
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездКутаиси (KUT)
 

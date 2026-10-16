@@ -19,7 +19,7 @@ Photo: [Jelger Groeneveld](https://commons.wikimedia.org/wiki/File:Paravani_Lake
 
 Duration1 day
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 07:00
 

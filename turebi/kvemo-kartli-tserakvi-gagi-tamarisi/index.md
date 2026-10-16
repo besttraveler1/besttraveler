@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/turebi/kvemo-kartli-tserakvi-gagi-tamarisi/
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 07:00
 

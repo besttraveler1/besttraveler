@@ -23,7 +23,7 @@ URL: https://besttraveler.ge/turebi/malta-valletta-via-rome/
 
 ხანგრძლივობა8 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლაქუთაისი (KUT)
 

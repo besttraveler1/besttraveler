@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/ru/tury/armenia-dilijan-day-tour/
 
 Длительность1 день
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси, 06:00
 

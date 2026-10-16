@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/ru/tury/gareja-colorful-desert-mravaltskaro/
 
 Длительность1 день
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси, 08:00
 

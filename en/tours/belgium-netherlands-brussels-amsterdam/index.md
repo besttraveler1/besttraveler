@@ -25,7 +25,7 @@ Photo: [Gouwenaar](https://commons.wikimedia.org/w/index.php?curid=29330844), CC
 
 Duration8 days
 
-DatesDates on request
+DatesOn request
 
 DepartureKutaisi (KUT)
 

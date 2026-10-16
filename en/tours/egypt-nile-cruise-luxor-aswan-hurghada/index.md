@@ -21,7 +21,7 @@ Photo: [Warren LeMay from Cullowhee, NC, United States](https://commons.wikimedi
 
 Duration8 days
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi (TBS)
 

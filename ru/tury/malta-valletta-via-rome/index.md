@@ -23,7 +23,7 @@ URL: https://besttraveler.ge/ru/tury/malta-valletta-via-rome/
 
 Длительность8 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездКутаиси (KUT)
 

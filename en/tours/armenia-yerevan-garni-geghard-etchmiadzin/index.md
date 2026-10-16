@@ -21,7 +21,7 @@ Photo: [Marion&Christoph Aistleitner](https://commons.wikimedia.org/w/index.php?
 
 Duration3 days
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 06:00
 

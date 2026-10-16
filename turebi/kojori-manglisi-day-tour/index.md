@@ -20,7 +20,7 @@ URL: https://besttraveler.ge/turebi/kojori-manglisi-day-tour/
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 08:00
 

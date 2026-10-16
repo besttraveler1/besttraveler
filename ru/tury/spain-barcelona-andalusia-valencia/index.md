@@ -27,7 +27,7 @@ URL: https://besttraveler.ge/ru/tury/spain-barcelona-andalusia-valencia/
 
 Длительность10 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездКутаиси (KUT)
 

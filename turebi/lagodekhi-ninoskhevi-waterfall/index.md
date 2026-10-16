@@ -16,7 +16,7 @@ URL: https://besttraveler.ge/turebi/lagodekhi-ninoskhevi-waterfall/
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 07:00
 

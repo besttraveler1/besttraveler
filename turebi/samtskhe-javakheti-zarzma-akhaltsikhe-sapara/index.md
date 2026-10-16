@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/turebi/samtskhe-javakheti-zarzma-akhaltsikhe-sapara
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 07:00
 

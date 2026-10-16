@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/tury/italy-sicily-palermo-catania/
 
 Длительность8 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездЕреван (EVN)
 

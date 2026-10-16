@@ -17,7 +17,7 @@ URL: https://besttraveler.ge/turebi/tabatskuri-lake-day-tour/
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 06:00
 

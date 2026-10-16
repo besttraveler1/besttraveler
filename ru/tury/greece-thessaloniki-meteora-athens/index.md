@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/ru/tury/greece-thessaloniki-meteora-athens/
 
 Длительность8 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездКутаиси (KUT)
 

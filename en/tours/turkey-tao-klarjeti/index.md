@@ -25,7 +25,7 @@ Photo: [sevdamujgan [1]](https://commons.wikimedia.org/w/index.php?curid=6167927
 
 DurationBy bus
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 05:00
 

@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/ru/tury/egypt-jordan-sharm-el-sheikh-petra/
 
 Длительность8 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси (TBS)
 

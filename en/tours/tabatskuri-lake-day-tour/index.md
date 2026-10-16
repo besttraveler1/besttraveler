@@ -17,7 +17,7 @@ Photo: [ZeevoX](https://commons.wikimedia.org/wiki/File:Tabatskuri_Village_and_L
 
 Duration1 day
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 06:00
 

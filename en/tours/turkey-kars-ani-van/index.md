@@ -19,7 +19,7 @@ Photo: [Varilci](https://commons.wikimedia.org/w/index.php?curid=172741136), CC0
 
 Duration3 days / 2 nights
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 05:00
 

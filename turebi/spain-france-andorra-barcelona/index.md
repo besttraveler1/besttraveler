@@ -28,7 +28,7 @@ URL: https://besttraveler.ge/turebi/spain-france-andorra-barcelona/
 
 ხანგრძლივობა10 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლაქუთაისი (KUT)
 

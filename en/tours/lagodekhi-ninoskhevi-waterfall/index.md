@@ -16,7 +16,7 @@ Photo: [Alexey Komarov](https://commons.wikimedia.org/wiki/File:Gurgeniani_Water
 
 Duration1 day
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 07:00
 

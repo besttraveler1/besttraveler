@@ -19,7 +19,7 @@ Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605818),
 
 Duration8 days
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi (TBS)
 

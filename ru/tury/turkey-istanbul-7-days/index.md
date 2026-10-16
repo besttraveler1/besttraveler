@@ -17,7 +17,7 @@ URL: https://besttraveler.ge/ru/tury/turkey-istanbul-7-days/
 
 Длительность7 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси (TBS)
 

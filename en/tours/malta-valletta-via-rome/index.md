@@ -23,7 +23,7 @@ Photo: [Edelmauswaldgeist](https://commons.wikimedia.org/w/index.php?curid=17698
 
 Duration8 days
 
-DatesDates on request
+DatesOn request
 
 DepartureKutaisi (KUT)
 

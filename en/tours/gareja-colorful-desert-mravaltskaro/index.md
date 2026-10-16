@@ -18,7 +18,7 @@ Photo: [Anri137](https://commons.wikimedia.org/wiki/File:%E1%B2%9B%E1%83%A0%E1%8
 
 Duration1 day
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 08:00
 

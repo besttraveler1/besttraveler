@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/turebi/khada-gorge-waterfalls-day-tour/
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 07:00
 

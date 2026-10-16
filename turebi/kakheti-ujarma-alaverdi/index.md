@@ -20,7 +20,7 @@ URL: https://besttraveler.ge/turebi/kakheti-ujarma-alaverdi/
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 08:00
 

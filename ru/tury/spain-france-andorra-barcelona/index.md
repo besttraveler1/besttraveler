@@ -28,7 +28,7 @@ URL: https://besttraveler.ge/ru/tury/spain-france-andorra-barcelona/
 
 Длительность10 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездКутаиси (KUT)
 

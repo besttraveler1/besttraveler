@@ -17,7 +17,7 @@ Photo: [Mojmir Churavy](https://commons.wikimedia.org/w/index.php?curid=18216721
 
 Duration5 days / 4 nights
 
-DatesDates on request
+DatesOn request
 
 DepartureKutaisi (KUT)
 

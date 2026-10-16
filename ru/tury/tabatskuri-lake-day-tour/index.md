@@ -17,7 +17,7 @@ URL: https://besttraveler.ge/ru/tury/tabatskuri-lake-day-tour/
 
 Длительность1 день
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси, 06:00
 

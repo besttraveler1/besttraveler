@@ -16,7 +16,7 @@ URL: https://besttraveler.ge/ru/tury/david-gareja-sabereebi/
 
 Длительность1 день
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси, 08:00
 

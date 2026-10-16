@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/turebi/gareja-colorful-desert-mravaltskaro/
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 08:00
 

@@ -17,7 +17,7 @@ URL: https://besttraveler.ge/ru/tury/vilnius-lithuania-trakai/
 
 Длительность5 дней / 4 ночи
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездКутаиси (KUT)
 

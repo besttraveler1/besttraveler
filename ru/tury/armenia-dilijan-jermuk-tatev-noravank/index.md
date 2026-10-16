@@ -20,7 +20,7 @@ URL: https://besttraveler.ge/ru/tury/armenia-dilijan-jermuk-tatev-noravank/
 
 Длительность3 дня / 2 ночи
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси, 06:00
 

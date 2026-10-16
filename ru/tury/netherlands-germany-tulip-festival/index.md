@@ -28,7 +28,7 @@ URL: https://besttraveler.ge/ru/tury/netherlands-germany-tulip-festival/
 
 Длительность8 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси (TBS)
 

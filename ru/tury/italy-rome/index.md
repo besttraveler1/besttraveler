@@ -16,7 +16,7 @@ URL: https://besttraveler.ge/ru/tury/italy-rome/
 
 Длительность8 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездКутаиси (KUT)
 

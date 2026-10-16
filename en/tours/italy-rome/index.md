@@ -16,7 +16,7 @@ Photo: [Julian Lupyan](https://commons.wikimedia.org/w/index.php?curid=175885773
 
 Duration8 days
 
-DatesDates on request
+DatesOn request
 
 DepartureKutaisi (KUT)
 

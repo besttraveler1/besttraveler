@@ -18,7 +18,7 @@ Photo: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=152285140), C
 
 Duration1 day
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 08:00
 

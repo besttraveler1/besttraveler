@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/turebi/italy-tuscany-elba-san-marino/
 
 ხანგრძლივობა10 დღე / 9 ღამე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლაქუთაისი (KUT)
 

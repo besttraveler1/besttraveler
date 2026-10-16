@@ -19,7 +19,7 @@ Photo: [გურჯაანის მუნიციპალიტეტი�
 
 Duration1 day
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 08:00
 

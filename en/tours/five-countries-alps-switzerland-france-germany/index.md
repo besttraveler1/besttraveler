@@ -34,7 +34,7 @@ Photo: [cameralends](https://commons.wikimedia.org/w/index.php?curid=46307855), 
 
 Duration8 days / 7 nights
 
-DatesDates on request
+DatesOn request
 
 Price4,500 GEL
 

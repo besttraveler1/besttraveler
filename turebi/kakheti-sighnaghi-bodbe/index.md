@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/turebi/kakheti-sighnaghi-bodbe/
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 08:00
 

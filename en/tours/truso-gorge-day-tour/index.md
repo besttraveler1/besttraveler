@@ -18,7 +18,7 @@ Photo: [Alexkom000](https://commons.wikimedia.org/wiki/File:2024-08-03_Truso_Val
 
 Duration1 day
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 07:00
 

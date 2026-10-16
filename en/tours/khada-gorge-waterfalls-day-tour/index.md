@@ -19,7 +19,7 @@ Photo: [franek2](https://commons.wikimedia.org/wiki/File:Khada_Rd,_Tskere,_Georg
 
 Duration1 day
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 07:00
 

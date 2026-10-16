@@ -25,7 +25,7 @@ URL: https://besttraveler.ge/turebi/belgium-netherlands-brussels-amsterdam/
 
 ხანგრძლივობა8 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლაქუთაისი (KUT)
 

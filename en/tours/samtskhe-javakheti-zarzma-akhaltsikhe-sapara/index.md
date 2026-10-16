@@ -18,7 +18,7 @@ Photo: [יעקב](https://commons.wikimedia.org/w/index.php?curid=149268829), CC
 
 Duration1 day
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 07:00
 

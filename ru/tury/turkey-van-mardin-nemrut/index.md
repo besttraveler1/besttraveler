@@ -23,7 +23,7 @@ URL: https://besttraveler.ge/ru/tury/turkey-van-mardin-nemrut/
 
 Длительность7 дней / 6 ночей
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси, 07:00
 

@@ -16,7 +16,7 @@ URL: https://besttraveler.ge/turebi/david-gareja-sabereebi/
 
 ხანგრძლივობა1 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 08:00
 

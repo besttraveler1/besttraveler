@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/turebi/italy-sicily-palermo-catania/
 
 ხანგრძლივობა8 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლაერევანი (EVN)
 

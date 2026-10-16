@@ -18,7 +18,7 @@ Photo: [Hamdigumus](https://commons.wikimedia.org/w/index.php?curid=151764689), 
 
 Duration3 days
 
-DatesDates on request
+DatesOn request
 
 DepartureTbilisi, 05:00
 

@@ -20,7 +20,7 @@ URL: https://besttraveler.ge/ru/tury/china-beijing-zhangjiajie-hong-kong/
 
 Длительность13 дней
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси (TBS)
 

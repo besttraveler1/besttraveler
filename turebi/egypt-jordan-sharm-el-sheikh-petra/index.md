@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/turebi/egypt-jordan-sharm-el-sheikh-petra/
 
 ხანგრძლივობა8 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი (TBS)
 

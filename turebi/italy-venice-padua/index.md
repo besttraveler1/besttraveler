@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/turebi/italy-venice-padua/
 
 ხანგრძლივობა5 დღე / 4 ღამე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლაქუთაისი (KUT)
 

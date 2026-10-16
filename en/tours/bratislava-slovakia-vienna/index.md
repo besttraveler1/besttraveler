@@ -19,7 +19,7 @@ Photo: [Pixabay](https://commons.wikimedia.org/w/index.php?curid=72064519), CC0
 
 Duration6 days / 5 nights
 
-DatesDates on request
+DatesOn request
 
 DepartureKutaisi (KUT)
 

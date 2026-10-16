@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/ru/tury/truso-gorge-day-tour/
 
 Длительность1 день
 
-ДатыДаты по запросу
+ДатыПо запросу
 
 ВыездТбилиси, 07:00
 

@@ -19,7 +19,7 @@ URL: https://besttraveler.ge/turebi/greece-thessaloniki-meteora-athens/
 
 ხანგრძლივობა8 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლაქუთაისი (KUT)
 

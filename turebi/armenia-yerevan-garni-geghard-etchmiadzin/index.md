@@ -21,7 +21,7 @@ URL: https://besttraveler.ge/turebi/armenia-yerevan-garni-geghard-etchmiadzin/
 
 ხანგრძლივობა3 დღე
 
-თარიღებითარიღები — მოთხოვნით
+თარიღებიმოთხოვნით
 
 გასვლათბილისი, 06:00
 
