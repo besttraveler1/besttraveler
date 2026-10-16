@@ -91,11 +91,11 @@ URL: https://besttraveler.ge/blogi/turkey-entry-with-id-card-for-georgian-citize
 
 ავიატური
 
-### [სტამბული — 7-დღიანი ტური თბილისიდან ან ბათუმიდან](https://besttraveler.ge/turebi/turkey-istanbul-7-days/)
+### [სტამბოლი — 7-დღიანი ტური თბილისიდან ან ბათუმიდან](https://besttraveler.ge/turebi/turkey-istanbul-7-days/)
 
 7 დღეთურქეთი
 
-7 დღე სტამბულში: სასახლეები, მეჩეთები, ბოსფორის კრუიზი, პრინცების კუნძულები და ბაზრები.
+7 დღე სტამბოლში: სასახლეები, მეჩეთები, ბოსფორის კრუიზი, პრინცების კუნძულები და ბაზრები.
 
 ერთ ადამიანზე3 600 ლარი
 

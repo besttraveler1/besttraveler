@@ -29,7 +29,20 @@
 
   // search
   var dlg = $('#sdlg'), data = null, loading = false, sel = -1;
-  function norm(s) { return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, ''); }
+  // Search in any script: Georgian, Latin ("ateni", "xada", "kazbegi") and Cyrillic all fold to one simple Latin skeleton.
+  var KA = 'ა:a,ბ:b,გ:g,დ:d,ე:e,ვ:v,ზ:z,თ:t,ი:i,კ:k,ლ:l,მ:m,ნ:n,ო:o,პ:p,ჟ:zh,რ:r,ს:s,ტ:t,უ:u,ფ:p,ქ:k,ღ:gh,ყ:k,შ:sh,ჩ:ch,ც:ts,ძ:dz,წ:ts,ჭ:ch,ხ:kh,ჯ:j,ჰ:h';
+  var RU = 'а:a,б:b,в:v,г:g,д:d,е:e,ё:e,ж:zh,з:z,и:i,й:i,к:k,л:l,м:m,н:n,о:o,п:p,р:r,с:s,т:t,у:u,ф:f,х:kh,ц:ts,ч:ch,ш:sh,щ:sh,ъ:,ы:i,ь:,э:e,ю:iu,я:ia';
+  var MAP = {};
+  (KA + ',' + RU).split(',').forEach(function (p) { var kv = p.split(':'); MAP[kv[0]] = kv[1]; });
+  function norm(s) {
+    s = (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+    var out = '';
+    for (var i = 0; i < s.length; i++) { var c = s[i]; out += Object.prototype.hasOwnProperty.call(MAP, c) ? MAP[c] : c; }
+    // fold the different ways people type the same sound
+    return out.replace(/kh|x|q/g, 'k').replace(/gh/g, 'g').replace(/sh/g, 's').replace(/zh/g, 'z')
+      .replace(/tch|ch/g, 'c').replace(/ts|tz|w/g, 'c').replace(/dz/g, 'z').replace(/th/g, 't').replace(/ph|f/g, 'p')
+      .replace(/y/g, 'i').replace(/[^a-z0-9]+/g, ' ').replace(/(.)\1+/g, '$1').trim();
+  }
   function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
   function hl(text, words) {
     var t = esc(text);
@@ -65,10 +78,13 @@
     }
     var hits = [];
     data.items.forEach(function (it) {
-      var tt = it._t || (it._t = norm(it.t)), all = it._a || (it._a = norm(it.t + ' ' + it.d + ' ' + (it.k || '')));
+      var tt = it._t || (it._t = norm(it.t + ' ' + (it.a || ''))), all = it._a || (it._a = norm(it.t + ' ' + (it.a || '') + ' ' + it.d + ' ' + (it.k || '')));
       if (!words.every(function (w) { return all.indexOf(w) > -1; })) return;
       var sc = 0;
-      words.forEach(function (w) { if (tt.indexOf(w) > -1) sc += 10; if (tt.indexOf(w) === 0) sc += 5; });
+      words.forEach(function (w) { if (tt.indexOf(w) > -1) sc += 10; if (tt.indexOf(w) === 0 || tt.indexOf(' ' + w) > -1) sc += 5; });
+      // a title (in any language) that starts with the search word is the strongest match
+      var heads = it._h || (it._h = [it.t].concat((it.a || '').split(' | ')).map(norm));
+      words.forEach(function (w) { if (heads.some(function (h) { return h.indexOf(w) === 0; })) sc += 12; });
       sc += it.g === 'dest' ? 6 : it.g === 'tour' ? 3 : 0;
       hits.push([sc, it]);
     });

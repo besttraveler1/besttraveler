@@ -53,7 +53,7 @@ URL: https://besttraveler.ge/saitis-ruka/
 - [ეგვიპტე და იორდანია: შარმ-ელ-შეიხი და პეტრა, 8 დღე](https://besttraveler.ge/turebi/egypt-jordan-sharm-el-sheikh-petra/)
 - [საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო](https://besttraveler.ge/turebi/france-italy-monaco-provence-riviera/)
 - [საბერძნეთი: სალონიკი, მეტეორა და ათენი — 8-დღიანი ტური](https://besttraveler.ge/turebi/greece-thessaloniki-meteora-athens/)
-- [სტამბული — 7-დღიანი ტური თბილისიდან ან ბათუმიდან](https://besttraveler.ge/turebi/turkey-istanbul-7-days/)
+- [სტამბოლი — 7-დღიანი ტური თბილისიდან ან ბათუმიდან](https://besttraveler.ge/turebi/turkey-istanbul-7-days/)
 - [მალტა რომის გავლით — 8-დღიანი ტური](https://besttraveler.ge/turebi/malta-valletta-via-rome/)
 - [ნიდერლანდები და გერმანია: ტიტების ფესტივალი — 8-დღიანი ტური](https://besttraveler.ge/turebi/netherlands-germany-tulip-festival/)
 - [ნილოსის კრუიზი: კაირო, ლუქსორი, ასუანი, აბუ-სიმბელი, ალექსანდრია](https://besttraveler.ge/turebi/egypt-nile-cruise-cairo-luxor-aswan-alexandria/)
