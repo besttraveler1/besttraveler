@@ -164,11 +164,13 @@
           var el = d.createElement('div'); el.className = 'mpin';
           el.innerHTML = '<b>' + (i + 1) + '</b><span></span>'; el.lastChild.textContent = p[2];
           var mk = new ml.Marker({ element: el, anchor: 'left', offset: [-13, 0] }).setLngLat([p[1], p[0]]).addTo(map);
+          el.setAttribute('role', 'img'); el.setAttribute('aria-label', (i + 1) + '. ' + p[2]);
           return { el: el, lng: p[1], lat: p[0] };
         });
         var bus = d.createElement('div'); bus.className = 'mbus';
         bus.innerHTML = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 6v6M15 6v6M2 12h19.6M18 18h3s.5-1.7.8-2.8c.1-.4.2-.8.2-1.2 0-.4-.1-.8-.2-1.2l-1.4-5C20.1 6.8 19.1 6 18 6H4a2 2 0 0 0-2 2v10h3"/><circle cx="7" cy="18" r="2"/><path d="M9 18h5"/><circle cx="16" cy="18" r="2"/></svg>';
         var busM = new ml.Marker({ element: bus }).setLngLat(D.line[0]).addTo(map);
+        bus.removeAttribute('aria-label'); bus.setAttribute('aria-hidden', 'true');
         // animation along the route
         var L = D.line, seg = [], tot = 0;
         for (var i = 1; i < L.length; i++) { var dd = Math.hypot(L[i][0] - L[i - 1][0], L[i][1] - L[i - 1][1]); seg.push(dd); tot += dd; }
@@ -199,8 +201,10 @@
         mio.unobserve(en.target);
         loadML().then(function () { initMap(en.target); }).catch(function () {});
       });
-    }, { rootMargin: '300px' });
-    mboxes.forEach(function (m) { mio.observe(m); });
+    }, { threshold: 0.2 });
+    // start watching only after the page has fully loaded, so the map never competes with the first paint
+    var watch = function () { mboxes.forEach(function (m) { mio.observe(m); }); };
+    if (d.readyState === 'complete') watch(); else window.addEventListener('load', function () { setTimeout(watch, 1500); });
   }
 
   // Lottie animations: desktop only, loaded after the page is ready, off for reduced motion
