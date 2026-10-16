@@ -205,12 +205,12 @@ What you see at David Gareja and the colourful mountains, how much walking there
 
 Read 
 
-Visas & borders
+Tips
 
-### [Jordan Visa for Georgian Citizens: On Arrival and Jordan Pass (2026)](https://besttraveler.ge/en/blog/jordan-visa-for-georgians/)
+### [Before You Travel: What Not to Forget Before Leaving Home](https://besttraveler.ge/en/blog/before-you-travel-checklist/)
 
-17 Oct 20263 min read
+17 Oct 20265 min read
 
-Jordan visa for Georgian passport holders: visa on arrival, the Jordan Pass and the Aqaba port rules.
+What to sort out before you leave home: documents, insurance, bank, mobile data, the flight, your home and emergency numbers.
 
 Read

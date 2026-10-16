@@ -131,12 +131,12 @@ URL: https://besttraveler.ge/ru/blog/davidgaredzhi-i-tsvetnye-gory/
 
 Читать 
 
-Визы и границы
+Советы
 
-### [Виза в Иорданию для граждан Грузии: виза по прилёте и Jordan Pass (2026)](https://besttraveler.ge/ru/blog/viza-v-iordaniyu-dlya-grazhdan-gruzii/)
+### [Что не забыть перед поездкой: дела до выезда из дома](https://besttraveler.ge/ru/blog/chto-sdelat-pered-poezdkoy/)
 
-17 октября 20263 мин чтения
+17 октября 20264 мин чтения
 
-Виза в Иорданию для граждан Грузии: виза в аэропорту, Jordan Pass и правила порта Акаба.
+Что сделать до выезда из дома: документы, страховка, банк, интернет, перелёт, квартира и экстренные номера.
 
 Читать

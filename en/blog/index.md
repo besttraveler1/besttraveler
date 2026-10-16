@@ -40,6 +40,36 @@ Our four Kakheti day routes from Tbilisi: what each one covers and how to choose
 
 Read 
 
+Tips
+
+### [Before You Travel: What Not to Forget Before Leaving Home](https://besttraveler.ge/en/blog/before-you-travel-checklist/)
+
+17 Oct 20265 min read
+
+What to sort out before you leave home: documents, insurance, bank, mobile data, the flight, your home and emergency numbers.
+
+Read 
+
+Tips
+
+### [Hand Luggage on Low-Cost Flights from Kutaisi: What Fits and What Doesn't](https://besttraveler.ge/en/blog/hand-luggage-low-cost-flights/)
+
+17 Oct 20264 min read
+
+How to pack 10 kg of hand luggage for a flight from Kutaisi: size, liquids, power banks and items you can't take.
+
+Read 
+
+Tips
+
+### [Money Abroad: Card or Cash, Currency, ATMs and Extra Costs](https://besttraveler.ge/en/blog/money-abroad-cards-and-cash/)
+
+17 Oct 20264 min read
+
+How to pay abroad: card and cash, exchanging money, ATMs, keeping money safe and budgeting for optional extras.
+
+Read 
+
 Visas & borders
 
 ### [Jordan Visa for Georgian Citizens: On Arrival and Jordan Pass (2026)](https://besttraveler.ge/en/blog/jordan-visa-for-georgians/)
