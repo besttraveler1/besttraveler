@@ -28,6 +28,10 @@ URL: https://besttraveler.ge/turebi/belgium-netherlands-brussels-amsterdam/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 4 300 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

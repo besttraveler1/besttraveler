@@ -24,6 +24,10 @@ URL: https://besttraveler.ge/ru/tury/turkey-cappadocia-amasya-bus/
 - Выезд: Из Тбилиси, 06:00
 - Цена: 1 350 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

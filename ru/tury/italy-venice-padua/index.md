@@ -21,6 +21,10 @@ URL: https://besttraveler.ge/ru/tury/italy-venice-padua/
 - Выезд: Из аэропорта Кутаиси
 - Цена: 1 500 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

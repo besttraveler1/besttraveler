@@ -29,6 +29,10 @@ URL: https://besttraveler.ge/ru/tury/italy-sicily-palermo-catania/
 - Выезд: Из аэропорта Еревана
 - Цена: 5 700 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

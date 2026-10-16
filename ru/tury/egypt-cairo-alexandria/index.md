@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/ru/tury/egypt-cairo-alexandria/
 - Выезд: Из аэропорта Тбилиси
 - Цена: 2 500 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

@@ -21,6 +21,10 @@ A different one-day tour to the Dzama Gorge. We go up to Bateti Lake and Kvemo S
 - Departure: From Tbilisi, 08:00
 - Price: 60 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

@@ -19,6 +19,10 @@ URL: https://besttraveler.ge/ru/tury/tianeti-day-tour/
 - Выезд: Из Тбилиси, 08:00
 - Цена: 60 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

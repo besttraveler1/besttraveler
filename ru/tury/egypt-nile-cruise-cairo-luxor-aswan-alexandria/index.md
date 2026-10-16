@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/ru/tury/egypt-nile-cruise-cairo-luxor-aswan-alexand
 - Выезд: Из аэропорта Тбилиси
 - Цена: 6 550 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

@@ -27,6 +27,10 @@ URL: https://besttraveler.ge/turebi/sri-lanka-maldives/
 - გასვლა: თბილისის აეროპორტიდან
 - ფასი: 8 500 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

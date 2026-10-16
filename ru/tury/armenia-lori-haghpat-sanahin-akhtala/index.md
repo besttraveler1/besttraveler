@@ -21,6 +21,10 @@ URL: https://besttraveler.ge/ru/tury/armenia-lori-haghpat-sanahin-akhtala/
 - Выезд: Из Тбилиси, 07:00
 - Цена: 90 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

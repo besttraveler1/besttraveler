@@ -28,6 +28,10 @@ URL: https://besttraveler.ge/turebi/turkey-tao-klarjeti/
 - გასვლა: თბილისიდან, 05:00
 - ფასი: 480 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

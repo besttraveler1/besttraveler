@@ -25,6 +25,10 @@ URL: https://besttraveler.ge/ru/tury/sri-lanka-kandy-ella-mirissa/
 - Выезд: Из аэропорта Тбилиси
 - Цена: 4 500 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

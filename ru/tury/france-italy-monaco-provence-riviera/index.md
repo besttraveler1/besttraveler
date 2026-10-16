@@ -30,6 +30,10 @@ URL: https://besttraveler.ge/ru/tury/france-italy-monaco-provence-riviera/
 - Выезд: Из аэропорта Кутаиси
 - Цена: 4 500 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

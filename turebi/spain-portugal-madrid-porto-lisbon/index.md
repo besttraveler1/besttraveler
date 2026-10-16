@@ -29,6 +29,10 @@ URL: https://besttraveler.ge/turebi/spain-portugal-madrid-porto-lisbon/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 4 500 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

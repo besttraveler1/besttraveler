@@ -24,6 +24,10 @@ URL: https://besttraveler.ge/ru/tury/armenia-yerevan-garni-geghard-etchmiadzin/
 - Выезд: Из Тбилиси, 06:00
 - Цена: 450 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

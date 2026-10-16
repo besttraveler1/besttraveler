@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/ru/tury/egypt-jordan-sharm-el-sheikh-petra/
 - Выезд: Из аэропорта Тбилиси
 - Цена: 3 700 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

@@ -31,6 +31,10 @@ URL: https://besttraveler.ge/ru/tury/spain-france-andorra-barcelona/
 - Выезд: Из аэропорта Кутаиси
 - Цена: 4 700 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

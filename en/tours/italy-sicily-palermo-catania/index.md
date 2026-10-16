@@ -29,6 +29,10 @@ Photo: [Erik Albers](https://commons.wikimedia.org/w/index.php?curid=63496829), 
 - Departure: From Yerevan airport
 - Price: 5,700 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

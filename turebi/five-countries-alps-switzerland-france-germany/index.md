@@ -36,6 +36,10 @@ URL: https://besttraveler.ge/turebi/five-countries-alps-switzerland-france-germa
 - თარიღები: თარიღები — მოთხოვნით
 - ფასი: 4 500 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

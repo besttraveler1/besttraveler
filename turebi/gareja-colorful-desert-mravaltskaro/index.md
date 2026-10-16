@@ -21,6 +21,10 @@ URL: https://besttraveler.ge/turebi/gareja-colorful-desert-mravaltskaro/
 - გასვლა: თბილისიდან, 08:00
 - ფასი: 60 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

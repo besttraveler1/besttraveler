@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/turebi/armenia-dilijan-day-tour/
 - გასვლა: თბილისიდან, 06:00
 - ფასი: 150 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

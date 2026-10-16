@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/ru/tury/javakheti-lakes-paravani-poka/
 - Выезд: Из Тбилиси, 07:00
 - Цена: 60 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

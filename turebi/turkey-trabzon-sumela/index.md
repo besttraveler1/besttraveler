@@ -21,6 +21,10 @@ URL: https://besttraveler.ge/turebi/turkey-trabzon-sumela/
 - გასვლა: თბილისიდან, 05:00
 - ფასი: 470 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

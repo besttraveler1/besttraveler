@@ -30,6 +30,10 @@ Photo: [NeusCGarcia](https://commons.wikimedia.org/w/index.php?curid=141175999),
 - Departure: From Kutaisi airport
 - Price: 4,500 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

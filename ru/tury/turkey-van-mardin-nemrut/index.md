@@ -26,6 +26,10 @@ URL: https://besttraveler.ge/ru/tury/turkey-van-mardin-nemrut/
 - Выезд: Из Тбилиси, 07:00
 - Цена: 1 450 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

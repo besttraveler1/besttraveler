@@ -31,6 +31,10 @@ URL: https://besttraveler.ge/turebi/netherlands-germany-tulip-festival/
 - გასვლა: თბილისის აეროპორტიდან
 - ფასი: 4 100 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

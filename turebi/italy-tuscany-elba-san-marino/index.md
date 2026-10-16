@@ -29,6 +29,10 @@ URL: https://besttraveler.ge/turebi/italy-tuscany-elba-san-marino/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 4 000 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

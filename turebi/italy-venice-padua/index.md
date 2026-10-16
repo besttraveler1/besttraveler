@@ -21,6 +21,10 @@ URL: https://besttraveler.ge/turebi/italy-venice-padua/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 1 500 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

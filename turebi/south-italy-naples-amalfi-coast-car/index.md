@@ -33,6 +33,10 @@ URL: https://besttraveler.ge/turebi/south-italy-naples-amalfi-coast-car/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 4 100 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

@@ -29,6 +29,10 @@ URL: https://besttraveler.ge/turebi/morocco-marrakesh-fes-rome/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 2 200 ევრო
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

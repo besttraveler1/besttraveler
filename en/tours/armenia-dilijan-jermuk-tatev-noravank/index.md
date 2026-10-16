@@ -23,6 +23,10 @@ Photo: [Камалян001](https://commons.wikimedia.org/w/index.php?curid=23397
 - Departure: From Tbilisi, 06:00
 - Price: 480 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

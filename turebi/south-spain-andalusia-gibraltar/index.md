@@ -32,6 +32,10 @@ URL: https://besttraveler.ge/turebi/south-spain-andalusia-gibraltar/
 - გასვლა: თბილისის აეროპორტიდან
 - ფასი: 4 800 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

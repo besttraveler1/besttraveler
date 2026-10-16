@@ -21,6 +21,10 @@ Photo: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=151283980), C
 - Departure: From Kutaisi airport
 - Price: 1,500 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

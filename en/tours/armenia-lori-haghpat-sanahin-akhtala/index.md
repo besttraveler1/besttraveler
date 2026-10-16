@@ -21,6 +21,10 @@ A one-day tour to the Lori region of Armenia with medieval Georgian and Armenian
 - Departure: From Tbilisi, 07:00
 - Price: 90 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

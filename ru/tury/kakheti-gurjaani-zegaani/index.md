@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/ru/tury/kakheti-gurjaani-zegaani/
 - Выезд: Из Тбилиси, 08:00
 - Цена: 60 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

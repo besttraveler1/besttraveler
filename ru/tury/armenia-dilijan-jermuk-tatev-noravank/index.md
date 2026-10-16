@@ -23,6 +23,10 @@ URL: https://besttraveler.ge/ru/tury/armenia-dilijan-jermuk-tatev-noravank/
 - Выезд: Из Тбилиси, 06:00
 - Цена: 480 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

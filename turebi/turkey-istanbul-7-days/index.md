@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/turebi/turkey-istanbul-7-days/
 - გასვლა: თბილისის აეროპორტიდან
 - ფასი: 3 600 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

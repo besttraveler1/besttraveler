@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/turebi/athens-greece-aegina/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 1 200 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

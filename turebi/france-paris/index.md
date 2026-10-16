@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/turebi/france-paris/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 2 400 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

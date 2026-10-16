@@ -36,6 +36,10 @@ URL: https://besttraveler.ge/ru/tury/five-countries-alps-switzerland-france-germ
 - Даты: Даты по запросу
 - Цена: 4 500 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

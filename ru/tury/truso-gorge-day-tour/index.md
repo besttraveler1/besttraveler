@@ -21,6 +21,10 @@ URL: https://besttraveler.ge/ru/tury/truso-gorge-day-tour/
 - Выезд: Из Тбилиси, 07:00
 - Цена: 60 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

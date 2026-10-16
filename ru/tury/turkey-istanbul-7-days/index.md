@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/ru/tury/turkey-istanbul-7-days/
 - Выезд: Из аэропорта Тбилиси
 - Цена: 3 600 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

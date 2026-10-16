@@ -17,6 +17,10 @@ A one-day tour to Lagodekhi Reserve, up the Ninoskhevi gorge to the Gurgeniani w
 - Departure: From Tbilisi, 07:00
 - Price: 60 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

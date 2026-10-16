@@ -19,6 +19,10 @@ URL: https://besttraveler.ge/turebi/italy-rome/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 2 300 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

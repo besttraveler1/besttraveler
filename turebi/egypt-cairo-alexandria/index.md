@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/turebi/egypt-cairo-alexandria/
 - გასვლა: თბილისის აეროპორტიდან
 - ფასი: 2 500 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

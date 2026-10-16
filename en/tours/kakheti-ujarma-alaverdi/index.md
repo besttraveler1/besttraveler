@@ -23,6 +23,10 @@ Photo: [Image by lenmic2 from Pixabay](https://commons.wikimedia.org/w/index.php
 - Departure: From Tbilisi, 08:00
 - Price: 60 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

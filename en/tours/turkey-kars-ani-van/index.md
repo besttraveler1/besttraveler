@@ -22,6 +22,10 @@ Photo: [Varilci](https://commons.wikimedia.org/w/index.php?curid=172741136), CC0
 - Departure: From Tbilisi, 05:00
 - Price: 450 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

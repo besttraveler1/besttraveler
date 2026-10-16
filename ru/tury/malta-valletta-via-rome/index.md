@@ -26,6 +26,10 @@ URL: https://besttraveler.ge/ru/tury/malta-valletta-via-rome/
 - Выезд: Из аэропорта Кутаиси
 - Цена: 4 100 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

@@ -36,6 +36,10 @@ Photo: [cameralends](https://commons.wikimedia.org/w/index.php?curid=46307855), 
 - Dates: Dates on request
 - Price: 4,500 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

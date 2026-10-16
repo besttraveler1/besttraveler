@@ -25,6 +25,10 @@ URL: https://besttraveler.ge/ru/tury/bari-puglia-matera-italy/
 - Выезд: Из аэропорта Еревана
 - Цена: 2 600 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

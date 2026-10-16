@@ -22,6 +22,10 @@ Photo: [Steve Petty potshots](https://commons.wikimedia.org/w/index.php?curid=62
 - Departure: From Kutaisi airport
 - Price: 2,100 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

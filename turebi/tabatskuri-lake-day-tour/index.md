@@ -18,6 +18,10 @@ URL: https://besttraveler.ge/turebi/tabatskuri-lake-day-tour/
 - გასვლა: თბილისიდან, 06:00
 - ფასი: 70 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

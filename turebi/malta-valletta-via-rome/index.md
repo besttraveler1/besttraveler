@@ -26,6 +26,10 @@ URL: https://besttraveler.ge/turebi/malta-valletta-via-rome/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 4 100 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

@@ -27,6 +27,10 @@ Photo: [Ishan @seefromthesky seefromthesky](https://commons.wikimedia.org/w/inde
 - Departure: From Tbilisi airport
 - Price: 8,500 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

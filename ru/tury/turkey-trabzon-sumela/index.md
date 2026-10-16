@@ -21,6 +21,10 @@ URL: https://besttraveler.ge/ru/tury/turkey-trabzon-sumela/
 - Выезд: Из Тбилиси, 05:00
 - Цена: 470 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

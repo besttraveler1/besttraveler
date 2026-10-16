@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/ru/tury/egypt-lake-nasser-cruise-cairo-luxor/
 - Выезд: Из аэропорта Тбилиси
 - Цена: 6 650 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

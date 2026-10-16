@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/ru/tury/athens-greece-aegina/
 - Выезд: Из аэропорта Кутаиси
 - Цена: 1 200 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

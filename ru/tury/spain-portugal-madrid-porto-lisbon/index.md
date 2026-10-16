@@ -29,6 +29,10 @@ URL: https://besttraveler.ge/ru/tury/spain-portugal-madrid-porto-lisbon/
 - Выезд: Из аэропорта Кутаиси
 - Цена: 4 500 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

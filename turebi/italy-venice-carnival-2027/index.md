@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/turebi/italy-venice-carnival-2027/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 1 500 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

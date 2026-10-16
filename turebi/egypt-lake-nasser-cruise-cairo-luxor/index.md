@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/turebi/egypt-lake-nasser-cruise-cairo-luxor/
 - გასვლა: თბილისის აეროპორტიდან
 - ფასი: 6 650 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

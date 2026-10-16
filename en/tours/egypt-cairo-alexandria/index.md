@@ -20,6 +20,10 @@ Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605971),
 - Departure: From Tbilisi airport
 - Price: 2,500 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

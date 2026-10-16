@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/turebi/turkey-kars-ani-van/
 - გასვლა: თბილისიდან, 05:00
 - ფასი: 450 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

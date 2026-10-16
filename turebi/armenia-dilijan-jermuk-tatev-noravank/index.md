@@ -23,6 +23,10 @@ URL: https://besttraveler.ge/turebi/armenia-dilijan-jermuk-tatev-noravank/
 - გასვლა: თბილისიდან, 06:00
 - ფასი: 480 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

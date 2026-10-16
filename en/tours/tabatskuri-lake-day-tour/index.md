@@ -18,6 +18,10 @@ Tabatskuri is one of the most distinctive lakes in Georgia. On the way we cross 
 - Departure: From Tbilisi, 06:00
 - Price: 70 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

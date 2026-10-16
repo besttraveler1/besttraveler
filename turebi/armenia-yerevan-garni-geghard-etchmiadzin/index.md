@@ -24,6 +24,10 @@ URL: https://besttraveler.ge/turebi/armenia-yerevan-garni-geghard-etchmiadzin/
 - გასვლა: თბილისიდან, 06:00
 - ფასი: 450 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

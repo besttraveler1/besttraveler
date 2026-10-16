@@ -21,6 +21,10 @@ URL: https://besttraveler.ge/turebi/dzama-gorge-day-tour/
 - გასვლა: თბილისიდან, 08:00
 - ფასი: 60 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

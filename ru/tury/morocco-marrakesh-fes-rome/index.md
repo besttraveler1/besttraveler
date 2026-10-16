@@ -29,6 +29,10 @@ URL: https://besttraveler.ge/ru/tury/morocco-marrakesh-fes-rome/
 - Выезд: Из аэропорта Кутаиси
 - Цена: 2 200 евро
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

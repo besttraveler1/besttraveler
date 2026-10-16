@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/ru/tury/armenia-dilijan-day-tour/
 - Выезд: Из Тбилиси, 06:00
 - Цена: 150 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

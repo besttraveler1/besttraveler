@@ -20,6 +20,10 @@ A one-day tour to the Khada Gorge, starting at the confluence of the White and B
 - Departure: From Tbilisi, 07:00
 - Price: 60 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

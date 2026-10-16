@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/ru/tury/egypt-hurghada-luxor-port-said-suez-canal/
 - Выезд: Из аэропорта Тбилиси
 - Цена: 6 100 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

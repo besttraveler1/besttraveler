@@ -28,6 +28,10 @@ URL: https://besttraveler.ge/ru/tury/belgium-netherlands-brussels-amsterdam/
 - Выезд: Из аэропорта Кутаиси
 - Цена: 4 300 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

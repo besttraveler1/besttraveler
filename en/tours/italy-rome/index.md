@@ -19,6 +19,10 @@ Photo: [Julian Lupyan](https://commons.wikimedia.org/w/index.php?curid=175885773
 - Departure: From Kutaisi airport
 - Price: 2,300 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

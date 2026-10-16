@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/turebi/egypt-nile-cruise-cairo-luxor-aswan-alexandr
 - გასვლა: თბილისის აეროპორტიდან
 - ფასი: 6 550 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

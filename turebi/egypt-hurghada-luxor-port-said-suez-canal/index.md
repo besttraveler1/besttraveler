@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/turebi/egypt-hurghada-luxor-port-said-suez-canal/
 - გასვლა: თბილისის აეროპორტიდან
 - ფასი: 6 100 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

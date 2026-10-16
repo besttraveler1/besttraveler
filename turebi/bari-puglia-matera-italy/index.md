@@ -25,6 +25,10 @@ URL: https://besttraveler.ge/turebi/bari-puglia-matera-italy/
 - გასვლა: ერევნის აეროპორტიდან
 - ფასი: 2 600 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

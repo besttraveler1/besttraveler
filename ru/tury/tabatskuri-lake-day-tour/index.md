@@ -18,6 +18,10 @@ URL: https://besttraveler.ge/ru/tury/tabatskuri-lake-day-tour/
 - Выезд: Из Тбилиси, 06:00
 - Цена: 70 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

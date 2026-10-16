@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/turebi/greece-thessaloniki-meteora-athens/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 2 100 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

@@ -26,6 +26,10 @@ URL: https://besttraveler.ge/turebi/india-rajasthan-delhi-udaipur/
 - გასვლა: თბილისის აეროპორტიდან
 - ფასი: 4 800 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

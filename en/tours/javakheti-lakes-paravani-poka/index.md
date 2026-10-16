@@ -20,6 +20,10 @@ A one-day tour to the lakes of Javakheti, including Paravani, the largest lake i
 - Departure: From Tbilisi, 07:00
 - Price: 60 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

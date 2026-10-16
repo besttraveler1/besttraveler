@@ -26,6 +26,10 @@ URL: https://besttraveler.ge/turebi/turkey-van-mardin-nemrut/
 - გასვლა: თბილისიდან, 07:00
 - ფასი: 1 450 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

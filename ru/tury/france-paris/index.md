@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/ru/tury/france-paris/
 - Выезд: Из аэропорта Кутаиси
 - Цена: 2 400 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

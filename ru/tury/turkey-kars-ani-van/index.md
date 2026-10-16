@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/ru/tury/turkey-kars-ani-van/
 - Выезд: Из Тбилиси, 05:00
 - Цена: 450 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

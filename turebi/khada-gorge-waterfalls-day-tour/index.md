@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/turebi/khada-gorge-waterfalls-day-tour/
 - გასვლა: თბილისიდან, 07:00
 - ფასი: 60 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

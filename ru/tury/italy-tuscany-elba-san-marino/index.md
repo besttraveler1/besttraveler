@@ -29,6 +29,10 @@ URL: https://besttraveler.ge/ru/tury/italy-tuscany-elba-san-marino/
 - Выезд: Из аэропорта Кутаиси
 - Цена: 4 000 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

@@ -31,6 +31,10 @@ URL: https://besttraveler.ge/turebi/spain-france-andorra-barcelona/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 4 700 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

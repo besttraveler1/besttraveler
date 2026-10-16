@@ -22,6 +22,10 @@ Photo: [reesorts.com](https://commons.wikimedia.org/w/index.php?curid=91890158),
 - Departure: From Tbilisi airport
 - Price: 6,100 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

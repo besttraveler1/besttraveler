@@ -24,6 +24,10 @@ Photo: [Feridun F. Alkaya](https://commons.wikimedia.org/w/index.php?curid=91480
 - Departure: From Tbilisi, 06:00
 - Price: 1,350 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

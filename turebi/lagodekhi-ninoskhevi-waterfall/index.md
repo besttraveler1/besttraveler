@@ -17,6 +17,10 @@ URL: https://besttraveler.ge/turebi/lagodekhi-ninoskhevi-waterfall/
 - გასვლა: თბილისიდან, 07:00
 - ფასი: 60 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

@@ -25,6 +25,10 @@ Photo: [Pizzaemandolino](https://commons.wikimedia.org/w/index.php?curid=1872880
 - Departure: From Yerevan airport
 - Price: 2,600 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

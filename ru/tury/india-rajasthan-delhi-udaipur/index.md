@@ -26,6 +26,10 @@ URL: https://besttraveler.ge/ru/tury/india-rajasthan-delhi-udaipur/
 - Выезд: Из аэропорта Тбилиси
 - Цена: 4 800 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

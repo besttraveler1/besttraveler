@@ -32,6 +32,10 @@ URL: https://besttraveler.ge/ru/tury/south-spain-andalusia-gibraltar/
 - Выезд: Из аэропорта Тбилиси
 - Цена: 4 800 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

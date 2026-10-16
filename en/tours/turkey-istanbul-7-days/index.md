@@ -20,6 +20,10 @@ Photo: [Hunanuk](https://commons.wikimedia.org/w/index.php?curid=141472475), CC0
 - Departure: From Tbilisi airport
 - Price: 3,600 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

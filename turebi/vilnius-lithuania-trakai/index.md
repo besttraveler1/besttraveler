@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/turebi/vilnius-lithuania-trakai/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 1 500 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

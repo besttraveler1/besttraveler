@@ -28,6 +28,10 @@ URL: https://besttraveler.ge/ru/tury/turkey-tao-klarjeti/
 - Выезд: Из Тбилиси, 05:00
 - Цена: 480 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

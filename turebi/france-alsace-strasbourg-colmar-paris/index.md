@@ -27,6 +27,10 @@ URL: https://besttraveler.ge/turebi/france-alsace-strasbourg-colmar-paris/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 4 200 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

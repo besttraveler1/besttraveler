@@ -23,6 +23,10 @@ URL: https://besttraveler.ge/ru/tury/china-beijing-zhangjiajie-hong-kong/
 - Выезд: Из аэропорта Тбилиси
 - Цена: 3 500 долларов
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

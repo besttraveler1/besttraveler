@@ -28,6 +28,10 @@ Photo: [Gouwenaar](https://commons.wikimedia.org/w/index.php?curid=29330844), CC
 - Departure: From Kutaisi airport
 - Price: 4,300 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

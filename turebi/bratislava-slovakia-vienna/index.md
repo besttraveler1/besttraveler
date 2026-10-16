@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/turebi/bratislava-slovakia-vienna/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 1 700 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

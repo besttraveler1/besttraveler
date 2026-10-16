@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/ru/tury/bratislava-slovakia-vienna/
 - Выезд: Из аэропорта Кутаиси
 - Цена: 1 700 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

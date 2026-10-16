@@ -26,6 +26,10 @@ Photo: [Hamdigumus](https://commons.wikimedia.org/w/index.php?curid=151677849), 
 - Departure: From Tbilisi, 07:00
 - Price: 1,450 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

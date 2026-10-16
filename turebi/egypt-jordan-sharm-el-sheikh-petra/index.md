@@ -22,6 +22,10 @@ URL: https://besttraveler.ge/turebi/egypt-jordan-sharm-el-sheikh-petra/
 - გასვლა: თბილისის აეროპორტიდან
 - ფასი: 3 700 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

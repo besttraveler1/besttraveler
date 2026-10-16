@@ -27,6 +27,10 @@ URL: https://besttraveler.ge/ru/tury/france-alsace-strasbourg-colmar-paris/
 - Выезд: Из аэропорта Кутаиси
 - Цена: 4 200 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

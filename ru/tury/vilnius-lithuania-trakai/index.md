@@ -20,6 +20,10 @@ URL: https://besttraveler.ge/ru/tury/vilnius-lithuania-trakai/
 - Выезд: Из аэропорта Кутаиси
 - Цена: 1 500 лари
 
+## Маршрут на карте
+
+Карта: Natural Earth, © OpenStreetMap contributors
+
 ## Программа тура
 
 - 

@@ -20,6 +20,10 @@ A one-day minibus tour from Tbilisi to the Kvemo Kartli region. We visit old mon
 - Departure: From Tbilisi, 07:00
 - Price: 60 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

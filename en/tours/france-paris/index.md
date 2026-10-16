@@ -20,6 +20,10 @@ Photo: [Pierre Blaché from Paris, France](https://commons.wikimedia.org/w/index
 - Departure: From Kutaisi airport
 - Price: 2,400 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

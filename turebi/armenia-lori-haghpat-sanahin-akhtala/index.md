@@ -21,6 +21,10 @@ URL: https://besttraveler.ge/turebi/armenia-lori-haghpat-sanahin-akhtala/
 - გასვლა: თბილისიდან, 07:00
 - ფასი: 90 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

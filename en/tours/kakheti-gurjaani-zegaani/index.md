@@ -20,6 +20,10 @@ A one-day tour to Kakheti: a medieval fortress and monasteries, the Nato Vachnad
 - Departure: From Tbilisi, 08:00
 - Price: 60 GEL
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

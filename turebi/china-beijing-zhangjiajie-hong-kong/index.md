@@ -23,6 +23,10 @@ URL: https://besttraveler.ge/turebi/china-beijing-zhangjiajie-hong-kong/
 - გასვლა: თბილისის აეროპორტიდან
 - ფასი: 3 500 დოლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

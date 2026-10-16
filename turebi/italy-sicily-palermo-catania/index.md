@@ -29,6 +29,10 @@ URL: https://besttraveler.ge/turebi/italy-sicily-palermo-catania/
 - გასვლა: ერევნის აეროპორტიდან
 - ფასი: 5 700 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

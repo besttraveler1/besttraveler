@@ -25,6 +25,10 @@ URL: https://besttraveler.ge/turebi/sri-lanka-kandy-ella-mirissa/
 - გასვლა: თბილისის აეროპორტიდან
 - ფასი: 4 500 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

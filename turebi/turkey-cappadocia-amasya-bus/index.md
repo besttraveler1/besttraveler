@@ -24,6 +24,10 @@ URL: https://besttraveler.ge/turebi/turkey-cappadocia-amasya-bus/
 - გასვლა: თბილისიდან, 06:00
 - ფასი: 1 350 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 

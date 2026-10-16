@@ -29,6 +29,10 @@ Photo: [Jonny_Joka](https://commons.wikimedia.org/w/index.php?curid=73403558), C
 - Departure: From Kutaisi airport
 - Price: 2,200 EUR
 
+## Route on the map
+
+Map: Natural Earth, © OpenStreetMap contributors
+
 ## Tour programme
 
 - 

@@ -30,6 +30,10 @@ URL: https://besttraveler.ge/turebi/spain-barcelona-andalusia-valencia/
 - გასვლა: ქუთაისის აეროპორტიდან
 - ფასი: 4 500 ლარი
 
+## მარშრუტი რუკაზე
+
+რუკა: Natural Earth, © OpenStreetMap contributors
+
 ## ტურის პროგრამა
 
 - 
