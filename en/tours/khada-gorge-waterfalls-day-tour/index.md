@@ -15,6 +15,8 @@ A one-day tour to the Khada Gorge, starting at the confluence of the White and B
 - Tskere
 - Rostiani
 
+Photo: [franek2](https://commons.wikimedia.org/wiki/File:Khada_Rd,_Tskere,_Georgia_-_panoramio.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+
 Duration1 day
 
 DatesDates on request

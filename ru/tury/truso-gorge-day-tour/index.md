@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ru/tury/truso-gorge-day-tour/
 - Абано
 - Закагори
 
-Фото: [Sandromedia123](https://commons.wikimedia.org/w/index.php?curid=188463566), CC0
+Фото: [Alexkom000](https://commons.wikimedia.org/wiki/File:2024-08-03_Truso_Valley_2.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Длительность1 день
 

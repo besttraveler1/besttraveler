@@ -12,6 +12,8 @@ URL: https://besttraveler.ge/turebi/lagodekhi-ninoskhevi-waterfall/
 - ლაგოდეხი
 - ნინოს ხევი
 
+ფოტო: [Alexey Komarov](https://commons.wikimedia.org/wiki/File:Gurgeniani_Waterfall_2023-08-13-1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ხანგრძლივობა1 დღე
 
 თარიღებითარიღები — მოთხოვნით

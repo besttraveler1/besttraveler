@@ -16,6 +16,8 @@ A different one-day tour to the Dzama Gorge. We go up to Bateti Lake and Kvemo S
 - Shuano
 - Gorijvari
 
+Photo: [გიორგი ზედელაშვილი](https://commons.wikimedia.org/wiki/File:Bateti_lake_2.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+
 Duration1 day
 
 DatesDates on request

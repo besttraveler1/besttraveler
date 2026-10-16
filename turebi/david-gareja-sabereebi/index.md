@@ -12,7 +12,7 @@ URL: https://besttraveler.ge/turebi/david-gareja-sabereebi/
 - დავითგარეჯი
 - საბერეები
 
-ფოტო: [Orlova Maria orlovamaria](https://commons.wikimedia.org/w/index.php?curid=61868303), CC0
+ფოტო: [Vyacheslav Argenberg](https://commons.wikimedia.org/wiki/File:David_Gareja_2,_Georgia.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ხანგრძლივობა1 დღე
 

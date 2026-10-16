@@ -16,6 +16,8 @@ URL: https://besttraveler.ge/ru/tury/dzama-gorge-day-tour/
 - Шуано
 - Гориджвари
 
+Фото: [გიორგი ზედელაშვილი](https://commons.wikimedia.org/wiki/File:Bateti_lake_2.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+
 Длительность1 день
 
 ДатыДаты по запросу

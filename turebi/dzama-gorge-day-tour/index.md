@@ -16,6 +16,8 @@ URL: https://besttraveler.ge/turebi/dzama-gorge-day-tour/
 - შუანო
 - გორიჯვარი
 
+ფოტო: [გიორგი ზედელაშვილი](https://commons.wikimedia.org/wiki/File:Bateti_lake_2.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+
 ხანგრძლივობა1 დღე
 
 თარიღებითარიღები — მოთხოვნით

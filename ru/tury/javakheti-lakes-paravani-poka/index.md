@@ -15,6 +15,8 @@ URL: https://besttraveler.ge/ru/tury/javakheti-lakes-paravani-poka/
 - Гореловка
 - Мадатапа
 
+Фото: [Jelger Groeneveld](https://commons.wikimedia.org/wiki/File:Paravani_Lake,_Georgia.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+
 Длительность1 день
 
 ДатыДаты по запросу

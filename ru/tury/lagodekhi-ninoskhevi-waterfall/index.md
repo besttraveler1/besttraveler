@@ -12,6 +12,8 @@ URL: https://besttraveler.ge/ru/tury/lagodekhi-ninoskhevi-waterfall/
 - Лагодехи
 - Ниносхеви
 
+Фото: [Alexey Komarov](https://commons.wikimedia.org/wiki/File:Gurgeniani_Waterfall_2023-08-13-1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 Длительность1 день
 
 ДатыДаты по запросу

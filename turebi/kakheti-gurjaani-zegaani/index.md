@@ -15,6 +15,8 @@ URL: https://besttraveler.ge/turebi/kakheti-gurjaani-zegaani/
 - ზეგაანი
 - სანაგირე
 
+ფოტო: [გურჯაანის მუნიციპალიტეტის მერია](https://commons.wikimedia.org/wiki/File:%E1%83%92%E1%83%A3%E1%83%A0%E1%83%AF%E1%83%90%E1%83%90%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%A7%E1%83%95%E1%83%94%E1%83%9A%E1%83%90%E1%83%AC%E1%83%9B%E1%83%98%E1%83%9C%E1%83%93%E1%83%90_(9).jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ხანგრძლივობა1 დღე
 
 თარიღებითარიღები — მოთხოვნით

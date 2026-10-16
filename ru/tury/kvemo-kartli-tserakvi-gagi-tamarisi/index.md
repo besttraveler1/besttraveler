@@ -15,6 +15,8 @@ URL: https://besttraveler.ge/ru/tury/kvemo-kartli-tserakvi-gagi-tamarisi/
 - Монастырь царицы Кетеван
 - Шавнабада
 
+Фото: [Giorgi13](https://commons.wikimedia.org/wiki/File:GagiFortress2.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 Длительность1 день
 
 ДатыДаты по запросу

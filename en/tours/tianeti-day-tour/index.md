@@ -14,6 +14,8 @@ A one-day tour to the Tianeti area: monasteries and churches, a bear shelter, Er
 - Ertso
 - Sioni Lake
 
+Photo: [Tamar kurtanidze](https://commons.wikimedia.org/wiki/File:%E1%83%9B%E1%83%90%E1%83%9B%E1%83%99%E1%83%9D%E1%83%93%E1%83%98%E1%83%A1_%E1%83%A6%E1%83%95%E1%83%97%E1%83%98%E1%83%A1%E1%83%9B%E1%83%A8%E1%83%9D%E1%83%91%E1%83%9A%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%90%E1%83%AE%E1%83%94%E1%83%9A%E1%83%9D%E1%83%91%E1%83%98%E1%83%A1_%E1%83%94%E1%83%99%E1%83%9A%E1%83%94%E1%83%A1%E1%83%98%E1%83%90_02.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 Duration1 day
 
 DatesDates on request

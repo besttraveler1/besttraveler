@@ -12,7 +12,7 @@ The Sabereebi complex dates from the 9th–10th centuries. The rock-cut monaster
 - David Gareja
 - Sabereebi
 
-Photo: [Orlova Maria orlovamaria](https://commons.wikimedia.org/w/index.php?curid=61868303), CC0
+Photo: [Vyacheslav Argenberg](https://commons.wikimedia.org/wiki/File:David_Gareja_2,_Georgia.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Duration1 day
 

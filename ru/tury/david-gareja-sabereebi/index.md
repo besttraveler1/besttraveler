@@ -12,7 +12,7 @@ URL: https://besttraveler.ge/ru/tury/david-gareja-sabereebi/
 - Давид Гареджи
 - Сабереби
 
-Фото: [Orlova Maria orlovamaria](https://commons.wikimedia.org/w/index.php?curid=61868303), CC0
+Фото: [Vyacheslav Argenberg](https://commons.wikimedia.org/wiki/File:David_Gareja_2,_Georgia.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Длительность1 день
 

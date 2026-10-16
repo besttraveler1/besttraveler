@@ -12,6 +12,8 @@ A one-day tour to Lagodekhi Reserve, up the Ninoskhevi gorge to the Gurgeniani w
 - Lagodekhi
 - Ninoskhevi
 
+Photo: [Alexey Komarov](https://commons.wikimedia.org/wiki/File:Gurgeniani_Waterfall_2023-08-13-1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 Duration1 day
 
 DatesDates on request

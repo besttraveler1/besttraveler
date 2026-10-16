@@ -16,6 +16,8 @@ URL: https://besttraveler.ge/ru/tury/armenia-lori-haghpat-sanahin-akhtala/
 - Кобайр
 - Алаверди
 
+Фото: [Diego Delso](https://commons.wikimedia.org/wiki/File:Monasterio_de_Haghpat,_Armenia,_2016-09-30,_DD_19.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 Длительность1 день
 
 ДатыДаты по запросу

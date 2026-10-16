@@ -13,6 +13,8 @@ Tabatskuri is one of the most distinctive lakes in Georgia. On the way we cross 
 - Tabatskuri
 - Timotesubani
 
+Photo: [ZeevoX](https://commons.wikimedia.org/wiki/File:Tabatskuri_Village_and_Lake.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 Duration1 day
 
 DatesDates on request

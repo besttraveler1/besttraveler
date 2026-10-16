@@ -16,6 +16,8 @@ URL: https://besttraveler.ge/turebi/armenia-lori-haghpat-sanahin-akhtala/
 - ქობაირი
 - ალავერდი
 
+ფოტო: [Diego Delso](https://commons.wikimedia.org/wiki/File:Monasterio_de_Haghpat,_Armenia,_2016-09-30,_DD_19.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ხანგრძლივობა1 დღე
 
 თარიღებითარიღები — მოთხოვნით

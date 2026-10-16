@@ -15,6 +15,8 @@ URL: https://besttraveler.ge/turebi/khada-gorge-waterfalls-day-tour/
 - წკერე
 - როსტიანი
 
+ფოტო: [franek2](https://commons.wikimedia.org/wiki/File:Khada_Rd,_Tskere,_Georgia_-_panoramio.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+
 ხანგრძლივობა1 დღე
 
 თარიღებითარიღები — მოთხოვნით

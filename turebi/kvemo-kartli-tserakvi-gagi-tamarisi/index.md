@@ -15,6 +15,8 @@ URL: https://besttraveler.ge/turebi/kvemo-kartli-tserakvi-gagi-tamarisi/
 - ქეთევან დედოფლის მონასტერი
 - შავნაბადა
 
+ფოტო: [Giorgi13](https://commons.wikimedia.org/wiki/File:GagiFortress2.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ხანგრძლივობა1 დღე
 
 თარიღებითარიღები — მოთხოვნით

@@ -15,6 +15,8 @@ URL: https://besttraveler.ge/turebi/javakheti-lakes-paravani-poka/
 - გორელოვკა
 - მადათაფა
 
+ფოტო: [Jelger Groeneveld](https://commons.wikimedia.org/wiki/File:Paravani_Lake,_Georgia.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+
 ხანგრძლივობა1 დღე
 
 თარიღებითარიღები — მოთხოვნით

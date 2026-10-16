@@ -15,6 +15,8 @@ A one-day minibus tour from Tbilisi to the Kvemo Kartli region. We visit old mon
 - Queen Ketevan Convent
 - Shavnabada
 
+Photo: [Giorgi13](https://commons.wikimedia.org/wiki/File:GagiFortress2.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 Duration1 day
 
 DatesDates on request

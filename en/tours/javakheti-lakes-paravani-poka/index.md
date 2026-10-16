@@ -15,6 +15,8 @@ A one-day tour to the lakes of Javakheti, including Paravani, the largest lake i
 - Gorelovka
 - Madatapa
 
+Photo: [Jelger Groeneveld](https://commons.wikimedia.org/wiki/File:Paravani_Lake,_Georgia.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+
 Duration1 day
 
 DatesDates on request

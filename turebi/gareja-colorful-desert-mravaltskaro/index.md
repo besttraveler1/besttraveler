@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/turebi/gareja-colorful-desert-mravaltskaro/
 - ფერადი მთები
 - მრავალწყარო
 
-ფოტო: [Orlova Maria orlovamaria](https://commons.wikimedia.org/w/index.php?curid=61868303), CC0
+ფოტო: [Anri137](https://commons.wikimedia.org/wiki/File:%E1%B2%9B%E1%83%A0%E1%83%90%E1%83%95%E1%83%90%E1%83%9A%E1%83%AC%E1%83%A7%E1%83%90%E1%83%A0%E1%83%9D%E1%83%A1_%E1%83%AD%E1%83%A0%E1%83%94%E1%83%9A%E1%83%98_%E1%83%A3%E1%83%93%E1%83%90%E1%83%91%E1%83%9C%E1%83%9D%E1%83%94%E1%83%91%E1%83%98,_%E1%83%92%E1%83%90%E1%83%A0%E1%83%93%E1%83%90%E1%83%91%E1%83%90%E1%83%9C%E1%83%98.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ხანგრძლივობა1 დღე
 

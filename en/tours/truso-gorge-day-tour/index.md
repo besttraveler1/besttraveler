@@ -14,7 +14,7 @@ A one-day tour to the Truso Gorge. The walk is 6–7 km one way and easy.
 - Abano
 - Zakagori
 
-Photo: [Sandromedia123](https://commons.wikimedia.org/w/index.php?curid=188463566), CC0
+Photo: [Alexkom000](https://commons.wikimedia.org/wiki/File:2024-08-03_Truso_Valley_2.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 Duration1 day
 

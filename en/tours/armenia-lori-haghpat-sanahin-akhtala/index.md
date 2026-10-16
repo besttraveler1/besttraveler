@@ -16,6 +16,8 @@ A one-day tour to the Lori region of Armenia with medieval Georgian and Armenian
 - Kobayr
 - Alaverdi
 
+Photo: [Diego Delso](https://commons.wikimedia.org/wiki/File:Monasterio_de_Haghpat,_Armenia,_2016-09-30,_DD_19.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 Duration1 day
 
 DatesDates on request

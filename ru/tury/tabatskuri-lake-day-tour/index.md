@@ -13,6 +13,8 @@ URL: https://besttraveler.ge/ru/tury/tabatskuri-lake-day-tour/
 - Табацкури
 - Тимотесубани
 
+Фото: [ZeevoX](https://commons.wikimedia.org/wiki/File:Tabatskuri_Village_and_Lake.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 Длительность1 день
 
 ДатыДаты по запросу
