@@ -25,7 +25,7 @@ URL: https://besttraveler.ge/turebi/turkey-istanbul-7-days/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

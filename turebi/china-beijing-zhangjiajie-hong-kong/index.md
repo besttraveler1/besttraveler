@@ -28,7 +28,7 @@ URL: https://besttraveler.ge/turebi/china-beijing-zhangjiajie-hong-kong/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

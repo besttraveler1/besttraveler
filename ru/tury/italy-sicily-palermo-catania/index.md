@@ -34,7 +34,7 @@ URL: https://besttraveler.ge/ru/tury/italy-sicily-palermo-catania/
 
 ## Маршрут на карте
 
-Карта: Natural Earth, © OpenStreetMap contributors
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Программа тура
 

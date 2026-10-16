@@ -25,7 +25,7 @@ URL: https://besttraveler.ge/ru/tury/france-paris/
 
 ## Маршрут на карте
 
-Карта: Natural Earth, © OpenStreetMap contributors
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Программа тура
 

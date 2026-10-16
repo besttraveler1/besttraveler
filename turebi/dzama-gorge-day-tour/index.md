@@ -28,7 +28,7 @@ URL: https://besttraveler.ge/turebi/dzama-gorge-day-tour/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

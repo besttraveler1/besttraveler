@@ -32,7 +32,7 @@ URL: https://besttraveler.ge/turebi/france-alsace-strasbourg-colmar-paris/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

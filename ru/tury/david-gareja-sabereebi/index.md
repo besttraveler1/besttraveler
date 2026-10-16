@@ -24,7 +24,7 @@ URL: https://besttraveler.ge/ru/tury/david-gareja-sabereebi/
 
 ## Маршрут на карте
 
-Карта: Natural Earth, © OpenStreetMap contributors
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Программа тура
 

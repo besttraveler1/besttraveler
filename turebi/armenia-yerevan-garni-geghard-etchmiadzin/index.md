@@ -29,7 +29,7 @@ URL: https://besttraveler.ge/turebi/armenia-yerevan-garni-geghard-etchmiadzin/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

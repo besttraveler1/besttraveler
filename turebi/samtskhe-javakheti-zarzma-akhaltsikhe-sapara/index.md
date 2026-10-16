@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/turebi/samtskhe-javakheti-zarzma-akhaltsikhe-sapara
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

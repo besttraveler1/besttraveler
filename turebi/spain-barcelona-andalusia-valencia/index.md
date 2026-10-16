@@ -35,7 +35,7 @@ URL: https://besttraveler.ge/turebi/spain-barcelona-andalusia-valencia/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

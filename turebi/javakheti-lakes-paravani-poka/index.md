@@ -27,7 +27,7 @@ URL: https://besttraveler.ge/turebi/javakheti-lakes-paravani-poka/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

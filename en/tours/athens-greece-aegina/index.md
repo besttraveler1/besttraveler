@@ -25,7 +25,7 @@ Price1,200 GEL
 
 ## Route on the map
 
-Map: Natural Earth, © OpenStreetMap contributors
+Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Tour programme
 

@@ -31,7 +31,7 @@ URL: https://besttraveler.ge/ru/tury/turkey-van-mardin-nemrut/
 
 ## Маршрут на карте
 
-Карта: Natural Earth, © OpenStreetMap contributors
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Программа тура
 

@@ -40,7 +40,7 @@ URL: https://besttraveler.ge/turebi/five-countries-alps-switzerland-france-germa
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

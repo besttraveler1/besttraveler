@@ -125,6 +125,84 @@
     maps.forEach(function (m) { m.classList.add('anim'); io.observe(m); });
   }
 
+  // Interactive tour map (MapLibre + OpenFreeMap), loaded only when the map comes near the screen
+  var mboxes = $$('.mapbox[data-imap]');
+  if (mboxes.length && 'IntersectionObserver' in window) {
+    var mlLoad = null;
+    var loadML = function () {
+      if (mlLoad) return mlLoad;
+      mlLoad = new Promise(function (ok, bad) {
+        var l = d.createElement('link'); l.rel = 'stylesheet'; l.href = '/assets/vendor/maplibre-gl.css'; d.head.appendChild(l);
+        var sc = d.createElement('script'); sc.src = '/assets/vendor/maplibre-gl.js'; sc.onload = ok; sc.onerror = bad; d.head.appendChild(sc);
+      });
+      return mlLoad;
+    };
+    var dark = function () {
+      var t = root.getAttribute('data-theme');
+      return t ? t === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+    };
+    var still = matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var initMap = function (box) {
+      var D = JSON.parse(box.getAttribute('data-imap')), ml = window.maplibregl;
+      var holder = d.createElement('div'); holder.className = 'imap'; box.appendChild(holder);
+      var b = new ml.LngLatBounds();
+      D.line.forEach(function (c) { b.extend(c); });
+      var map = new ml.Map({ container: holder, style: 'https://tiles.openfreemap.org/styles/' + (dark() ? 'dark' : 'liberty'),
+        bounds: b, fitBoundsOptions: { padding: 60, maxZoom: 10 }, cooperativeGestures: true, attributionControl: { compact: true } });
+      map.addControl(new ml.NavigationControl({ showCompass: false }), 'top-right');
+      map.on('load', function () {
+        map.getStyle().layers.forEach(function (ly) {
+          if (ly.type === 'symbol' && ly.layout && ly.layout['text-field'])
+            map.setLayoutProperty(ly.id, 'text-field', ['coalesce', ['get', 'name:' + D.lang], ['get', 'name']]);
+        });
+        map.addSource('route', { type: 'geojson', data: { type: 'Feature', geometry: { type: 'LineString', coordinates: [D.line[0]] } } });
+        map.addLayer({ id: 'route-casing', type: 'line', source: 'route', paint: { 'line-color': '#ffffff', 'line-width': 7, 'line-opacity': .85 }, layout: { 'line-cap': 'round', 'line-join': 'round' } });
+        map.addLayer({ id: 'route', type: 'line', source: 'route', paint: { 'line-color': '#6d28d9', 'line-width': 3.5, 'line-dasharray': [1.2, 1.6] }, layout: { 'line-cap': 'round', 'line-join': 'round' } });
+        box.classList.add('live');
+        // pins
+        var pins = D.pins.map(function (p, i) {
+          var el = d.createElement('div'); el.className = 'mpin';
+          el.innerHTML = '<b>' + (i + 1) + '</b><span></span>'; el.lastChild.textContent = p[2];
+          var mk = new ml.Marker({ element: el, anchor: 'left', offset: [-13, 0] }).setLngLat([p[1], p[0]]).addTo(map);
+          return { el: el, lng: p[1], lat: p[0] };
+        });
+        var bus = d.createElement('div'); bus.className = 'mbus';
+        bus.innerHTML = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 6v6M15 6v6M2 12h19.6M18 18h3s.5-1.7.8-2.8c.1-.4.2-.8.2-1.2 0-.4-.1-.8-.2-1.2l-1.4-5C20.1 6.8 19.1 6 18 6H4a2 2 0 0 0-2 2v10h3"/><circle cx="7" cy="18" r="2"/><path d="M9 18h5"/><circle cx="16" cy="18" r="2"/></svg>';
+        var busM = new ml.Marker({ element: bus }).setLngLat(D.line[0]).addTo(map);
+        // animation along the route
+        var L = D.line, seg = [], tot = 0;
+        for (var i = 1; i < L.length; i++) { var dd = Math.hypot(L[i][0] - L[i - 1][0], L[i][1] - L[i - 1][1]); seg.push(dd); tot += dd; }
+        var dur = still ? 0 : 3200, t0 = null;
+        var reached = function (lng, lat) {
+          pins.forEach(function (p) { if (Math.abs(p.lng - lng) < 0.05 && Math.abs(p.lat - lat) < 0.04) p.el.classList.add('on'); });
+        };
+        reached(L[0][0], L[0][1]);
+        var step = function (ts) {
+          if (t0 === null) t0 = ts;
+          var f = dur ? Math.min(1, (ts - t0) / dur) : 1, want = f * tot, acc = 0, coords = [L[0]], pos = L[0];
+          for (var j = 0; j < seg.length; j++) {
+            if (acc + seg[j] <= want) { acc += seg[j]; coords.push(L[j + 1]); reached(L[j + 1][0], L[j + 1][1]); pos = L[j + 1]; continue; }
+            var k = seg[j] ? (want - acc) / seg[j] : 0;
+            pos = [L[j][0] + (L[j + 1][0] - L[j][0]) * k, L[j][1] + (L[j + 1][1] - L[j][1]) * k];
+            coords.push(pos); break;
+          }
+          map.getSource('route').setData({ type: 'Feature', geometry: { type: 'LineString', coordinates: coords } });
+          busM.setLngLat(pos);
+          if (f < 1) requestAnimationFrame(step); else { pins.forEach(function (p) { p.el.classList.add('on'); }); bus.classList.add('done'); }
+        };
+        requestAnimationFrame(step);
+      });
+    };
+    var mio = new IntersectionObserver(function (ents) {
+      ents.forEach(function (en) {
+        if (!en.isIntersecting) return;
+        mio.unobserve(en.target);
+        loadML().then(function () { initMap(en.target); }).catch(function () {});
+      });
+    }, { rootMargin: '300px' });
+    mboxes.forEach(function (m) { mio.observe(m); });
+  }
+
   // Lottie animations: desktop only, loaded after the page is ready, off for reduced motion
   var lts = $$('[data-lottie]');
   if (lts.length && matchMedia('(min-width: 1000px)').matches && !matchMedia('(prefers-reduced-motion: reduce)').matches) {
@@ -133,9 +211,17 @@
       sc.src = '/assets/vendor/lottie_light.min.js';
       sc.onload = function () {
         lts.forEach(function (el) {
-          window.lottie.loadAnimation({ container: el, renderer: 'svg', loop: true, autoplay: true, path: el.getAttribute('data-lottie'),
+          var once = el.hasAttribute('data-once');
+          var an = window.lottie.loadAnimation({ container: el, renderer: 'svg', loop: !once, autoplay: !once, path: el.getAttribute('data-lottie'),
             rendererSettings: { preserveAspectRatio: 'xMidYMid meet', progressiveLoad: true } });
           el.classList.add('on');
+          if (once) {
+            // play one time when it scrolls into view, then stay on the last frame
+            var io2 = new IntersectionObserver(function (es) {
+              if (es[0].isIntersecting) { io2.disconnect(); an.play(); }
+            }, { threshold: .5 });
+            an.addEventListener('DOMLoaded', function () { io2.observe(el); });
+          }
         });
       };
       d.head.appendChild(sc);

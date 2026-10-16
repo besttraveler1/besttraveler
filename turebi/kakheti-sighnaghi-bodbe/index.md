@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/turebi/kakheti-sighnaghi-bodbe/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

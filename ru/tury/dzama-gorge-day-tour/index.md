@@ -28,7 +28,7 @@ URL: https://besttraveler.ge/ru/tury/dzama-gorge-day-tour/
 
 ## Маршрут на карте
 
-Карта: Natural Earth, © OpenStreetMap contributors
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Программа тура
 

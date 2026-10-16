@@ -24,7 +24,7 @@ URL: https://besttraveler.ge/turebi/david-gareja-sabereebi/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

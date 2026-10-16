@@ -34,7 +34,7 @@ URL: https://besttraveler.ge/turebi/morocco-marrakesh-fes-rome/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

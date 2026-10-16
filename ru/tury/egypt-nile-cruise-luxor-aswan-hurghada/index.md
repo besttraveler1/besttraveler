@@ -29,7 +29,7 @@ URL: https://besttraveler.ge/ru/tury/egypt-nile-cruise-luxor-aswan-hurghada/
 
 ## Маршрут на карте
 
-Карта: Natural Earth, © OpenStreetMap contributors
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Программа тура
 

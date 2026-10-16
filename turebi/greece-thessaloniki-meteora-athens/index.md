@@ -27,7 +27,7 @@ URL: https://besttraveler.ge/turebi/greece-thessaloniki-meteora-athens/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

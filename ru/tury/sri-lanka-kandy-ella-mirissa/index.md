@@ -30,7 +30,7 @@ URL: https://besttraveler.ge/ru/tury/sri-lanka-kandy-ella-mirissa/
 
 ## Маршрут на карте
 
-Карта: Natural Earth, © OpenStreetMap contributors
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Программа тура
 

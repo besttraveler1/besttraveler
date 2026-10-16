@@ -27,7 +27,7 @@ URL: https://besttraveler.ge/ru/tury/egypt-jordan-sharm-el-sheikh-petra/
 
 ## Маршрут на карте
 
-Карта: Natural Earth, © OpenStreetMap contributors
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Программа тура
 

@@ -36,7 +36,7 @@ URL: https://besttraveler.ge/ru/tury/netherlands-germany-tulip-festival/
 
 ## Маршрут на карте
 
-Карта: Natural Earth, © OpenStreetMap contributors
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Программа тура
 

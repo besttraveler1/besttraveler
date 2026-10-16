@@ -29,7 +29,7 @@ URL: https://besttraveler.ge/turebi/egypt-nile-cruise-luxor-aswan-hurghada/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

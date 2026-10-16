@@ -36,7 +36,7 @@ URL: https://besttraveler.ge/turebi/spain-france-andorra-barcelona/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

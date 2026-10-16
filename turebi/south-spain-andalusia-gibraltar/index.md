@@ -37,7 +37,7 @@ URL: https://besttraveler.ge/turebi/south-spain-andalusia-gibraltar/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

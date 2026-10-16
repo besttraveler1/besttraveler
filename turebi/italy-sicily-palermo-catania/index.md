@@ -34,7 +34,7 @@ URL: https://besttraveler.ge/turebi/italy-sicily-palermo-catania/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

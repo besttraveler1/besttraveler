@@ -28,7 +28,7 @@ URL: https://besttraveler.ge/ru/tury/china-beijing-zhangjiajie-hong-kong/
 
 ## Маршрут на карте
 
-Карта: Natural Earth, © OpenStreetMap contributors
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Программа тура
 

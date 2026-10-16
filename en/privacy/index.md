@@ -16,6 +16,8 @@ The website does not collect or store personal data. The request form does not s
 
 We do not use advertising or tracking cookies. Your browser only remembers the theme you chose (light or dark).
 
+When a tour map is shown, your browser loads map tiles from OpenFreeMap (tiles.openfreemap.org). OpenFreeMap does not use cookies.
+
 ## Contact
 
 Questions about data: info@besttraveler.ge

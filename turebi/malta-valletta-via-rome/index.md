@@ -31,7 +31,7 @@ URL: https://besttraveler.ge/turebi/malta-valletta-via-rome/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

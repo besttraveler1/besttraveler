@@ -35,7 +35,7 @@ URL: https://besttraveler.ge/ru/tury/spain-barcelona-andalusia-valencia/
 
 ## Маршрут на карте
 
-Карта: Natural Earth, © OpenStreetMap contributors
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Программа тура
 

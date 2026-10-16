@@ -34,7 +34,7 @@ URL: https://besttraveler.ge/turebi/italy-tuscany-elba-san-marino/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

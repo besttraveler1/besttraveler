@@ -483,3 +483,16 @@ html[lang=ka] .answer b{text-transform:none;letter-spacing:0}
   .stepwrap .steps{grid-template-columns:1fr}
 }
 @media (min-width:1000px){.hero h1{font-size:clamp(34px,3.6vw,48px)}.hero .stats{margin-left:0;max-width:none}}
+
+/* interactive map */
+.mapbox{position:relative;aspect-ratio:800/460}
+.mapbox>.rmap{position:absolute;inset:0;width:100%;height:100%}
+.imap,.imap.maplibregl-map{position:absolute!important;inset:0;width:100%;height:100%}
+.mapbox.live>.rmap{visibility:hidden}
+.mpin{display:flex;align-items:center;gap:6px;opacity:0;transform:scale(.4);transform-origin:13px 50%;transition:opacity .3s,transform .35s cubic-bezier(.3,1.6,.6,1);pointer-events:none}
+.mpin.on{opacity:1;transform:none}
+.mpin b{display:inline-flex;align-items:center;justify-content:center;width:26px;height:26px;border-radius:50%;background:#6d28d9;color:#fff;font:700 12px var(--font);border:3px solid #fff;box-shadow:0 2px 6px rgb(0 0 0 / .25)}
+.mpin span{background:rgb(255 255 255 / .92);color:#18181b;font:600 12.5px var(--font);padding:2px 7px;border-radius:7px;white-space:nowrap;box-shadow:0 1px 3px rgb(0 0 0 / .15)}
+.mbus{display:flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;background:#fff;color:#6d28d9;border:2px solid #6d28d9;box-shadow:0 2px 8px rgb(0 0 0 / .25);transition:opacity .4s}
+.mbus.done{opacity:0}
+.maplibregl-ctrl-attrib{font-size:11px}

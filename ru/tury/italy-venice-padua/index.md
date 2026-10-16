@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/tury/italy-venice-padua/
 
 ## Маршрут на карте
 
-Карта: Natural Earth, © OpenStreetMap contributors
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Программа тура
 

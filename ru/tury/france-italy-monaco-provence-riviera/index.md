@@ -35,7 +35,7 @@ URL: https://besttraveler.ge/ru/tury/france-italy-monaco-provence-riviera/
 
 ## Маршрут на карте
 
-Карта: Natural Earth, © OpenStreetMap contributors
+Карта: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Программа тура
 

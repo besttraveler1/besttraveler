@@ -33,7 +33,7 @@ URL: https://besttraveler.ge/turebi/turkey-tao-klarjeti/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

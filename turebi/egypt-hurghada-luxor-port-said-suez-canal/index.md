@@ -27,7 +27,7 @@ URL: https://besttraveler.ge/turebi/egypt-hurghada-luxor-port-said-suez-canal/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

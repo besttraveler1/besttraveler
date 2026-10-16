@@ -30,7 +30,7 @@ URL: https://besttraveler.ge/turebi/sri-lanka-kandy-ella-mirissa/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

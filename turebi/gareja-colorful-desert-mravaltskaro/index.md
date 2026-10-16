@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/turebi/gareja-colorful-desert-mravaltskaro/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 

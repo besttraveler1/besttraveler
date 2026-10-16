@@ -25,7 +25,7 @@ URL: https://besttraveler.ge/turebi/italy-venice-carnival-2027/
 
 ## მარშრუტი რუკაზე
 
-რუკა: Natural Earth, © OpenStreetMap contributors
+რუკა: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## ტურის პროგრამა
 
