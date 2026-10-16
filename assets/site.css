@@ -524,7 +524,6 @@ html[lang=ka] .combo-g{text-transform:none;letter-spacing:0}
   .hlt{display:grid;grid-template-columns:minmax(0,1fr) 260px;gap:32px;align-items:center}
   .page-lt{display:block;width:260px;aspect-ratio:1/1;opacity:0;transition:opacity .6s}
 }
-@media (min-width:1000px){.hlt-train{grid-template-columns:minmax(0,1fr) 380px}.hlt-train .page-lt{width:380px;aspect-ratio:2/1}}
 
 .ccs{display:grid;gap:16px;grid-template-columns:1fr}
 @media (min-width:700px){.ccs{grid-template-columns:repeat(2,1fr)}}
@@ -550,10 +549,14 @@ html[lang=ka] .combo-g{text-transform:none;letter-spacing:0}
 .nf-pin{display:inline-flex;width:92px;height:92px;align-items:center;justify-content:center;border-radius:50%;background:var(--brand-soft)}
 .nf-pin .ico{width:54px;height:54px;stroke-width:1.8;animation:nfb 2.4s ease-in-out infinite}
 @keyframes nfb{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
-@media (min-width:1000px){.hlt-fun{grid-template-columns:minmax(0,1fr) 320px}.hlt-fun .page-lt{width:320px;aspect-ratio:5/4}}
 
 .hpills{display:flex;flex-wrap:wrap;gap:8px;list-style:none;padding:0;margin:4px 0 0}
 .hpills li{display:inline-flex;align-items:center;gap:8px;padding:7px 13px;border-radius:999px;background:var(--card);border:1px solid var(--border);font-size:14.5px;font-weight:600}
 .hpills .ico{width:18px;height:18px;color:var(--brand-text)}
-@media (min-width:1000px){.hlt-world{grid-template-columns:minmax(0,1fr) 400px}.hlt-world .page-lt{width:400px;aspect-ratio:16/9}}
-@media (min-width:1000px){.hlt-compass{grid-template-columns:minmax(0,1fr) 340px}.hlt-compass .page-lt{width:340px;aspect-ratio:16/9}}
+
+/* page-header animations: same height everywhere, width follows the animation */
+@media (min-width:1000px){
+  .hlt{grid-template-columns:minmax(0,1fr) auto}
+  .page-lt{height:200px;width:300px;aspect-ratio:auto}
+  .hlt-world .page-lt{width:340px}
+}
