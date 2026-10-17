@@ -20,7 +20,7 @@ DatesOn request
 
 DepartureBatumi
 
-PricePrice on request
+PriceOn request
 
 ## Tour programme
 
@@ -48,15 +48,11 @@ We will tell you the dates and free places by phone or WhatsApp.
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: Price on request
+Price and dates: On request
 
-## Dates
+Message or call us — we will agree the price, date and programme together.
 
-Dates
-
-Dates on request
-
-[Book a place](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour%3A%20Martvili%20and%20Okatse%20canyons%20trip%20from%20Batumi)[579 57 56 36](tel:+995579575636)[Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
+[Ask the price](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour%3A%20Martvili%20and%20Okatse%20canyons%20trip%20from%20Batumi)[579 57 56 36](tel:+995579575636)[Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
 ## Similar tours
 
