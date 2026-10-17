@@ -118,6 +118,12 @@ Booking: a deposit holds a place; the rest is paid 15 days before the tour; mone
 - [Entering Armenia from Georgia: ID Card or Passport?](https://besttraveler.ge/en/blog/armenia-entry-from-georgia-id-or-passport/): Georgian citizens do not need a visa for Armenia. Under an agreement in force since 2023, you can enter Armenia with a biometric ID card through an international border checkpoint, or with your passport. Armenia's Ministry of Foreign Affairs says visa-free foreigners may stay no more than 180 days in a year, unless an international agreement sets a different term.
 - [Schengen Without a Visa for Georgians: 90/180, Documents, ETIAS](https://besttraveler.ge/en/blog/schengen-visa-free-for-georgians/): Georgian citizens with an ordinary biometric passport do not need a visa for short stays in the Schengen area: up to 90 days in any 180-day period. Since March 2026 the visa exemption has been suspended only for diplomatic, service and official passports. As of October 2026 ETIAS is not yet in operation and no start date has been announced.
 
+## Other languages
+
+- Georgian (main language): [ყველა ტური — ფასები, თარიღები, პროგრამა](https://besttraveler.ge/ka/turebi/), [ბლოგი](https://besttraveler.ge/ka/blogi/), [კონტაქტი — დაჯავშნეთ ტური](https://besttraveler.ge/ka/kontakti/)
+- Russian: [Все туры — цены, даты и программы](https://besttraveler.ge/ru/tury/), [Блог](https://besttraveler.ge/ru/blog/), [Контакты — забронировать тур](https://besttraveler.ge/ru/kontakty/)
+- Every page has a Markdown copy at <page URL>index.md, and links to its Georgian/Russian/English versions.
+
 ## Full text
 
 - [llms-full.txt](https://besttraveler.ge/llms-full.txt): every tour with full programme (English).
