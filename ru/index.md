@@ -13,9 +13,9 @@ URL: https://besttraveler.ge/ru/
 [Смотреть туры](https://besttraveler.ge/ru/tury/)
 [Написать в WhatsApp](https://wa.me/995579575636?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D1%82%D1%83%D1%80)
 
-- 75туров
+- 81туров
 - 26стран
-- 28однодневных туров
+- 34однодневных туров
 - от 60 ₾однодневные туры
 
 - [Египет](https://besttraveler.ge/ru/napravleniya/egipet/)
@@ -34,7 +34,7 @@ URL: https://besttraveler.ge/ru/
 
 ### Многодневные на автобусе
 
-Турция и Армения — от 2 до 7 дней, из Тбилиси.](https://besttraveler.ge/ru/tury/#bus)[28 туров 
+Турция и Армения — от 2 до 7 дней, из Тбилиси.](https://besttraveler.ge/ru/tury/#bus)[34 туров 
 
 ### Однодневные туры
 
@@ -120,7 +120,7 @@ URL: https://besttraveler.ge/ru/
 
 [Направления](https://besttraveler.ge/ru/napravleniya/)
 
-[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 6 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 4 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 5 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Греция 2 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 4 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 32 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
+[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 6 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 4 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 5 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Греция 2 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 4 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 38 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
 
 ## Почему besttraveler
 

@@ -13,9 +13,9 @@ Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 22 more 
 [See tours](https://besttraveler.ge/en/tours/)
 [Message us on WhatsApp](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour)
 
-- 75tours
+- 81tours
 - 26countries
-- 28day tours
+- 34day tours
 - from 60 ₾day tours
 
 - [Egypt](https://besttraveler.ge/en/destinations/egypt/)
@@ -34,7 +34,7 @@ Flights, hotels and an escort — Europe, Egypt and Asia.](https://besttraveler.
 
 ### Multi-day by bus
 
-Turkey and Armenia — 2 to 7 days, from Tbilisi.](https://besttraveler.ge/en/tours/#bus)[28 tours 
+Turkey and Armenia — 2 to 7 days, from Tbilisi.](https://besttraveler.ge/en/tours/#bus)[34 tours 
 
 ### Day tours
 
@@ -120,7 +120,7 @@ View tour
 
 [Destinations](https://besttraveler.ge/en/destinations/)
 
-[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 8 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 6 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 4 tours](https://besttraveler.ge/en/destinations/spain/)[France 5 tours](https://besttraveler.ge/en/destinations/france/)[Greece 2 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 4 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 32 tours](https://besttraveler.ge/en/destinations/georgia/)
+[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 8 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 6 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 4 tours](https://besttraveler.ge/en/destinations/spain/)[France 5 tours](https://besttraveler.ge/en/destinations/france/)[Greece 2 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 4 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 38 tours](https://besttraveler.ge/en/destinations/georgia/)
 
 ## Why besttraveler
 

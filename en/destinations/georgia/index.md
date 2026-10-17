@@ -8,7 +8,7 @@ URL: https://besttraveler.ge/en/destinations/georgia/
 
 One-day tours from Tbilisi by minibus: Kakheti, Kazbegi, Truso, David Gareja, Javakheti, Lagodekhi and more.
 
-- 32 tours
+- 38 tours
 - from 60 ₾
 - 1 day
 
@@ -88,6 +88,18 @@ View tour
 
 Day tour
 
+### [Batumi city tour and Botanical Garden](https://besttraveler.ge/en/tours/batumi-city-tour-botanical-garden/)
+
+1 dayGeorgia
+
+Old Boulevard, Europe Square, Piazza, Ali and Nino and the Botanical Garden at Green Cape.
+
+Price on request
+
+View tour 
+
+Day tour
+
 ### [Birtvisi fortress and canyon hike](https://besttraveler.ge/en/tours/birtvisi-canyon-hike/)
 
 1 dayGeorgia
@@ -155,6 +167,18 @@ Day tour
 Fortresses and monasteries of the Dzama Gorge, Bateti Lake and Mount Shuano in one day.
 
 per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Gonio, Kvariati and Sarpi trip from Batumi](https://besttraveler.ge/en/tours/gonio-kvariati-sarpi-trip-from-batumi/)
+
+1 dayGeorgia
+
+The Roman-era Gonio Fortress, the Kvariati seaside and Sarpi on the border with Turkey.
+
+Price on request
 
 View tour 
 
@@ -328,11 +352,59 @@ View tour
 
 Day tour
 
+### [Martvili and Okatse canyons trip from Batumi](https://besttraveler.ge/en/tours/martvili-okatse-canyons-from-batumi/)
+
+1 dayGeorgia
+
+Martvili Canyon and Okatse Canyon with its hanging walkway — a day trip from Batumi.
+
+Price on request
+
+View tour 
+
+Day tour
+
+### [Mountain Adjara day trip from Batumi](https://besttraveler.ge/en/tours/mountain-adjara-day-trip-from-batumi/)
+
+1 dayGeorgia
+
+Makhuntseti waterfall, Queen Tamar's arched bridge and the Keda wine area — a day in Mountain Adjara.
+
+Price on request
+
+View tour 
+
+Day tour
+
+### [Mtirala, Petra Fortress and Kobuleti from Batumi](https://besttraveler.ge/en/tours/mtirala-petra-kobuleti-from-batumi/)
+
+1 dayGeorgia
+
+The forest of Mtirala National Park, Petra Fortress at Tsikhisdziri and Kobuleti.
+
+Price on request
+
+View tour 
+
+Day tour
+
 ### [Mtskheta, Jvari and Uplistsikhe day trip](https://besttraveler.ge/en/tours/mtskheta-jvari-uplistsikhe-day-trip/)
 
 1 dayGeorgia
 
 Jvari, Svetitskhoveli and Samtavro in Mtskheta, then Gori and the rock-hewn town of Uplistsikhe.
+
+Price on request
+
+View tour 
+
+Day tour
+
+### [Prometheus Cave, Sataplia and Kutaisi from Batumi](https://besttraveler.ge/en/tours/prometheus-cave-sataplia-from-batumi/)
+
+1 dayGeorgia
+
+Prometheus Cave, Sataplia with its dinosaur footprints and Kutaisi with Bagrati Cathedral.
 
 Price on request
 

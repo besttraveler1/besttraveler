@@ -67,11 +67,12 @@
     links.forEach(function (a, n) { a.setAttribute('aria-selected', n === sel ? 'true' : 'false'); });
     links[sel].scrollIntoView({ block: 'nearest' });
   }
+  var quickEl = $('#squick');   // kept: results replace it, clearing the box puts it back
   function render(q) {
-    var body = $('#sbody'), quick = $('#squick');
+    var body = $('#sbody'), quick = quickEl;
     var words = norm(q).trim().split(/\s+/).filter(Boolean);
     sel = -1;
-    if (!words.length) { body.innerHTML = ''; body.appendChild(quick); quick.hidden = false; return; }
+    if (!words.length) { body.innerHTML = ''; if (quick) { body.appendChild(quick); quick.hidden = false; } return; }
     if (!data) {
       body.innerHTML = '<div class="sk"><i class="a"></i><div style="flex:1"><i class="b"></i><i class="c"></i></div></div>'.repeat(4);
       return;

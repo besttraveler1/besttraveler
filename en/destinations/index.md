@@ -8,7 +8,7 @@ URL: https://besttraveler.ge/en/destinations/
 
 Countries where besttraveler runs tours: Egypt, Italy, Spain, France, Turkey, Armenia, Greece and more, with prices and dates.
 
-[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 8 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 6 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 4 tours](https://besttraveler.ge/en/destinations/spain/)[France 5 tours](https://besttraveler.ge/en/destinations/france/)[Greece 2 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 4 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 32 tours](https://besttraveler.ge/en/destinations/georgia/)
+[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 8 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 6 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 4 tours](https://besttraveler.ge/en/destinations/spain/)[France 5 tours](https://besttraveler.ge/en/destinations/france/)[Greece 2 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 4 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 38 tours](https://besttraveler.ge/en/destinations/georgia/)
 
 ## More countries in our tours
 

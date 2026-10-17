@@ -86,6 +86,7 @@ URL: https://besttraveler.ge/ka/saitis-ruka/
 
 ## ერთდღიანი ტურები
 
+- [ბათუმის ტური და ბოტანიკური ბაღი](https://besttraveler.ge/ka/turebi/batumis-turi-botanikuri-baghi/)
 - [ბირთვისის ციხე და კანიონი — ერთდღიანი ლაშქრობა](https://besttraveler.ge/ka/turebi/birtvisis-kanioni-lashkroba/)
 - [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
 - [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
@@ -93,6 +94,7 @@ URL: https://besttraveler.ge/ka/saitis-ruka/
 - [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
 - [დილიჯანის ერთდღიანი ტური, სომხეთი: ჰაღარცინი, გოშავანკი, პარზი](https://besttraveler.ge/ka/turebi/somkheti-dilijani-ertdghiani-turi/)
 - [ძამას ხეობის ერთდღიანი ტური: სამწევრისი, ბატეთის ტბა, შუანო](https://besttraveler.ge/ka/turebi/dzamas-kheoba-ertdghiani-turi/)
+- [გონიო, კვარიათი და სარფი — ტური ბათუმიდან](https://besttraveler.ge/ka/turebi/gonio-kvariati-sarpi-turi-batumidan/)
 - [გუდაური და ყაზბეგი ზამთარში — ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/gudauri-kazbegi-zamtarshi-ertdghiani-turi/)
 - [ისტორიული ლორე, სომხეთი: ახტალა, ახპატი, სანაჰინი, ოძუნი](https://besttraveler.ge/ka/turebi/somkheti-lore-akhpati-sanahini-turi/)
 - [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
@@ -108,7 +110,11 @@ URL: https://besttraveler.ge/ka/saitis-ruka/
 - [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/kojori-manglisi-ertdghiani-turi/)
 - [ქვემო ქართლის ერთდღიანი ტური: წერაქვი, გაგის ციხე, თამარისის ტბები](https://besttraveler.ge/ka/turebi/kvemo-kartli-ertdghiani-turi/)
 - [ლაგოდეხის ნაკრძალი: ნინოს ხევის (გურგენიანის) ჩანჩქერი](https://besttraveler.ge/ka/turebi/lagodekhi-ninos-khevis-chanchkeri/)
+- [მარტვილისა და ოკაცის კანიონები — ტური ბათუმიდან](https://besttraveler.ge/ka/turebi/martvilis-okatsis-kanionebi-batumidan/)
+- [მთიანი აჭარა — ერთდღიანი ტური ბათუმიდან](https://besttraveler.ge/ka/turebi/mtiani-achara-turi-batumidan/)
+- [მტირალა, პეტრას ციხე და ქობულეთი — ტური ბათუმიდან](https://besttraveler.ge/ka/turebi/mtirala-petra-kobuleti-batumidan/)
 - [მცხეთა, ჯვარი და უფლისციხე — ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/mtskheta-jvari-uplistsikhe-ertdghiani-turi/)
+- [პრომეთეს მღვიმე, სათაფლია და ქუთაისი — ტური ბათუმიდან](https://besttraveler.ge/ka/turebi/prometes-mghvime-sataplia-batumidan/)
 - [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/)
 - [ტაბაწყურის ტბის ტური: ცხრაწყაროს უღელტეხილი, ტიმოთესუბანი](https://besttraveler.ge/ka/turebi/tabatskuris-tba-turi/)
 - [თბილისის ტური: ძველი თბილისი, ნარიყალა, აბანოთუბანი](https://besttraveler.ge/ka/turebi/tbilisis-turi-dzveli-tbilisi/)
@@ -117,6 +123,11 @@ URL: https://besttraveler.ge/ka/saitis-ruka/
 
 ## ბლოგი
 
+- [საქართველოში შემოსვლა 2026: ვიზა, სავალდებულო დაზღვევა, პასპორტი](https://besttraveler.ge/ka/blogi/sakartveloshi-shemosvla-viza-dazghveva-2026/)
+- [სვანეთი: რა ვნახოთ მესტიასა და უშგულში და როგორ ჩავიდეთ](https://besttraveler.ge/ka/blogi/svaneti-mestia-ushguli-ra-vnakhot/)
+- [საქართველო ზამთარში: ამინდი, თხილამური, ყაზბეგი და რა ვნახოთ](https://besttraveler.ge/ka/blogi/sakartvelo-zamtarshi/)
+- [საქართველო ბავშვებთან ერთად: სად წავიდეთ და პრაქტიკული რჩევები](https://besttraveler.ge/ka/blogi/sakartvelo-bavshvebtan-ertad/)
+- [როდის ჯობია საქართველოში მოგზაურობა: სეზონები და თვეები](https://besttraveler.ge/ka/blogi/rodis-jobia-sakartveloshi-mogzauroba/)
 - [თრუსოს ხეობა თბილისიდან ერთ დღეში: ტრავერტინები, კეთრისი, ზაქაგორი](https://besttraveler.ge/ka/blogi/trusos-kheoba-ert-dgheshi/)
 - [დავით გარეჯი და ფერადი მთები: რას ნახავთ, როდის წახვიდეთ და რა წაიღოთ](https://besttraveler.ge/ka/blogi/davit-gareji-da-peradi-mtebi/)
 - [კახეთის ერთდღიანი მარშრუტები თბილისიდან: რომელი ვის შეეფერება](https://besttraveler.ge/ka/blogi/kakhetis-ertdghiani-turebi/)

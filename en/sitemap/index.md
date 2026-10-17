@@ -86,6 +86,7 @@ URL: https://besttraveler.ge/en/sitemap/
 
 ## Day tours
 
+- [Batumi city tour and Botanical Garden](https://besttraveler.ge/en/tours/batumi-city-tour-botanical-garden/)
 - [Birtvisi fortress and canyon hike](https://besttraveler.ge/en/tours/birtvisi-canyon-hike/)
 - [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
 - [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
@@ -93,6 +94,7 @@ URL: https://besttraveler.ge/en/sitemap/
 - [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 - [Dilijan Day Tour, Armenia: Haghartsin, Goshavank, Lake Parz](https://besttraveler.ge/en/tours/armenia-dilijan-day-trip/)
 - [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
+- [Gonio, Kvariati and Sarpi trip from Batumi](https://besttraveler.ge/en/tours/gonio-kvariati-sarpi-trip-from-batumi/)
 - [Gudauri and Kazbegi winter day trip](https://besttraveler.ge/en/tours/gudauri-kazbegi-winter-day-trip/)
 - [Historic Lori, Armenia: Akhtala, Haghpat, Sanahin, Odzun](https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-tour/)
 - [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
@@ -108,7 +110,11 @@ URL: https://besttraveler.ge/en/sitemap/
 - [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
 - [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
 - [Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/)
+- [Martvili and Okatse canyons trip from Batumi](https://besttraveler.ge/en/tours/martvili-okatse-canyons-from-batumi/)
+- [Mountain Adjara day trip from Batumi](https://besttraveler.ge/en/tours/mountain-adjara-day-trip-from-batumi/)
+- [Mtirala, Petra Fortress and Kobuleti from Batumi](https://besttraveler.ge/en/tours/mtirala-petra-kobuleti-from-batumi/)
 - [Mtskheta, Jvari and Uplistsikhe day trip](https://besttraveler.ge/en/tours/mtskheta-jvari-uplistsikhe-day-trip/)
+- [Prometheus Cave, Sataplia and Kutaisi from Batumi](https://besttraveler.ge/en/tours/prometheus-cave-sataplia-from-batumi/)
 - [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
 - [Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani](https://besttraveler.ge/en/tours/tabatskuri-lake-tour/)
 - [Tbilisi city tour: Old Town, Narikala, sulphur baths](https://besttraveler.ge/en/tours/tbilisi-city-tour-old-town/)
@@ -117,6 +123,11 @@ URL: https://besttraveler.ge/en/sitemap/
 
 ## Blog
 
+- [Entering Georgia in 2026: visa-free stay, insurance, passport](https://besttraveler.ge/en/blog/georgia-entry-rules-visa-insurance-2026/)
+- [Svaneti Guide: What to See in Mestia and Ushguli and How to Get There](https://besttraveler.ge/en/blog/svaneti-mestia-ushguli-guide/)
+- [Georgia in Winter: Weather, Skiing, Kazbegi and What to See](https://besttraveler.ge/en/blog/georgia-in-winter/)
+- [Georgia with Kids: Where to Go and Practical Tips for Families](https://besttraveler.ge/en/blog/georgia-with-kids/)
+- [Best Time to Visit Georgia: Seasons and Months Explained](https://besttraveler.ge/en/blog/best-time-to-visit-georgia/)
 - [Truso Valley Day Trip from Tbilisi: Travertines, Ketrisi, Zakagori](https://besttraveler.ge/en/blog/truso-valley-day-trip/)
 - [David Gareja and the Colourful Mountains: What to See and Bring](https://besttraveler.ge/en/blog/david-gareja-colorful-mountains/)
 - [Kakheti Day Trips from Tbilisi: Four Routes and Who Each Suits](https://besttraveler.ge/en/blog/kakheti-day-trips-from-tbilisi/)

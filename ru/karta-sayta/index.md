@@ -86,6 +86,7 @@ URL: https://besttraveler.ge/ru/karta-sayta/
 
 ## Однодневные туры
 
+- [Обзорная экскурсия по Батуми и Ботанический сад](https://besttraveler.ge/ru/tury/obzornaya-ekskursiya-po-batumi-botanicheskiy-sad/)
 - [Крепость и каньон Биртвиси — однодневный поход](https://besttraveler.ge/ru/tury/kanon-birtvisi-pokhod/)
 - [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
 - [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
@@ -93,6 +94,7 @@ URL: https://besttraveler.ge/ru/karta-sayta/
 - [Давид Гареджи: однодневный тур в пустыню Сабереби](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
 - [Однодневный тур в Дилижан, Армения: Агарцин, Гошаванк, озеро Парз](https://besttraveler.ge/ru/tury/armeniya-dilizhan-odnodnevnyy-tur/)
 - [Однодневный тур в ущелье Дзама: Самцевриси, озеро Батети, Шуано](https://besttraveler.ge/ru/tury/ushchele-dzama-odnodnevnyy-tur/)
+- [Гонио, Квариати и Сарпи — экскурсия из Батуми](https://besttraveler.ge/ru/tury/ekskursiya-iz-batumi-v-gonio-kvariati-sarpi/)
 - [Гудаури и Казбеги зимой — однодневный тур](https://besttraveler.ge/ru/tury/gudauri-kazbegi-zimoy-odnodnevnyy-tur/)
 - [Исторический Лори, Армения: Ахтала, Ахпат, Санаин, Одзун](https://besttraveler.ge/ru/tury/armeniya-lori-akhpat-sanain-tur/)
 - [Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
@@ -108,7 +110,11 @@ URL: https://besttraveler.ge/ru/karta-sayta/
 - [Однодневный тур Коджори – Манглиси](https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/)
 - [Однодневный тур по Квемо Картли: Церакви, крепость Гаги, озёра Тамариси](https://besttraveler.ge/ru/tury/kvemo-kartli-odnodnevnyy-tur/)
 - [Лагодехский заповедник: водопад Ниносхеви (Гургениани)](https://besttraveler.ge/ru/tury/lagodekhi-vodopad-ninoskhevi/)
+- [Каньоны Мартвили и Окаце — экскурсия из Батуми](https://besttraveler.ge/ru/tury/ekskursiya-iz-batumi-v-martvili-i-okatse/)
+- [Горная Аджария — экскурсия из Батуми](https://besttraveler.ge/ru/tury/ekskursiya-iz-batumi-v-gornuyu-adzhariyu/)
+- [Мтирала, крепость Петра и Кобулети — экскурсия из Батуми](https://besttraveler.ge/ru/tury/ekskursiya-iz-batumi-v-mtirala-i-kobuleti/)
 - [Мцхета, Джвари и Уплисцихе — однодневный тур](https://besttraveler.ge/ru/tury/mtskheta-dzhvari-uplistsikhe-odnodnevnyy-tur/)
+- [Пещера Прометея, Сатаплия и Кутаиси — экскурсия из Батуми](https://besttraveler.ge/ru/tury/ekskursiya-iz-batumi-v-peshcheru-prometeya/)
 - [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
 - [Тур на озеро Табацкури: перевал Цхрацкаро, Тимотесубани](https://besttraveler.ge/ru/tury/ozero-tabatskuri-tur/)
 - [Экскурсия по Тбилиси: Старый город, Нарикала, серные бани](https://besttraveler.ge/ru/tury/ekskursiya-po-tbilisi-staryy-gorod/)
@@ -117,6 +123,11 @@ URL: https://besttraveler.ge/ru/karta-sayta/
 
 ## Блог
 
+- [Въезд в Грузию в 2026 году: виза, обязательная страховка, паспорт](https://besttraveler.ge/ru/blog/vezd-v-gruziyu-strakhovka-viza-2026/)
+- [Сванетия: что посмотреть в Местиа и Ушгули и как добраться](https://besttraveler.ge/ru/blog/svanetiya-chto-posmotret/)
+- [Грузия зимой: погода, горнолыжные курорты, Казбеги и что посмотреть](https://besttraveler.ge/ru/blog/gruziya-zimoy/)
+- [Грузия с детьми: куда поехать и практические советы для семей](https://besttraveler.ge/ru/blog/gruziya-s-detmi/)
+- [Когда лучше ехать в Грузию: сезоны и месяцы](https://besttraveler.ge/ru/blog/kogda-luchshe-ekhat-v-gruziyu/)
 - [Ущелье Трусо из Тбилиси за один день: травертины, Кетриси, Закагори](https://besttraveler.ge/ru/blog/ushchele-truso-za-odin-den/)
 - [Давид Гареджи и цветные горы: что посмотреть и что взять с собой](https://besttraveler.ge/ru/blog/davidgaredzhi-i-tsvetnye-gory/)
 - [Однодневные поездки в Кахетию из Тбилиси: четыре маршрута](https://besttraveler.ge/ru/blog/odnodnevnye-tury-v-kakhetiyu/)

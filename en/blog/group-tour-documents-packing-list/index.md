@@ -146,32 +146,32 @@ View tour
 
 ## More articles
 
-Guides
+Visas & borders
 
-### [Truso Valley Day Trip from Tbilisi: Travertines, Ketrisi, Zakagori](https://besttraveler.ge/en/blog/truso-valley-day-trip/)
+### [Entering Georgia in 2026: visa-free stay, insurance, passport](https://besttraveler.ge/en/blog/georgia-entry-rules-visa-insurance-2026/)
 
 17 Oct 20263 min read
 
-What you see in the Truso valley, how far you walk and how to get ready for a day in the mountains.
+Visa-free stay, the mandatory health insurance from 2026 and other entry basics for foreign visitors to Georgia.
 
 Read 
 
 Guides
 
-### [David Gareja and the Colourful Mountains: What to See and Bring](https://besttraveler.ge/en/blog/david-gareja-colorful-mountains/)
+### [Svaneti Guide: What to See in Mestia and Ushguli and How to Get There](https://besttraveler.ge/en/blog/svaneti-mestia-ushguli-guide/)
 
-17 Oct 20263 min read
+17 Oct 20262 min read
 
-What you see at David Gareja and the colourful mountains, how much walking there is and how to handle the desert heat.
+Mestia, Ushguli, the Svan towers and the museum: what to see, how to get there and how many days you need.
 
 Read 
 
 Guides
 
-### [Kakheti Day Trips from Tbilisi: Four Routes and Who Each Suits](https://besttraveler.ge/en/blog/kakheti-day-trips-from-tbilisi/)
+### [Georgia in Winter: Weather, Skiing, Kazbegi and What to See](https://besttraveler.ge/en/blog/georgia-in-winter/)
 
-17 Oct 20264 min read
+17 Oct 20263 min read
 
-Our four Kakheti day routes from Tbilisi: what each one covers and how to choose.
+What winter in Georgia is like, where to ski, how to visit Kazbegi in snow and what to know about mountain roads.
 
 Read

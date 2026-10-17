@@ -15,3 +15,5 @@ URL: https://besttraveler.ge/ru/kontakty/
 - [Почта info@besttraveler.ge](mailto:info@besttraveler.ge)
 
 - [Facebook besttraveler](https://www.facebook.com/profile.php?id=61560555009260)
+
+- [Google Оставьте отзыв в Google](https://g.page/r/CXUSMJMEsYfREBM/review)

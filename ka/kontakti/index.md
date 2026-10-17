@@ -15,3 +15,5 @@ URL: https://besttraveler.ge/ka/kontakti/
 - [ელფოსტა info@besttraveler.ge](mailto:info@besttraveler.ge)
 
 - [Facebook besttraveler](https://www.facebook.com/profile.php?id=61560555009260)
+
+- [Google შეგვაფასეთ Google-ზე](https://g.page/r/CXUSMJMEsYfREBM/review)
