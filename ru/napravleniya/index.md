@@ -8,7 +8,7 @@ URL: https://besttraveler.ge/ru/napravleniya/
 
 Страны, куда besttraveler организует туры: Египет, Италия, Испания, Франция, Турция, Армения, Греция и другие — с ценами и датами.
 
-[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 6 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 4 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 5 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Греция 2 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 4 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 17 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
+[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 6 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 4 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 5 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Греция 2 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 4 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 32 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
 
 ## Другие страны в наших турах
 

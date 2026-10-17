@@ -13,9 +13,9 @@ URL: https://besttraveler.ge/
 [ტურების ნახვა](https://besttraveler.ge/ka/turebi/)
 [მოგვწერეთ WhatsApp-ზე](https://wa.me/995579575636?text=%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%91%E1%83%90%21%20%E1%83%9B%E1%83%90%E1%83%98%E1%83%9C%E1%83%A2%E1%83%94%E1%83%A0%E1%83%94%E1%83%A1%E1%83%94%E1%83%91%E1%83%A1%20%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98)
 
-- 60ტური
+- 75ტური
 - 26ქვეყანა
-- 19ერთდღიანი ტური
+- 28ერთდღიანი ტური
 - 60 ₾-დანერთდღიანი ტურები
 
 - [ეგვიპტე](https://besttraveler.ge/ka/mimartulebebi/egvipte/)
@@ -30,11 +30,11 @@ URL: https://besttraveler.ge/
 
 ### ტურები საზღვარგარეთ
 
-ავიაბილეთით, სასტუმროთი და გამყოლით — ევროპა, ეგვიპტე, აზია.](https://besttraveler.ge/ka/turebi/#flight)[7 ტური 
+ავიაბილეთით, სასტუმროთი და გამყოლით — ევროპა, ეგვიპტე, აზია.](https://besttraveler.ge/ka/turebi/#flight)[13 ტური 
 
 ### მრავალდღიანი ტურები ავტობუსით
 
-თურქეთი და სომხეთი — 2-დან 7 დღემდე, თბილისიდან.](https://besttraveler.ge/ka/turebi/#bus)[19 ტური 
+თურქეთი და სომხეთი — 2-დან 7 დღემდე, თბილისიდან.](https://besttraveler.ge/ka/turebi/#bus)[28 ტური 
 
 ### ერთდღიანი ტურები
 
@@ -120,7 +120,7 @@ URL: https://besttraveler.ge/
 
 [მიმართულებები](https://besttraveler.ge/ka/mimartulebebi/)
 
-[ეგვიპტე 6 ტური](https://besttraveler.ge/ka/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/ka/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/ka/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/espaneti/)[საფრანგეთი 5 ტური](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/ka/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/ka/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/ka/mimartulebebi/shri-lanka/)[საქართველო 17 ტური](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
+[ეგვიპტე 6 ტური](https://besttraveler.ge/ka/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/ka/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/ka/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/espaneti/)[საფრანგეთი 5 ტური](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/ka/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/ka/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/ka/mimartulebebi/shri-lanka/)[საქართველო 32 ტური](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
 
 ## რატომ besttraveler
 

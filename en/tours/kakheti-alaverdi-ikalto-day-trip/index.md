@@ -76,38 +76,38 @@ Dates on request
 
 [See all tours](https://besttraveler.ge/en/tours/)
 
-Day tour
+By bus
 
-### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
+### [Batumi and Adjara summer tour](https://besttraveler.ge/en/tours/batumi-adjara-summer-tour/)
 
-1 dayGeorgia
+By busGeorgia
 
-Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
+Batumi Boulevard, the Botanical Garden, Gonio Fortress and Mtirala National Park.
 
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
-
-1 dayGeorgia
-
-The rock-cut Sabereebi monastery complex of Gareja, 9th–10th centuries.
-
-per person60 GEL
+Price on request
 
 View tour 
 
-Day tour
+By bus
 
-### [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
+### [Borjomi and Bakuriani tour with the Kukushka train](https://besttraveler.ge/en/tours/borjomi-bakuriani-tour/)
 
-1 dayGeorgia
+By busGeorgia
 
-Fortresses and monasteries of the Dzama Gorge, Bateti Lake and Mount Shuano in one day.
+Borjomi park and mineral springs, the Kukushka train up to Bakuriani and Bakuriani itself.
 
-per person60 GEL
+Price on request
+
+View tour 
+
+By bus
+
+### [Kutaisi, caves and canyons tour: Prometheus, Martvili, Okatse](https://besttraveler.ge/en/tours/kutaisi-caves-canyons-tour/)
+
+By busGeorgia
+
+Sataplia, Kutaisi with Gelati and Bagrati, Prometheus Cave, the Martvili and Okatse canyons and Kinchkha waterfall.
+
+Price on request
 
 View tour

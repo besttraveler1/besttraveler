@@ -8,11 +8,95 @@ URL: https://besttraveler.ge/en/destinations/georgia/
 
 One-day tours from Tbilisi by minibus: Kakheti, Kazbegi, Truso, David Gareja, Javakheti, Lagodekhi and more.
 
-- 17 tours
+- 32 tours
 - from 60 ₾
 - 1 day
 
 ## Day tours in Georgia
+
+By bus
+
+### [Batumi and Adjara summer tour](https://besttraveler.ge/en/tours/batumi-adjara-summer-tour/)
+
+By busGeorgia
+
+Batumi Boulevard, the Botanical Garden, Gonio Fortress and Mtirala National Park.
+
+Price on request
+
+View tour 
+
+By bus
+
+### [Borjomi and Bakuriani tour with the Kukushka train](https://besttraveler.ge/en/tours/borjomi-bakuriani-tour/)
+
+By busGeorgia
+
+Borjomi park and mineral springs, the Kukushka train up to Bakuriani and Bakuriani itself.
+
+Price on request
+
+View tour 
+
+By bus
+
+### [Kutaisi, caves and canyons tour: Prometheus, Martvili, Okatse](https://besttraveler.ge/en/tours/kutaisi-caves-canyons-tour/)
+
+By busGeorgia
+
+Sataplia, Kutaisi with Gelati and Bagrati, Prometheus Cave, the Martvili and Okatse canyons and Kinchkha waterfall.
+
+Price on request
+
+View tour 
+
+By bus
+
+### [Racha tour: Shaori Lake, Nikortsminda and Khvanchkara](https://besttraveler.ge/en/tours/racha-shaori-nikortsminda-tour/)
+
+By busGeorgia
+
+Shaori Lake, Nikortsminda Cathedral, Ambrolauri and the Khvanchkara wine area.
+
+Price on request
+
+View tour 
+
+By bus
+
+### [Svaneti tour: Mestia and Ushguli](https://besttraveler.ge/en/tours/svaneti-mestia-ushguli-tour/)
+
+By busGeorgia
+
+The Enguri Dam on the way, Mestia, the Svan towers and Ushguli.
+
+Price on request
+
+View tour 
+
+By bus
+
+### [Vardzia, Rabati and Borjomi tour in Samtskhe-Javakheti](https://besttraveler.ge/en/tours/vardzia-rabati-borjomi-tour/)
+
+By busGeorgia
+
+Borjomi park, Rabati Castle in Akhaltsikhe, Khertvisi Fortress and the Vardzia cave monastery.
+
+Price on request
+
+View tour 
+
+Day tour
+
+### [Birtvisi fortress and canyon hike](https://besttraveler.ge/en/tours/birtvisi-canyon-hike/)
+
+1 dayGeorgia
+
+A hike through the Birtvisi canyon in the Algeti valley up to Birtvisi fortress.
+
+Price on request
+
+View tour 
 
 Day tour
 
@@ -35,6 +119,18 @@ Day tour
 Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
 
 per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Dashbashi Canyon and Tsalka day trip](https://besttraveler.ge/en/tours/dashbashi-canyon-tsalka-day-trip/)
+
+1 dayGeorgia
+
+Dashbashi Canyon with its glass “diamond” bridge, the Dashbashi waterfall and the Tsalka reservoir in one day.
+
+Price on request
 
 View tour 
 
@@ -64,6 +160,18 @@ View tour
 
 Day tour
 
+### [Gudauri and Kazbegi winter day trip](https://besttraveler.ge/en/tours/gudauri-kazbegi-winter-day-trip/)
+
+1 dayGeorgia
+
+Ananuri, snowy Gudauri, Stepantsminda and Gergeti Trinity Church — a winter tour.
+
+Price on request
+
+View tour 
+
+Day tour
+
 ### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
 1 dayGeorgia
@@ -71,6 +179,18 @@ Day tour
 Paravani and Saghamo lakes, the Poka monasteries, Gorelovka and the Madatapa reserve.
 
 per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Juta and Chaukhi massif day trip](https://besttraveler.ge/en/tours/juta-chaukhi-day-trip/)
+
+1 dayGeorgia
+
+Ananuri, the Gudauri panorama, the mountain village of Juta and views of the Chaukhi massif — a summer tour.
+
+Price on request
 
 View tour 
 
@@ -112,6 +232,30 @@ View tour
 
 Day tour
 
+### [Kakheti wine tour: Alazani Valley, Tsinandali, Sighnaghi](https://besttraveler.ge/en/tours/kakheti-wine-tour-from-tbilisi/)
+
+1 dayGeorgia
+
+Wine tasting at Alazani Valley wineries, Telavi, Tsinandali and Sighnaghi in one day.
+
+Price on request
+
+View tour 
+
+Day tour
+
+### [Katskhi Pillar and Chiatura day trip](https://besttraveler.ge/en/tours/katskhi-pillar-chiatura-day-trip/)
+
+1 dayGeorgia
+
+The Katskhi Pillar, a natural limestone monolith, and the mining town of Chiatura with its cable cars.
+
+Price on request
+
+View tour 
+
+Day tour
+
 ### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
 1 dayGeorgia
@@ -131,6 +275,18 @@ Day tour
 Khada Gorge with the Tskere and Rostiani waterfalls; an easy 4.2 km hike one way.
 
 per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Kintsvisi, Ateni Sioni and Gori day trip](https://besttraveler.ge/en/tours/kintsvisi-ateni-sioni-day-trip/)
+
+1 dayGeorgia
+
+Kintsvisi Monastery with its fresco of Queen Tamar, Ateni Sioni and Gori in one day.
+
+Price on request
 
 View tour 
 
@@ -172,6 +328,18 @@ View tour
 
 Day tour
 
+### [Mtskheta, Jvari and Uplistsikhe day trip](https://besttraveler.ge/en/tours/mtskheta-jvari-uplistsikhe-day-trip/)
+
+1 dayGeorgia
+
+Jvari, Svetitskhoveli and Samtavro in Mtskheta, then Gori and the rock-hewn town of Uplistsikhe.
+
+Price on request
+
+View tour 
+
+Day tour
+
 ### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
 
 1 dayGeorgia
@@ -191,6 +359,18 @@ Day tour
 Tskhratskaro Pass, Tabatskuri Lake and its Red Church, and Timotesubani monastery.
 
 per person70 GEL
+
+View tour 
+
+Day tour
+
+### [Tbilisi city tour: Old Town, Narikala, sulphur baths](https://besttraveler.ge/en/tours/tbilisi-city-tour-old-town/)
+
+1 dayGeorgia
+
+Old Tbilisi, Narikala, the sulphur baths, Metekhi, Sameba Cathedral and Rustaveli Avenue.
+
+Price on request
 
 View tour 
 
