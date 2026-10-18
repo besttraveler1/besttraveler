@@ -15,5 +15,8 @@ URL: https://besttraveler.ge/ka/kontakti/
 - [ელფოსტა info@besttraveler.ge](mailto:info@besttraveler.ge)
 
 - [Facebook besttraveler](https://www.facebook.com/profile.php?id=61560555009260)
+- [Instagram @best.traveler2025](https://www.instagram.com/best.traveler2025/)
+- [TikTok @besttraveler531](https://www.tiktok.com/@besttraveler531)
+- [YouTube @thebesttraveler](https://www.youtube.com/@thebesttraveler)
 
 - [Google შეგვაფასეთ Google-ზე](https://g.page/r/CXUSMJMEsYfREBM/review)
