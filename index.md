@@ -4,7 +4,7 @@
 
 URL: https://besttraveler.ge/
 
-გასვლები: ოქტომბერი – თებერვალი
+გასვლები: ოქტომბერი – ოქტომბერი
 
 # ტურები საზღვარგარეთდა საქართველოში
 
@@ -13,9 +13,9 @@ URL: https://besttraveler.ge/
 [ტურების ნახვა](https://besttraveler.ge/ka/turebi/)
 [მოგვწერეთ WhatsApp-ზე](https://wa.me/995579575636?text=%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%91%E1%83%90%21%20%E1%83%9B%E1%83%90%E1%83%98%E1%83%9C%E1%83%A2%E1%83%94%E1%83%A0%E1%83%94%E1%83%A1%E1%83%94%E1%83%91%E1%83%A1%20%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98)
 
-- 81ტური
+- 99ტური
 - 26ქვეყანა
-- 34ერთდღიანი ტური
+- 50ერთდღიანი ტური
 - 60 ₾-დანერთდღიანი ტურები
 
 - [ეგვიპტე](https://besttraveler.ge/ka/mimartulebebi/egvipte/)
@@ -30,11 +30,11 @@ URL: https://besttraveler.ge/
 
 ### ტურები საზღვარგარეთ
 
-ავიაბილეთით, სასტუმროთი და გამყოლით — ევროპა, ეგვიპტე, აზია.](https://besttraveler.ge/ka/turebi/#flight)[13 ტური 
+ავიაბილეთით, სასტუმროთი და გამყოლით — ევროპა, ეგვიპტე, აზია.](https://besttraveler.ge/ka/turebi/#flight)[15 ტური 
 
 ### მრავალდღიანი ტურები ავტობუსით
 
-თურქეთი და სომხეთი — 2-დან 7 დღემდე, თბილისიდან.](https://besttraveler.ge/ka/turebi/#bus)[34 ტური 
+თურქეთი და სომხეთი — 2-დან 7 დღემდე, თბილისიდან.](https://besttraveler.ge/ka/turebi/#bus)[50 ტური 
 
 ### ერთდღიანი ტურები
 
@@ -42,7 +42,43 @@ URL: https://besttraveler.ge/
 
 ## უახლოესი ტურები
 
-[ყველა ტურის ნახვა](https://besttraveler.ge/ka/turebi/)
+[ყველა თარიღი](https://besttraveler.ge/ka/dagegmili-turebi/)
+
+ერთდღიანი
+
+### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
+
+1 დღე24 ოქტომბერი 2026
+
+ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
+
+ერთ ადამიანზე60 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
+### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
+
+1 დღე24 ოქტომბერი 2026
+
+დარიალის მონასტერი, გველეთის დიდი და პატარა ჩანჩქერი, გერგეტის სამება და გუდაურის პანორამა.
+
+ერთ ადამიანზე60 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
+### [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/)
+
+1 დღე24 ოქტომბერი 2026
+
+ზარზმა, ჭულეს მონასტერი და ჩანჩქერი, ახალციხის რაბათი და საფარა, გიდთან ერთად.
+
+ერთ ადამიანზე65 ლარი
+
+ტურის ნახვა 
 
 ავიატური
 
@@ -56,63 +92,27 @@ URL: https://besttraveler.ge/
 
 ტურის ნახვა 
 
-ავიატური
+ერთდღიანი
 
-### [ათენი, საბერძნეთი — ჯგუფური ტური ქუთაისიდან, 1–4 ნოემბერი](https://besttraveler.ge/ka/turebi/ateni-saberdzneti-jgupuri-turi/)
+### [განსხვავებული ვაშლოვანი: ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები](https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/)
 
-4 დღე / 3 ღამე1–4 ნოემბერი 2026
+1 დღე25 ოქტომბერი 2026
 
-4 დღე ათენში: აკროპოლისი, პლაკა, აგორა და დღე კუნძულ ეგინაზე. გაფრენა ქუთაისიდან.
+ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები, დალის წყალსაცავი და კლდეში ნაკვეთი მონასტერი.
 
-ერთ ადამიანზე1 200 ლარი
-
-ტურის ნახვა 
-
-ავიატური
-
-### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/ka/turebi/italia-bari-apulia-saakhaltslo-turi/)
-
-5 დღე2–6 ნოემბერი 2026
-
-5 დღე აპულიაში: ბარი, მონოპოლი, პოლინიანო-ა-მარე, ალბერობელო და მატერა. გაფრენა ერევნიდან.
-
-ერთ ადამიანზე2 600 ლარი
+ერთ ადამიანზე60 ლარი
 
 ტურის ნახვა 
 
-ავტობუსით
+ერთდღიანი
 
-### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/ka/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
+### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
 
-6 დღე2–7 ნოემბერი 2026
+1 დღე25 ოქტომბერი 2026
 
-ამასია, კაპადოკია, კაისერი, ორდუ და ტრაპიზონი ავტობუსით — ღამით მგზავრობის გარეშე.
+უჯარმის ციხე-ქალაქი, გომბორის უღელტეხილი, შუამთა, იყალთო, თეთრი გიორგი და ალავერდი.
 
-ერთ ადამიანზე1 350 ლარი
-
-ტურის ნახვა 
-
-ავიატური
-
-### [ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 3–10 ნოემბერი](https://besttraveler.ge/ka/turebi/espaneti-portugalia-mankanit-turi/)
-
-8 დღე / 7 ღამე3–10 ნოემბერი 2026
-
-8 დღე მანქანით: სეგოვია, სალამანკა, პორტო, კოიმბრა, სინტრა, ლისაბონი და ტოლედო.
-
-ერთ ადამიანზე4 500 ლარი
-
-ტურის ნახვა 
-
-ავიატური
-
-### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/ka/turebi/egvipte-hurgada-luksori-suetsis-arkhi/)
-
-7 დღე / 6 ღამე9–15 ნოემბერი 2026
-
-7 დღე ჰურგადაში: სუეცის არხი და პორტ-საიდი, ჰულა-ჰულას კუნძული, ლუქსორი და მონასტრები.
-
-ერთ ადამიანზე6 100 ლარი
+ერთ ადამიანზე60 ლარი
 
 ტურის ნახვა 
 
@@ -120,7 +120,7 @@ URL: https://besttraveler.ge/
 
 [მიმართულებები](https://besttraveler.ge/ka/mimartulebebi/)
 
-[ეგვიპტე 6 ტური](https://besttraveler.ge/ka/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/ka/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/ka/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/espaneti/)[საფრანგეთი 5 ტური](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/ka/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/ka/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/ka/mimartulebebi/shri-lanka/)[საქართველო 38 ტური](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
+[ეგვიპტე 6 ტური](https://besttraveler.ge/ka/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/ka/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/ka/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/espaneti/)[საფრანგეთი 5 ტური](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/ka/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/ka/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/ka/mimartulebebi/shri-lanka/)[საქართველო 56 ტური](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
 
 ## რატომ besttraveler
 

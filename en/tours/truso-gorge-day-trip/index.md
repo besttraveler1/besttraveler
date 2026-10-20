@@ -18,7 +18,7 @@ Photo: [Alexkom000](https://commons.wikimedia.org/wiki/File:2024-08-03_Truso_Val
 
 Duration1 day
 
-DatesOn request
+Next departure25 Oct 2026 +8
 
 DepartureTbilisi, 07:00
 
@@ -47,6 +47,7 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 ## Good to know
 
 - Return: 22:00
+- Meeting point: Didube metro station, upper exit
 - Walking: 7 km, easy
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
@@ -59,7 +60,7 @@ The tour costs 60 GEL per person.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 25 Oct 2026, 1 Nov 2026, 13 Jun 2027, 27 Jun 2027, 4 Jul 2027, 18 Jul 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -75,7 +76,15 @@ Price: 60 GELper person:
 
 Dates
 
-Dates on request
+- 25 Oct 2026
+- 1 Nov 2026
+- 13 Jun 2027
+- 27 Jun 2027
+- 4 Jul 2027
+- 18 Jul 2027
+- 1 Aug 2027
+- 22 Aug 2027
+- 5 Sep 2027
 
 - Travel by minibus
 - Services of a qualified tour organizer (organization, short overview of each sight)
@@ -87,38 +96,38 @@ Dates on request
 
 [See all tours](https://besttraveler.ge/en/tours/)
 
-By bus
+Day tour
 
-### [Batumi and Adjara summer tour](https://besttraveler.ge/en/tours/batumi-adjara-summer-tour/)
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Batumi Boulevard, the Botanical Garden, Gonio Fortress and Mtirala National Park.
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
-Price on request
-
-View tour 
-
-By bus
-
-### [Borjomi and Bakuriani tour with the Kukushka train](https://besttraveler.ge/en/tours/borjomi-bakuriani-tour/)
-
-By busGeorgia
-
-Borjomi park and mineral springs, the Kukushka train up to Bakuriani and Bakuriani itself.
-
-Price on request
+per person60 GEL
 
 View tour 
 
-By bus
+Day tour
 
-### [Kutaisi, caves and canyons tour: Prometheus, Martvili, Okatse](https://besttraveler.ge/en/tours/kutaisi-caves-canyons-tour/)
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Sataplia, Kutaisi with Gelati and Bagrati, Prometheus Cave, the Martvili and Okatse canyons and Kinchkha waterfall.
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
 
-Price on request
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+
+1 day24 Oct 2026
+
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+
+per person65 GEL
 
 View tour

@@ -10,6 +10,18 @@ Tours that run at the end of December and the start of January — spend the New
 
 ## New Year tours 2027
 
+Day tour
+
+### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
+
+1 day25 Oct 2026
+
+Paravani and Saghamo lakes, the Poka monasteries, Gorelovka and the Madatapa reserve.
+
+per person65 GEL
+
+View tour 
+
 By plane
 
 ### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
@@ -58,6 +70,18 @@ per person2,500 GEL
 
 View tour 
 
+Day tour
+
+### [Gudauri Day Trip: Free Time at the Ski Resort](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
+
+1 day12 Dec 2026
+
+A day in Gudauri: free time at the ski resort for skiing, cable cars and snowy views.
+
+per person60 GEL
+
+View tour 
+
 By plane
 
 ### [Lake Nasser Cruise, Cairo and Luxor — Group Tour](https://besttraveler.ge/en/tours/egypt-lake-nasser-cruise-cairo-luxor/)
@@ -96,4 +120,4 @@ View tour
 
 ## Tours by month
 
-[November 2026 8](https://besttraveler.ge/en/tours/november-2026/)[December 2026 5](https://besttraveler.ge/en/tours/december-2026/)[January 2027 4](https://besttraveler.ge/en/tours/january-2027/)
+[October 2026 18](https://besttraveler.ge/en/tours/october-2026/)[November 2026 27](https://besttraveler.ge/en/tours/november-2026/)[December 2026 7](https://besttraveler.ge/en/tours/december-2026/)[January 2027 6](https://besttraveler.ge/en/tours/january-2027/)[February 2027 2](https://besttraveler.ge/en/tours/february-2027/)[March 2027 4](https://besttraveler.ge/en/tours/march-2027/)[April 2027 17](https://besttraveler.ge/en/tours/april-2027/)[May 2027 29](https://besttraveler.ge/en/tours/may-2027/)[June 2027 29](https://besttraveler.ge/en/tours/june-2027/)[July 2027 25](https://besttraveler.ge/en/tours/july-2027/)[August 2027 25](https://besttraveler.ge/en/tours/august-2027/)[September 2027 17](https://besttraveler.ge/en/tours/september-2027/)[October 2027 13](https://besttraveler.ge/en/tours/october-2027/)

@@ -59,7 +59,7 @@ html[lang=ka] h1,html[lang=ka] h2,html[lang=ka] h3{letter-spacing:0}
 /* header */
 .hdr{position:sticky;top:0;z-index:40;background:var(--header);backdrop-filter:saturate(1.6) blur(14px);-webkit-backdrop-filter:saturate(1.6) blur(14px);border-bottom:1px solid var(--border)}
 .hdr .wrap{display:flex;align-items:center;gap:8px;height:68px}
-.logo{display:flex;align-items:center;color:var(--fg);text-decoration:none;margin-right:auto;min-height:44px}
+.logo{display:flex;flex:none;align-items:center;color:var(--fg);text-decoration:none;margin-right:auto;min-height:44px}
 .logo svg{height:27px;width:auto}
 .logo .pin{fill:var(--brand)}
 .nav{display:none;gap:2px;font-size:15px;font-weight:500}
@@ -67,7 +67,7 @@ html[lang=ka] .nav{font-size:14.5px}
 .nav a{position:relative;white-space:nowrap;padding:9px 11px;border-radius:8px;text-decoration:none;color:var(--fg)}
 .nav a:hover{background:var(--soft)}
 .nav a[aria-current]::after{content:"";position:absolute;left:11px;right:11px;bottom:3px;height:2px;border-radius:2px;background:var(--brand)}
-@media (min-width:1120px){.nav{display:flex}.menu-btn{display:none!important}}
+@media (min-width:1260px){.nav{display:flex}.menu-btn{display:none!important}}
 .ibtn{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-width:44px;height:44px;padding:0 10px;border:1px solid var(--border);border-radius:11px;background:var(--card);color:var(--fg);cursor:pointer;font:inherit;font-size:14px;font-weight:500;text-decoration:none}
 .ibtn:hover{background:var(--soft)}
 .hdr .ibtn{min-width:40px;height:40px;padding:0 8px;border-radius:10px}
@@ -410,6 +410,25 @@ main{display:block}
 .socrow a:hover .soc{border-color:var(--border2)}
 @media (prefers-reduced-motion:reduce){.socrow a{transition:none}.socrow a:hover{transform:none}}
 
+/* tour calendar */
+.calj{margin-top:-6px}
+.calj .chip{min-height:36px;font-size:13px}
+.calm{scroll-margin-top:80px;margin-top:24px}
+.calm h2{font-size:20px;margin:0 0 10px;display:flex;align-items:baseline;gap:10px}
+.calm h2 .c{font-size:13px;font-weight:400;color:var(--muted)}
+.cal{list-style:none;margin:0;padding:0;border:1px solid var(--border);border-radius:16px;background:var(--card);overflow:hidden}
+.cal li+li{border-top:1px solid var(--border)}
+.cal a{display:grid;grid-template-columns:56px minmax(0,1fr) auto;gap:12px;align-items:center;padding:12px 14px;color:var(--fg);text-decoration:none;min-height:44px}
+.cal a:hover{background:var(--soft)}
+.cal .cd{display:flex;flex-direction:column;align-items:center;justify-content:center;height:52px;border-radius:12px;background:var(--soft);line-height:1.1}
+.cal .cd b{font-size:17px}
+.cal .cd small{font-size:12px;color:var(--muted)}
+.cal .ct{min-width:0}
+.cal .ct b{display:block;font-weight:600;font-size:15px;line-height:1.35}
+.cal .ct small{display:flex;align-items:center;gap:6px;margin-top:3px;font-size:13px;color:var(--muted)}
+.cal .ct small .ico{width:14px;height:14px;flex:none}
+.cal .cp{font-weight:700;font-size:15px;white-space:nowrap;color:var(--brand)}
+@media (max-width:480px){.cal a{grid-template-columns:48px minmax(0,1fr);row-gap:4px}.cal .cp{grid-column:2;font-size:14px}.cal .cd{height:48px}}
 /* footer */
 .ftr{position:relative;isolation:isolate;overflow:hidden;background:var(--soft2);border-top:1px solid var(--border);margin-top:56px;padding:48px 0 24px;font-size:14.5px}
 .fgrid{display:grid;gap:28px;grid-template-columns:1fr}

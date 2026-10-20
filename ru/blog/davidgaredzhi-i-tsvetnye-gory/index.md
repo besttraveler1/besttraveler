@@ -89,7 +89,7 @@ URL: https://besttraveler.ge/ru/blog/davidgaredzhi-i-tsvetnye-gory/
 
 ### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 
-1 деньГрузия
+1 день25 октября 2026
 
 Додос Рка, монастырь Давид Гареджи, цветные горы и водохранилище Мравалцкаро.
 
@@ -101,7 +101,7 @@ URL: https://besttraveler.ge/ru/blog/davidgaredzhi-i-tsvetnye-gory/
 
 ### [Давид Гареджи: однодневный тур в пустыню Сабереби](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
 
-1 деньГрузия
+1 день25 октября 2026
 
 Высеченный в скале монастырский комплекс Сабереби в Гареджи, IX–X века.
 

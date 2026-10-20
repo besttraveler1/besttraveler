@@ -18,7 +18,7 @@ Photo: [Anri137](https://commons.wikimedia.org/wiki/File:%E1%B2%9B%E1%83%A0%E1%8
 
 Duration1 day
 
-DatesOn request
+Next departure25 Oct 2026 +10
 
 DepartureTbilisi, 08:00
 
@@ -62,7 +62,7 @@ The tour costs 60 GEL per person.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 25 Oct 2026, 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 13 Mar 2027, 21 Mar 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -78,7 +78,17 @@ Price: 60 GELper person:
 
 Dates
 
-Dates on request
+- 25 Oct 2026
+- 31 Oct 2026
+- 1 Nov 2026
+- 7 Nov 2026
+- 13 Mar 2027
+- 21 Mar 2027
+- 18 Apr 2027
+- 24 Apr 2027
+- 2 May 2027
+- 9 May 2027
+- 15 May 2027
 
 - Transport by minibus
 - Tour escort
@@ -90,38 +100,38 @@ Dates on request
 
 [See all tours](https://besttraveler.ge/en/tours/)
 
-By bus
+Day tour
 
-### [Batumi and Adjara summer tour](https://besttraveler.ge/en/tours/batumi-adjara-summer-tour/)
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Batumi Boulevard, the Botanical Garden, Gonio Fortress and Mtirala National Park.
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
-Price on request
-
-View tour 
-
-By bus
-
-### [Borjomi and Bakuriani tour with the Kukushka train](https://besttraveler.ge/en/tours/borjomi-bakuriani-tour/)
-
-By busGeorgia
-
-Borjomi park and mineral springs, the Kukushka train up to Bakuriani and Bakuriani itself.
-
-Price on request
+per person60 GEL
 
 View tour 
 
-By bus
+Day tour
 
-### [Kutaisi, caves and canyons tour: Prometheus, Martvili, Okatse](https://besttraveler.ge/en/tours/kutaisi-caves-canyons-tour/)
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Sataplia, Kutaisi with Gelati and Bagrati, Prometheus Cave, the Martvili and Okatse canyons and Kinchkha waterfall.
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
 
-Price on request
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+
+1 day24 Oct 2026
+
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+
+per person65 GEL
 
 View tour

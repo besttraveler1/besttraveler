@@ -1,99 +1,163 @@
 # Svaneti tour: Mestia and Ushguli
 
-> Tour from Tbilisi to Upper Svaneti: the Enguri Dam on the way, then Mestia, the Svan towers and Ushguli. Programme and price agreed individually.
+> Three-day tour to Svaneti from Tbilisi: Enguri Dam, Latali, Koruldi Lakes, Mestia, Hatsvali and Ushguli. 410 GEL with 2 breakfasts and 2 dinners.
 
 URL: https://besttraveler.ge/en/tours/svaneti-mestia-ushguli-tour/
 
-# Svaneti tour: Mestia and Ushguli
+# Svaneti 3-Day Tour: Enguri Dam, Mestia, Koruldi Lakes, Ushguli
 
-A tour of Upper Svaneti. On the way we stop at the Enguri Dam, then visit Mestia, the Svan towers and Ushguli.
+A three-day minibus tour from Tbilisi to Svaneti. We see the Enguri Dam, Latali, the Koruldi Lakes, Mestia, Hatsvali and Ushguli. The price includes 2 breakfasts and 2 dinners.
 
 - Georgia
 - Enguri Dam
+- Latali
+- Koruldi Lakes
 - Mestia
-- Svan towers
+- Hatsvali
 - Ushguli
 
 Photo: [Peter Wieser (Pixabay)](https://commons.wikimedia.org/wiki/File:Ushguli,_Georgia-3883095.jpg), CC0
 
-DurationBy bus
+Duration3 days / 2 nights
 
-DatesOn request
+Next departure28–30 May 2027 +3
 
-DepartureTbilisi
+DepartureTbilisi, 04:00
 
-PriceOn request
+Price410 GEL
 
 ## Tour programme
 
 - 
-- Enguri Dam (on the way)
-- Mestia
-- Svan towers
-- Ushguli — part of the UNESCO World Heritage Site of Upper Svaneti
+
+### Day 1
+
+- Enguri Dam
+- Waterfall on the road to Mestia
+- Latali church — a historic 14th-century church
+
+- 
+
+### Day 2
+
+- Koruldi Lakes (2850 m above sea level)
+- Mestia Ethnographic Museum (10 GEL)
+- Mestia cathedral
+- Betkil mineral spring
+- Heshkili tourist centre
+- Hatsvali resort
+
+- 
+
+### Day 3
+
+- Tower of Love (2 GEL)
+- Shrine of Saints Kvirike and Ivlita
+- Ushguli (2200 m above sea level)
 
 ## Route on the map
 
 Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
+## Included in the price
+
+- Meals twice a day: 2 breakfasts and 2 dinners
+- Travel by top-class minibus
+- Services of a qualified tour organizer (organization, short overview of the sights)
+- Photography
+
+## Not included
+
+- Mestia museum — 10 GEL
+- Tower of Love — 2 GEL
+- Both Hatsvali cable cars — 25 GEL
+- Other meals (on your own)
+
+## Optional extras
+
+- Jeep ride up to the Koruldi Lakes — 45 GEL (optional)
+- Enguri Dam tour — 30 GEL (optional)
+
 ## Good to know
 
-- Price, dates and the exact programme are agreed individually — call or message us on WhatsApp.
+- Return: 23:00
+- Meeting point: Didube metro station, upper exit
+- The tour runs in any weather; it is postponed only if there is a problem with the road.
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
 ## Frequently asked questions
 
+**How much does the “Svaneti 3-Day Tour: Enguri Dam, Mestia, Koruldi Lakes, Ushguli” tour cost?**
+
+The tour costs 410 GEL per person.
+
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 28–30 May 2027, 11–13 Jun 2027, 6–8 Aug 2027, 10–12 Sep 2027. Please check free places by phone or WhatsApp.
+
+**What is included in the price?**
+
+Meals twice a day: 2 breakfasts and 2 dinners; Travel by top-class minibus; Services of a qualified tour organizer (organization, short overview of the sights); Photography.
 
 **How do I book this tour?**
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price and dates: On request
+Price: 410 GELper person: 
 
-Message or call us — we will agree the price, date and programme together.
+## Dates
 
-[Ask the price](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour%3A%20Svaneti%20tour%3A%20Mestia%20and%20Ushguli)[579 57 56 36](tel:+995579575636)[Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
+Dates
+
+- 28–30 May 2027
+- 11–13 Jun 2027
+- 6–8 Aug 2027
+- 10–12 Sep 2027
+
+- Meals twice a day: 2 breakfasts and 2 dinners
+- Travel by top-class minibus
+- Services of a qualified tour organizer (organization, short overview of the sights)
+- Photography
+
+[Book a place](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour%3A%20Svaneti%203-Day%20Tour%3A%20Enguri%20Dam%2C%20Mestia%2C%20Koruldi%20Lakes%2C%20Ushguli)[579 57 56 36](tel:+995579575636)[Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
 ## Similar tours
 
 [See all tours](https://besttraveler.ge/en/tours/)
 
-By bus
+Day tour
 
-### [Batumi and Adjara summer tour](https://besttraveler.ge/en/tours/batumi-adjara-summer-tour/)
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Batumi Boulevard, the Botanical Garden, Gonio Fortress and Mtirala National Park.
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
-Price on request
-
-View tour 
-
-By bus
-
-### [Borjomi and Bakuriani tour with the Kukushka train](https://besttraveler.ge/en/tours/borjomi-bakuriani-tour/)
-
-By busGeorgia
-
-Borjomi park and mineral springs, the Kukushka train up to Bakuriani and Bakuriani itself.
-
-Price on request
+per person60 GEL
 
 View tour 
 
-By bus
+Day tour
 
-### [Kutaisi, caves and canyons tour: Prometheus, Martvili, Okatse](https://besttraveler.ge/en/tours/kutaisi-caves-canyons-tour/)
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Sataplia, Kutaisi with Gelati and Bagrati, Prometheus Cave, the Martvili and Okatse canyons and Kinchkha waterfall.
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
 
-Price on request
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+
+1 day24 Oct 2026
+
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+
+per person65 GEL
 
 View tour

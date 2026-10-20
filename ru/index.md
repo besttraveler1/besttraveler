@@ -4,7 +4,7 @@
 
 URL: https://besttraveler.ge/ru/
 
-Выезды: октябрь – февраль
+Выезды: октябрь – октябрь
 
 # Туры за границуи по Грузии
 
@@ -13,9 +13,9 @@ URL: https://besttraveler.ge/ru/
 [Смотреть туры](https://besttraveler.ge/ru/tury/)
 [Написать в WhatsApp](https://wa.me/995579575636?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D1%82%D1%83%D1%80)
 
-- 81туров
+- 99туров
 - 26стран
-- 34однодневных туров
+- 50однодневных туров
 - от 60 ₾однодневные туры
 
 - [Египет](https://besttraveler.ge/ru/napravleniya/egipet/)
@@ -30,11 +30,11 @@ URL: https://besttraveler.ge/ru/
 
 ### Туры за границу
 
-Авиабилеты, отели и сопровождающий — Европа, Египет, Азия.](https://besttraveler.ge/ru/tury/#flight)[13 туров 
+Авиабилеты, отели и сопровождающий — Европа, Египет, Азия.](https://besttraveler.ge/ru/tury/#flight)[15 туров 
 
 ### Многодневные на автобусе
 
-Турция и Армения — от 2 до 7 дней, из Тбилиси.](https://besttraveler.ge/ru/tury/#bus)[34 туров 
+Турция и Армения — от 2 до 7 дней, из Тбилиси.](https://besttraveler.ge/ru/tury/#bus)[50 туров 
 
 ### Однодневные туры
 
@@ -42,7 +42,43 @@ URL: https://besttraveler.ge/ru/
 
 ## Ближайшие туры
 
-[Смотреть все туры](https://besttraveler.ge/ru/tury/)
+[Все даты](https://besttraveler.ge/ru/kalendar-turov/)
+
+Однодневный
+
+### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
+
+1 день24 октября 2026
+
+Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
+
+за человека60 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
+
+1 день24 октября 2026
+
+Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
+
+за человека60 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
+
+1 день24 октября 2026
+
+Зарзма, монастырь и водопад Чуле, Рабат в Ахалцихе и Сапара, с гидом.
+
+за человека65 лари
+
+Смотреть тур 
 
 Авиатур
 
@@ -56,63 +92,27 @@ URL: https://besttraveler.ge/ru/
 
 Смотреть тур 
 
-Авиатур
+Однодневный
 
-### [Афины, Греция — групповой тур из Кутаиси, 1–4 ноября](https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/)
+### [Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
 
-4 дня / 3 ночи1–4 ноября 2026
+1 день25 октября 2026
 
-4 дня в Афинах: Акрополь, Плака, Агора и день на острове Эгина. Вылет из Кутаиси.
+Грязевые вулканы Тахти-Тепа и Килакупра, водохранилище Дали и высеченный в скале монастырь.
 
-за человека1 200 лари
-
-Смотреть тур 
-
-Авиатур
-
-### [Бари и Апулия, Италия — новогодний групповой тур через Ереван](https://besttraveler.ge/ru/tury/italiya-bari-apuliya-novogodniy-tur/)
-
-5 дней2–6 ноября 2026
-
-5 дней в Апулии: Бари, Монополи, Полиньяно-а-Маре, Альберобелло и Матера. Вылет из Еревана.
-
-за человека2 600 лари
+за человека60 лари
 
 Смотреть тур 
 
-На автобусе
+Однодневный
 
-### [Каппадокия, Амасья и Орду: автобусный тур на 6 дней](https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/)
+### [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
 
-6 дней2–7 ноября 2026
+1 день25 октября 2026
 
-Амасья, Каппадокия, Кайсери, Орду и Трабзон на автобусе — без ночей в автобусе.
+Город-крепость Уджарма, Гомборский перевал, Шуамта, Икалто, Тетри Гиорги и Алаверди.
 
-за человека1 350 лари
-
-Смотреть тур 
-
-Авиатур
-
-### [Испания и Португалия на машине — групповой тур, 3–10 ноября](https://besttraveler.ge/ru/tury/ispaniya-portugaliya-tur-na-mashine/)
-
-8 дней / 7 ночей3–10 ноября 2026
-
-8 дней на машине: Сеговия, Саламанка, Порту, Коимбра, Синтра, Лиссабон и Толедо.
-
-за человека4 500 лари
-
-Смотреть тур 
-
-Авиатур
-
-### [Хургада, Луксор, Порт-Саид и Суэцкий канал — 7 дней](https://besttraveler.ge/ru/tury/egipet-khurgada-luksor-suetskiy-kanal/)
-
-7 дней / 6 ночей9–15 ноября 2026
-
-7 дней в Хургаде: Суэцкий канал и Порт-Саид, остров Хула-Хула, Луксор и монастыри.
-
-за человека6 100 лари
+за человека60 лари
 
 Смотреть тур 
 
@@ -120,7 +120,7 @@ URL: https://besttraveler.ge/ru/
 
 [Направления](https://besttraveler.ge/ru/napravleniya/)
 
-[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 6 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 4 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 5 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Греция 2 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 4 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 38 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
+[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 6 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 4 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 5 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Греция 2 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 4 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 56 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
 
 ## Почему besttraveler
 

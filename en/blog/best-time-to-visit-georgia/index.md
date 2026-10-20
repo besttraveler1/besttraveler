@@ -108,37 +108,37 @@ View tour
 
 Day tour
 
-### [Juta and Chaukhi massif day trip](https://besttraveler.ge/en/tours/juta-chaukhi-day-trip/)
+### [Kazbegi and Juta: Chaukhi, Tina's Lake, Sno, Bidara Travertines](https://besttraveler.ge/en/tours/juta-chaukhi-day-trip/)
 
-1 dayGeorgia
+1 day20 Jun 2027
 
-Ananuri, the Gudauri panorama, the mountain village of Juta and views of the Chaukhi massif — a summer tour.
+Juta village, the Chaukhi peaks, a waterfall and Tina's Lake, Sno village and the Bidara travertines; an easy hike.
 
-Price on request
+per person60 GEL
 
 View tour 
 
 By bus
 
-### [Svaneti tour: Mestia and Ushguli](https://besttraveler.ge/en/tours/svaneti-mestia-ushguli-tour/)
+### [Svaneti 3-Day Tour: Enguri Dam, Mestia, Koruldi Lakes, Ushguli](https://besttraveler.ge/en/tours/svaneti-mestia-ushguli-tour/)
 
-By busGeorgia
+3 days / 2 nights28–30 May 2027
 
-The Enguri Dam on the way, Mestia, the Svan towers and Ushguli.
+Three days in Svaneti: Enguri Dam, Latali, Koruldi Lakes, Mestia, Hatsvali and Ushguli; 2 breakfasts and 2 dinners included.
 
-Price on request
+per person410 GEL
 
 View tour 
 
 Day tour
 
-### [Gudauri and Kazbegi winter day trip](https://besttraveler.ge/en/tours/gudauri-kazbegi-winter-day-trip/)
+### [Gudauri Day Trip: Free Time at the Ski Resort](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
 
-1 dayGeorgia
+1 day12 Dec 2026
 
-Ananuri, snowy Gudauri, Stepantsminda and Gergeti Trinity Church — a winter tour.
+A day in Gudauri: free time at the ski resort for skiing, cable cars and snowy views.
 
-Price on request
+per person60 GEL
 
 View tour 
 
@@ -146,7 +146,7 @@ Day tour
 
 ### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-1 dayGeorgia
+1 day24 Oct 2026
 
 Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 

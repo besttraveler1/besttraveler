@@ -115,7 +115,7 @@ URL: https://besttraveler.ge/ka/blogi/kakhetis-ertdghiani-turebi/
 
 ### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
 
-1 დღესაქართველო
+1 დღე24 ოქტომბერი 2026
 
 ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
 
@@ -127,7 +127,7 @@ URL: https://besttraveler.ge/ka/blogi/kakhetis-ertdghiani-turebi/
 
 ### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
 
-1 დღესაქართველო
+1 დღე25 ოქტომბერი 2026
 
 უჯარმის ციხე-ქალაქი, გომბორის უღელტეხილი, შუამთა, იყალთო, თეთრი გიორგი და ალავერდი.
 
@@ -139,7 +139,7 @@ URL: https://besttraveler.ge/ka/blogi/kakhetis-ertdghiani-turebi/
 
 ### [კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი](https://besttraveler.ge/ka/turebi/kakheti-nekresi-gremi-telavi-turi/)
 
-1 დღესაქართველო
+1 დღე25 ოქტომბერი 2026
 
 ნეკრესის სამონასტრო კომპლექსი, ილიას ტბა, გრემი და თელავის „ბატონის ციხე“ ერთ დღეში.
 
@@ -151,7 +151,7 @@ URL: https://besttraveler.ge/ka/blogi/kakhetis-ertdghiani-turebi/
 
 ### [კახეთის ტური: ჩაილური, გურჯაანის ყველაწმინდა, ზეგაანი, სანაგირე](https://besttraveler.ge/ka/turebi/kakheti-gurjaani-zegaani-turi/)
 
-1 დღესაქართველო
+1 დღე25 ოქტომბერი 2026
 
 ჩაილურის ციხე, გურჯაანის ყველაწმინდა, ნატო ვაჩნაძის მუზეუმი, ზიარის ტბა, ზეგაანი და სანაგირე.
 
@@ -163,7 +163,7 @@ URL: https://besttraveler.ge/ka/blogi/kakhetis-ertdghiani-turebi/
 
 ### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
 
-1 დღესაქართველო
+1 დღე25 ოქტომბერი 2026
 
 დოდოს რქა, დავით გარეჯის მონასტერი, ფერადი მთები და მრავალწყაროს წყალსაცავი.
 
@@ -175,7 +175,7 @@ URL: https://besttraveler.ge/ka/blogi/kakhetis-ertdghiani-turebi/
 
 ### [ლაგოდეხის ნაკრძალი: ნინოს ხევის (გურგენიანის) ჩანჩქერი](https://besttraveler.ge/ka/turebi/lagodekhi-ninos-khevis-chanchkeri/)
 
-1 დღესაქართველო
+1 დღე31 ოქტომბერი 2026
 
 ლაშქრობა ლაგოდეხის ნაკრძალში ნინოს ხევის ჩანჩქერამდე, 8.3 კმ ცალმხრივად.
 

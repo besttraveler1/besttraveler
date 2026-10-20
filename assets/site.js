@@ -304,6 +304,9 @@
   // tour filters
   var grid = $('[data-filter-grid]');
   if (grid) {
+    // calendar: drop departures that have already passed since the last build
+    var now = new Date(), today = now.getFullYear() + '-' + ('0' + (now.getMonth() + 1)).slice(-2) + '-' + ('0' + now.getDate()).slice(-2);
+    $$('[data-end]', grid).forEach(function (r) { if (r.getAttribute('data-end') < today) r.remove(); });
     var chips = $$('[data-f]'), empty = $('[data-empty]');
     function apply(v) {
       var n = 0;
@@ -311,6 +314,7 @@
         var ok = v === 'all' || (' ' + c.getAttribute('data-tags') + ' ').indexOf(' ' + v + ' ') > -1;
         c.hidden = !ok; if (ok) n++;
       });
+      $$('[data-group]', grid).forEach(function (g) { g.hidden = !g.querySelector('[data-tags]:not([hidden])'); });
       chips.forEach(function (c) { c.setAttribute('aria-pressed', c.getAttribute('data-f') === v ? 'true' : 'false'); });
       if (empty) empty.style.display = n ? 'none' : 'block';
     }
@@ -321,7 +325,7 @@
       });
     });
     var h = location.hash.slice(1);
-    if (h && chips.some(function (c) { return c.getAttribute('data-f') === h; })) apply(h);
+    apply(h && chips.some(function (c) { return c.getAttribute('data-f') === h; }) ? h : 'all');
   }
 
   // searchable tour picker (enhances the native select; the select still works without JS)

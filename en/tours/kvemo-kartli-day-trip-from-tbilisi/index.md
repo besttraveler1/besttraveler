@@ -1,6 +1,6 @@
 # Kvemo Kartli day tour from Tbilisi
 
-> One-day tour to Kvemo Kartli from Tbilisi: Tserakvi monastery, Gagi Fortress, Tamarisi lakes and Shavnabada. Departs 07:00, price 60 GEL.
+> One-day tour to Kvemo Kartli from Tbilisi: Tserakvi monastery, Gagi Fortress, Tamarisi lakes and Shavnabada. Departs 07:00, price 65 GEL.
 
 URL: https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/
 
@@ -19,11 +19,11 @@ Photo: [Giorgi13](https://commons.wikimedia.org/wiki/File:GagiFortress2.jpg), [C
 
 Duration1 day
 
-DatesOn request
+Next departure25 Oct 2026 +16
 
 DepartureTbilisi, 07:00
 
-Price60 GEL
+Price65 GEL
 
 ## Tour programme
 
@@ -55,11 +55,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes” tour cost?**
 
-The tour costs 60 GEL per person.
+The tour costs 65 GEL per person.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 25 Oct 2026, 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 11 Apr 2027, 25 Apr 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -69,13 +69,29 @@ Travel by top-class minibus; Services of a qualified guide; Photography.
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 60 GELper person: 
+Price: 65 GELper person: 
 
 ## Dates
 
 Dates
 
-Dates on request
+- 25 Oct 2026
+- 31 Oct 2026
+- 1 Nov 2026
+- 7 Nov 2026
+- 11 Apr 2027
+- 25 Apr 2027
+- 1 May 2027
+- 15 May 2027
+- 23 May 2027
+- 12 Jun 2027
+- 19 Jun 2027
+- 4 Jul 2027
+- 11 Jul 2027
+- 24 Jul 2027
+- 7 Aug 2027
+- 15 Aug 2027
+- 29 Aug 2027
 
 - Travel by top-class minibus
 - Services of a qualified guide
@@ -87,38 +103,38 @@ Dates on request
 
 [See all tours](https://besttraveler.ge/en/tours/)
 
-By bus
+Day tour
 
-### [Batumi and Adjara summer tour](https://besttraveler.ge/en/tours/batumi-adjara-summer-tour/)
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Batumi Boulevard, the Botanical Garden, Gonio Fortress and Mtirala National Park.
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
-Price on request
-
-View tour 
-
-By bus
-
-### [Borjomi and Bakuriani tour with the Kukushka train](https://besttraveler.ge/en/tours/borjomi-bakuriani-tour/)
-
-By busGeorgia
-
-Borjomi park and mineral springs, the Kukushka train up to Bakuriani and Bakuriani itself.
-
-Price on request
+per person60 GEL
 
 View tour 
 
-By bus
+Day tour
 
-### [Kutaisi, caves and canyons tour: Prometheus, Martvili, Okatse](https://besttraveler.ge/en/tours/kutaisi-caves-canyons-tour/)
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Sataplia, Kutaisi with Gelati and Bagrati, Prometheus Cave, the Martvili and Okatse canyons and Kinchkha waterfall.
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
 
-Price on request
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+
+1 day24 Oct 2026
+
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+
+per person65 GEL
 
 View tour

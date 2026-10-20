@@ -18,7 +18,7 @@ Photo: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=149966635), C
 
 Duration1 day
 
-DatesOn request
+Next departure24 Oct 2026 +12
 
 DepartureTbilisi, 07:00
 
@@ -30,16 +30,27 @@ Price60 GEL
 - Dariali Monastery Complex
 - Big Gveleti waterfall (walk, 1.2 km one way, medium)
 - Small Gveleti waterfall (walk, easy, 500 m)
-- Gergeti Trinity Church
+- Gergeti Trinity Church (ride up by local jeep, 10 GEL)
 - Gudauri panorama
 
 ## Route on the map
 
 Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
+## Included in the price
+
+- Travel by top-class minibus
+- Services of a qualified tour organizer (organization, short overview of the sights)
+- Photography
+
+## Not included
+
+- Ride up to Gergeti by local jeep — 10 GEL per person
+
 ## Good to know
 
 - Return: 22:00
+- Meeting point: Didube metro station, upper exit
 - Walking: 1.2 km, medium
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
@@ -52,7 +63,11 @@ The tour costs 60 GEL per person.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 24 Oct 2026, 25 Oct 2026, 31 Oct 2026, 7 Nov 2026, 8 Nov 2026, 27 May 2027. Please check free places by phone or WhatsApp.
+
+**What is included in the price?**
+
+Travel by top-class minibus; Services of a qualified tour organizer (organization, short overview of the sights); Photography.
 
 **How do I book this tour?**
 
@@ -64,7 +79,23 @@ Price: 60 GELper person:
 
 Dates
 
-Dates on request
+- 24 Oct 2026
+- 25 Oct 2026
+- 31 Oct 2026
+- 7 Nov 2026
+- 8 Nov 2026
+- 27 May 2027
+- 5 Jun 2027
+- 3 Jul 2027
+- 18 Jul 2027
+- 25 Jul 2027
+- 7 Aug 2027
+- 15 Aug 2027
+- 22 Aug 2027
+
+- Travel by top-class minibus
+- Services of a qualified tour organizer (organization, short overview of the sights)
+- Photography
 
 [Book a place](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour%3A%20Kazbegi%20Day%20Tour%3A%20Dariali%2C%20Gveleti%20Waterfalls%2C%20Gergeti%20Trinity)[579 57 56 36](tel:+995579575636)[Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
@@ -72,38 +103,38 @@ Dates on request
 
 [See all tours](https://besttraveler.ge/en/tours/)
 
-By bus
+Day tour
 
-### [Batumi and Adjara summer tour](https://besttraveler.ge/en/tours/batumi-adjara-summer-tour/)
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Batumi Boulevard, the Botanical Garden, Gonio Fortress and Mtirala National Park.
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
-Price on request
-
-View tour 
-
-By bus
-
-### [Borjomi and Bakuriani tour with the Kukushka train](https://besttraveler.ge/en/tours/borjomi-bakuriani-tour/)
-
-By busGeorgia
-
-Borjomi park and mineral springs, the Kukushka train up to Bakuriani and Bakuriani itself.
-
-Price on request
+per person60 GEL
 
 View tour 
 
-By bus
+Day tour
 
-### [Kutaisi, caves and canyons tour: Prometheus, Martvili, Okatse](https://besttraveler.ge/en/tours/kutaisi-caves-canyons-tour/)
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Sataplia, Kutaisi with Gelati and Bagrati, Prometheus Cave, the Martvili and Okatse canyons and Kinchkha waterfall.
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
 
-Price on request
+per person65 GEL
+
+View tour 
+
+Day tour
+
+### [A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
+
+1 day25 Oct 2026
+
+Takhti-Tepa and Kilakupra mud volcanoes, the Dali reservoir and a rock-cut monastery.
+
+per person60 GEL
 
 View tour

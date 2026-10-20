@@ -16,7 +16,7 @@ Photo: [Alexey Komarov](https://commons.wikimedia.org/wiki/File:Gurgeniani_Water
 
 Duration1 day
 
-DatesOn request
+Next departure31 Oct 2026 +9
 
 DepartureTbilisi, 07:00
 
@@ -35,8 +35,8 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 
-- Travel by top-class minibus
-- Services of a qualified tour organizer (organization, short overview of the sights)
+- Travel by high-clearance minibus
+- Services of a qualified hiking guide (tour organization)
 - Photography
 
 ## Good to know
@@ -54,11 +54,11 @@ The tour costs 60 GEL per person.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 31 Oct 2026, 20 Jun 2027, 26 Jun 2027, 3 Jul 2027, 11 Jul 2027, 24 Jul 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
-Travel by top-class minibus; Services of a qualified tour organizer (organization, short overview of the sights); Photography.
+Travel by high-clearance minibus; Services of a qualified hiking guide (tour organization); Photography.
 
 **How do I book this tour?**
 
@@ -70,10 +70,19 @@ Price: 60 GELper person:
 
 Dates
 
-Dates on request
+- 31 Oct 2026
+- 20 Jun 2027
+- 26 Jun 2027
+- 3 Jul 2027
+- 11 Jul 2027
+- 24 Jul 2027
+- 31 Jul 2027
+- 1 Aug 2027
+- 14 Aug 2027
+- 22 Aug 2027
 
-- Travel by top-class minibus
-- Services of a qualified tour organizer (organization, short overview of the sights)
+- Travel by high-clearance minibus
+- Services of a qualified hiking guide (tour organization)
 - Photography
 
 [Book a place](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour%3A%20Lagodekhi%20Reserve%3A%20Ninoskhevi%20%28Gurgeniani%29%20Waterfall%20Hike)[579 57 56 36](tel:+995579575636)[Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
@@ -82,38 +91,38 @@ Dates on request
 
 [See all tours](https://besttraveler.ge/en/tours/)
 
-By bus
+Day tour
 
-### [Batumi and Adjara summer tour](https://besttraveler.ge/en/tours/batumi-adjara-summer-tour/)
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Batumi Boulevard, the Botanical Garden, Gonio Fortress and Mtirala National Park.
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
-Price on request
-
-View tour 
-
-By bus
-
-### [Borjomi and Bakuriani tour with the Kukushka train](https://besttraveler.ge/en/tours/borjomi-bakuriani-tour/)
-
-By busGeorgia
-
-Borjomi park and mineral springs, the Kukushka train up to Bakuriani and Bakuriani itself.
-
-Price on request
+per person60 GEL
 
 View tour 
 
-By bus
+Day tour
 
-### [Kutaisi, caves and canyons tour: Prometheus, Martvili, Okatse](https://besttraveler.ge/en/tours/kutaisi-caves-canyons-tour/)
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Sataplia, Kutaisi with Gelati and Bagrati, Prometheus Cave, the Martvili and Okatse canyons and Kinchkha waterfall.
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
 
-Price on request
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+
+1 day24 Oct 2026
+
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+
+per person65 GEL
 
 View tour

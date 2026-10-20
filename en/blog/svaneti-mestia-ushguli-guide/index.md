@@ -97,13 +97,13 @@ Yes. Hatsvali and Tetnuldi ski areas are near Mestia. The season usually opens a
 
 By bus
 
-### [Svaneti tour: Mestia and Ushguli](https://besttraveler.ge/en/tours/svaneti-mestia-ushguli-tour/)
+### [Svaneti 3-Day Tour: Enguri Dam, Mestia, Koruldi Lakes, Ushguli](https://besttraveler.ge/en/tours/svaneti-mestia-ushguli-tour/)
 
-By busGeorgia
+3 days / 2 nights28–30 May 2027
 
-The Enguri Dam on the way, Mestia, the Svan towers and Ushguli.
+Three days in Svaneti: Enguri Dam, Latali, Koruldi Lakes, Mestia, Hatsvali and Ushguli; 2 breakfasts and 2 dinners included.
 
-Price on request
+per person410 GEL
 
 View tour 
 
@@ -121,13 +121,13 @@ View tour
 
 By bus
 
-### [Racha tour: Shaori Lake, Nikortsminda and Khvanchkara](https://besttraveler.ge/en/tours/racha-shaori-nikortsminda-tour/)
+### [Racha 2-Day Tour: Tskhrajvari, Shaori, Nikortsminda, Utsera, Ghebi](https://besttraveler.ge/en/tours/racha-shaori-nikortsminda-tour/)
 
-By busGeorgia
+2 days / 1 nights15–16 May 2027
 
-Shaori Lake, Nikortsminda Cathedral, Ambrolauri and the Khvanchkara wine area.
+Two days in Racha: Tskhrajvari, Shaori, Nikortsminda, Barakoni, Mravaldzali, Utsera, Chiora, Gona, Ghebi and Oni.
 
-Price on request
+per person150 GEL
 
 View tour 
 

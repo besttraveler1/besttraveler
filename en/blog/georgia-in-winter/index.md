@@ -33,7 +33,7 @@ In the 2025-2026 season, Kokhta in Bakuriani opened on 20 December and lifts at 
 
 ## Kazbegi in winter
 
-In winter, Stepantsminda and Gergeti Trinity Church sit under snow, and the views are beautiful. The road goes over the Jvari Pass and through Gudauri. Our winter day tour combines Ananuri, Gudauri, Stepantsminda and Gergeti Trinity Church.
+In winter, Stepantsminda and Gergeti Trinity Church sit under snow, and the views are beautiful. The road goes over the Jvari Pass and through Gudauri. Our winter day tour goes to Gudauri, with free time at the resort for skiing, sledging or just a walk in the snow.
 
 In winter the Gudauri-Kobi section of the road can close to all vehicles for a while because of avalanche risk, as announced by Georgia's Roads Department. When that happens, the Kazbegi tour may be moved or changed. The Upper Lars border crossing depends on the same road.
 
@@ -94,13 +94,13 @@ Tbilisi and its sulphur baths, snowy Kazbegi, skiing in Gudauri, Bakuriani or Sv
 
 Day tour
 
-### [Gudauri and Kazbegi winter day trip](https://besttraveler.ge/en/tours/gudauri-kazbegi-winter-day-trip/)
+### [Gudauri Day Trip: Free Time at the Ski Resort](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
 
-1 dayGeorgia
+1 day12 Dec 2026
 
-Ananuri, snowy Gudauri, Stepantsminda and Gergeti Trinity Church — a winter tour.
+A day in Gudauri: free time at the ski resort for skiing, cable cars and snowy views.
 
-Price on request
+per person60 GEL
 
 View tour 
 

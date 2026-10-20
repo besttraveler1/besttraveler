@@ -17,7 +17,7 @@ Photo: [ZeevoX](https://commons.wikimedia.org/wiki/File:Tabatskuri_Village_and_L
 
 Duration1 day
 
-DatesOn request
+Next departure5 Jun 2027 +13
 
 DepartureTbilisi, 06:00
 
@@ -37,9 +37,16 @@ Price70 GEL
 
 Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
+## Included in the price
+
+- Travel by top-class minibus
+- Services of a qualified tour organizer (organization, short overview of the sights)
+- Photography
+
 ## Good to know
 
 - Return: 22:00
+- Meeting point: Didube metro station, upper exit
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
@@ -51,7 +58,11 @@ The tour costs 70 GEL per person.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 5 Jun 2027, 6 Jun 2027, 19 Jun 2027, 20 Jun 2027, 3 Jul 2027, 4 Jul 2027. Please check free places by phone or WhatsApp.
+
+**What is included in the price?**
+
+Travel by top-class minibus; Services of a qualified tour organizer (organization, short overview of the sights); Photography.
 
 **How do I book this tour?**
 
@@ -63,7 +74,24 @@ Price: 70 GELper person:
 
 Dates
 
-Dates on request
+- 5 Jun 2027
+- 6 Jun 2027
+- 19 Jun 2027
+- 20 Jun 2027
+- 3 Jul 2027
+- 4 Jul 2027
+- 17 Jul 2027
+- 18 Jul 2027
+- 14 Aug 2027
+- 15 Aug 2027
+- 28 Aug 2027
+- 29 Aug 2027
+- 11 Sep 2027
+- 12 Sep 2027
+
+- Travel by top-class minibus
+- Services of a qualified tour organizer (organization, short overview of the sights)
+- Photography
 
 [Book a place](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour%3A%20Tabatskuri%20Lake%20Tour%3A%20Tskhratskaro%20Pass%2C%20Timotesubani)[579 57 56 36](tel:+995579575636)[Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
@@ -71,38 +99,38 @@ Dates on request
 
 [See all tours](https://besttraveler.ge/en/tours/)
 
-By bus
+Day tour
 
-### [Batumi and Adjara summer tour](https://besttraveler.ge/en/tours/batumi-adjara-summer-tour/)
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Batumi Boulevard, the Botanical Garden, Gonio Fortress and Mtirala National Park.
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
-Price on request
-
-View tour 
-
-By bus
-
-### [Borjomi and Bakuriani tour with the Kukushka train](https://besttraveler.ge/en/tours/borjomi-bakuriani-tour/)
-
-By busGeorgia
-
-Borjomi park and mineral springs, the Kukushka train up to Bakuriani and Bakuriani itself.
-
-Price on request
+per person60 GEL
 
 View tour 
 
-By bus
+Day tour
 
-### [Kutaisi, caves and canyons tour: Prometheus, Martvili, Okatse](https://besttraveler.ge/en/tours/kutaisi-caves-canyons-tour/)
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
-By busGeorgia
+1 day24 Oct 2026
 
-Sataplia, Kutaisi with Gelati and Bagrati, Prometheus Cave, the Martvili and Okatse canyons and Kinchkha waterfall.
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
 
-Price on request
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+
+1 day24 Oct 2026
+
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+
+per person65 GEL
 
 View tour

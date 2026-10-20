@@ -10,6 +10,18 @@ URL: https://besttraveler.ge/ru/tury/novogodnie-tury-2027/
 
 ## Новогодние туры 2027
 
+Однодневный
+
+### [Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
+
+1 день25 октября 2026
+
+Озёра Паравани и Сагамо, монастыри Пока, Гореловка и заказник Мадатапа.
+
+за человека65 лари
+
+Смотреть тур 
+
 Авиатур
 
 ### [Бари и Апулия, Италия — новогодний групповой тур через Ереван](https://besttraveler.ge/ru/tury/italiya-bari-apuliya-novogodniy-tur/)
@@ -58,6 +70,18 @@ URL: https://besttraveler.ge/ru/tury/novogodnie-tury-2027/
 
 Смотреть тур 
 
+Однодневный
+
+### [Однодневный тур в Гудаури: свободное время на горнолыжном курорте](https://besttraveler.ge/ru/tury/gudauri-zimoy-odnodnevnyy-tur/)
+
+1 день12 декабря 2026
+
+Один день в Гудаури: свободное время на горнолыжном курорте, канатные дороги и снежные виды.
+
+за человека60 лари
+
+Смотреть тур 
+
 Авиатур
 
 ### [Круиз по озеру Насер, Каир и Луксор — групповой тур](https://besttraveler.ge/ru/tury/egipet-kruiz-po-ozeru-naser/)
@@ -96,4 +120,4 @@ URL: https://besttraveler.ge/ru/tury/novogodnie-tury-2027/
 
 ## Туры по месяцам
 
-[В ноябре 2026 8](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 5](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 4](https://besttraveler.ge/ru/tury/yanvar-2027/)
+[В октябре 2026 18](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 27](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 7](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 6](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 2](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 4](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 17](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 29](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 29](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 25](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 25](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 17](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 13](https://besttraveler.ge/ru/tury/oktyabr-2027/)

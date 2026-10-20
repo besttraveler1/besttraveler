@@ -91,7 +91,7 @@ URL: https://besttraveler.ge/ru/blog/kazbegi-za-odin-den-iz-tbilisi/
 
 ### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
 
-1 деньГрузия
+1 день24 октября 2026
 
 Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
 
@@ -103,7 +103,7 @@ URL: https://besttraveler.ge/ru/blog/kazbegi-za-odin-den-iz-tbilisi/
 
 ### [Тур в Трусовское ущелье: травертины, «бездонное» озеро, Закагори](https://besttraveler.ge/ru/tury/trusovskoe-ushchele-tur/)
 
-1 деньГрузия
+1 день25 октября 2026
 
 Трусовское ущелье: цветные травертины, «бездонное» озеро, монастырь Абано и крепость Закагори.
 
