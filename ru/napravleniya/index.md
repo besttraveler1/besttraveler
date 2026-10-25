@@ -8,7 +8,7 @@ URL: https://besttraveler.ge/ru/napravleniya/
 
 Страны, куда besttraveler организует туры: Египет, Италия, Испания, Франция, Турция, Армения, Греция и другие — с ценами и датами.
 
-[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 6 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 4 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 5 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Греция 2 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 4 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 56 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
+[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 6 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 4 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 12 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Греция 2 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 4 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 56 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
 
 ## Другие страны в наших турах
 
@@ -44,16 +44,18 @@ URL: https://besttraveler.ge/ru/napravleniya/
 
 ### Швейцария
 
-1 туров: 
-
-- [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн 8 дней / 7 ночей · 4 500 лари](https://besttraveler.ge/ru/tury/alpy-shveytsariya-5-stran-tur/)
-
-### Германия
-
 2 туров: 
 
 - [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн 8 дней / 7 ночей · 4 500 лари](https://besttraveler.ge/ru/tury/alpy-shveytsariya-5-stran-tur/)
+- [Франция, Германия и Швейцария: Эльзас, Шварцвальд и Базель 8 дней / 7 ночей · 4 500 лари](https://besttraveler.ge/ru/tury/frantsiya-germaniya-shveytsariya-tur/)
+
+### Германия
+
+3 туров: 
+
+- [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн 8 дней / 7 ночей · 4 500 лари](https://besttraveler.ge/ru/tury/alpy-shveytsariya-5-stran-tur/)
 - [Нидерланды и Германия: фестиваль тюльпанов — тур на 8 дней 8 дней · 4 100 лари](https://besttraveler.ge/ru/tury/niderlandy-festival-tyulpanov-tur/)
+- [Франция, Германия и Швейцария: Эльзас, Шварцвальд и Базель 8 дней / 7 ночей · 4 500 лари](https://besttraveler.ge/ru/tury/frantsiya-germaniya-shveytsariya-tur/)
 
 ### Австрия
 

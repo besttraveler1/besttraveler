@@ -10,42 +10,6 @@ All our tours that start in October 2026: 18 tours abroad and in Georgia, with p
 
 ## Tours in October 2026
 
-Day tour
-
-### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
-
-1 day24 Oct 2026
-
-Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
-
-1 day24 Oct 2026
-
-Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
-
-1 day24 Oct 2026
-
-Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
-
-per person65 GEL
-
-View tour 
-
 By plane
 
 ### [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-group-tour/)
@@ -168,6 +132,18 @@ View tour
 
 Day tour
 
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
+
+1 day25 Oct 2026
+
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
 ### [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
 
 1 day25 Oct 2026
@@ -204,6 +180,18 @@ View tour
 
 Day tour
 
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
+
+1 day31 Oct 2026
+
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
 ### [Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/)
 
 1 day31 Oct 2026
@@ -211,6 +199,18 @@ Day tour
 A hike in Lagodekhi Reserve to the Ninoskhevi waterfall, 8.3 km one way.
 
 per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+
+1 day31 Oct 2026
+
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+
+per person65 GEL
 
 View tour 
 
@@ -228,4 +228,4 @@ View tour
 
 ## Tours by month
 
-[November 2026 27](https://besttraveler.ge/en/tours/november-2026/)[December 2026 7](https://besttraveler.ge/en/tours/december-2026/)[January 2027 6](https://besttraveler.ge/en/tours/january-2027/)[February 2027 2](https://besttraveler.ge/en/tours/february-2027/)[March 2027 4](https://besttraveler.ge/en/tours/march-2027/)[April 2027 17](https://besttraveler.ge/en/tours/april-2027/)[May 2027 29](https://besttraveler.ge/en/tours/may-2027/)[June 2027 29](https://besttraveler.ge/en/tours/june-2027/)[July 2027 25](https://besttraveler.ge/en/tours/july-2027/)[August 2027 25](https://besttraveler.ge/en/tours/august-2027/)[September 2027 17](https://besttraveler.ge/en/tours/september-2027/)[October 2027 13](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 9](https://besttraveler.ge/en/tours/new-year-tours-2027/)
+[November 2026 28](https://besttraveler.ge/en/tours/november-2026/)[December 2026 8](https://besttraveler.ge/en/tours/december-2026/)[January 2027 7](https://besttraveler.ge/en/tours/january-2027/)[February 2027 3](https://besttraveler.ge/en/tours/february-2027/)[March 2027 8](https://besttraveler.ge/en/tours/march-2027/)[April 2027 18](https://besttraveler.ge/en/tours/april-2027/)[May 2027 36](https://besttraveler.ge/en/tours/may-2027/)[June 2027 38](https://besttraveler.ge/en/tours/june-2027/)[July 2027 31](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 26](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 10](https://besttraveler.ge/en/tours/new-year-tours-2027/)

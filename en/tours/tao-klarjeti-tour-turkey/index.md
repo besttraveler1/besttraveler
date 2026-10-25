@@ -68,7 +68,7 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 ## Good to know
 
 - Meeting point: Didube metro station, upper exit
-- Documents: International passport valid for at least 6 months
+- Documents: International passport (valid for at least 6 months) or Georgian ID card
 - Meeting point: next to Didube metro station (upper metro exit).
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)

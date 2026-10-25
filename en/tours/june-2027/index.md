@@ -1,50 +1,14 @@
 # Tours in June 2027 — prices and dates
 
-> 29 tours that start in June 2027: flight tours, bus tours and day tours from Georgia. Prices, dates and full day-by-day programmes.
+> 38 tours that start in June 2027: flight tours, bus tours and day tours from Georgia. Prices, dates and full day-by-day programmes.
 
 URL: https://besttraveler.ge/en/tours/june-2027/
 
 # Tours in June 2027
 
-All our tours that start in June 2027: 29 tours abroad and in Georgia, with prices and full programmes.
+All our tours that start in June 2027: 38 tours abroad and in Georgia, with prices and full programmes.
 
 ## Tours in June 2027
-
-Day tour
-
-### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
-
-1 day24 Oct 2026
-
-Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
-
-1 day24 Oct 2026
-
-Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
-
-1 day24 Oct 2026
-
-Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
-
-per person65 GEL
-
-View tour 
 
 Day tour
 
@@ -108,6 +72,18 @@ View tour
 
 Day tour
 
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
+
+1 day25 Oct 2026
+
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
 ### [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
 
 1 day25 Oct 2026
@@ -132,6 +108,18 @@ View tour
 
 Day tour
 
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
+
+1 day31 Oct 2026
+
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
 ### [Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/)
 
 1 day31 Oct 2026
@@ -139,6 +127,18 @@ Day tour
 A hike in Lagodekhi Reserve to the Ninoskhevi waterfall, 8.3 km one way.
 
 per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+
+1 day31 Oct 2026
+
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+
+per person65 GEL
 
 View tour 
 
@@ -163,6 +163,42 @@ Day tour
 Gori Fortress, St George of Gorijvari, Uplistsikhe, the Ateni churches and Tseroskhevi, on fixed dates.
 
 per person60 GEL
+
+View tour 
+
+By plane
+
+### [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/paris-france-group-tour/)
+
+5 days10–14 Nov 2026
+
+5 days in Paris: Versailles, the Louvre, Montmartre, the Champs-Élysées and Notre-Dame.
+
+per person2,500 GEL
+
+View tour 
+
+By plane
+
+### [France: Alsace and Paris — Group Tour from Kutaisi](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
+
+8 days / 7 nights19–26 Nov 2026
+
+8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar and Paris.
+
+per person4,200 GEL
+
+View tour 
+
+By plane
+
+### [Burgundy and Franche-Comté: Cluny, Dijon and Beaune](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
+
+8 days / 7 nights2–9 Mar 2027
+
+Castles and abbeys of Burgundy, Dijon, Beaune and the waterfalls of Franche-Comté in 8 days.
+
+per person4,500 GEL
 
 View tour 
 
@@ -262,6 +298,18 @@ per person60 GEL
 
 View tour 
 
+By plane
+
+### [Occitanie and Nouvelle-Aquitaine: Rocamadour, Bordeaux, Carcassonne](https://besttraveler.ge/en/tours/france-occitanie-aquitaine-group-tour/)
+
+8 days / 7 nights17–24 May 2027
+
+Lyon, villages and castles of southern France, Bordeaux, Lourdes, Toulouse, Carcassonne and Nîmes in 8 days.
+
+per person4,500 GEL
+
+View tour 
+
 Day tour
 
 ### [Borjomi Tour: Daba, Timotesubani, Borjomi Park, Green Monastery](https://besttraveler.ge/en/tours/borjomi-timotesubani-green-monastery-tour/)
@@ -286,6 +334,42 @@ per person70 GEL
 
 View tour 
 
+By plane
+
+### [France, Germany and Switzerland: Alsace, the Black Forest and Basel](https://besttraveler.ge/en/tours/france-germany-switzerland-tour/)
+
+8 days / 7 nights24–31 May 2027
+
+Alsace villages, Colmar, Strasbourg, the Black Forest, Freiburg and small Swiss towns in 8 days.
+
+per person4,500 GEL
+
+View tour 
+
+By plane
+
+### [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
+
+8 days24–31 May 2027
+
+The Alps, Turin, the Côte d'Azur and Provence — three countries in 8 days.
+
+per person4,500 GEL
+
+View tour 
+
+By plane
+
+### [Normandy, Brittany and the Loire Valley — 8-Day Tour of France](https://besttraveler.ge/en/tours/normandy-brittany-loire-tour/)
+
+8 days / 7 nights24–31 May 2027
+
+8 days: the Normandy coast, Rouen, Mont-Saint-Michel, Saint-Malo, La Rochelle and the Loire châteaux.
+
+per person4,100 GEL
+
+View tour 
+
 By bus
 
 ### [Svaneti 3-Day Tour: Enguri Dam, Mestia, Koruldi Lakes, Ushguli](https://besttraveler.ge/en/tours/svaneti-mestia-ushguli-tour/)
@@ -307,6 +391,30 @@ Day tour
 Tskhratskaro Pass, Tabatskuri Lake and its Red Church, and Timotesubani monastery.
 
 per person70 GEL
+
+View tour 
+
+By plane
+
+### [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
+
+8 days / 7 nights14–21 Jun 2027
+
+8 days by car in five countries: Annecy, Chillon, Lauterbrunnen, Lucerne, Vaduz, Neuschwanstein, Bern.
+
+per person4,500 GEL
+
+View tour 
+
+By plane
+
+### [Loire Valley Castles: Blois, Amboise, Chinon, Valençay](https://besttraveler.ge/en/tours/loire-valley-castles-tour/)
+
+8 days / 7 nights14–21 Jun 2027
+
+The famous castles of the Loire: Blois, Amboise, Clos Lucé, Ussé, Chinon, Saumur and more in 8 days.
+
+per person4,100 GEL
 
 View tour 
 
@@ -360,4 +468,4 @@ View tour
 
 ## Tours by month
 
-[October 2026 18](https://besttraveler.ge/en/tours/october-2026/)[November 2026 27](https://besttraveler.ge/en/tours/november-2026/)[December 2026 7](https://besttraveler.ge/en/tours/december-2026/)[January 2027 6](https://besttraveler.ge/en/tours/january-2027/)[February 2027 2](https://besttraveler.ge/en/tours/february-2027/)[March 2027 4](https://besttraveler.ge/en/tours/march-2027/)[April 2027 17](https://besttraveler.ge/en/tours/april-2027/)[May 2027 29](https://besttraveler.ge/en/tours/may-2027/)[July 2027 25](https://besttraveler.ge/en/tours/july-2027/)[August 2027 25](https://besttraveler.ge/en/tours/august-2027/)[September 2027 17](https://besttraveler.ge/en/tours/september-2027/)[October 2027 13](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 9](https://besttraveler.ge/en/tours/new-year-tours-2027/)
+[October 2026 18](https://besttraveler.ge/en/tours/october-2026/)[November 2026 28](https://besttraveler.ge/en/tours/november-2026/)[December 2026 8](https://besttraveler.ge/en/tours/december-2026/)[January 2027 7](https://besttraveler.ge/en/tours/january-2027/)[February 2027 3](https://besttraveler.ge/en/tours/february-2027/)[March 2027 8](https://besttraveler.ge/en/tours/march-2027/)[April 2027 18](https://besttraveler.ge/en/tours/april-2027/)[May 2027 36](https://besttraveler.ge/en/tours/may-2027/)[July 2027 31](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 26](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 10](https://besttraveler.ge/en/tours/new-year-tours-2027/)

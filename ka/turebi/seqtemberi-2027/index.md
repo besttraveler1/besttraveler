@@ -1,12 +1,12 @@
 # ტურები 2027 წლის სექტემბერში — ფასები
 
-> 17 ტური, რომელიც 2027 წლის სექტემბერში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
+> 26 ტური, რომელიც 2027 წლის სექტემბერში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
 
 URL: https://besttraveler.ge/ka/turebi/seqtemberi-2027/
 
 # ტურები 2027 წლის სექტემბერში
 
-ყველა ჩვენი ტური, რომელიც 2027 წლის სექტემბერში იწყება: 17 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
+ყველა ჩვენი ტური, რომელიც 2027 წლის სექტემბერში იწყება: 26 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
 
 ## ტურები 2027 წლის სექტემბერში
 
@@ -94,6 +94,42 @@ URL: https://besttraveler.ge/ka/turebi/seqtemberi-2027/
 
 ტურის ნახვა 
 
+ავიატური
+
+### [პარიზი, საფრანგეთი — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/ka/turebi/parizi-saprangeti-jgupuri-turi/)
+
+5 დღე10–14 ნოემბერი 2026
+
+5 დღე პარიზში: ვერსალი, ლუვრი, მონმარტრი, შანზ-ელიზე და ნოტრ-დამი.
+
+ერთ ადამიანზე2 500 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [საფრანგეთი: ელზასი და პარიზი — ჯგუფური ტური ქუთაისიდან](https://besttraveler.ge/ka/turebi/saprangeti-elzasi-parizi-turi/)
+
+8 დღე / 7 ღამე19–26 ნოემბერი 2026
+
+8 დღე: რეიმსი, მეცი, სტრასბურგი, ელზასის სოფლები, კოლმარი და პარიზი.
+
+ერთ ადამიანზე4 200 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [ბურგუნდია და ფრანშ-კონტე: კლიუნი, დიჟონი, ბონი](https://besttraveler.ge/ka/turebi/burgundia-franshe-konte-turi/)
+
+8 დღე / 7 ღამე2–9 მარტი 2027
+
+ბურგუნდიის ციხეები და სააბატოები, დიჟონი, ბონი და ფრანშ-კონტეს ჩანჩქერები — 8 დღე.
+
+ერთ ადამიანზე4 500 ლარი
+
+ტურის ნახვა 
+
 ერთდღიანი
 
 ### [შიდა ქართლის ტური: სხვილოს ციხე, ბრეთი, რუისი, სამთავისი, ურბნისი](https://besttraveler.ge/ka/turebi/shida-kartli-samtavisi-ruisi-urbnisi/)
@@ -166,6 +202,30 @@ URL: https://besttraveler.ge/ka/turebi/seqtemberi-2027/
 
 ტურის ნახვა 
 
+ავიატური
+
+### [ოქსიტანია და ახალი აკვიტანია: როკამადური, ბორდო, კარკასონი](https://besttraveler.ge/ka/turebi/saprangeti-oksitania-akvitania-turi/)
+
+8 დღე / 7 ღამე17–24 მაისი 2027
+
+ლიონი, საფრანგეთის სამხრეთის სოფლები და ციხეები, ბორდო, ლურდი, ტულუზა, კარკასონი და ნიმი — 8 დღე.
+
+ერთ ადამიანზე4 500 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [ილ-დე-ფრანსი და ნორმანდია — სასახლეების ტური საფრანგეთში](https://besttraveler.ge/ka/turebi/il-de-pransi-normandia-turi/)
+
+8 დღე / 7 ღამე19–26 მაისი 2027
+
+8 დღე: ილ-დე-ფრანსისა და ნორმანდიის სასახლეები, შარტრი, ონფლერი, დოვილი, ეპერნე და ამიენი.
+
+ერთ ადამიანზე4 100 ლარი
+
+ტურის ნახვა 
+
 ერთდღიანი
 
 ### [ბორჯომის ტური: დაბა, ტიმოთესუბანი, ბორჯომის პარკი, მწვანე მონასტერი](https://besttraveler.ge/ka/turebi/borjomi-timotesubani-mtsvane-monasteri/)
@@ -175,6 +235,42 @@ URL: https://besttraveler.ge/ka/turebi/seqtemberi-2027/
 დაბის წმ. გიორგის ეკლესია, ტიმოთესუბანი, წმ. სერაფიმე საროველის ეკლესია, ბორჯომის პარკი და მწვანე მონასტერი.
 
 ერთ ადამიანზე65 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [საფრანგეთი, გერმანია, შვეიცარია: ელზასი, შავი ტყე და ბაზელი](https://besttraveler.ge/ka/turebi/saprangeti-germania-shveitsaria-turi/)
+
+8 დღე / 7 ღამე24–31 მაისი 2027
+
+ელზასის სოფლები, კოლმარი, სტრასბურგი, შავი ტყე, ფრაიბურგი და შვეიცარიის ქალაქები — 8 დღე.
+
+ერთ ადამიანზე4 500 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო](https://besttraveler.ge/ka/turebi/provansi-monako-lazhvardovani-sanapiro/)
+
+8 დღე24–31 მაისი 2027
+
+ალპები, ტურინი, ლაჟვარდოვანი სანაპირო და პროვანსი — სამი ქვეყანა 8 დღეში.
+
+ერთ ადამიანზე4 500 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [ნორმანდია, ბრეტანი და ლუარის ხეობა — 8-დღიანი ტური საფრანგეთში](https://besttraveler.ge/ka/turebi/normandia-bretani-luara-turi/)
+
+8 დღე / 7 ღამე24–31 მაისი 2027
+
+8 დღე: ნორმანდიის სანაპირო, რუანი, მონ-სენ-მიშელი, სენ-მალო, ლა-როშელი და ლუარის სასახლეები.
+
+ერთ ადამიანზე4 100 ლარი
 
 ტურის ნახვა 
 
@@ -202,6 +298,18 @@ URL: https://besttraveler.ge/ka/turebi/seqtemberi-2027/
 
 ტურის ნახვა 
 
+ავიატური
+
+### [5 ქვეყანა ერთ ტურში მანქანით: საფრანგეთი, შვეიცარია, გერმანია, ავსტრია, ლიხტენშტაინი](https://besttraveler.ge/ka/turebi/alpebi-shveitsaria-5-kveqana-turi/)
+
+8 დღე / 7 ღამე14–21 ივნისი 2027
+
+8 დღე მანქანით ხუთ ქვეყანაში: ანესი, შილონი, ლაუტერბრუნენი, ლუცერნი, ვადუცი, ნოიშვანშტაინი, ბერნი.
+
+ერთ ადამიანზე4 500 ლარი
+
+ტურის ნახვა 
+
 ერთდღიანი
 
 ### [აბუდელაურის ტბების ლაშქრობა: როშკა, ფერადი ტბები, ჭაუხი](https://besttraveler.ge/ka/turebi/abudelauris-tbebi-roshka-lashqroba/)
@@ -216,4 +324,4 @@ URL: https://besttraveler.ge/ka/turebi/seqtemberi-2027/
 
 ## ტურები თვეების მიხედვით
 
-[ოქტომბერში 2026 18](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 27](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 7](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 6](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 2](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 4](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 17](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 29](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 29](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 25](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 25](https://besttraveler.ge/ka/turebi/agvisto-2027/)[ოქტომბერში 2027 13](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 9](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
+[ოქტომბერში 2026 18](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 28](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 8](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 7](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 3](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 8](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 18](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 36](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 38](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 31](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 10](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)

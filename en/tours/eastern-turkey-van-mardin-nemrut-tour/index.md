@@ -106,7 +106,7 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Good to know
 
-- Documents: International passport valid for at least 6 months
+- Documents: International passport (valid for at least 6 months) or Georgian ID card
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 

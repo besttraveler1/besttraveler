@@ -13,7 +13,7 @@ URL: https://besttraveler.ge/ru/
 [Смотреть туры](https://besttraveler.ge/ru/tury/)
 [Написать в WhatsApp](https://wa.me/995579575636?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D1%82%D1%83%D1%80)
 
-- 99туров
+- 106туров
 - 26стран
 - 50однодневных туров
 - от 60 ₾однодневные туры
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/
 
 ## Выберите тип тура
 
-[34 туров 
+[41 туров 
 
 ### Туры за границу
 
@@ -43,42 +43,6 @@ URL: https://besttraveler.ge/ru/
 ## Ближайшие туры
 
 [Все даты](https://besttraveler.ge/ru/kalendar-turov/)
-
-Однодневный
-
-### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
-
-1 день24 октября 2026
-
-Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
-
-1 день24 октября 2026
-
-Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
-
-1 день24 октября 2026
-
-Зарзма, монастырь и водопад Чуле, Рабат в Ахалцихе и Сапара, с гидом.
-
-за человека65 лари
-
-Смотреть тур 
 
 Авиатур
 
@@ -116,11 +80,47 @@ URL: https://besttraveler.ge/ru/
 
 Смотреть тур 
 
+Однодневный
+
+### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
+
+1 день25 октября 2026
+
+Додос Рка, монастырь Давид Гареджи, цветные горы и водохранилище Мравалцкаро.
+
+за человека60 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Давид Гареджи: однодневный тур в пустыню Сабереби](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
+
+1 день25 октября 2026
+
+Высеченный в скале монастырский комплекс Сабереби в Гареджи, IX–X века.
+
+за человека60 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Однодневный тур в ущелье Дзама: Самцевриси, озеро Батети, Шуано](https://besttraveler.ge/ru/tury/ushchele-dzama-odnodnevnyy-tur/)
+
+1 день25 октября 2026
+
+Крепости и монастыри ущелья Дзама, озеро Батети и гора Шуано за один день.
+
+за человека60 лари
+
+Смотреть тур 
+
 ## Популярные направления
 
 [Направления](https://besttraveler.ge/ru/napravleniya/)
 
-[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 6 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 4 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 5 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Греция 2 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 4 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 56 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
+[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 6 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 4 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 12 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Греция 2 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 4 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 56 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
 
 ## Почему besttraveler
 
@@ -180,7 +180,7 @@ URL: https://besttraveler.ge/ru/
 
 **Какие нужны документы?**
 
-Для пересечения границы нужен заграничный паспорт, действующий не менее 6 месяцев. В туры в Армению можно ехать и с ID-картой Грузии. Детям нужны свидетельство о рождении, нотариальное согласие родителей и паспорт.
+Для пересечения границы нужен заграничный паспорт, действующий не менее 6 месяцев. В туры в Армению и Турцию можно ехать и с ID-картой Грузии. Детям нужны свидетельство о рождении, нотариальное согласие родителей и паспорт.
 
 **Откуда начинаются однодневные туры?**
 

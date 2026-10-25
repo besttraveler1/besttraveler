@@ -165,7 +165,7 @@ By plane
 
 ### [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
 
-8 daysFrance, Italy, Monaco
+8 days24–31 May 2027
 
 The Alps, Turin, the Côte d'Azur and Provence — three countries in 8 days.
 

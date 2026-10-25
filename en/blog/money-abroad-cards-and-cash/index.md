@@ -147,7 +147,7 @@ By plane
 
 8 days / 7 nights19–26 Nov 2026
 
-8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar, Paris and Versailles.
+8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar and Paris.
 
 per person4,200 GEL
 

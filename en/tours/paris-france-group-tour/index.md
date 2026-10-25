@@ -1,6 +1,6 @@
 # Paris Group Tour — 5 Days
 
-> 5-day group tour of Paris: Versailles, Montmartre, the Louvre, the Champs-Élysées, Musée d'Orsay and Notre-Dame. Flight Kutaisi–Beauvais, 2400 GEL.
+> 5-day group tour of Paris: Versailles, Montmartre, the Louvre, the Champs-Élysées, Musée d'Orsay and Notre-Dame. Flight Kutaisi–Beauvais, 2500 GEL.
 
 URL: https://besttraveler.ge/en/tours/paris-france-group-tour/
 
@@ -17,11 +17,11 @@ Photo: [Pierre Blaché from Paris, France](https://commons.wikimedia.org/w/index
 
 Duration5 days
 
-DatesOn request
+Next departure10–14 Nov 2026 +11
 
 DepartureKutaisi (KUT)
 
-Price2,400 GEL
+Price2,500 GEL
 
 ## Tour programme
 
@@ -29,7 +29,7 @@ Price2,400 GEL
 
 ### Day 1
 
-- Arrival in Beauvais
+- Arrival in Beauvais at 17:25
 - Transfer to the hotel
 
 - 
@@ -39,7 +39,7 @@ Price2,400 GEL
 - Palace of Versailles
 - Montmartre
 - Seine river cruise (optional)
-- Paris in the evening
+- Eiffel Tower and Paris in the evening
 
 - 
 
@@ -83,6 +83,14 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Tour escort
 - Travel insurance
 
+## Not included
+
+- Transfer from the Paris airport to the hotel and back (25 EUR each way)
+- Transfer to Kutaisi and back (60 GEL)
+- Paid sights (optional), city and transport fees (170–200 EUR in total)
+- Disneyland ticket and transport (optional)
+- Meals other than breakfast
+
 ## Good to know
 
 - Documents: International passport valid for at least 6 months
@@ -93,11 +101,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Paris, France — 5-Day Group Tour” tour cost?**
 
-The tour costs 2,400 GEL per person.
+The tour costs 2,500 GEL per person. The deposit to book is 1,000 GEL.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 10–14 Nov 2026, 22–26 Dec 2026, 12–16 Jan 2027, 16–20 Feb 2027, 2–6 Mar 2027, 5–9 Apr 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -107,13 +115,26 @@ Flights Kutaisi–Beauvais–Kutaisi; Hand luggage 10 kg (40x30x20 cm); Hotel wi
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 2,400 GELper person: 
+Price: 2,500 GELper person: 
+
+Deposit to book: 1,000 GEL
 
 ## Dates
 
 Dates
 
-Dates on request
+- 10–14 Nov 2026
+- 22–26 Dec 2026
+- 12–16 Jan 2027
+- 16–20 Feb 2027
+- 2–6 Mar 2027
+- 5–9 Apr 2027
+- 10–14 May 2027
+- 7–11 Jun 2027
+- 12–16 Jul 2027
+- 2–6 Aug 2027
+- 13–17 Sep 2027
+- 11–15 Oct 2027
 
 - Flights Kutaisi–Beauvais–Kutaisi
 - Hand luggage 10 kg (40x30x20 cm)
@@ -132,7 +153,7 @@ By plane
 
 8 days / 7 nights19–26 Nov 2026
 
-8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar, Paris and Versailles.
+8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar and Paris.
 
 per person4,200 GEL
 
@@ -140,11 +161,11 @@ View tour
 
 By plane
 
-### [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
+### [Burgundy and Franche-Comté: Cluny, Dijon and Beaune](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
 
-8 days / 7 nightsSwitzerland, France, Germany, Austria, Liechtenstein
+8 days / 7 nights2–9 Mar 2027
 
-8 days by car in five countries: Annecy, Chillon, Lauterbrunnen, Lucerne, Vaduz, Neuschwanstein, Bern.
+Castles and abbeys of Burgundy, Dijon, Beaune and the waterfalls of Franche-Comté in 8 days.
 
 per person4,500 GEL
 
@@ -152,12 +173,12 @@ View tour
 
 By plane
 
-### [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
+### [Corsica, France — 10-Day Group Tour with Paris](https://besttraveler.ge/en/tours/corsica-group-tour-from-kutaisi/)
 
-8 daysFrance, Italy, Monaco
+10 days / 9 nights19–28 Mar 2027
 
-The Alps, Turin, the Côte d'Azur and Provence — three countries in 8 days.
+10 days: Filitosa, Bonifacio, Porto-Vecchio, Bastia, Cap Corse, the Calanques de Piana, Ajaccio and Paris.
 
-per person4,500 GEL
+per person5,300 GEL
 
 View tour

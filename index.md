@@ -13,7 +13,7 @@ URL: https://besttraveler.ge/
 [ტურების ნახვა](https://besttraveler.ge/ka/turebi/)
 [მოგვწერეთ WhatsApp-ზე](https://wa.me/995579575636?text=%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%91%E1%83%90%21%20%E1%83%9B%E1%83%90%E1%83%98%E1%83%9C%E1%83%A2%E1%83%94%E1%83%A0%E1%83%94%E1%83%A1%E1%83%94%E1%83%91%E1%83%A1%20%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98)
 
-- 99ტური
+- 106ტური
 - 26ქვეყანა
 - 50ერთდღიანი ტური
 - 60 ₾-დანერთდღიანი ტურები
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/
 
 ## აირჩიეთ ტურის ტიპი
 
-[34 ტური 
+[41 ტური 
 
 ### ტურები საზღვარგარეთ
 
@@ -43,42 +43,6 @@ URL: https://besttraveler.ge/
 ## უახლოესი ტურები
 
 [ყველა თარიღი](https://besttraveler.ge/ka/dagegmili-turebi/)
-
-ერთდღიანი
-
-### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
-
-1 დღე24 ოქტომბერი 2026
-
-ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
-
-ერთ ადამიანზე60 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
-
-1 დღე24 ოქტომბერი 2026
-
-დარიალის მონასტერი, გველეთის დიდი და პატარა ჩანჩქერი, გერგეტის სამება და გუდაურის პანორამა.
-
-ერთ ადამიანზე60 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/)
-
-1 დღე24 ოქტომბერი 2026
-
-ზარზმა, ჭულეს მონასტერი და ჩანჩქერი, ახალციხის რაბათი და საფარა, გიდთან ერთად.
-
-ერთ ადამიანზე65 ლარი
-
-ტურის ნახვა 
 
 ავიატური
 
@@ -116,11 +80,47 @@ URL: https://besttraveler.ge/
 
 ტურის ნახვა 
 
+ერთდღიანი
+
+### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
+
+1 დღე25 ოქტომბერი 2026
+
+დოდოს რქა, დავით გარეჯის მონასტერი, ფერადი მთები და მრავალწყაროს წყალსაცავი.
+
+ერთ ადამიანზე60 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
+### [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
+
+1 დღე25 ოქტომბერი 2026
+
+გარეჯის საბერეების კლდეში ნაკვეთი სამონასტრო კომპლექსი, IX–X საუკუნეები.
+
+ერთ ადამიანზე60 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
+### [ძამას ხეობის ერთდღიანი ტური: სამწევრისი, ბატეთის ტბა, შუანო](https://besttraveler.ge/ka/turebi/dzamas-kheoba-ertdghiani-turi/)
+
+1 დღე25 ოქტომბერი 2026
+
+ძამას ხეობის ციხეები და მონასტრები, ბატეთის ტბა და შუანოს მთა ერთ დღეში.
+
+ერთ ადამიანზე60 ლარი
+
+ტურის ნახვა 
+
 ## პოპულარული მიმართულებები
 
 [მიმართულებები](https://besttraveler.ge/ka/mimartulebebi/)
 
-[ეგვიპტე 6 ტური](https://besttraveler.ge/ka/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/ka/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/ka/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/espaneti/)[საფრანგეთი 5 ტური](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/ka/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/ka/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/ka/mimartulebebi/shri-lanka/)[საქართველო 56 ტური](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
+[ეგვიპტე 6 ტური](https://besttraveler.ge/ka/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/ka/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/ka/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/espaneti/)[საფრანგეთი 12 ტური](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/ka/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/ka/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/ka/mimartulebebi/shri-lanka/)[საქართველო 56 ტური](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
 
 ## რატომ besttraveler
 
@@ -158,13 +158,13 @@ URL: https://besttraveler.ge/
 
 ### გადაიხადეთ ავანსი
 
-ადგილს ავანსით აჯავშნით, დარჩენილ თანხას კი იხდით ტურამდე 15 დღით ადრე.
+ადგილს ავანსით დაჯავშნით, დარჩენილ თანხას კი იხდით ტურამდე 15 დღით ადრე.
 
 ## ხშირად დასმული კითხვები
 
 **როგორ დავჯავშნო ტური?**
 
-დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე: 579 57 56 36. დაგიდასტურებთ თავისუფალ ადგილსა და ფასს, შემდეგ ადგილს ავანსით აჯავშნით. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
+დაგვირეკეთ ან მოგვწერეთ WhatsApp-ზე: 579 57 56 36. დაგიდასტურებთ თავისუფალ ადგილსა და ფასს, შემდეგ ადგილს ავანსით დაჯავშნით. დარჩენილ თანხას იხდით ტურამდე 15 დღით ადრე.
 
 **როგორ გადავიხადო?**
 
@@ -180,7 +180,7 @@ URL: https://besttraveler.ge/
 
 **რა დოკუმენტებია საჭირო?**
 
-საზღვრის გადასაკვეთად საჭიროა საზღვარგარეთის პასპორტი, რომელიც მოქმედებს მინიმუმ 6 თვე. სომხეთის ტურებზე შეგიძლიათ პირადობის მოწმობითაც იმგზავროთ. ბავშვებს სჭირდებათ დაბადების მოწმობა, მშობლების ნოტარიულად დამოწმებული თანხმობა და პასპორტი.
+საზღვრის გადასაკვეთად საჭიროა საზღვარგარეთის პასპორტი, რომელიც მოქმედებს მინიმუმ 6 თვე. სომხეთისა და თურქეთის ტურებზე შეგიძლიათ პირადობის მოწმობითაც იმგზავროთ. ბავშვებს სჭირდებათ დაბადების მოწმობა, მშობლების ნოტარიულად დამოწმებული თანხმობა და პასპორტი.
 
 **საიდან იწყება ერთდღიანი ტურები?**
 

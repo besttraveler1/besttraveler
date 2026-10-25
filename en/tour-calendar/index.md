@@ -10,11 +10,8 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 
 [October 2026](#m-2026-10)[November 2026](#m-2026-11)[December 2026](#m-2026-12)[January 2027](#m-2027-01)[February 2027](#m-2027-02)[March 2027](#m-2027-03)[April 2027](#m-2027-04)[May 2027](#m-2027-05)[June 2027](#m-2027-06)[July 2027](#m-2027-07)[August 2027](#m-2027-08)[September 2027](#m-2027-09)[October 2027](#m-2027-10)
 
-## October 2026 32 departures
+## October 2026 29 departures
 
-- [24 Sat Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe Day tour 60 GEL](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
-- [24 Sat Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara Day tour 65 GEL](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
-- [24 Sat Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity Day tour 60 GEL](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 - [25 Sun India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur By plane · 9 days / 8 nights 4,800 GEL](https://besttraveler.ge/en/tours/india-rajasthan-group-tour/)
 - [25 Sun A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes Day tour 60 GEL](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 - [25 Sun Gudamakari Day Tour: Zanduki, Chokhi, Dumatskho, Didebaani Waterfall Day tour 70 GEL](https://besttraveler.ge/en/tours/gudamakari-gorge-day-tour/)
@@ -45,7 +42,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [31 Sat Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity Day tour 60 GEL](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 - [31 Sat Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
-## November 2026 46 departures
+## November 2026 47 departures
 
 - [1–4 Sun Athens, Greece — Group Tour from Kutaisi, 1–4 November By plane · 4 days / 3 nights 1,200 GEL](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
 - [1 Sun A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes Day tour 60 GEL](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
@@ -85,6 +82,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [8 Sun Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara Day tour 65 GEL](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
 - [8 Sun Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity Day tour 60 GEL](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 - [9–15 Mon Hurghada, Luxor, Port Said and the Suez Canal — 7 Days By plane · 7 days / 6 nights 6,100 GEL](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
+- [10–14 Tue Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [13–22 Fri Morocco Group Tour with a Stop in Rome — 13–22 November By plane · 10 days / 9 nights 2,200 EUR](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 - [19–26 Thu France: Alsace and Paris — Group Tour from Kutaisi By plane · 8 days / 7 nights 4,200 GEL](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
 - [21 Sat Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe Day tour 60 GEL](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
@@ -94,7 +92,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [23–27 Mon Bari and Puglia, Italy — New Year Group Tour via Yerevan By plane · 5 days 2,600 GEL](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
 - [26–30 Thu Egypt Tour: Cairo and Alexandria, 5 Days By plane · 5 days / 4 nights 2,500 GEL](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 
-## December 2026 12 departures
+## December 2026 13 departures
 
 - [1–8 Tue France: Alsace and Paris — Group Tour from Kutaisi By plane · 8 days / 7 nights 4,200 GEL](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
 - [6 Sun Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
@@ -105,38 +103,46 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [19 Sat Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 - [20 Sun Gudauri Day Trip: Free Time at the Ski Resort Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
 - [21–25 Mon Bari and Puglia, Italy — New Year Group Tour via Yerevan By plane · 5 days 2,600 GEL](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
+- [22–26 Tue Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [22–29 Tue France: Alsace and Paris — Group Tour from Kutaisi By plane · 8 days / 7 nights 4,200 GEL](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
 - [24–28 Thu Egypt Tour: Cairo and Alexandria, 5 Days By plane · 5 days / 4 nights 2,500 GEL](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 - [26 Sat Gudauri Day Trip: Free Time at the Ski Resort Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
 
-## January 2027 9 departures
+## January 2027 10 departures
 
 - [9–19 Sat Sri Lanka and Maldives Group Tour By plane · 11 days 8,500 GEL](https://besttraveler.ge/en/tours/sri-lanka-maldives-group-tour/)
 - [9–16 Sat Sri Lanka Tour: Sigiriya, Kandy, Ella, Mirissa and Colombo By plane · 8 days / 6 nights 4,500 GEL](https://besttraveler.ge/en/tours/sri-lanka-kandy-ella-mirissa-tour/)
 - [9 Sat Gudauri Day Trip: Free Time at the Ski Resort Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
 - [10 Sun Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
+- [12–16 Tue Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [17 Sun Gudauri Day Trip: Free Time at the Ski Resort Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
 - [23–26 Sat Venice Carnival 2027 — 4-Day Tour of Italy By plane · 4 days 1,500 GEL](https://besttraveler.ge/en/tours/venice-carnival-tour/)
 - [23 Sat Gudauri Day Trip: Free Time at the Ski Resort Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
 - [23 Sat Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 - [27 Wed Southern Spain and Gibraltar — Group Tour, 27 January – 3 February By plane · 8 days / 7 nights · → 3 Feb 4,800 GEL](https://besttraveler.ge/en/tours/southern-spain-andalusia-gibraltar-tour/)
 
-## February 2027 2 departures
+## February 2027 3 departures
 
 - [6–9 Sat Venice Carnival 2027 — 4-Day Tour of Italy By plane · 4 days 1,500 GEL](https://besttraveler.ge/en/tours/venice-carnival-tour/)
+- [16–20 Tue Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [20 Sat Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
-## March 2027 6 departures
+## March 2027 10 departures
 
+- [2–9 Tue Burgundy and Franche-Comté: Cluny, Dijon and Beaune By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
+- [2–6 Tue Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [13 Sat David Gareja: Sabereebi Desert Monastery Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 - [13 Sat Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
+- [19–28 Fri Corsica, France — 10-Day Group Tour with Paris By plane · 10 days / 9 nights 5,300 GEL](https://besttraveler.ge/en/tours/corsica-group-tour-from-kutaisi/)
 - [21 Sun David Gareja: Sabereebi Desert Monastery Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 - [21 Sun Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
+- [28 Sun Spain, France and Andorra — 10-Day Tour from Barcelona By plane · 10 days · → 4 Apr 4,700 GEL](https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/)
 - [28 Sun Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake Day tour 60 GEL](https://besttraveler.ge/en/tours/tianeti-day-trip/)
 - [28 Sun Kojori and Manglisi Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
 
-## April 2027 33 departures
+## April 2027 34 departures
 
+- [5–9 Mon Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [10 Sat Shida Kartli Tour: Skhvilo, Breti, Ruisi, Samtavisi, Urbnisi Day tour 60 GEL](https://besttraveler.ge/en/tours/samtavisi-ruisi-urbnisi-day-tour/)
 - [11 Sun Vashlovani Tour: Mount Elia, Swallows' Town, Alesilebi Day tour 70 GEL](https://besttraveler.ge/en/tours/vashlovani-national-park-day-tour/)
 - [11 Sun Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake Day tour 60 GEL](https://besttraveler.ge/en/tours/tianeti-day-trip/)
@@ -171,7 +177,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [25 Sun Shida Kartli Tour: Skhvilo, Breti, Ruisi, Samtavisi, Urbnisi Day tour 60 GEL](https://besttraveler.ge/en/tours/samtavisi-ruisi-urbnisi-day-tour/)
 - [25 Sun Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
-## May 2027 62 departures
+## May 2027 69 departures
 
 - [1 Sat Vashlovani Tour: Mount Elia, Swallows' Town, Alesilebi Day tour 70 GEL](https://besttraveler.ge/en/tours/vashlovani-national-park-day-tour/)
 - [1 Sat Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe Day tour 60 GEL](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
@@ -188,6 +194,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [2 Sun Pankisi Gorge Tour: Khadori Waterfall, Duisi, Kvetera Day tour 60 GEL](https://besttraveler.ge/en/tours/pankisi-gorge-khadori-waterfall-day-tour/)
 - [2 Sun Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 - [2 Sun Kvemo Kartli and Pitareti: Khuluti, Tandzia, Kveshi, Bolnisi Sioni Day tour 60 GEL](https://besttraveler.ge/en/tours/pitareti-bolnisi-kvemo-kartli-tour/)
+- [3–10 Mon Burgundy and Franche-Comté: Cluny, Dijon and Beaune By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
 - [9 Sun A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes Day tour 60 GEL](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 - [9 Sun David Gareja: Sabereebi Desert Monastery Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 - [9 Sun Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi Day tour 60 GEL](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/)
@@ -197,6 +204,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [9 Sun Pankisi Gorge Tour: Khadori Waterfall, Duisi, Kvetera Day tour 60 GEL](https://besttraveler.ge/en/tours/pankisi-gorge-khadori-waterfall-day-tour/)
 - [9 Sun Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 - [9 Sun Kvemo Kartli and Pitareti: Khuluti, Tandzia, Kveshi, Bolnisi Sioni Day tour 60 GEL](https://besttraveler.ge/en/tours/pitareti-bolnisi-kvemo-kartli-tour/)
+- [10–14 Mon Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [15 Sat David Gareja: Sabereebi Desert Monastery Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 - [15 Sat Vashlovani Tour: Mount Elia, Swallows' Town, Alesilebi Day tour 70 GEL](https://besttraveler.ge/en/tours/vashlovani-national-park-day-tour/)
 - [15 Sat Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi Day tour 60 GEL](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/)
@@ -216,6 +224,8 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [16 Sun Imereti Day Tour: Mgvimevi, Katskhi Pillar, Samtsvera, Ubisi Day tour 70 GEL](https://besttraveler.ge/en/tours/imereti-tour-katskhi-pillar-ubisi/)
 - [16 Sun Mtskheta Tour: Karsani, Kartli Range, Armazi Fortress and Monastery Day tour 60 GEL](https://besttraveler.ge/en/tours/karsani-armazi-mtskheta-day-tour/)
 - [16 Sun Shida Kartli Tour: Skhvilo, Breti, Ruisi, Samtavisi, Urbnisi Day tour 60 GEL](https://besttraveler.ge/en/tours/samtavisi-ruisi-urbnisi-day-tour/)
+- [17–24 Mon Occitanie and Nouvelle-Aquitaine: Rocamadour, Bordeaux, Carcassonne By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/france-occitanie-aquitaine-group-tour/)
+- [19–26 Wed Île-de-France and Normandy — Château Tour of France By plane · 8 days / 7 nights 4,100 GEL](https://besttraveler.ge/en/tours/ile-de-france-normandy-chateaux-tour/)
 - [22 Sat Imereti Day Tour: Mgvimevi, Katskhi Pillar, Samtsvera, Ubisi Day tour 70 GEL](https://besttraveler.ge/en/tours/imereti-tour-katskhi-pillar-ubisi/)
 - [22 Sat Mtskheta Tour: Karsani, Kartli Range, Armazi Fortress and Monastery Day tour 60 GEL](https://besttraveler.ge/en/tours/karsani-armazi-mtskheta-day-tour/)
 - [22 Sat Shida Kartli Tour: Skhvilo, Breti, Ruisi, Samtavisi, Urbnisi Day tour 60 GEL](https://besttraveler.ge/en/tours/samtavisi-ruisi-urbnisi-day-tour/)
@@ -230,17 +240,23 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [23 Sun Shida Kartli Tour: Gori Fortress, Gorijvari, Uplistsikhe, Ateni Sioni Day tour 60 GEL](https://besttraveler.ge/en/tours/gori-uplistsikhe-ateni-day-tour/)
 - [23 Sun Khevsureti Day Tour: Datvijvari Pass, Shatili, Anatori Day tour 70 GEL](https://besttraveler.ge/en/tours/khevsureti-shatili-day-tour/)
 - [23 Sun Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
+- [24–31 Mon Normandy, Brittany and the Loire Valley — 8-Day Tour of France By plane · 8 days / 7 nights 4,100 GEL](https://besttraveler.ge/en/tours/normandy-brittany-loire-tour/)
+- [24–31 Mon France, Germany and Switzerland: Alsace, the Black Forest and Basel By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/france-germany-switzerland-tour/)
+- [24–31 Mon France, Italy and Monaco: Provence, the Alps and the Côte d'Azur By plane · 8 days 4,500 GEL](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
 - [27 Thu Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity Day tour 60 GEL](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 - [28–30 Fri Svaneti 3-Day Tour: Enguri Dam, Mestia, Koruldi Lakes, Ushguli By bus · 3 days / 2 nights 410 GEL](https://besttraveler.ge/en/tours/svaneti-mestia-ushguli-tour/)
 - [29–30 Sat Racha 2-Day Tour: Tskhrajvari, Shaori, Nikortsminda, Utsera, Ghebi By bus · 2 days / 1 nights 150 GEL](https://besttraveler.ge/en/tours/racha-shaori-nikortsminda-tour/)
 - [30 Sun Caves Day Tour: Navenakhevi, Tetra, Sataplia, Prometheus Day tour 60 GEL](https://besttraveler.ge/en/tours/caves-tour-prometheus-sataplia-from-tbilisi/)
 - [30 Sun Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano Day tour 60 GEL](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
 
-## June 2027 48 departures
+## June 2027 57 departures
 
 - [5 Sat Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani Day tour 70 GEL](https://besttraveler.ge/en/tours/tabatskuri-lake-tour/)
 - [5 Sat Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity Day tour 60 GEL](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 - [6 Sun Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani Day tour 70 GEL](https://besttraveler.ge/en/tours/tabatskuri-lake-tour/)
+- [7–11 Mon Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
+- [7–14 Mon France, Germany and Switzerland: Alsace, the Black Forest and Basel By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/france-germany-switzerland-tour/)
+- [7–14 Mon France, Italy and Monaco: Provence, the Alps and the Côte d'Azur By plane · 8 days 4,500 GEL](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
 - [11–13 Fri Svaneti 3-Day Tour: Enguri Dam, Mestia, Koruldi Lakes, Ushguli By bus · 3 days / 2 nights 410 GEL](https://besttraveler.ge/en/tours/svaneti-mestia-ushguli-tour/)
 - [12 Sat Borjomi Tour: Daba, Timotesubani, Borjomi Park, Green Monastery Day tour 65 GEL](https://besttraveler.ge/en/tours/borjomi-timotesubani-green-monastery-tour/)
 - [12 Sat Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe Day tour 60 GEL](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
@@ -262,6 +278,8 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [13 Sun Mtskheta Tour: Karsani, Kartli Range, Armazi Fortress and Monastery Day tour 60 GEL](https://besttraveler.ge/en/tours/karsani-armazi-mtskheta-day-tour/)
 - [13 Sun Pankisi Gorge Tour: Khadori Waterfall, Duisi, Kvetera Day tour 60 GEL](https://besttraveler.ge/en/tours/pankisi-gorge-khadori-waterfall-day-tour/)
 - [13 Sun Shida Kartli Tour: Skhvilo, Breti, Ruisi, Samtavisi, Urbnisi Day tour 60 GEL](https://besttraveler.ge/en/tours/samtavisi-ruisi-urbnisi-day-tour/)
+- [14–21 Mon 5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
+- [14–21 Mon Loire Valley Castles: Blois, Amboise, Chinon, Valençay By plane · 8 days / 7 nights 4,100 GEL](https://besttraveler.ge/en/tours/loire-valley-castles-tour/)
 - [18–20 Fri Khevsureti 2-Day Tour: Shatili, Mutso, Anatori, Chargali By bus · 2 days / 1 nights 150 GEL](https://besttraveler.ge/en/tours/khevsureti-2-day-tour-shatili-mutso/)
 - [19 Sat Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe Day tour 60 GEL](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 - [19 Sat Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi Day tour 60 GEL](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
@@ -280,6 +298,10 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [20 Sun Kazbegi and Juta: Chaukhi, Tina's Lake, Sno, Bidara Travertines Day tour 60 GEL](https://besttraveler.ge/en/tours/juta-chaukhi-day-trip/)
 - [20 Sun Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano Day tour 60 GEL](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
 - [20 Sun Khada Gorge Day Tour: Tskere and Rostiani Waterfalls Day tour 60 GEL](https://besttraveler.ge/en/tours/khada-gorge-waterfalls-day-trip/)
+- [21–28 Mon Burgundy and Franche-Comté: Cluny, Dijon and Beaune By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
+- [21–28 Mon Normandy, Brittany and the Loire Valley — 8-Day Tour of France By plane · 8 days / 7 nights 4,100 GEL](https://besttraveler.ge/en/tours/normandy-brittany-loire-tour/)
+- [21–28 Mon Occitanie and Nouvelle-Aquitaine: Rocamadour, Bordeaux, Carcassonne By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/france-occitanie-aquitaine-group-tour/)
+- [21–28 Mon France: Alsace and Paris — Group Tour from Kutaisi By plane · 8 days / 7 nights 4,200 GEL](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
 - [26 Sat Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike Day tour 60 GEL](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/)
 - [26–27 Sat Racha 2-Day Tour: Tskhrajvari, Shaori, Nikortsminda, Utsera, Ghebi By bus · 2 days / 1 nights 150 GEL](https://besttraveler.ge/en/tours/racha-shaori-nikortsminda-tour/)
 - [26 Sat Kazbegi and Juta: Chaukhi, Tina's Lake, Sno, Bidara Travertines Day tour 60 GEL](https://besttraveler.ge/en/tours/juta-chaukhi-day-trip/)
@@ -287,7 +309,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [27 Sun Abudelauri Lakes Hike: Roshka, Colorful Lakes, Chaukhi Day tour 60 GEL](https://besttraveler.ge/en/tours/abudelauri-lakes-hike-from-tbilisi/)
 - [27 Sun Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori Day tour 60 GEL](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
 
-## July 2027 64 departures
+## July 2027 70 departures
 
 - [3 Sat Abudelauri Lakes Hike: Roshka, Colorful Lakes, Chaukhi Day tour 60 GEL](https://besttraveler.ge/en/tours/abudelauri-lakes-hike-from-tbilisi/)
 - [3 Sat Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi Day tour 60 GEL](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/)
@@ -309,6 +331,9 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [4 Sun Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes Day tour 65 GEL](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
 - [4 Sun Khevsureti Day Tour: Datvijvari Pass, Shatili, Anatori Day tour 70 GEL](https://besttraveler.ge/en/tours/khevsureti-shatili-day-tour/)
 - [4 Sun Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
+- [5–12 Mon 5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
+- [5–12 Mon France, Germany and Switzerland: Alsace, the Black Forest and Basel By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/france-germany-switzerland-tour/)
+- [5–12 Mon France, Italy and Monaco: Provence, the Alps and the Côte d'Azur By plane · 8 days 4,500 GEL](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
 - [9–11 Fri Khevsureti 2-Day Tour: Shatili, Mutso, Anatori, Chargali By bus · 2 days / 1 nights 150 GEL](https://besttraveler.ge/en/tours/khevsureti-2-day-tour-shatili-mutso/)
 - [10–11 Sat Racha 2-Day Tour: Tskhrajvari, Shaori, Nikortsminda, Utsera, Ghebi By bus · 2 days / 1 nights 150 GEL](https://besttraveler.ge/en/tours/racha-shaori-nikortsminda-tour/)
 - [11 Sun Abudelauri Lakes Hike: Roshka, Colorful Lakes, Chaukhi Day tour 60 GEL](https://besttraveler.ge/en/tours/abudelauri-lakes-hike-from-tbilisi/)
@@ -321,6 +346,8 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [11 Sun Khada Gorge Day Tour: Tskere and Rostiani Waterfalls Day tour 60 GEL](https://besttraveler.ge/en/tours/khada-gorge-waterfalls-day-trip/)
 - [11 Sun Khevsureti Day Tour: Datvijvari Pass, Shatili, Anatori Day tour 70 GEL](https://besttraveler.ge/en/tours/khevsureti-shatili-day-tour/)
 - [11 Sun Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
+- [12–19 Mon Occitanie and Nouvelle-Aquitaine: Rocamadour, Bordeaux, Carcassonne By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/france-occitanie-aquitaine-group-tour/)
+- [12–16 Mon Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [17–18 Sat Upper Adjara 2-Day Tour: Goderdzi, Shuamta Lakes, Zarzma By bus · 2 days / 1 nights 200 GEL](https://besttraveler.ge/en/tours/upper-adjara-2-day-tour-goderdzi/)
 - [17 Sat Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani Day tour 70 GEL](https://besttraveler.ge/en/tours/tabatskuri-lake-tour/)
 - [18 Sun Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori Day tour 60 GEL](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
@@ -332,6 +359,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [18 Sun Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani Day tour 70 GEL](https://besttraveler.ge/en/tours/tabatskuri-lake-tour/)
 - [18 Sun Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity Day tour 60 GEL](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 - [18 Sun Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano Day tour 60 GEL](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
+- [19–26 Mon Loire Valley Castles: Blois, Amboise, Chinon, Valençay By plane · 8 days / 7 nights 4,100 GEL](https://besttraveler.ge/en/tours/loire-valley-castles-tour/)
 - [23–25 Fri Tusheti 3-Day Tour: Abano Pass, Dartlo, Bochorna, Omalo By bus · 3 days / 2 nights 450 GEL](https://besttraveler.ge/en/tours/tusheti-3-day-tour-omalo-dartlo/)
 - [24 Sat Abudelauri Lakes Hike: Roshka, Colorful Lakes, Chaukhi Day tour 60 GEL](https://besttraveler.ge/en/tours/abudelauri-lakes-hike-from-tbilisi/)
 - [24 Sat Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe Day tour 60 GEL](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
@@ -354,13 +382,16 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [31 Sat Kazbegi and Juta: Chaukhi, Tina's Lake, Sno, Bidara Travertines Day tour 60 GEL](https://besttraveler.ge/en/tours/juta-chaukhi-day-trip/)
 - [31 Sat Khada Gorge Day Tour: Tskere and Rostiani Waterfalls Day tour 60 GEL](https://besttraveler.ge/en/tours/khada-gorge-waterfalls-day-trip/)
 
-## August 2027 64 departures
+## August 2027 69 departures
 
 - [1 Sun Abudelauri Lakes Hike: Roshka, Colorful Lakes, Chaukhi Day tour 60 GEL](https://besttraveler.ge/en/tours/abudelauri-lakes-hike-from-tbilisi/)
 - [1 Sun Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori Day tour 60 GEL](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
 - [1 Sun Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike Day tour 60 GEL](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/)
 - [1 Sun Kazbegi and Juta: Chaukhi, Tina's Lake, Sno, Bidara Travertines Day tour 60 GEL](https://besttraveler.ge/en/tours/juta-chaukhi-day-trip/)
 - [1 Sun Khada Gorge Day Tour: Tskere and Rostiani Waterfalls Day tour 60 GEL](https://besttraveler.ge/en/tours/khada-gorge-waterfalls-day-trip/)
+- [2–9 Mon 5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
+- [2–6 Mon Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
+- [2–9 Mon France: Alsace and Paris — Group Tour from Kutaisi By plane · 8 days / 7 nights 4,200 GEL](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
 - [6–8 Fri Svaneti 3-Day Tour: Enguri Dam, Mestia, Koruldi Lakes, Ushguli By bus · 3 days / 2 nights 410 GEL](https://besttraveler.ge/en/tours/svaneti-mestia-ushguli-tour/)
 - [7 Sat Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe Day tour 60 GEL](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 - [7 Sat Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi Day tour 60 GEL](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
@@ -378,6 +409,8 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [8 Sun Meskheti Day Tour: Vardzia, Upper Vardzia, Saro, Khertvisi Day tour 80 GEL](https://besttraveler.ge/en/tours/vardzia-khertvisi-day-tour/)
 - [8 Sun Caves Day Tour: Navenakhevi, Tetra, Sataplia, Prometheus Day tour 60 GEL](https://besttraveler.ge/en/tours/caves-tour-prometheus-sataplia-from-tbilisi/)
 - [8 Sun Pankisi Gorge Tour: Khadori Waterfall, Duisi, Kvetera Day tour 60 GEL](https://besttraveler.ge/en/tours/pankisi-gorge-khadori-waterfall-day-tour/)
+- [9–16 Mon France, Germany and Switzerland: Alsace, the Black Forest and Basel By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/france-germany-switzerland-tour/)
+- [9–16 Mon France, Italy and Monaco: Provence, the Alps and the Côte d'Azur By plane · 8 days 4,500 GEL](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
 - [13–15 Fri Khevsureti 2-Day Tour: Shatili, Mutso, Anatori, Chargali By bus · 2 days / 1 nights 150 GEL](https://besttraveler.ge/en/tours/khevsureti-2-day-tour-shatili-mutso/)
 - [14–15 Sat Upper Adjara 2-Day Tour: Goderdzi, Shuamta Lakes, Zarzma By bus · 2 days / 1 nights 200 GEL](https://besttraveler.ge/en/tours/upper-adjara-2-day-tour-goderdzi/)
 - [14 Sat Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike Day tour 60 GEL](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/)
@@ -421,16 +454,22 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [29 Sun Khevsureti Day Tour: Datvijvari Pass, Shatili, Anatori Day tour 70 GEL](https://besttraveler.ge/en/tours/khevsureti-shatili-day-tour/)
 - [29 Sun Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
-## September 2027 27 departures
+## September 2027 36 departures
 
 - [4 Sat Abudelauri Lakes Hike: Roshka, Colorful Lakes, Chaukhi Day tour 60 GEL](https://besttraveler.ge/en/tours/abudelauri-lakes-hike-from-tbilisi/)
 - [4–5 Sat Racha 2-Day Tour: Tskhrajvari, Shaori, Nikortsminda, Utsera, Ghebi By bus · 2 days / 1 nights 150 GEL](https://besttraveler.ge/en/tours/racha-shaori-nikortsminda-tour/)
 - [5 Sun Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori Day tour 60 GEL](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
+- [6–13 Mon 5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
+- [6–13 Mon Normandy, Brittany and the Loire Valley — 8-Day Tour of France By plane · 8 days / 7 nights 4,100 GEL](https://besttraveler.ge/en/tours/normandy-brittany-loire-tour/)
 - [10–12 Fri Svaneti 3-Day Tour: Enguri Dam, Mestia, Koruldi Lakes, Ushguli By bus · 3 days / 2 nights 410 GEL](https://besttraveler.ge/en/tours/svaneti-mestia-ushguli-tour/)
 - [11 Sat Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani Day tour 70 GEL](https://besttraveler.ge/en/tours/tabatskuri-lake-tour/)
 - [12 Sun Caves Day Tour: Navenakhevi, Tetra, Sataplia, Prometheus Day tour 60 GEL](https://besttraveler.ge/en/tours/caves-tour-prometheus-sataplia-from-tbilisi/)
 - [12 Sun Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani Day tour 70 GEL](https://besttraveler.ge/en/tours/tabatskuri-lake-tour/)
 - [12 Sun Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano Day tour 60 GEL](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
+- [13–20 Mon Burgundy and Franche-Comté: Cluny, Dijon and Beaune By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
+- [13–20 Mon Île-de-France and Normandy — Château Tour of France By plane · 8 days / 7 nights 4,100 GEL](https://besttraveler.ge/en/tours/ile-de-france-normandy-chateaux-tour/)
+- [13–20 Mon Occitanie and Nouvelle-Aquitaine: Rocamadour, Bordeaux, Carcassonne By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/france-occitanie-aquitaine-group-tour/)
+- [13–17 Mon Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [17 Fri A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes Day tour 60 GEL](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 - [17 Fri Rkoni and Kvatakhevi Day Tour: Kvatakhevi, Ertatsminda, Rkoni, Ikvi Day tour 60 GEL](https://besttraveler.ge/en/tours/rkoni-kvatakhevi-day-tour/)
 - [17 Fri Kvemo Kartli and Pitareti: Khuluti, Tandzia, Kveshi, Bolnisi Sioni Day tour 60 GEL](https://besttraveler.ge/en/tours/pitareti-bolnisi-kvemo-kartli-tour/)
@@ -442,6 +481,9 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [19 Sun Borjomi Tour: Daba, Timotesubani, Borjomi Park, Green Monastery Day tour 65 GEL](https://besttraveler.ge/en/tours/borjomi-timotesubani-green-monastery-tour/)
 - [19 Sun Samshvilde and Asureti Tour: Samshvilde Ruins, Partskhisi, Asureti Day tour 60 GEL](https://besttraveler.ge/en/tours/samshvilde-asureti-day-tour/)
 - [19 Sun Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano Day tour 60 GEL](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
+- [20–27 Mon France, Germany and Switzerland: Alsace, the Black Forest and Basel By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/france-germany-switzerland-tour/)
+- [20–27 Mon France, Italy and Monaco: Provence, the Alps and the Côte d'Azur By plane · 8 days 4,500 GEL](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
+- [20–27 Mon France: Alsace and Paris — Group Tour from Kutaisi By plane · 8 days / 7 nights 4,200 GEL](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
 - [23 Thu A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes Day tour 60 GEL](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 - [23 Thu Gudamakari Day Tour: Zanduki, Chokhi, Dumatskho, Didebaani Waterfall Day tour 70 GEL](https://besttraveler.ge/en/tours/gudamakari-gorge-day-tour/)
 - [23 Thu Rkoni and Kvatakhevi Day Tour: Kvatakhevi, Ertatsminda, Rkoni, Ikvi Day tour 60 GEL](https://besttraveler.ge/en/tours/rkoni-kvatakhevi-day-tour/)
@@ -451,7 +493,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [30 Thu Kvemo Kartli and Pitareti: Khuluti, Tandzia, Kveshi, Bolnisi Sioni Day tour 60 GEL](https://besttraveler.ge/en/tours/pitareti-bolnisi-kvemo-kartli-tour/)
 - [30 Thu Shida Kartli Tour: Gori Fortress, Gorijvari, Uplistsikhe, Ateni Sioni Day tour 60 GEL](https://besttraveler.ge/en/tours/gori-uplistsikhe-ateni-day-tour/)
 
-## October 2027 23 departures
+## October 2027 24 departures
 
 - [2–3 Sat Racha 2-Day Tour: Tskhrajvari, Shaori, Nikortsminda, Utsera, Ghebi By bus · 2 days / 1 nights 150 GEL](https://besttraveler.ge/en/tours/racha-shaori-nikortsminda-tour/)
 - [3 Sun Gudamakari Day Tour: Zanduki, Chokhi, Dumatskho, Didebaani Waterfall Day tour 70 GEL](https://besttraveler.ge/en/tours/gudamakari-gorge-day-tour/)
@@ -466,6 +508,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [10 Sun Borjomi Tour: Daba, Timotesubani, Borjomi Park, Green Monastery Day tour 65 GEL](https://besttraveler.ge/en/tours/borjomi-timotesubani-green-monastery-tour/)
 - [10 Sun Samshvilde and Asureti Tour: Samshvilde Ruins, Partskhisi, Asureti Day tour 60 GEL](https://besttraveler.ge/en/tours/samshvilde-asureti-day-tour/)
 - [10 Sun Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano Day tour 60 GEL](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
+- [11–15 Mon Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [14 Thu A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes Day tour 60 GEL](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 - [14 Thu Rkoni and Kvatakhevi Day Tour: Kvatakhevi, Ertatsminda, Rkoni, Ikvi Day tour 60 GEL](https://besttraveler.ge/en/tours/rkoni-kvatakhevi-day-tour/)
 - [14 Thu Kvemo Kartli and Pitareti: Khuluti, Tandzia, Kveshi, Bolnisi Sioni Day tour 60 GEL](https://besttraveler.ge/en/tours/pitareti-bolnisi-kvemo-kartli-tour/)

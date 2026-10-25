@@ -182,6 +182,18 @@ View tour
 
 By plane
 
+### [Spain, France and Andorra — 10-Day Tour from Barcelona](https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/)
+
+10 days28 Mar – 4 Apr 2027
+
+Catalonia, Andorra and southern France, ending with three days in Barcelona — 10 days.
+
+per person4,700 GEL
+
+View tour 
+
+By plane
+
 ### [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia-tour/)
 
 10 daysSpain
@@ -189,17 +201,5 @@ By plane
 A loop around Spain: from Catalonia via Toledo, Seville and Granada to Valencia, 10 days.
 
 per person4,500 GEL
-
-View tour 
-
-By plane
-
-### [Spain, France and Andorra — 10-Day Tour from Barcelona](https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/)
-
-10 daysSpain, France, Andorra
-
-Catalonia, Andorra and southern France, ending with three days in Barcelona — 10 days.
-
-per person4,700 GEL
 
 View tour

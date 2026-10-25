@@ -54,7 +54,7 @@ A child needs their own valid document. If the child travels without parents or 
 
 ## Travel to Armenia with us
 
-We run day trips and multi-day tours to Armenia from Tbilisi: Dilijan, Lori with Haghpat and Sanahin, Jermuk, Tatev and Noravank, and Yerevan with Garni, Geghard and Etchmiadzin. For several of our Armenia tours the tour page says an ID card is enough. We will confirm when you book.
+We run day trips and multi-day tours to Armenia from Tbilisi: Dilijan, Lori with Haghpat and Sanahin, Jermuk, Tatev and Noravank, and Yerevan with Garni, Geghard and Etchmiadzin. On all our Armenia tours you can travel with a passport or a Georgian ID card.
 
 Checked against official sources. Rules can change — please confirm before you travel.
 

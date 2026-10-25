@@ -137,7 +137,7 @@ URL: https://besttraveler.ge/ru/blog/vezd-v-gruziyu-strakhovka-viza-2026/
 
 ### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
 
-1 день24 октября 2026
+1 день25 октября 2026
 
 Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
 
@@ -149,7 +149,7 @@ URL: https://besttraveler.ge/ru/blog/vezd-v-gruziyu-strakhovka-viza-2026/
 
 ### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
 
-1 день24 октября 2026
+1 день31 октября 2026
 
 Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
 

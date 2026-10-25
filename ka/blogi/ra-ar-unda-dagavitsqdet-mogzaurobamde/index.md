@@ -137,11 +137,11 @@ URL: https://besttraveler.ge/ka/blogi/ra-ar-unda-dagavitsqdet-mogzaurobamde/
 
 ### [პარიზი, საფრანგეთი — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/ka/turebi/parizi-saprangeti-jgupuri-turi/)
 
-5 დღესაფრანგეთი
+5 დღე10–14 ნოემბერი 2026
 
 5 დღე პარიზში: ვერსალი, ლუვრი, მონმარტრი, შანზ-ელიზე და ნოტრ-დამი.
 
-ერთ ადამიანზე2 400 ლარი
+ერთ ადამიანზე2 500 ლარი
 
 ტურის ნახვა 
 

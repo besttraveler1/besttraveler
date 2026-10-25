@@ -182,6 +182,18 @@ URL: https://besttraveler.ge/ka/turebi/samkhret-espaneti-gibraltari-turi/
 
 ავიატური
 
+### [ესპანეთი, საფრანგეთი, ანდორა — 10-დღიანი ტური ბარსელონიდან](https://besttraveler.ge/ka/turebi/espaneti-saprangeti-andora-turi/)
+
+10 დღე28 მარტი – 4 აპრილი 2027
+
+კატალონია, ანდორა და სამხრეთ საფრანგეთი, ბოლოს სამი დღე ბარსელონაში — 10 დღე.
+
+ერთ ადამიანზე4 700 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
 ### [ესპანეთის ტური: ბარსელონა, ტოლედო, ანდალუსია, ვალენსია — 10 დღე](https://besttraveler.ge/ka/turebi/espaneti-barselona-andalusia-valensia-turi/)
 
 10 დღეესპანეთი
@@ -189,17 +201,5 @@ URL: https://besttraveler.ge/ka/turebi/samkhret-espaneti-gibraltari-turi/
 ესპანეთის წრე: კატალონიიდან ტოლედოს, სევილიისა და გრანადის გავლით ვალენსიამდე, 10 დღე.
 
 ერთ ადამიანზე4 500 ლარი
-
-ტურის ნახვა 
-
-ავიატური
-
-### [ესპანეთი, საფრანგეთი, ანდორა — 10-დღიანი ტური ბარსელონიდან](https://besttraveler.ge/ka/turebi/espaneti-saprangeti-andora-turi/)
-
-10 დღეესპანეთი, საფრანგეთი, ანდორა
-
-კატალონია, ანდორა და სამხრეთ საფრანგეთი, ბოლოს სამი დღე ბარსელონაში — 10 დღე.
-
-ერთ ადამიანზე4 700 ლარი
 
 ტურის ნახვა

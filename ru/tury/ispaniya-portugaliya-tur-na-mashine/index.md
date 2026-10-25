@@ -188,6 +188,18 @@ URL: https://besttraveler.ge/ru/tury/ispaniya-portugaliya-tur-na-mashine/
 
 Авиатур
 
+### [Испания, Франция, Андорра — тур на 10 дней из Барселоны](https://besttraveler.ge/ru/tury/ispaniya-frantsiya-andorra-tur/)
+
+10 дней28 марта – 4 апреля 2027
+
+Каталония, Андорра и юг Франции, в конце три дня в Барселоне — 10 дней.
+
+за человека4 700 лари
+
+Смотреть тур 
+
+Авиатур
+
 ### [Тур по Испании: Барселона, Толедо, Андалусия, Валенсия — 10 дней](https://besttraveler.ge/ru/tury/ispaniya-barselona-andalusiya-valensiya-tur/)
 
 10 днейИспания
@@ -195,17 +207,5 @@ URL: https://besttraveler.ge/ru/tury/ispaniya-portugaliya-tur-na-mashine/
 Круг по Испании: из Каталонии через Толедо, Севилью и Гранаду в Валенсию, 10 дней.
 
 за человека4 500 лари
-
-Смотреть тур 
-
-Авиатур
-
-### [Испания, Франция, Андорра — тур на 10 дней из Барселоны](https://besttraveler.ge/ru/tury/ispaniya-frantsiya-andorra-tur/)
-
-10 днейИспания, Франция, Андорра
-
-Каталония, Андорра и юг Франции, в конце три дня в Барселоне — 10 дней.
-
-за человека4 700 лари
 
 Смотреть тур

@@ -91,7 +91,7 @@ URL: https://besttraveler.ge/ru/blog/kazbegi-za-odin-den-iz-tbilisi/
 
 ### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
 
-1 день24 октября 2026
+1 день25 октября 2026
 
 Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
 

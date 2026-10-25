@@ -224,7 +224,7 @@ By plane
 
 ### [Spain, France and Andorra — 10-Day Tour from Barcelona](https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/)
 
-10 daysSpain, France, Andorra
+10 days28 Mar – 4 Apr 2027
 
 Catalonia, Andorra and southern France, ending with three days in Barcelona — 10 days.
 

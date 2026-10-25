@@ -137,11 +137,11 @@ URL: https://besttraveler.ge/ru/blog/chto-sdelat-pered-poezdkoy/
 
 ### [Париж, Франция — групповой тур на 5 дней](https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/)
 
-5 днейФранция
+5 дней10–14 ноября 2026
 
 5 дней в Париже: Версаль, Лувр, Монмартр, Елисейские Поля и Нотр-Дам.
 
-за человека2 400 лари
+за человека2 500 лари
 
 Смотреть тур 
 

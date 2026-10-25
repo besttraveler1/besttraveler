@@ -165,7 +165,7 @@ URL: https://besttraveler.ge/ru/tury/italiya-bari-apuliya-novogodniy-tur/
 
 ### [Франция, Италия, Монако: Прованс, Альпы и Лазурный берег](https://besttraveler.ge/ru/tury/provans-monako-lazurnyy-bereg-tur/)
 
-8 днейФранция, Италия, Монако
+8 дней24–31 мая 2027
 
 Альпы, Турин, Лазурный берег и Прованс — три страны за 8 дней.
 

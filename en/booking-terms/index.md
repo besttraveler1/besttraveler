@@ -31,7 +31,7 @@ Flight tour prices are based on current air fares. Fares rise as the departure g
 ## Documents
 
 - To cross the border you need an international passport valid for at least 6 months.
-- For tours to Armenia you can travel with a passport or a Georgian ID card.
+- For tours to Armenia and Turkey you can travel with a passport or a Georgian ID card.
 - Minors need a birth certificate, notarised consent from the parents and an international passport.
 - Whether a visa is needed, and its fee, is shown on each tour page (under “Not included”).
 

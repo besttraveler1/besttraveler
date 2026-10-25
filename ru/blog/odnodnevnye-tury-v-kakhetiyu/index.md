@@ -115,7 +115,7 @@ URL: https://besttraveler.ge/ru/blog/odnodnevnye-tury-v-kakhetiyu/
 
 ### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
 
-1 день24 октября 2026
+1 день31 октября 2026
 
 Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
 

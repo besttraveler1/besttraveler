@@ -1,12 +1,12 @@
 # Туры в марте 2027 — цены и даты
 
-> 4 туров с началом в марте 2027: авиатуры, автобусные и однодневные туры из Грузии. Цены, даты и подробная программа по дням.
+> 8 туров с началом в марте 2027: авиатуры, автобусные и однодневные туры из Грузии. Цены, даты и подробная программа по дням.
 
 URL: https://besttraveler.ge/ru/tury/mart-2027/
 
 # Туры в марте 2027
 
-Все наши туры, которые начинаются в марте 2027: 4 туров за границу и по Грузии, с ценами и программой.
+Все наши туры, которые начинаются в марте 2027: 8 туров за границу и по Грузии, с ценами и программой.
 
 ## Туры в марте 2027
 
@@ -58,6 +58,54 @@ URL: https://besttraveler.ge/ru/tury/mart-2027/
 
 Смотреть тур 
 
+Авиатур
+
+### [Париж, Франция — групповой тур на 5 дней](https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/)
+
+5 дней10–14 ноября 2026
+
+5 дней в Париже: Версаль, Лувр, Монмартр, Елисейские Поля и Нотр-Дам.
+
+за человека2 500 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Бургундия и Франш-Конте: Клюни, Дижон и Бон](https://besttraveler.ge/ru/tury/burgundiya-fransh-konte-tur/)
+
+8 дней / 7 ночей2–9 марта 2027
+
+Замки и аббатства Бургундии, Дижон, Бон и водопады Франш-Конте — за 8 дней.
+
+за человека4 500 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Корсика, Франция — групповой тур на 10 дней с Парижем](https://besttraveler.ge/ru/tury/korsika-gruppovoy-tur/)
+
+10 дней / 9 ночей19–28 марта 2027
+
+10 дней: Филитоза, Бонифачо, Порто-Веккьо, Бастия, Кап-Корс, каланки Пьяны, Аяччо и Париж.
+
+за человека5 300 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Испания, Франция, Андорра — тур на 10 дней из Барселоны](https://besttraveler.ge/ru/tury/ispaniya-frantsiya-andorra-tur/)
+
+10 дней28 марта – 4 апреля 2027
+
+Каталония, Андорра и юг Франции, в конце три дня в Барселоне — 10 дней.
+
+за человека4 700 лари
+
+Смотреть тур 
+
 ## Туры по месяцам
 
-[В октябре 2026 18](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 27](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 7](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 6](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 2](https://besttraveler.ge/ru/tury/fevral-2027/)[В апреле 2027 17](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 29](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 29](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 25](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 25](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 17](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 13](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 9](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)
+[В октябре 2026 18](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 28](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 8](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 7](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 3](https://besttraveler.ge/ru/tury/fevral-2027/)[В апреле 2027 18](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 36](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 38](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 31](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 26](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 10](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)

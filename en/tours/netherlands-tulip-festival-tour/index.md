@@ -159,9 +159,21 @@ Dates on request
 
 By plane
 
+### [France, Germany and Switzerland: Alsace, the Black Forest and Basel](https://besttraveler.ge/en/tours/france-germany-switzerland-tour/)
+
+8 days / 7 nights24–31 May 2027
+
+Alsace villages, Colmar, Strasbourg, the Black Forest, Freiburg and small Swiss towns in 8 days.
+
+per person4,500 GEL
+
+View tour 
+
+By plane
+
 ### [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
 
-8 days / 7 nightsSwitzerland, France, Germany, Austria, Liechtenstein
+8 days / 7 nights14–21 Jun 2027
 
 8 days by car in five countries: Annecy, Chillon, Lauterbrunnen, Lucerne, Vaduz, Neuschwanstein, Bern.
 
@@ -178,17 +190,5 @@ By plane
 Brussels, Amsterdam, Dutch villages, Keukenhof, Ghent and Bruges — 8 days.
 
 per person4,300 GEL
-
-View tour 
-
-By plane
-
-### [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-group-tour/)
-
-9 days / 8 nights25 Oct 2026
-
-9 days in Rajasthan: forts, havelis, temples and a boat ride on Lake Pichola.
-
-per person4,800 GEL
 
 View tour

@@ -6,7 +6,7 @@ URL: https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/
 
 # France: Alsace and Paris — Group Tour from Kutaisi
 
-Alsace is one of the most beautiful and photogenic regions of France, where every village looks like it came from an old fairy tale. The tour ends with Paris and Versailles.
+Alsace is one of the most beautiful and photogenic regions of France, where every village looks like it came from an old fairy tale. The tour ends in Paris.
 
 - France
 - Beauvais
@@ -18,13 +18,12 @@ Alsace is one of the most beautiful and photogenic regions of France, where ever
 - Eguisheim
 - Colmar
 - Paris
-- Versailles
 
 Photo: [burobox](https://commons.wikimedia.org/w/index.php?curid=71070802), CC0
 
 Duration8 days / 7 nights
 
-Next departure19–26 Nov 2026 +2
+Next departure19–26 Nov 2026 +5
 
 DepartureKutaisi (KUT)
 
@@ -103,7 +102,7 @@ Price4,200 GEL
 
 ### Day 8
 
-- Versailles
+- Château de Vincennes
 - Flight from Beauvais airport
 
 ## Route on the map
@@ -136,11 +135,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “France: Alsace and Paris — Group Tour from Kutaisi” tour cost?**
 
-The tour costs 4,200 GEL per person.
+The tour costs 4,200 GEL per person. The deposit to book is 900 GEL.
 
 **When does the tour leave?**
 
-Next dates: 19–26 Nov 2026, 1–8 Dec 2026, 22–29 Dec 2026. Please check free places by phone or WhatsApp.
+Next dates: 19–26 Nov 2026, 1–8 Dec 2026, 22–29 Dec 2026, 21–28 Jun 2027, 2–9 Aug 2027, 20–27 Sep 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -152,6 +151,8 @@ Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and pr
 
 Price: 4,200 GELper person: 
 
+Deposit to book: 900 GEL
+
 ## Dates
 
 Dates
@@ -159,6 +160,9 @@ Dates
 - 19–26 Nov 2026
 - 1–8 Dec 2026
 - 22–29 Dec 2026
+- 21–28 Jun 2027
+- 2–9 Aug 2027
+- 20–27 Sep 2027
 
 - Flights Kutaisi–Beauvais–Kutaisi
 - Hand luggage 10 kg (40x30x20 cm)
@@ -173,36 +177,36 @@ Dates
 
 By plane
 
-### [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
-
-8 days / 7 nightsSwitzerland, France, Germany, Austria, Liechtenstein
-
-8 days by car in five countries: Annecy, Chillon, Lauterbrunnen, Lucerne, Vaduz, Neuschwanstein, Bern.
-
-per person4,500 GEL
-
-View tour 
-
-By plane
-
-### [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
-
-8 daysFrance, Italy, Monaco
-
-The Alps, Turin, the Côte d'Azur and Provence — three countries in 8 days.
-
-per person4,500 GEL
-
-View tour 
-
-By plane
-
 ### [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 
-5 daysFrance
+5 days10–14 Nov 2026
 
 5 days in Paris: Versailles, the Louvre, Montmartre, the Champs-Élysées and Notre-Dame.
 
-per person2,400 GEL
+per person2,500 GEL
+
+View tour 
+
+By plane
+
+### [Burgundy and Franche-Comté: Cluny, Dijon and Beaune](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
+
+8 days / 7 nights2–9 Mar 2027
+
+Castles and abbeys of Burgundy, Dijon, Beaune and the waterfalls of Franche-Comté in 8 days.
+
+per person4,500 GEL
+
+View tour 
+
+By plane
+
+### [Corsica, France — 10-Day Group Tour with Paris](https://besttraveler.ge/en/tours/corsica-group-tour-from-kutaisi/)
+
+10 days / 9 nights19–28 Mar 2027
+
+10 days: Filitosa, Bonifacio, Porto-Vecchio, Bastia, Cap Corse, the Calanques de Piana, Ajaccio and Paris.
+
+per person5,300 GEL
 
 View tour

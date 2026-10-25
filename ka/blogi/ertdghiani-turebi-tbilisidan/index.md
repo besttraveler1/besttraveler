@@ -91,7 +91,7 @@ URL: https://besttraveler.ge/ka/blogi/ertdghiani-turebi-tbilisidan/
 
 ### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
 
-1 დღე24 ოქტომბერი 2026
+1 დღე25 ოქტომბერი 2026
 
 დარიალის მონასტერი, გველეთის დიდი და პატარა ჩანჩქერი, გერგეტის სამება და გუდაურის პანორამა.
 
@@ -127,7 +127,7 @@ URL: https://besttraveler.ge/ka/blogi/ertdghiani-turebi-tbilisidan/
 
 ### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
 
-1 დღე24 ოქტომბერი 2026
+1 დღე31 ოქტომბერი 2026
 
 ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
 

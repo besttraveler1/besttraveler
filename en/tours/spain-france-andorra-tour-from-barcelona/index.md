@@ -28,7 +28,7 @@ Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605798),
 
 Duration10 days
 
-DatesOn request
+Next departure28 Mar – 4 Apr 2027
 
 DepartureKutaisi (KUT)
 
@@ -171,11 +171,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Spain, France and Andorra — 10-Day Tour from Barcelona” tour cost?**
 
-The tour costs 4,700 GEL per person.
+The tour costs 4,700 GEL per person. The deposit to book is 1,500 GEL.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 28 Mar – 4 Apr 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -187,11 +187,13 @@ Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and pr
 
 Price: 4,700 GELper person: 
 
+Deposit to book: 1,500 GEL
+
 ## Dates
 
 Dates
 
-Dates on request
+- 28 Mar – 4 Apr 2027
 
 - Return flights Kutaisi–Barcelona–Kutaisi
 - Hand luggage 10 kg (40x30x20 cm)
@@ -218,24 +220,24 @@ View tour
 
 By plane
 
-### [France: Alsace and Paris — Group Tour from Kutaisi](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
+### [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 
-8 days / 7 nights19–26 Nov 2026
+5 days10–14 Nov 2026
 
-8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar, Paris and Versailles.
+5 days in Paris: Versailles, the Louvre, Montmartre, the Champs-Élysées and Notre-Dame.
 
-per person4,200 GEL
+per person2,500 GEL
 
 View tour 
 
 By plane
 
-### [Southern Spain and Gibraltar — Group Tour, 27 January – 3 February](https://besttraveler.ge/en/tours/southern-spain-andalusia-gibraltar-tour/)
+### [France: Alsace and Paris — Group Tour from Kutaisi](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
 
-8 days / 7 nights27 Jan – 3 Feb 2027
+8 days / 7 nights19–26 Nov 2026
 
-8 days in Andalusia: Gibraltar, white villages, Ronda, Seville, Córdoba and the Alhambra.
+8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar and Paris.
 
-per person4,800 GEL
+per person4,200 GEL
 
 View tour

@@ -13,7 +13,7 @@ Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 22 more 
 [See tours](https://besttraveler.ge/en/tours/)
 [Message us on WhatsApp](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour)
 
-- 99tours
+- 106tours
 - 26countries
 - 50day tours
 - from 60 ₾day tours
@@ -26,7 +26,7 @@ Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 22 more 
 
 ## Choose a type of tour
 
-[34 tours 
+[41 tours 
 
 ### Tours abroad
 
@@ -43,42 +43,6 @@ Kakheti, Kazbegi, Truso, Gareja and more — out in the morning, back at night.]
 ## Upcoming tours
 
 [All dates](https://besttraveler.ge/en/tour-calendar/)
-
-Day tour
-
-### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
-
-1 day24 Oct 2026
-
-Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
-
-1 day24 Oct 2026
-
-Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
-
-1 day24 Oct 2026
-
-Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
-
-per person65 GEL
-
-View tour 
 
 By plane
 
@@ -116,11 +80,47 @@ per person60 GEL
 
 View tour 
 
+Day tour
+
+### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
+
+1 day25 Oct 2026
+
+Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
+
+1 day25 Oct 2026
+
+The rock-cut Sabereebi monastery complex of Gareja, 9th–10th centuries.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
+
+1 day25 Oct 2026
+
+Fortresses and monasteries of the Dzama Gorge, Bateti Lake and Mount Shuano in one day.
+
+per person60 GEL
+
+View tour 
+
 ## Popular destinations
 
 [Destinations](https://besttraveler.ge/en/destinations/)
 
-[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 8 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 6 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 4 tours](https://besttraveler.ge/en/destinations/spain/)[France 5 tours](https://besttraveler.ge/en/destinations/france/)[Greece 2 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 4 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
+[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 8 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 6 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 4 tours](https://besttraveler.ge/en/destinations/spain/)[France 12 tours](https://besttraveler.ge/en/destinations/france/)[Greece 2 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 4 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
 
 ## Why besttraveler
 
@@ -180,7 +180,7 @@ Flight tour prices are based on current air fares. Fares go up as the trip gets 
 
 **Which documents do I need?**
 
-To cross the border you need an international passport valid for at least 6 months. For tours to Armenia a Georgian ID card is also accepted. Children need a birth certificate, notarised consent from the parents and a passport.
+To cross the border you need an international passport valid for at least 6 months. For tours to Armenia and Turkey a Georgian ID card is also accepted. Children need a birth certificate, notarised consent from the parents and a passport.
 
 **Where do the day tours start?**
 

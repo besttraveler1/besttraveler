@@ -18,7 +18,7 @@ Photo: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=149966635), C
 
 Duration1 day
 
-Next departure24 Oct 2026 +12
+Next departure25 Oct 2026 +11
 
 DepartureTbilisi, 07:00
 
@@ -63,7 +63,7 @@ The tour costs 60 GEL per person.
 
 **When does the tour leave?**
 
-Next dates: 24 Oct 2026, 25 Oct 2026, 31 Oct 2026, 7 Nov 2026, 8 Nov 2026, 27 May 2027. Please check free places by phone or WhatsApp.
+Next dates: 25 Oct 2026, 31 Oct 2026, 7 Nov 2026, 8 Nov 2026, 27 May 2027, 5 Jun 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -79,7 +79,6 @@ Price: 60 GELper person:
 
 Dates
 
-- 24 Oct 2026
 - 25 Oct 2026
 - 31 Oct 2026
 - 7 Nov 2026
@@ -105,11 +104,11 @@ Dates
 
 Day tour
 
-### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
+### [A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 
-1 day24 Oct 2026
+1 day25 Oct 2026
 
-Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
+Takhti-Tepa and Kilakupra mud volcanoes, the Dali reservoir and a rock-cut monastery.
 
 per person60 GEL
 
@@ -117,23 +116,23 @@ View tour
 
 Day tour
 
-### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
 
-1 day24 Oct 2026
+1 day25 Oct 2026
 
-Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
 
-per person65 GEL
+per person60 GEL
 
 View tour 
 
 Day tour
 
-### [A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
+### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 
 1 day25 Oct 2026
 
-Takhti-Tepa and Kilakupra mud volcanoes, the Dali reservoir and a rock-cut monastery.
+Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
 
 per person60 GEL
 

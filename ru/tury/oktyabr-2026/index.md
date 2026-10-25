@@ -10,42 +10,6 @@ URL: https://besttraveler.ge/ru/tury/oktyabr-2026/
 
 ## Туры в октябре 2026
 
-Однодневный
-
-### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
-
-1 день24 октября 2026
-
-Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
-
-1 день24 октября 2026
-
-Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
-
-1 день24 октября 2026
-
-Зарзма, монастырь и водопад Чуле, Рабат в Ахалцихе и Сапара, с гидом.
-
-за человека65 лари
-
-Смотреть тур 
-
 Авиатур
 
 ### [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур](https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/)
@@ -168,6 +132,18 @@ URL: https://besttraveler.ge/ru/tury/oktyabr-2026/
 
 Однодневный
 
+### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
+
+1 день25 октября 2026
+
+Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
+
+за человека60 лари
+
+Смотреть тур 
+
+Однодневный
+
 ### [Однодневный тур по Квемо Картли: Церакви, крепость Гаги, озёра Тамариси](https://besttraveler.ge/ru/tury/kvemo-kartli-odnodnevnyy-tur/)
 
 1 день25 октября 2026
@@ -204,6 +180,18 @@ URL: https://besttraveler.ge/ru/tury/oktyabr-2026/
 
 Однодневный
 
+### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
+
+1 день31 октября 2026
+
+Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
+
+за человека60 лари
+
+Смотреть тур 
+
+Однодневный
+
 ### [Лагодехский заповедник: водопад Ниносхеви (Гургениани)](https://besttraveler.ge/ru/tury/lagodekhi-vodopad-ninoskhevi/)
 
 1 день31 октября 2026
@@ -211,6 +199,18 @@ URL: https://besttraveler.ge/ru/tury/oktyabr-2026/
 Поход в Лагодехском заповеднике к водопаду Ниносхеви, 8,3 км в одну сторону.
 
 за человека60 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
+
+1 день31 октября 2026
+
+Зарзма, монастырь и водопад Чуле, Рабат в Ахалцихе и Сапара, с гидом.
+
+за человека65 лари
 
 Смотреть тур 
 
@@ -228,4 +228,4 @@ URL: https://besttraveler.ge/ru/tury/oktyabr-2026/
 
 ## Туры по месяцам
 
-[В ноябре 2026 27](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 7](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 6](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 2](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 4](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 17](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 29](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 29](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 25](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 25](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 17](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 13](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 9](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)
+[В ноябре 2026 28](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 8](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 7](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 3](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 8](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 18](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 36](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 38](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 31](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 26](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 10](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)

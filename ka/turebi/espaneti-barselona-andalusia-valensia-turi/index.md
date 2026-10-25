@@ -224,7 +224,7 @@ URL: https://besttraveler.ge/ka/turebi/espaneti-barselona-andalusia-valensia-tur
 
 ### [ესპანეთი, საფრანგეთი, ანდორა — 10-დღიანი ტური ბარსელონიდან](https://besttraveler.ge/ka/turebi/espaneti-saprangeti-andora-turi/)
 
-10 დღეესპანეთი, საფრანგეთი, ანდორა
+10 დღე28 მარტი – 4 აპრილი 2027
 
 კატალონია, ანდორა და სამხრეთ საფრანგეთი, ბოლოს სამი დღე ბარსელონაში — 10 დღე.
 

@@ -30,7 +30,7 @@ Flight tour prices are based on current air fares. Fares rise as the departure g
 ## Documents
 
 - To cross the border you need an international passport valid for at least 6 months.
-- For tours to Armenia you can travel with a passport or a Georgian ID card.
+- For tours to Armenia and Turkey you can travel with a passport or a Georgian ID card.
 - Minors need a birth certificate, notarised consent from the parents and an international passport.
 - Whether a visa is needed, and its fee, is shown on each tour page (under “Not included”).
 
@@ -50,7 +50,7 @@ Flight tour prices are based on current air fares. Fares rise as the departure g
 
 **Why can the price change?** Flight tour prices are based on current air fares. Fares go up as the trip gets closer, so it is best to book early.
 
-**Which documents do I need?** To cross the border you need an international passport valid for at least 6 months. For tours to Armenia a Georgian ID card is also accepted. Children need a birth certificate, notarised consent from the parents and a passport.
+**Which documents do I need?** To cross the border you need an international passport valid for at least 6 months. For tours to Armenia and Turkey a Georgian ID card is also accepted. Children need a birth certificate, notarised consent from the parents and a passport.
 
 **Where do the day tours start?** Day tours start in Tbilisi and go by minibus. The meeting point is usually the upper exit of Didube metro station.
 
@@ -58,75 +58,6 @@ Flight tour prices are based on current air fares. Fares rise as the departure g
 
 
 # Tours
-
-## Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe
-
-URL: https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/
-
-- Type: Day tour
-- Countries: Georgia
-- Duration: 1 day
-- Price: 60 GEL per person
-- Departure: From Tbilisi at 08:00
-- Dates: 24 Oct 2026, 31 Oct 2026, 1 Nov 2026, 8 Nov 2026, 21 Nov 2026, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
-
-A one-day tour to Kakheti: Ninotsminda, Manavi Fortress, the Bodbe Convent of St Nino and Sighnaghi.
-
-Stops: Ninotsminda Monastery Complex; Manavi Fortress; Bodbe Convent of St Nino; Sighnaghi
-
-Included:
-- Transport by minibus
-- Tour escort
-- Photography
-
-Not included:
-- Meals (on your own)
-
-Notes:
-- The tour runs in any weather; it is postponed only if there is a problem with the road.
-
-## Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity
-
-URL: https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/
-
-- Type: Day tour
-- Countries: Georgia
-- Duration: 1 day
-- Price: 60 GEL per person
-- Departure: From Tbilisi at 07:00
-- Dates: 24 Oct 2026, 25 Oct 2026, 31 Oct 2026, 7 Nov 2026, 8 Nov 2026, 27 May 2027, 5 Jun 2027, 3 Jul 2027, 18 Jul 2027, 25 Jul 2027, 7 Aug 2027, 15 Aug 2027, 22 Aug 2027
-
-A one-day tour to Kazbegi. The walk to the big Gveleti waterfall is 1.2 km one way (medium), and to the small one 500 m.
-
-Stops: Dariali Monastery Complex; Big Gveleti waterfall (walk, 1.2 km one way, medium); Small Gveleti waterfall (walk, easy, 500 m); Gergeti Trinity Church (ride up by local jeep, 10 GEL); Gudauri panorama
-
-Included:
-- Travel by top-class minibus
-- Services of a qualified tour organizer (organization, short overview of the sights)
-- Photography
-
-Not included:
-- Ride up to Gergeti by local jeep — 10 GEL per person
-
-## Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara
-
-URL: https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/
-
-- Type: Day tour
-- Countries: Georgia
-- Duration: 1 day
-- Price: 65 GEL per person
-- Departure: From Tbilisi at 07:00
-- Dates: 24 Oct 2026, 31 Oct 2026, 1 Nov 2026, 8 Nov 2026, 21 Nov 2026, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
-
-Travel to mystical Meskheti with guide Giorgi Beridze-Berjavakhi. In one day we see Zarzma, Chule, Akhaltsikhe's Rabati and Sapara.
-
-Stops: Zarzma Monastery; Chule Monastery; Chule waterfall; Akhaltsikhe Fortress (Rabati); Sapara Monastery Complex
-
-Included:
-- Travel by top-class minibus
-- Services of qualified guide Giorgi Beridze-Berjavakhi
-- Photography
 
 ## India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur
 
@@ -384,6 +315,29 @@ Included:
 Notes:
 - The tour runs in any weather; it is postponed only if there is a problem with the road.
 
+## Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity
+
+URL: https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/
+
+- Type: Day tour
+- Countries: Georgia
+- Duration: 1 day
+- Price: 60 GEL per person
+- Departure: From Tbilisi at 07:00
+- Dates: 25 Oct 2026, 31 Oct 2026, 7 Nov 2026, 8 Nov 2026, 27 May 2027, 5 Jun 2027, 3 Jul 2027, 18 Jul 2027, 25 Jul 2027, 7 Aug 2027, 15 Aug 2027, 22 Aug 2027
+
+A one-day tour to Kazbegi. The walk to the big Gveleti waterfall is 1.2 km one way (medium), and to the small one 500 m.
+
+Stops: Dariali Monastery Complex; Big Gveleti waterfall (walk, 1.2 km one way, medium); Small Gveleti waterfall (walk, easy, 500 m); Gergeti Trinity Church (ride up by local jeep, 10 GEL); Gudauri panorama
+
+Included:
+- Travel by top-class minibus
+- Services of a qualified tour organizer (organization, short overview of the sights)
+- Photography
+
+Not included:
+- Ride up to Gergeti by local jeep — 10 GEL per person
+
 ## Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes
 
 URL: https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/
@@ -450,6 +404,32 @@ Included:
 - Services of a qualified tour organizer (organization, short overview of each sight)
 - Photography
 
+## Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe
+
+URL: https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/
+
+- Type: Day tour
+- Countries: Georgia
+- Duration: 1 day
+- Price: 60 GEL per person
+- Departure: From Tbilisi at 08:00
+- Dates: 31 Oct 2026, 1 Nov 2026, 8 Nov 2026, 21 Nov 2026, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
+
+A one-day tour to Kakheti: Ninotsminda, Manavi Fortress, the Bodbe Convent of St Nino and Sighnaghi.
+
+Stops: Ninotsminda Monastery Complex; Manavi Fortress; Bodbe Convent of St Nino; Sighnaghi
+
+Included:
+- Transport by minibus
+- Tour escort
+- Photography
+
+Not included:
+- Meals (on your own)
+
+Notes:
+- The tour runs in any weather; it is postponed only if there is a problem with the road.
+
 ## Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike
 
 URL: https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/
@@ -468,6 +448,26 @@ Stops: Ninoskhevi gorge, Lagodekhi; Ninoskhevi (Gurgeniani) waterfall; Walk: 8.3
 Included:
 - Travel by high-clearance minibus
 - Services of a qualified hiking guide (tour organization)
+- Photography
+
+## Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara
+
+URL: https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/
+
+- Type: Day tour
+- Countries: Georgia
+- Duration: 1 day
+- Price: 65 GEL per person
+- Departure: From Tbilisi at 07:00
+- Dates: 31 Oct 2026, 1 Nov 2026, 8 Nov 2026, 21 Nov 2026, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
+
+Travel to mystical Meskheti with guide Giorgi Beridze-Berjavakhi. In one day we see Zarzma, Chule, Akhaltsikhe's Rabati and Sapara.
+
+Stops: Zarzma Monastery; Chule Monastery; Chule waterfall; Akhaltsikhe Fortress (Rabati); Sapara Monastery Complex
+
+Included:
+- Travel by top-class minibus
+- Services of qualified guide Giorgi Beridze-Berjavakhi
 - Photography
 
 ## Vashlovani Tour: Mount Elia, Swallows' Town, Alesilebi
@@ -765,6 +765,39 @@ Not included:
 Optional extras:
 - Safari on the free day (jeeps, quad bikes, buggies, Bedouin village, camels) — 25 USD (optional)
 
+## Paris, France — 5-Day Group Tour
+
+URL: https://besttraveler.ge/en/tours/paris-france-group-tour/
+
+- Type: By plane
+- Countries: France
+- Duration: 5 days
+- Price: 2,500 GEL per person (deposit 1,000 GEL)
+- Departure: From Kutaisi airport
+- Dates: 10–14 Nov 2026, 22–26 Dec 2026, 12–16 Jan 2027, 16–20 Feb 2027, 2–6 Mar 2027, 5–9 Apr 2027, 10–14 May 2027, 7–11 Jun 2027, 12–16 Jul 2027, 2–6 Aug 2027, 13–17 Sep 2027, 11–15 Oct 2027
+
+A group tour of Paris with a flight from Kutaisi to Beauvais: the Palace of Versailles, the main museums, squares and boulevards, and a free last day.
+
+**Day 1:** Arrival in Beauvais at 17:25; Transfer to the hotel
+**Day 2:** Palace of Versailles; Montmartre; Seine river cruise (optional); Eiffel Tower and Paris in the evening
+**Day 3:** Louvre; Tuileries Garden; Arc de Triomphe du Carrousel; Place de la Concorde; Walk along the Champs-Élysées; Arc de Triomphe; Pont Alexandre III
+**Day 4:** Les Invalides; Musée d'Orsay; Notre-Dame de Paris; Sacré-Cœur; Disneyland (optional)
+**Day 5:** Free time; Transfer to the airport; Flight to Kutaisi at 18:55
+
+Included:
+- Flights Kutaisi–Beauvais–Kutaisi
+- Hand luggage 10 kg (40x30x20 cm)
+- Hotel with breakfast
+- Tour escort
+- Travel insurance
+
+Not included:
+- Transfer from the Paris airport to the hotel and back (25 EUR each way)
+- Transfer to Kutaisi and back (60 GEL)
+- Paid sights (optional), city and transport fees (170–200 EUR in total)
+- Disneyland ticket and transport (optional)
+- Meals other than breakfast
+
 ## Morocco Group Tour with a Stop in Rome — 13–22 November
 
 URL: https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/
@@ -814,11 +847,11 @@ URL: https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/
 - Type: By plane
 - Countries: France
 - Duration: 8 days / 7 nights
-- Price: 4,200 GEL per person
+- Price: 4,200 GEL per person (deposit 900 GEL)
 - Departure: From Kutaisi airport
-- Dates: 19–26 Nov 2026, 1–8 Dec 2026, 22–29 Dec 2026
+- Dates: 19–26 Nov 2026, 1–8 Dec 2026, 22–29 Dec 2026, 21–28 Jun 2027, 2–9 Aug 2027, 20–27 Sep 2027
 
-Alsace is one of the most beautiful and photogenic regions of France, where every village looks like it came from an old fairy tale. The tour ends with Paris and Versailles.
+Alsace is one of the most beautiful and photogenic regions of France, where every village looks like it came from an old fairy tale. The tour ends in Paris.
 
 **Day 1:** Arrival at Beauvais airport; Reims — a city in eastern France, founded in 80 BC; Hotel check-in
 **Day 2:** Walk in Reims; Porte de Mars — an ancient Roman triumphal arch, 3rd century AD; Reims Cathedral (Notre-Dame de Reims) — where the kings of France were once crowned; Metz — a city in north-eastern France; Porte des Allemands; Opéra-Théâtre de Metz — the oldest opera house in France and one of the oldest in Europe; Drive to Saint-Hippolyte, hotel check-in
@@ -827,7 +860,7 @@ Alsace is one of the most beautiful and photogenic regions of France, where ever
 **Day 5:** Colmar — the third-largest town in Alsace; Little Venice — a Colmar quarter of canals and half-timbered houses built by the water (optional boat ride); Drive to Paris, hotel check-in
 **Day 6:** Eiffel Tower; Pont Alexandre III; Musée d'Orsay; Arc de Triomphe; Champs-Élysées
 **Day 7:** Louvre; Notre-Dame de Paris; Sacré-Cœur; Montmartre
-**Day 8:** Versailles; Flight from Beauvais airport
+**Day 8:** Château de Vincennes; Flight from Beauvais airport
 
 Included:
 - Flights Kutaisi–Beauvais–Kutaisi
@@ -1093,6 +1126,126 @@ Not included:
 - Meals other than breakfast
 - Entry to paid sites
 
+## Burgundy and Franche-Comté: Cluny, Dijon and Beaune
+
+URL: https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/
+
+- Type: By plane
+- Countries: France, Switzerland
+- Duration: 8 days / 7 nights
+- Price: 4,500 GEL per person (deposit 1,000 GEL)
+- Departure: From Tbilisi airport at 13:45
+- Dates: 2–9 Mar 2027, 3–10 May 2027, 21–28 Jun 2027, 13–20 Sep 2027
+
+A tour of eastern France, Burgundy and Franche-Comté: medieval castles, Cluny Abbey, Dijon and Beaune. You fly from Tbilisi to Geneva.
+
+**Day 1:** Flight from Tbilisi at 13:45; Arrival at Geneva airport at 16:30; Nantua
+**Day 2:** Forteresse de Berzé-le-Châtel; Cluny — a historic town in Burgundy; Cluny Abbey (abbey, museum, Berzé-la-Ville chapel and Cheese Tower — 17 EUR); Cormatin
+**Day 3:** Château de Cormatin (15 EUR); Château de Brancion (8 EUR); Moulins
+**Day 4:** Apremont-sur-Allier; Ducal Palace of Nevers (Palais ducal de Nevers); Bourges; Avallon
+**Day 5:** Semur-en-Auxois; Château de Châteauneuf (6 EUR); Dijon — the historic capital of Burgundy
+**Day 6:** Beaune — the wine capital of Burgundy; Château de Pierre-de-Bresse (8.50 EUR); Baume-les-Messieurs: tufa waterfall, Saint-Pierre Abbey, caves optional
+**Day 7:** Château de Joux (10 EUR); Geneva
+**Day 8:** Transfer to the airport; Flight to Tbilisi at 06:30
+
+Included:
+- Return flights Tbilisi — Geneva — Tbilisi
+- Hand luggage 10 kg (40x30x20 cm)
+- Transport for the whole tour, airport to airport
+- Hotels with breakfast
+- Tour escort
+- Photos during the tour
+- Travel insurance abroad
+
+Not included:
+- Entrance fees to the sights
+- Meals other than breakfast
+
+## Corsica, France — 10-Day Group Tour with Paris
+
+URL: https://besttraveler.ge/en/tours/corsica-group-tour-from-kutaisi/
+
+- Type: By plane
+- Countries: France
+- Duration: 10 days / 9 nights
+- Price: 5,300 GEL per person (deposit 1,500 GEL)
+- Departure: From Kutaisi airport
+- Dates: 19–28 Mar 2027
+
+Corsica is a Mediterranean island that belongs to France. It is known for turquoise beaches, rocky coasts, mountains and medieval towns. The tour starts and ends in Paris.
+
+**Day 1:** Flight from Kutaisi at 15:05; Arrival in Paris at 18:10; Transfer to the hotel
+**Day 2:** Transfer to the airport; Flight to Ajaccio (Corsica) at 09:50, arrival at 11:25; Filitosa — a prehistoric site with carved stone figures and megaliths (9 EUR); Sartène — a historic Corsican town
+**Day 3:** Bonifacio — a town on the cliffs of southern Corsica; King of Aragon's Stairs (Escalier du Roy d’Aragon), about 200 steps (5 EUR); Lavezzi Islands (Îles Lavezzi), optional
+**Day 4:** Santa Giulia; Porto-Vecchio; Zonza; Ospedale forest and lake (Forêt de l’Ospedale)
+**Day 5:** Bastia — the historic town of northern Corsica; Erbalunga — a fishing village on the Cap Corse peninsula; Biguglia lagoon (Étang de Biguglia) — a protected area where flamingos can be seen
+**Day 6:** Centuri; Nonza; Patrimonio — Corsica's wine village; L’Île-Rousse
+**Day 7:** Calanques de Piana — red granite cliffs above the sea; Piana village
+**Day 8:** Ajaccio; Napoleon Bonaparte's house museum; Old town and harbour; Sunset at the Sanguinaires Islands, optional; Hotel check-in
+**Day 9:** Transfer to the airport; Flight to Paris at 06:55, arrival at 08:35; Eiffel Tower; Arc de Triomphe; Notre-Dame de Paris
+**Day 10:** Free time; Transfer to the airport; Flight to Kutaisi at 18:45
+
+Included:
+- Flights (4): Kutaisi–Paris, Paris–Ajaccio, Ajaccio–Paris, Paris–Kutaisi
+- Hand luggage 10 kg (40x30x20 cm)
+- Transfers and travel between towns in Corsica
+- Transfers in Paris (4 transfers)
+- Hotels with breakfast
+- Tour escort
+- Photography
+- Travel insurance
+
+Not included:
+- Museum entry fees, optional
+- Boat trips in Corsica, optional
+- Meals other than breakfast
+- Transfer to Kutaisi and back (60 GEL)
+
+Optional extras:
+- Lavezzi Islands — 40 EUR (optional)
+- Sunset boat trip to the Sanguinaires Islands — 50 EUR (optional)
+
+Notes:
+- The order of visits may change.
+
+## Spain, France and Andorra — 10-Day Tour from Barcelona
+
+URL: https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/
+
+- Type: By plane
+- Countries: Spain, France, Andorra
+- Duration: 10 days
+- Price: 4,700 GEL per person (deposit 1,500 GEL)
+- Departure: From Kutaisi airport
+- Dates: 28 Mar – 4 Apr 2027
+
+The tour starts in Barcelona, crosses Andorra into southern France — Toulouse, Albi, Carcassonne — and returns to Catalonia for the last days in Barcelona.
+
+**Day 1:** Flight from Kutaisi; Arrival in Barcelona; Free time; Hotel check-in (Vic)
+**Day 2:** Montserrat Abbey (20 EUR); Castell de Sant Marçal; Sant Miquel del Fai; Vic
+**Day 3:** Principality of Andorra; Andorra la Vella; Church of Sant Climent in Pal; Pal; Llorts; Church of Sant Joan de Caselles; Tarascon-sur-Ariège (France); Overnight in Tarascon-sur-Ariège
+**Day 4:** Toulouse; Condom; Statue of d'Artagnan and the Three Musketeers by Georgian sculptor Zurab Tsereteli, a gift to the town in 2010; Saint-Cirq-Lapopie; Overnight in Saint-Cirq-Lapopie
+**Day 5:** Boat ride on the river Lot; Several small riverside villages; Albi; Overnight in Albi
+**Day 6:** Toulouse-Lautrec Museum (10 EUR); Carcassonne; Cité de Carcassonne (15 EUR); Château Comtal; Overnight in Carcassonne
+**Day 7:** Dalí Theatre-Museum (20 EUR); Girona; Arenys de Munt; Barcelona; Arc de Triomf; Overnight in Barcelona
+**Day 8:** Temple of the Sacred Heart; Park Güell (20 EUR); Parc de la Ciutadella; Palau Güell (15 EUR); Montjuïc; Overnight in Barcelona
+**Day 9:** National Art Museum of Catalonia (15 EUR); Sant Jeroni de la Murtra; Sagrada Família; Casa Milà; Casa Batlló; Casa Amatller (15 EUR); Overnight in Barcelona
+**Day 10:** La Boqueria market; Montserrat Abbey; Gaudí Crypt, Cripta Gaudí (10 EUR); Transfer to the airport; Flight to Kutaisi at 18:25; Arrival in Kutaisi at 01:10
+
+Included:
+- Return flights Kutaisi–Barcelona–Kutaisi
+- Hand luggage 10 kg (40x30x20 cm)
+- Transfers and travel between towns (a car for the whole tour)
+- Hotels with breakfast
+- Tour escort
+- Photography
+- Travel insurance
+
+Not included:
+- Museum entrance fees (optional)
+- Meals other than breakfast
+- Transfer Tbilisi–Kutaisi–Tbilisi (60 GEL)
+
 ## Shida Kartli Tour: Skhvilo, Breti, Ruisi, Samtavisi, Urbnisi
 
 URL: https://besttraveler.ge/en/tours/samtavisi-ruisi-urbnisi-day-tour/
@@ -1338,6 +1491,79 @@ Not included:
 Notes:
 - The tour runs in any weather; it is postponed only if there is a problem with the road.
 
+## Occitanie and Nouvelle-Aquitaine: Rocamadour, Bordeaux, Carcassonne
+
+URL: https://besttraveler.ge/en/tours/france-occitanie-aquitaine-group-tour/
+
+- Type: By plane
+- Countries: France, Switzerland
+- Duration: 8 days / 7 nights
+- Price: 4,500 GEL per person (deposit 1,000 GEL)
+- Departure: From Tbilisi airport at 13:45
+- Dates: 17–24 May 2027, 21–28 Jun 2027, 12–19 Jul 2027, 13–20 Sep 2027
+
+A group tour of two regions in the south of France, Occitanie and Nouvelle-Aquitaine. You fly from Tbilisi to Geneva and travel the whole route by coach.
+
+**Day 1:** Flight from Tbilisi at 13:45; Arrival at Geneva airport at 16:30; Transfer to Lyon; Lyon in the evening
+**Day 2:** Château de la Bâtie d'Urfé; Le Puy-en-Velay; Espalion; Bozouls
+**Day 3:** Saint-Cirq-Lapopie; Rocamadour; La Roque-Gageac; Gardens of Marqueyssac (Les Jardins de Marqueyssac)
+**Day 4:** Château de Beynac; Beynac-et-Cazenac; Bordeaux
+**Day 5:** Condom; Lourdes; Toulouse
+**Day 6:** Carcassonne; Béziers; Nîmes
+**Day 7:** Nîmes; Palais Idéal; Geneva — hotel near the airport
+**Day 8:** Transfer to the airport; Flight to Tbilisi at 06:30
+
+Included:
+- Return flights
+- Hand luggage 10 kg (40x30x20 cm)
+- Transport for the whole tour, airport to airport
+- Hotels with breakfast
+- Tour escort
+- Photos during the tour
+- Travel insurance abroad
+
+Not included:
+- Meals other than breakfast
+
+## Île-de-France and Normandy — Château Tour of France
+
+URL: https://besttraveler.ge/en/tours/ile-de-france-normandy-chateaux-tour/
+
+- Type: By plane
+- Countries: France
+- Duration: 8 days / 7 nights
+- Price: 4,100 GEL per person (deposit 1,000 GEL)
+- Departure: From Kutaisi airport
+- Dates: 19–26 May 2027, 13–20 Sep 2027
+
+An 8-day tour around Paris and in Normandy: historic châteaux and fortresses, seaside towns and Amiens Cathedral.
+
+**Day 1:** Flight from Kutaisi at 15:55; Arrival at Beauvais at 18:10; Transfer to the hotel
+**Day 2:** Château de Champs-sur-Marne, 18th century (9 EUR); La Chocolaterie Menier, 19th century; Château de Grosbois, 17th century (20 EUR); Château de Vaux-le-Vicomte, 17th century (18 EUR); Chartres, hotel check-in
+**Day 3:** Château de Maintenon (13 EUR); Château de Villebon (10 EUR); La Chapelle-Montligeon — the Basilica of Notre-Dame de Montligeon; Alençon
+**Day 4:** Château de Carrouges, Normandy (7 EUR); Château de Sassy, 18th century (8 EUR); Lisieux — the Basilica of Saint Thérèse
+**Day 5:** Deauville — a well-known Normandy seaside resort; Honfleur — a historic port town; Victor Hugo Museum, Villequier (6 EUR); Lyons-la-Forêt — one of the prettiest villages in Normandy
+**Day 6:** Château de Bizy (10 EUR); Château d'Auvers — linked with Vincent van Gogh (Van Gogh exhibition 12 EUR); Château de Maisons-Laffitte, 17th century (9 EUR)
+**Day 7:** Château de Compiègne — a royal and imperial residence (10 EUR); Donjon de Septmonts; Val d'Igny Abbey and the monastery chocolate workshop; Épernay — the Museum of Champagne and Regional Archaeology (10 EUR); Amiens
+**Day 8:** Notre-Dame d'Amiens Cathedral (towers 7 EUR, treasury 5 EUR); Transfer to the airport; Flight to Kutaisi at 18:45
+
+Included:
+- Flights Kutaisi–Beauvais–Kutaisi
+- Hand luggage 10 kg (40x30x20 cm)
+- Transfers and travel between cities
+- Hotels with breakfast
+- Tour escort
+- Photography
+- Travel insurance
+
+Not included:
+- Museum entry fees, optional
+- Meals other than breakfast
+- Transfer to Kutaisi and back (60 GEL)
+
+Notes:
+- The order of visits may change.
+
 ## Borjomi Tour: Daba, Timotesubani, Borjomi Park, Green Monastery
 
 URL: https://besttraveler.ge/en/tours/borjomi-timotesubani-green-monastery-tour/
@@ -1389,6 +1615,114 @@ Not included:
 
 Notes:
 - The tour runs in any weather; it is postponed only if there is a problem with the road.
+
+## France, Germany and Switzerland: Alsace, the Black Forest and Basel
+
+URL: https://besttraveler.ge/en/tours/france-germany-switzerland-tour/
+
+- Type: By plane
+- Countries: France, Germany, Switzerland
+- Duration: 8 days / 7 nights
+- Price: 4,500 GEL per person (deposit 1,000 GEL)
+- Departure: From Tbilisi airport at 13:45
+- Dates: 24–31 May 2027, 7–14 Jun 2027, 5–12 Jul 2027, 9–16 Aug 2027, 20–27 Sep 2027
+
+Three countries in one tour: Alsace in France, the Black Forest in Germany and small historic towns in Switzerland. You fly from Tbilisi to Geneva.
+
+**Day 1:** Flight from Tbilisi at 13:45; Arrival at Geneva airport at 16:30; Transfer to the hotel
+**Day 2:** La Plagne — a ski resort in the Alps; Château de Joux; Belfort; Mulhouse
+**Day 3:** Eguisheim — one of the most beautiful villages in France; Turckheim; Orbey; Lac Blanc — a glacial lake near Orbey; Lac Noir — a quiet mountain lake in the forest
+**Day 4:** Colmar and Little Venice — canals and half-timbered houses (boat ride optional); Kaysersberg; Ribeauvillé
+**Day 5:** Sélestat; Obernai; Strasbourg; Gengenbach, Germany
+**Day 6:** Triberg im Schwarzwald; Black Forest Open-Air Museum Vogtsbauernhof (15 EUR); Triberg waterfalls (easy path, 3 falls); Freiburg im Breisgau
+**Day 7:** Basel; La Neuveville; Le Landeron; Murten (Morat)
+**Day 8:** Transfer to the airport; Flight to Tbilisi at 06:30
+
+Included:
+- Return flights Tbilisi — Geneva — Tbilisi
+- Hand luggage 10 kg (40x30x20 cm)
+- Transfers and travel between cities
+- Hotels with breakfast
+- Tour escort
+- Photos during the tour
+- Travel insurance abroad
+
+Not included:
+- Meals other than breakfast
+
+## France, Italy and Monaco: Provence, the Alps and the Côte d'Azur
+
+URL: https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/
+
+- Type: By plane
+- Countries: France, Italy, Monaco
+- Duration: 8 days
+- Price: 4,500 GEL per person (deposit 1,000 GEL)
+- Departure: From Tbilisi airport
+- Dates: 24–31 May 2027, 7–14 Jun 2027, 5–12 Jul 2027, 9–16 Aug 2027, 20–27 Sep 2027
+
+The tour starts in Geneva, crosses Savoy to Turin, follows the Côte d'Azur from Sanremo and Monaco to Toulon, visits Marseille and Provence, and returns through the Alps.
+
+**Day 1:** Flight from Tbilisi at 13:45; Arrival at Geneva airport at 16:30; Chanaz — a small village called the 'little Venice of Savoy'
+**Day 2:** Saint-Pierre-de-Chartreuse; Chambéry; Turin (Torino)
+**Day 3:** Turin
+**Day 4:** Sanremo; Menton; Monaco; Nice
+**Day 5:** Antibes; Cannes; Bormes-les-Mimosas; Toulon
+**Day 6:** Marseille; Château d'If; Gordes; Abbaye Notre-Dame de Sénanque
+**Day 7:** Sisteron; Pont-en-Royans; Chambéry
+**Day 8:** Transfer to the airport; Flight to Tbilisi at 06:30
+
+Included:
+- Return flights Tbilisi–Geneva–Tbilisi
+- Hand luggage 10 kg (40x30x20 cm)
+- Transport for the whole tour, airport to airport
+- Hotels with breakfast
+- Tour escort
+- Photography
+- Travel insurance
+
+Not included:
+- Entrance fees to sights
+- Meals other than breakfast
+
+## Normandy, Brittany and the Loire Valley — 8-Day Tour of France
+
+URL: https://besttraveler.ge/en/tours/normandy-brittany-loire-tour/
+
+- Type: By plane
+- Countries: France
+- Duration: 8 days / 7 nights
+- Price: 4,100 GEL per person (deposit 1,000 GEL)
+- Departure: From Kutaisi airport
+- Dates: 24–31 May 2027, 21–28 Jun 2027, 6–13 Sep 2027
+
+An 8-day tour of Upper and Lower Normandy, Brittany and the Loire region: seaside towns, medieval fortresses and famous châteaux.
+
+**Day 1:** Arrival at Beauvais airport; Gerberoy — a medieval village known as the 'village of a thousand roses'
+**Day 2:** Dieppe — a Normandy seaside town on the English Channel; Veules-les-Roses — a member of the Most Beautiful Villages of France association; Étretat — white chalk cliffs and natural stone arches; Rouen — the historic capital of Normandy
+**Day 3:** Rouen: the Gothic Notre-Dame Cathedral, the Gros-Horloge astronomical clock and the Old Market Square; Domaine du Champ de Bataille, 17th century (gardens 15 EUR, château and gardens 27 EUR); Fougères — a historic town in Brittany; Château de Fougères, with 13 towers (10 EUR)
+**Day 4:** Mont-Saint-Michel — a village and abbey on a rocky island, a UNESCO site; Mont-Saint-Michel Abbey (20 EUR); Saint-Malo — a Brittany seaside town with a walled old town; Dinan — a medieval town in the Rance valley; Château de Goulaine near Nantes
+**Day 5:** La Rochelle — an Atlantic port town with an old harbour; Fort Boyard — a sea fort in the Atlantic near La Rochelle; Chinon — a Loire Valley town with a royal fortress
+**Day 6:** Château d’Ussé — white towers and terraced gardens (15 EUR); Amboise — a historic town on the Loire; Château de Chenonceau — the château built like a bridge over the river Cher (18 EUR)
+**Day 7:** Château de Chambord — the largest Renaissance château of the Loire Valley (17 EUR); Château de Fontainebleau — a royal palace, a UNESCO site (14 EUR)
+**Day 8:** Château de Chantilly — a château on the water with gardens and stables (18 EUR)
+
+Included:
+- Flights Kutaisi–Beauvais–Kutaisi
+- Hand luggage 10 kg (40x30x20 cm)
+- Transport for the whole tour, airport to airport
+- Hotels with breakfast
+- Tour escort
+- Photography
+- Travel insurance
+
+Not included:
+- Museum entry fees, optional (140–150 EUR)
+- Meals other than breakfast
+- Transfer to Kutaisi and back (60 GEL)
+
+Notes:
+- The order of visits may change.
 
 ## Svaneti 3-Day Tour: Enguri Dam, Mestia, Koruldi Lakes, Ushguli
 
@@ -1445,6 +1779,80 @@ Included:
 - Travel by top-class minibus
 - Services of a qualified tour organizer (organization, short overview of the sights)
 - Photography
+
+## 5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein
+
+URL: https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/
+
+- Type: By plane
+- Countries: Switzerland, France, Germany, Austria, Liechtenstein
+- Duration: 8 days / 7 nights
+- Price: 4,500 GEL per person (deposit 1,000 GEL)
+- Departure: From Tbilisi airport
+- Dates: 14–21 Jun 2027, 5–12 Jul 2027, 2–9 Aug 2027, 6–13 Sep 2027
+
+A group tour by car through France, Switzerland, Liechtenstein, Austria and Germany. The tour starts in Geneva and ends in Lyon.
+
+**Day 1:** Flight from Tbilisi at 13:45; Arrival at Geneva airport at 16:30; Geneva
+**Day 2:** Annecy (France) — a town often called 'the Venice of the Alps'; Yvoire — a medieval village on the French shore of Lake Geneva; Château de Chillon; Hotel (Switzerland)
+**Day 3:** Gruyères — a medieval Swiss town known for its Gruyère cheese, castle and Alpine views; Château de Gruyères (15 EUR); Jaun Waterfall (Wasserfall von Jaun); Lauterbrunnen — one of Switzerland's most beautiful valleys, the 'valley of 72 waterfalls'; Gimmelwald — an Alpine village above the Lauterbrunnen valley, at about 1,367 m (by cable car); Mürren — an Alpine village above the valley, at about 1,638 m (Gimmelwald–Mürren cable car 35 EUR); Grindelwald — one of Switzerland's best-known Alpine resorts; Hotel (Switzerland)
+**Day 4:** Lucerne (Switzerland) — known for its covered wooden bridge built in 1333, with 17th-century paintings inside; Einsiedeln Abbey — a Benedictine abbey dating back to the 10th century; Balzers — a small town in Liechtenstein; Vaduz — the capital of the Principality of Liechtenstein; Lech am Arlberg — a well-known Alpine resort in Austria; Hotel (Austria)
+**Day 5:** Linderhof Palace (Germany) — the only one of King Ludwig II of Bavaria's three palaces that he saw completed; Ettal Abbey (Kloster Ettal) — a Benedictine monastery in the Bavarian Alps; Oberammergau — a Bavarian village known for its painted houses, woodcarving and the Passion Play; Hotel (Germany)
+**Day 6:** Neuschwanstein (Germany) — one of the most famous castles in the world, built for Ludwig II from 1869; Meersburg — a historic town on Lake Constance (Bodensee); Rhine Falls (Rheinfall), Switzerland; Baden (Switzerland) — a small historic spa town; Basel — a city in north-western Switzerland; Thun (Switzerland) — a town on Lake Thun and the Aare river, known for its medieval castle and old town; Hotel (Switzerland)
+**Day 7:** Bern — the Old Town is a UNESCO World Heritage Site; Palais de Rumine, Lausanne; Geneva
+**Day 8:** Lyon — France's third-largest city, known as the capital of gastronomy; its historic centre is on the UNESCO list; Transfer at 15:00
+
+Included:
+- Return flights Tbilisi–Geneva–Tbilisi
+- Hand luggage 10 kg (40x30x20 cm)
+- Transport for the whole tour, airport to airport
+- Hotels with breakfast
+- Tour escort
+- Photography
+- Travel insurance
+
+Not included:
+- Local fees and entrance tickets, optional (15–175 EUR)
+- Meals other than breakfast
+
+Optional extras:
+- Cable car Gimmelwald–Mürren–Schilthorn (Piz Gloria, 2,970 m, revolving restaurant where a James Bond film was shot) — 125 EUR (optional)
+
+## Loire Valley Castles: Blois, Amboise, Chinon, Valençay
+
+URL: https://besttraveler.ge/en/tours/loire-valley-castles-tour/
+
+- Type: By plane
+- Countries: France
+- Duration: 8 days / 7 nights
+- Price: 4,100 GEL per person (deposit 1,000 GEL)
+- Departure: From Kutaisi airport
+- Dates: 14–21 Jun 2027, 19–26 Jul 2027
+
+Eight days in the Loire Valley and around Paris, with a new castle or château every day. Flights from Kutaisi to Beauvais and back.
+
+**Day 1:** Arrival in Beauvais at 18:20; Saint-Germain-en-Laye — hotel
+**Day 2:** Château de Saint-Germain-en-Laye (6 EUR); Château de Monte-Cristo (8 EUR); Château de Villebon; Maison Picassiette (9 EUR); Hotel in Blois
+**Day 3:** Royal Château of Blois (15 EUR); Château de Chaumont-sur-Loire (16 EUR); Château de Fougères-sur-Bièvre; Amboise — hotel
+**Day 4:** Clos Lucé and Leonardo da Vinci park (20 EUR); Royal Château of Amboise (17 EUR); Château de Langeais (12 EUR); Hotel in Langeais
+**Day 5:** Château d'Ussé (15 EUR); Chinon (13 EUR); Château de Saumur (10 EUR); Hotel in Saumur
+**Day 6:** Château de Valençay (15 EUR); Briare and the Briare aqueduct; Château de Sully-sur-Loire (8 EUR); Hotel in Sully-sur-Loire
+**Day 7:** Château du Mesnil-Voysin; Château de Grosbois; Château de Champs-sur-Marne (10 EUR); Saint-Denis — hotel
+**Day 8:** Château d'Auvers (12 EUR); Transfer to the airport; Flight to Kutaisi at 18:55
+
+Included:
+- Return flights Kutaisi — Beauvais — Kutaisi
+- Hand luggage 10 kg (40x30x20 cm)
+- Transfers and travel between cities
+- Hotels with breakfast
+- Tour escort
+- Photos during the tour
+- Travel insurance abroad
+
+Not included:
+- Entrance to museums and castles, optional (150–200 EUR in total)
+- Meals other than breakfast
+- Transfer to Kutaisi and back (60 GEL)
 
 ## Khevsureti 2-Day Tour: Shatili, Mutso, Anatori, Chargali
 
@@ -1603,39 +2011,6 @@ Optional extras:
 
 Notes:
 - The tour runs in any weather; it is postponed only if there is a problem with the road.
-
-## 5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein
-
-URL: https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/
-
-- Type: By plane
-- Countries: Switzerland, France, Germany, Austria, Liechtenstein
-- Duration: 8 days / 7 nights
-- Price: 4,500 GEL per person
-- Dates: on request
-
-A group tour by car through France, Switzerland, Liechtenstein, Austria and Germany. The tour starts and ends in Lyon.
-
-**Day 1:** Arrival in Lyon; Hotel (France)
-**Day 2:** Annecy (France) — a town often called 'the Venice of the Alps'; Yvoire — a medieval village on the French shore of Lake Geneva; Château de Chillon; Hotel (Switzerland)
-**Day 3:** Gruyères — a medieval Swiss town known for its Gruyère cheese, castle and Alpine views; Château de Gruyères (15 EUR); Jaun Waterfall (Wasserfall von Jaun); Lauterbrunnen — one of Switzerland's most beautiful valleys, the 'valley of 72 waterfalls'; Gimmelwald — an Alpine village above the Lauterbrunnen valley, at about 1,367 m (by cable car); Mürren — an Alpine village above the valley, at about 1,638 m (Gimmelwald–Mürren cable car 35 EUR); Grindelwald — one of Switzerland's best-known Alpine resorts; Hotel (Switzerland)
-**Day 4:** Lucerne (Switzerland) — known for its covered wooden bridge built in 1333, with 17th-century paintings inside; Einsiedeln Abbey — a Benedictine abbey dating back to the 10th century; Balzers — a small town in Liechtenstein; Vaduz — the capital of the Principality of Liechtenstein; Lech am Arlberg — a well-known Alpine resort in Austria; Hotel (Austria)
-**Day 5:** Linderhof Palace (Germany) — the only one of King Ludwig II of Bavaria's three palaces that he saw completed; Ettal Abbey (Kloster Ettal) — a Benedictine monastery in the Bavarian Alps; Oberammergau — a Bavarian village known for its painted houses, woodcarving and the Passion Play; Hotel (Germany)
-**Day 6:** Neuschwanstein (Germany) — one of the most famous castles in the world, built for Ludwig II from 1869; Meersburg — a historic town on Lake Constance (Bodensee); Rhine Falls (Rheinfall), Switzerland; Baden (Switzerland) — a small historic spa town; Basel — a city in north-western Switzerland; Thun (Switzerland) — a town on Lake Thun and the Aare river, known for its medieval castle and old town; Hotel (Switzerland)
-**Day 7:** Bern — the Old Town is a UNESCO World Heritage Site; Geneva; Pérouges (France) — a well-preserved medieval village with stone houses, 14th–15th centuries; Hotel (France)
-**Day 8:** Lyon — France's third-largest city, known as the capital of gastronomy; its historic centre is on the UNESCO list; Transfer to the airport
-
-Included:
-- Return flights
-- Hand luggage 10 kg (40x30x20 cm)
-- Transport for the whole tour, airport to airport
-- Hotels with breakfast
-- Tour escort
-- Photography
-- Travel insurance
-
-Optional extras:
-- Cable car Gimmelwald–Mürren–Schilthorn (Piz Gloria, 2,970 m, revolving restaurant where a James Bond film was shot) — 125 EUR (optional)
 
 ## Belgium and the Netherlands — 8-Day Group Tour
 
@@ -1796,41 +2171,6 @@ Optional extras:
 
 Notes:
 - Local tours are not compulsory; you pay for them on the spot.
-
-## France, Italy and Monaco: Provence, the Alps and the Côte d'Azur
-
-URL: https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/
-
-- Type: By plane
-- Countries: France, Italy, Monaco
-- Duration: 8 days
-- Price: 4,500 GEL per person (deposit 1,000 GEL)
-- Departure: From Kutaisi airport
-- Dates: on request
-
-The tour starts in Lyon, crosses the French Alps to Turin, follows the Côte d'Azur from Sanremo and Monaco to Cannes, and ends in Provence.
-
-**Day 1:** Arrival in Lyon; Grenoble
-**Day 2:** Saint-Pierre-de-Chartreuse; Chambéry; Turin
-**Day 3:** Turin
-**Day 4:** Sanremo; Menton; Monaco; La Turbie
-**Day 5:** Nice; Antibes; Valbonne; Cannes; Bormes-les-Mimosas
-**Day 6:** Toulon; Marseille; Château d'If
-**Day 7:** Martigues; Nîmes; Avignon; Gordes; Sénanque Abbey (Abbaye Notre-Dame de Sénanque)
-**Day 8:** Grignan; Palais Idéal; Transfer to the airport; Flight to Kutaisi at 18:40
-
-Included:
-- Return flights
-- Hand luggage 10 kg (40x30x20 cm)
-- Transport for the whole tour, airport to airport
-- Hotels with breakfast
-- Tour escort
-- Photography
-- Travel insurance
-
-Not included:
-- Entrance fees to sights
-- Meals other than breakfast
 
 ## Greece: Thessaloniki, Meteora and Athens — 8-Day Tour
 
@@ -2040,32 +2380,6 @@ Optional extras:
 - Nubian village — 50 USD (optional)
 - Hot-air balloon flight — 90 USD (optional)
 
-## Paris, France — 5-Day Group Tour
-
-URL: https://besttraveler.ge/en/tours/paris-france-group-tour/
-
-- Type: By plane
-- Countries: France
-- Duration: 5 days
-- Price: 2,400 GEL per person
-- Departure: From Kutaisi airport
-- Dates: on request
-
-A group tour of Paris with a flight from Kutaisi to Beauvais: the Palace of Versailles, the main museums, squares and boulevards, and a free last day.
-
-**Day 1:** Arrival in Beauvais; Transfer to the hotel
-**Day 2:** Palace of Versailles; Montmartre; Seine river cruise (optional); Paris in the evening
-**Day 3:** Louvre; Tuileries Garden; Arc de Triomphe du Carrousel; Place de la Concorde; Walk along the Champs-Élysées; Arc de Triomphe; Pont Alexandre III
-**Day 4:** Les Invalides; Musée d'Orsay; Notre-Dame de Paris; Sacré-Cœur; Disneyland (optional)
-**Day 5:** Free time; Transfer to the airport; Flight to Kutaisi at 18:55
-
-Included:
-- Flights Kutaisi–Beauvais–Kutaisi
-- Hand luggage 10 kg (40x30x20 cm)
-- Hotel with breakfast
-- Tour escort
-- Travel insurance
-
 ## Rome, Italy — 8-Day Tour from Kutaisi
 
 URL: https://besttraveler.ge/en/tours/rome-italy-tour-from-kutaisi/
@@ -2193,44 +2507,6 @@ The tour starts in Barcelona and loops around Spain by car: Tarragona and Zarago
 **Day 8:** Valencia; González Martí National Museum of Ceramics (3 EUR); Torres de Serranos (2 EUR); Valencia Cathedral; Royal Parish Church of the Saints John; Peñíscola
 **Day 9:** Peñíscola Castle (5 EUR); Ermita de la Pietat; Miravet Castle (5 EUR); Santes Creus Monastery
 **Day 10:** Sanctuary of Our Lady of Montserrat; Transfer to the airport; Flight to Kutaisi at 17:15
-
-Included:
-- Return flights Kutaisi–Barcelona–Kutaisi
-- Hand luggage 10 kg (40x30x20 cm)
-- Transfers and travel between towns (a car for the whole tour)
-- Hotels with breakfast
-- Tour escort
-- Photography
-- Travel insurance
-
-Not included:
-- Museum entrance fees (optional)
-- Meals other than breakfast
-- Transfer Tbilisi–Kutaisi–Tbilisi (60 GEL)
-
-## Spain, France and Andorra — 10-Day Tour from Barcelona
-
-URL: https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/
-
-- Type: By plane
-- Countries: Spain, France, Andorra
-- Duration: 10 days
-- Price: 4,700 GEL per person
-- Departure: From Kutaisi airport
-- Dates: on request
-
-The tour starts in Barcelona, crosses Andorra into southern France — Toulouse, Albi, Carcassonne — and returns to Catalonia for the last days in Barcelona.
-
-**Day 1:** Flight from Kutaisi; Arrival in Barcelona; Free time; Hotel check-in (Vic)
-**Day 2:** Montserrat Abbey (20 EUR); Castell de Sant Marçal; Sant Miquel del Fai; Vic
-**Day 3:** Principality of Andorra; Andorra la Vella; Church of Sant Climent in Pal; Pal; Llorts; Church of Sant Joan de Caselles; Tarascon-sur-Ariège (France); Overnight in Tarascon-sur-Ariège
-**Day 4:** Toulouse; Condom; Statue of d'Artagnan and the Three Musketeers by Georgian sculptor Zurab Tsereteli, a gift to the town in 2010; Saint-Cirq-Lapopie; Overnight in Saint-Cirq-Lapopie
-**Day 5:** Boat ride on the river Lot; Several small riverside villages; Albi; Overnight in Albi
-**Day 6:** Toulouse-Lautrec Museum (10 EUR); Carcassonne; Cité de Carcassonne (15 EUR); Château Comtal; Overnight in Carcassonne
-**Day 7:** Dalí Theatre-Museum (20 EUR); Girona; Arenys de Munt; Barcelona; Arc de Triomf; Overnight in Barcelona
-**Day 8:** Temple of the Sacred Heart; Park Güell (20 EUR); Parc de la Ciutadella; Palau Güell (15 EUR); Montjuïc; Overnight in Barcelona
-**Day 9:** National Art Museum of Catalonia (15 EUR); Sant Jeroni de la Murtra; Sagrada Família; Casa Milà; Casa Batlló; Casa Amatller (15 EUR); Overnight in Barcelona
-**Day 10:** La Boqueria market; Montserrat Abbey; Gaudí Crypt, Cripta Gaudí (10 EUR); Transfer to the airport; Flight to Kutaisi at 18:25; Arrival in Kutaisi at 01:10
 
 Included:
 - Return flights Kutaisi–Barcelona–Kutaisi
@@ -4417,7 +4693,7 @@ Check the rules for a child leaving Georgia (for example with one parent or with
 
 ## Travel to Turkey with us
 
-We run tours to Turkey from Tbilisi: bus tours to Trabzon and Sumela, Tao-Klarjeti, Kars, Ani and Van, Cappadocia, and a 7-day tour of Istanbul. Ask our manager which document a particular tour needs when you book.
+We run tours to Turkey from Tbilisi: bus tours to Trabzon and Sumela, Tao-Klarjeti, Kars, Ani and Van, Cappadocia, and a 7-day tour of Istanbul. On all our Turkey tours you can travel with a passport or a Georgian ID card.
 
 **Can I enter Turkey with a Georgian ID card?** Yes. According to Türkiye's Ministry of Foreign Affairs, Georgian citizens may enter Türkiye with their national ID card.
 
@@ -4480,7 +4756,7 @@ A child needs their own valid document. If the child travels without parents or 
 
 ## Travel to Armenia with us
 
-We run day trips and multi-day tours to Armenia from Tbilisi: Dilijan, Lori with Haghpat and Sanahin, Jermuk, Tatev and Noravank, and Yerevan with Garni, Geghard and Etchmiadzin. For several of our Armenia tours the tour page says an ID card is enough. We will confirm when you book.
+We run day trips and multi-day tours to Armenia from Tbilisi: Dilijan, Lori with Haghpat and Sanahin, Jermuk, Tatev and Noravank, and Yerevan with Garni, Geghard and Etchmiadzin. On all our Armenia tours you can travel with a passport or a Georgian ID card.
 
 **Do Georgian citizens need a visa for Armenia?** No. According to Armenia's Ministry of Foreign Affairs, the visa-free regime with Georgia covers all types of passports.
 

@@ -6,14 +6,14 @@ URL: https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/
 
 # 5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein
 
-A group tour by car through France, Switzerland, Liechtenstein, Austria and Germany. The tour starts and ends in Lyon.
+A group tour by car through France, Switzerland, Liechtenstein, Austria and Germany. The tour starts in Geneva and ends in Lyon.
 
 - Switzerland
 - France
 - Germany
 - Austria
 - Liechtenstein
-- Lyon
+- Geneva
 - Annecy
 - Yvoire
 - Chillon
@@ -34,7 +34,9 @@ Photo: [cameralends](https://commons.wikimedia.org/w/index.php?curid=46307855), 
 
 Duration8 days / 7 nights
 
-DatesOn request
+Next departure14–21 Jun 2027 +3
+
+DepartureTbilisi (TBS)
 
 Price4,500 GEL
 
@@ -44,8 +46,9 @@ Price4,500 GEL
 
 ### Day 1
 
-- Arrival in Lyon
-- Hotel (France)
+- Flight from Tbilisi at 13:45
+- Arrival at Geneva airport at 16:30
+- Geneva
 
 - 
 
@@ -106,16 +109,15 @@ Price4,500 GEL
 ### Day 7
 
 - Bern — the Old Town is a UNESCO World Heritage Site
+- Palais de Rumine, Lausanne
 - Geneva
-- Pérouges (France) — a well-preserved medieval village with stone houses, 14th–15th centuries
-- Hotel (France)
 
 - 
 
 ### Day 8
 
 - Lyon — France's third-largest city, known as the capital of gastronomy; its historic centre is on the UNESCO list
-- Transfer to the airport
+- Transfer at 15:00
 
 ## Route on the map
 
@@ -123,13 +125,18 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 
-- Return flights
+- Return flights Tbilisi–Geneva–Tbilisi
 - Hand luggage 10 kg (40x30x20 cm)
 - Transport for the whole tour, airport to airport
 - Hotels with breakfast
 - Tour escort
 - Photography
 - Travel insurance
+
+## Not included
+
+- Local fees and entrance tickets, optional (15–175 EUR)
+- Meals other than breakfast
 
 ## Optional extras
 
@@ -145,15 +152,15 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein” tour cost?**
 
-The tour costs 4,500 GEL per person.
+The tour costs 4,500 GEL per person. The deposit to book is 1,000 GEL.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 14–21 Jun 2027, 5–12 Jul 2027, 2–9 Aug 2027, 6–13 Sep 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
-Return flights; Hand luggage 10 kg (40x30x20 cm); Transport for the whole tour, airport to airport; Hotels with breakfast; Tour escort; Photography; Travel insurance.
+Return flights Tbilisi–Geneva–Tbilisi; Hand luggage 10 kg (40x30x20 cm); Transport for the whole tour, airport to airport; Hotels with breakfast; Tour escort; Photography; Travel insurance.
 
 **How do I book this tour?**
 
@@ -161,13 +168,18 @@ Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and pr
 
 Price: 4,500 GELper person: 
 
+Deposit to book: 1,000 GEL
+
 ## Dates
 
 Dates
 
-Dates on request
+- 14–21 Jun 2027
+- 5–12 Jul 2027
+- 2–9 Aug 2027
+- 6–13 Sep 2027
 
-- Return flights
+- Return flights Tbilisi–Geneva–Tbilisi
 - Hand luggage 10 kg (40x30x20 cm)
 - Transport for the whole tour, airport to airport
 - Hotels with breakfast
@@ -180,11 +192,23 @@ Dates on request
 
 By plane
 
+### [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/paris-france-group-tour/)
+
+5 days10–14 Nov 2026
+
+5 days in Paris: Versailles, the Louvre, Montmartre, the Champs-Élysées and Notre-Dame.
+
+per person2,500 GEL
+
+View tour 
+
+By plane
+
 ### [France: Alsace and Paris — Group Tour from Kutaisi](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
 
 8 days / 7 nights19–26 Nov 2026
 
-8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar, Paris and Versailles.
+8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar and Paris.
 
 per person4,200 GEL
 
@@ -192,23 +216,11 @@ View tour
 
 By plane
 
-### [Bratislava, Slovakia — Tour with a Day Trip to Vienna](https://besttraveler.ge/en/tours/bratislava-slovakia-vienna-tour/)
+### [Burgundy and Franche-Comté: Cluny, Dijon and Beaune](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
 
-6 days / 5 nightsSlovakia, Austria
+8 days / 7 nights2–9 Mar 2027
 
-6 days in Bratislava: old town, castle, Blue Church, Bojnice and a day trip to Vienna.
-
-per person1,700 GEL
-
-View tour 
-
-By plane
-
-### [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
-
-8 daysFrance, Italy, Monaco
-
-The Alps, Turin, the Côte d'Azur and Provence — three countries in 8 days.
+Castles and abbeys of Burgundy, Dijon, Beaune and the waterfalls of Franche-Comté in 8 days.
 
 per person4,500 GEL
 

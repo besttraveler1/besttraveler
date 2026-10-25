@@ -11,45 +11,9 @@ One-day tours from Tbilisi by minibus: Kakheti, Kazbegi, Truso, David Gareja, Ja
 - 56 tours
 - from 60 ₾
 - 1–3 days
-- Next: 24 Oct 2026
+- Next: 25 Oct 2026
 
 ## Day tours in Georgia
-
-Day tour
-
-### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
-
-1 day24 Oct 2026
-
-Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
-
-1 day24 Oct 2026
-
-Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
-
-1 day24 Oct 2026
-
-Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
-
-per person65 GEL
-
-View tour 
 
 Day tour
 
@@ -161,6 +125,18 @@ View tour
 
 Day tour
 
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
+
+1 day25 Oct 2026
+
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
 ### [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
 
 1 day25 Oct 2026
@@ -197,6 +173,18 @@ View tour
 
 Day tour
 
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
+
+1 day31 Oct 2026
+
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
 ### [Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/)
 
 1 day31 Oct 2026
@@ -204,6 +192,18 @@ Day tour
 A hike in Lagodekhi Reserve to the Ninoskhevi waterfall, 8.3 km one way.
 
 per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+
+1 day31 Oct 2026
+
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+
+per person65 GEL
 
 View tour 
 

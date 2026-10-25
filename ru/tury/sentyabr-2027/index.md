@@ -1,12 +1,12 @@
 # Туры в сентябре 2027 — цены и даты
 
-> 17 туров с началом в сентябре 2027: авиатуры, автобусные и однодневные туры из Грузии. Цены, даты и подробная программа по дням.
+> 26 туров с началом в сентябре 2027: авиатуры, автобусные и однодневные туры из Грузии. Цены, даты и подробная программа по дням.
 
 URL: https://besttraveler.ge/ru/tury/sentyabr-2027/
 
 # Туры в сентябре 2027
 
-Все наши туры, которые начинаются в сентябре 2027: 17 туров за границу и по Грузии, с ценами и программой.
+Все наши туры, которые начинаются в сентябре 2027: 26 туров за границу и по Грузии, с ценами и программой.
 
 ## Туры в сентябре 2027
 
@@ -94,6 +94,42 @@ URL: https://besttraveler.ge/ru/tury/sentyabr-2027/
 
 Смотреть тур 
 
+Авиатур
+
+### [Париж, Франция — групповой тур на 5 дней](https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/)
+
+5 дней10–14 ноября 2026
+
+5 дней в Париже: Версаль, Лувр, Монмартр, Елисейские Поля и Нотр-Дам.
+
+за человека2 500 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Франция: Эльзас и Париж — групповой тур из Кутаиси](https://besttraveler.ge/ru/tury/frantsiya-elzas-parizh-tur/)
+
+8 дней / 7 ночей19–26 ноября 2026
+
+8 дней: Реймс, Мец, Страсбург, деревни Эльзаса, Кольмар и Париж.
+
+за человека4 200 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Бургундия и Франш-Конте: Клюни, Дижон и Бон](https://besttraveler.ge/ru/tury/burgundiya-fransh-konte-tur/)
+
+8 дней / 7 ночей2–9 марта 2027
+
+Замки и аббатства Бургундии, Дижон, Бон и водопады Франш-Конте — за 8 дней.
+
+за человека4 500 лари
+
+Смотреть тур 
+
 Однодневный
 
 ### [Тур по Шида Картли: Схвило, Брети, Руиси, Самтависи, Урбниси](https://besttraveler.ge/ru/tury/samtavisi-ruisi-urbnisi-tur/)
@@ -166,6 +202,30 @@ URL: https://besttraveler.ge/ru/tury/sentyabr-2027/
 
 Смотреть тур 
 
+Авиатур
+
+### [Окситания и Новая Аквитания: Рокамадур, Бордо, Каркассон](https://besttraveler.ge/ru/tury/frantsiya-oksitaniya-akvitaniya-tur/)
+
+8 дней / 7 ночей17–24 мая 2027
+
+Лион, деревни и замки юга Франции, Бордо, Лурд, Тулуза, Каркассон и Ним — за 8 дней.
+
+за человека4 500 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Иль-де-Франс и Нормандия — тур по замкам Франции](https://besttraveler.ge/ru/tury/il-de-frans-normandiya-tur/)
+
+8 дней / 7 ночей19–26 мая 2027
+
+8 дней: замки Иль-де-Франс и Нормандии, Шартр, Онфлёр, Довиль, Эперне и Амьен.
+
+за человека4 100 лари
+
+Смотреть тур 
+
 Однодневный
 
 ### [Тур в Боржоми: Даба, Тимотесубани, Боржомский парк, Зелёный монастырь](https://besttraveler.ge/ru/tury/borzhomi-timotesubani-zelenyy-monastyr/)
@@ -175,6 +235,42 @@ URL: https://besttraveler.ge/ru/tury/sentyabr-2027/
 Церковь Святого Георгия в Дабе, Тимотесубани, церковь Серафима Саровского, Боржомский парк и Зелёный монастырь.
 
 за человека65 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Франция, Германия и Швейцария: Эльзас, Шварцвальд и Базель](https://besttraveler.ge/ru/tury/frantsiya-germaniya-shveytsariya-tur/)
+
+8 дней / 7 ночей24–31 мая 2027
+
+Деревни Эльзаса, Кольмар, Страсбург, Шварцвальд, Фрайбург и маленькие города Швейцарии — за 8 дней.
+
+за человека4 500 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Франция, Италия, Монако: Прованс, Альпы и Лазурный берег](https://besttraveler.ge/ru/tury/provans-monako-lazurnyy-bereg-tur/)
+
+8 дней24–31 мая 2027
+
+Альпы, Турин, Лазурный берег и Прованс — три страны за 8 дней.
+
+за человека4 500 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Нормандия, Бретань и долина Луары — тур по Франции на 8 дней](https://besttraveler.ge/ru/tury/normandiya-bretan-luara-tur/)
+
+8 дней / 7 ночей24–31 мая 2027
+
+8 дней: побережье Нормандии, Руан, Мон-Сен-Мишель, Сен-Мало, Ла-Рошель и замки Луары.
+
+за человека4 100 лари
 
 Смотреть тур 
 
@@ -202,6 +298,18 @@ URL: https://besttraveler.ge/ru/tury/sentyabr-2027/
 
 Смотреть тур 
 
+Авиатур
+
+### [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн](https://besttraveler.ge/ru/tury/alpy-shveytsariya-5-stran-tur/)
+
+8 дней / 7 ночей14–21 июня 2027
+
+8 дней на машине по пяти странам: Анси, Шильон, Лаутербруннен, Люцерн, Вадуц, Нойшванштайн, Берн.
+
+за человека4 500 лари
+
+Смотреть тур 
+
 Однодневный
 
 ### [Поход к озёрам Абуделаури: Рошка, цветные озёра, Чаухи](https://besttraveler.ge/ru/tury/abudelaurskie-ozera-pokhod/)
@@ -216,4 +324,4 @@ URL: https://besttraveler.ge/ru/tury/sentyabr-2027/
 
 ## Туры по месяцам
 
-[В октябре 2026 18](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 27](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 7](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 6](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 2](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 4](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 17](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 29](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 29](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 25](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 25](https://besttraveler.ge/ru/tury/avgust-2027/)[В октябре 2027 13](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 9](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)
+[В октябре 2026 18](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 28](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 8](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 7](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 3](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 8](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 18](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 36](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 38](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 31](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 10](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)

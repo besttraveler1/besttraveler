@@ -8,7 +8,7 @@ URL: https://besttraveler.ge/ka/mimartulebebi/
 
 ქვეყნები, სადაც besttraveler ტურებს აწყობს: ეგვიპტე, იტალია, ესპანეთი, საფრანგეთი, თურქეთი, სომხეთი, საბერძნეთი და სხვა.
 
-[ეგვიპტე 6 ტური](https://besttraveler.ge/ka/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/ka/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/ka/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/espaneti/)[საფრანგეთი 5 ტური](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/ka/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/ka/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/ka/mimartulebebi/shri-lanka/)[საქართველო 56 ტური](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
+[ეგვიპტე 6 ტური](https://besttraveler.ge/ka/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/ka/mimartulebebi/italia/)[თურქეთი 6 ტური](https://besttraveler.ge/ka/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/espaneti/)[საფრანგეთი 12 ტური](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)[საბერძნეთი 2 ტური](https://besttraveler.ge/ka/mimartulebebi/saberdzneti/)[სომხეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/ka/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/ka/mimartulebebi/shri-lanka/)[საქართველო 56 ტური](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
 
 ## სხვა ქვეყნები ჩვენს ტურებში
 
@@ -44,16 +44,18 @@ URL: https://besttraveler.ge/ka/mimartulebebi/
 
 ### შვეიცარია
 
-1 ტური: 
-
-- [5 ქვეყანა ერთ ტურში მანქანით: საფრანგეთი, შვეიცარია, გერმანია, ავსტრია, ლიხტენშტაინი 8 დღე / 7 ღამე · 4 500 ლარი](https://besttraveler.ge/ka/turebi/alpebi-shveitsaria-5-kveqana-turi/)
-
-### გერმანია
-
 2 ტური: 
 
 - [5 ქვეყანა ერთ ტურში მანქანით: საფრანგეთი, შვეიცარია, გერმანია, ავსტრია, ლიხტენშტაინი 8 დღე / 7 ღამე · 4 500 ლარი](https://besttraveler.ge/ka/turebi/alpebi-shveitsaria-5-kveqana-turi/)
+- [საფრანგეთი, გერმანია, შვეიცარია: ელზასი, შავი ტყე და ბაზელი 8 დღე / 7 ღამე · 4 500 ლარი](https://besttraveler.ge/ka/turebi/saprangeti-germania-shveitsaria-turi/)
+
+### გერმანია
+
+3 ტური: 
+
+- [5 ქვეყანა ერთ ტურში მანქანით: საფრანგეთი, შვეიცარია, გერმანია, ავსტრია, ლიხტენშტაინი 8 დღე / 7 ღამე · 4 500 ლარი](https://besttraveler.ge/ka/turebi/alpebi-shveitsaria-5-kveqana-turi/)
 - [ნიდერლანდები და გერმანია: ტიტების ფესტივალი — 8-დღიანი ტური 8 დღე · 4 100 ლარი](https://besttraveler.ge/ka/turebi/niderlandebi-titebis-festivali-turi/)
+- [საფრანგეთი, გერმანია, შვეიცარია: ელზასი, შავი ტყე და ბაზელი 8 დღე / 7 ღამე · 4 500 ლარი](https://besttraveler.ge/ka/turebi/saprangeti-germania-shveitsaria-turi/)
 
 ### ავსტრია
 

@@ -55,7 +55,7 @@ Check the rules for a child leaving Georgia (for example with one parent or with
 
 ## Travel to Turkey with us
 
-We run tours to Turkey from Tbilisi: bus tours to Trabzon and Sumela, Tao-Klarjeti, Kars, Ani and Van, Cappadocia, and a 7-day tour of Istanbul. Ask our manager which document a particular tour needs when you book.
+We run tours to Turkey from Tbilisi: bus tours to Trabzon and Sumela, Tao-Klarjeti, Kars, Ani and Van, Cappadocia, and a 7-day tour of Istanbul. On all our Turkey tours you can travel with a passport or a Georgian ID card.
 
 Checked against official sources. Rules can change — please confirm before you travel.
 

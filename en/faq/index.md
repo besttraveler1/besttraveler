@@ -38,7 +38,7 @@ Flight tour prices are based on current air fares. Fares rise as the departure g
 
 **Which documents do I need?**
 
-An international passport valid for at least 6 months. For tours to Armenia a Georgian ID card is also accepted.
+An international passport valid for at least 6 months. For tours to Armenia and Turkey a Georgian ID card is also accepted.
 
 **What does a child need?**
 

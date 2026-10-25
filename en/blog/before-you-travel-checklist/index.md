@@ -137,11 +137,11 @@ By plane
 
 ### [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 
-5 daysFrance
+5 days10–14 Nov 2026
 
 5 days in Paris: Versailles, the Louvre, Montmartre, the Champs-Élysées and Notre-Dame.
 
-per person2,400 GEL
+per person2,500 GEL
 
 View tour 
 

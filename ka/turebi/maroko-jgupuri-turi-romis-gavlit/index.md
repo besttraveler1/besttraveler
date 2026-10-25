@@ -210,7 +210,7 @@ URL: https://besttraveler.ge/ka/turebi/maroko-jgupuri-turi-romis-gavlit/
 
 ### [საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო](https://besttraveler.ge/ka/turebi/provansi-monako-lazhvardovani-sanapiro/)
 
-8 დღესაფრანგეთი, იტალია, მონაკო
+8 დღე24–31 მაისი 2027
 
 ალპები, ტურინი, ლაჟვარდოვანი სანაპირო და პროვანსი — სამი ქვეყანა 8 დღეში.
 

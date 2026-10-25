@@ -224,7 +224,7 @@ URL: https://besttraveler.ge/ru/tury/ispaniya-barselona-andalusiya-valensiya-tur
 
 ### [Испания, Франция, Андорра — тур на 10 дней из Барселоны](https://besttraveler.ge/ru/tury/ispaniya-frantsiya-andorra-tur/)
 
-10 днейИспания, Франция, Андорра
+10 дней28 марта – 4 апреля 2027
 
 Каталония, Андорра и юг Франции, в конце три дня в Барселоне — 10 дней.
 

@@ -139,7 +139,7 @@ By plane
 
 ### [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
 
-8 days / 7 nightsSwitzerland, France, Germany, Austria, Liechtenstein
+8 days / 7 nights14–21 Jun 2027
 
 8 days by car in five countries: Annecy, Chillon, Lauterbrunnen, Lucerne, Vaduz, Neuschwanstein, Bern.
 

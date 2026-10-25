@@ -1,35 +1,37 @@
 # France, Italy and Monaco Tour — 8 Days
 
-> Three countries in one 8-day tour: Lyon, Grenoble, Turin, Sanremo, Monaco, Nice, Cannes, Marseille, Avignon and Provence. Price 4500 GEL.
+> Three countries in one 8-day tour: Geneva, Chambéry, Turin, Sanremo, Monaco, Nice, Cannes, Marseille and Provence. Flight from Tbilisi, 4500 GEL.
 
 URL: https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/
 
 # France, Italy and Monaco: Provence, the Alps and the Côte d'Azur
 
-The tour starts in Lyon, crosses the French Alps to Turin, follows the Côte d'Azur from Sanremo and Monaco to Cannes, and ends in Provence.
+The tour starts in Geneva, crosses Savoy to Turin, follows the Côte d'Azur from Sanremo and Monaco to Toulon, visits Marseille and Provence, and returns through the Alps.
 
 - France
 - Italy
 - Monaco
-- Lyon
-- Grenoble
+- Geneva
+- Chanaz
 - Chambéry
 - Turin
 - Sanremo
 - Monaco
 - Nice
 - Cannes
+- Toulon
 - Marseille
-- Avignon
 - Gordes
+- Sisteron
+- Geneva
 
 Photo: [Pierre Blaché from Paris, France](https://commons.wikimedia.org/w/index.php?curid=149310634), CC0
 
 Duration8 days
 
-DatesOn request
+Next departure24–31 May 2027 +4
 
-DepartureKutaisi (KUT)
+DepartureTbilisi (TBS)
 
 Price4,500 GEL
 
@@ -39,8 +41,9 @@ Price4,500 GEL
 
 ### Day 1
 
-- Arrival in Lyon
-- Grenoble
+- Flight from Tbilisi at 13:45
+- Arrival at Geneva airport at 16:30
+- Chanaz — a small village called the 'little Venice of Savoy'
 
 - 
 
@@ -48,7 +51,7 @@ Price4,500 GEL
 
 - Saint-Pierre-de-Chartreuse
 - Chambéry
-- Turin
+- Turin (Torino)
 
 - 
 
@@ -63,44 +66,40 @@ Price4,500 GEL
 - Sanremo
 - Menton
 - Monaco
-- La Turbie
+- Nice
 
 - 
 
 ### Day 5
 
-- Nice
 - Antibes
-- Valbonne
 - Cannes
 - Bormes-les-Mimosas
+- Toulon
 
 - 
 
 ### Day 6
 
-- Toulon
 - Marseille
 - Château d'If
+- Gordes
+- Abbaye Notre-Dame de Sénanque
 
 - 
 
 ### Day 7
 
-- Martigues
-- Nîmes
-- Avignon
-- Gordes
-- Sénanque Abbey (Abbaye Notre-Dame de Sénanque)
+- Sisteron
+- Pont-en-Royans
+- Chambéry
 
 - 
 
 ### Day 8
 
-- Grignan
-- Palais Idéal
 - Transfer to the airport
-- Flight to Kutaisi at 18:40
+- Flight to Tbilisi at 06:30
 
 ## Route on the map
 
@@ -108,7 +107,7 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Included in the price
 
-- Return flights
+- Return flights Tbilisi–Geneva–Tbilisi
 - Hand luggage 10 kg (40x30x20 cm)
 - Transport for the whole tour, airport to airport
 - Hotels with breakfast
@@ -135,11 +134,11 @@ The tour costs 4,500 GEL per person. The deposit to book is 1,000 GEL.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 24–31 May 2027, 7–14 Jun 2027, 5–12 Jul 2027, 9–16 Aug 2027, 20–27 Sep 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
-Return flights; Hand luggage 10 kg (40x30x20 cm); Transport for the whole tour, airport to airport; Hotels with breakfast; Tour escort; Photography; Travel insurance.
+Return flights Tbilisi–Geneva–Tbilisi; Hand luggage 10 kg (40x30x20 cm); Transport for the whole tour, airport to airport; Hotels with breakfast; Tour escort; Photography; Travel insurance.
 
 **How do I book this tour?**
 
@@ -153,9 +152,13 @@ Deposit to book: 1,000 GEL
 
 Dates
 
-Dates on request
+- 24–31 May 2027
+- 7–14 Jun 2027
+- 5–12 Jul 2027
+- 9–16 Aug 2027
+- 20–27 Sep 2027
 
-- Return flights
+- Return flights Tbilisi–Geneva–Tbilisi
 - Hand luggage 10 kg (40x30x20 cm)
 - Transport for the whole tour, airport to airport
 - Hotels with breakfast
@@ -180,6 +183,18 @@ View tour
 
 By plane
 
+### [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/paris-france-group-tour/)
+
+5 days10–14 Nov 2026
+
+5 days in Paris: Versailles, the Louvre, Montmartre, the Champs-Élysées and Notre-Dame.
+
+per person2,500 GEL
+
+View tour 
+
+By plane
+
 ### [Morocco Group Tour with a Stop in Rome — 13–22 November](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 
 10 days / 9 nights13–22 Nov 2026
@@ -187,17 +202,5 @@ By plane
 10 days: Rome, Marrakesh, Ait Ben Haddou, Rabat, Chefchaouen, Fes and Casablanca. Morocco visa included.
 
 per person2,200 EUR
-
-View tour 
-
-By plane
-
-### [France: Alsace and Paris — Group Tour from Kutaisi](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
-
-8 days / 7 nights19–26 Nov 2026
-
-8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar, Paris and Versailles.
-
-per person4,200 GEL
 
 View tour
