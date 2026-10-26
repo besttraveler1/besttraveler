@@ -301,6 +301,20 @@
     if ('requestIdleCallback' in window) requestIdleCallback(start, { timeout: 2500 }); else setTimeout(start, 1200);
   }
 
+  // share buttons: Messenger link only works in the phone app; copy link; the phone's own share sheet
+  if (/Android|iPhone|iPad|iPod/i.test(navigator.userAgent)) $$('[data-mobile]').forEach(function (li) { li.hidden = false; });
+  if (navigator.share) $$('[data-native]').forEach(function (li) { li.hidden = false; });
+  $$('[data-share]').forEach(function (b) {
+    b.addEventListener('click', function () { navigator.share({ title: b.getAttribute('data-title'), url: b.getAttribute('data-share') }).catch(function () {}); });
+  });
+  $$('[data-copy]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var ok = b.closest('.share').querySelector('.shok');
+      var done = function () { ok.textContent = b.getAttribute('data-done'); setTimeout(function () { ok.textContent = ''; }, 2500); };
+      if (navigator.clipboard) navigator.clipboard.writeText(b.getAttribute('data-copy')).then(done, function () {});
+    });
+  });
+
   // tour filters
   var grid = $('[data-filter-grid]');
   if (grid) {

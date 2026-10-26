@@ -429,6 +429,15 @@ main{display:block}
 .cal .ct small .ico{width:14px;height:14px;flex:none}
 .cal .cp{font-weight:700;font-size:15px;white-space:nowrap;color:var(--brand)}
 @media (max-width:480px){.cal a{grid-template-columns:48px minmax(0,1fr);row-gap:4px}.cal .cp{grid-column:2;font-size:14px}.cal .cd{height:48px}}
+/* share buttons */
+.share{margin-top:18px;padding-top:16px;border-top:1px solid var(--border);text-align:center}
+.share>p:first-child{margin:0 0 10px;font-size:14px;font-weight:600;color:var(--muted)}
+.shrow{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;justify-content:center;gap:8px}
+.shrow .soc{cursor:pointer;color:var(--fg);transition:transform .15s,border-color .15s;font:inherit;padding:0}
+.shrow .soc:hover{transform:translateY(-2px);border-color:var(--border2)}
+.shrow .soc .ico{width:20px;height:20px}
+.shok{margin:8px 0 0;min-height:1.2em;font-size:13px;color:var(--muted)}
+@media (prefers-reduced-motion:reduce){.shrow .soc{transition:none}.shrow .soc:hover{transform:none}}
 /* footer */
 .ftr{position:relative;isolation:isolate;overflow:hidden;background:var(--soft2);border-top:1px solid var(--border);margin-top:56px;padding:48px 0 24px;font-size:14.5px}
 .fgrid{display:grid;gap:28px;grid-template-columns:1fr}
