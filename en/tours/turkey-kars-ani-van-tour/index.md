@@ -19,7 +19,7 @@ Photo: [Varilci](https://commons.wikimedia.org/w/index.php?curid=172741136), CC0
 
 Duration3 days / 2 nights
 
-DatesOn request
+Next departure6–8 Mar 2027 +2
 
 DepartureTbilisi, 05:00
 
@@ -67,6 +67,11 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Hotel with breakfast
 - Guide: Giorgi Beridze-Berjavakhi
 
+## Not included
+
+- Local fees (100-150 GEL)
+- Meals other than breakfast
+
 ## Good to know
 
 - Guide: Giorgi Beridze-Berjavakhi
@@ -78,11 +83,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Kars, Ani and Van: 3-Day Tour of Eastern Turkey” tour cost?**
 
-The tour costs 450 GEL per person.
+The tour costs 450 GEL per person. The deposit to book is 100 GEL.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 6–8 Mar 2027, 9–11 Apr 2027, 1–3 May 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -94,11 +99,15 @@ Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and pr
 
 Price: 450 GELper person: 
 
+Deposit to book: 100 GEL
+
 ## Dates
 
 Dates
 
-Dates on request
+- 6–8 Mar 2027
+- 9–11 Apr 2027
+- 1–3 May 2027
 
 - Transport by minibus
 - Hotel with breakfast
@@ -118,17 +127,17 @@ By bus
 
 Amasya, Cappadocia, Kayseri, Ordu and Trabzon by bus, with no nights spent on the bus.
 
-per person1,350 GEL
+per person1,450 GEL
 
 View tour 
 
 By plane
 
-### [Istanbul: 7-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
+### [Istanbul: 6-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
 
-7 daysTurkey
+6 days3–8 Mar 2027
 
-7 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
+6 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
 
 per person3,600 GEL
 
@@ -136,12 +145,12 @@ View tour
 
 By bus
 
-### [Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana](https://besttraveler.ge/en/tours/tao-klarjeti-tour-turkey/)
+### [Van and Mardin: 7-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/eastern-turkey-van-mardin-nemrut-tour/)
 
-By busTurkey
+7 days / 6 nights13–19 Mar 2027
 
-Georgian monasteries and fortresses of historic Tao-Klarjeti: Tbeti, Artanuji, Oshki, Parkhali and Bana.
+7 days in eastern Turkey: Ani, Van, Mardin, Harran, Halfeti and Mount Nemrut.
 
-per person480 GEL
+per person1,450 GEL
 
 View tour

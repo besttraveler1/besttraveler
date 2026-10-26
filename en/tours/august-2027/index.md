@@ -14,7 +14,7 @@ Day tour
 
 ### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
 
@@ -24,21 +24,9 @@ View tour
 
 Day tour
 
-### [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
-
-1 day25 Oct 2026
-
-Fortresses and monasteries of the Dzama Gorge, Bateti Lake and Mount Shuano in one day.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
 ### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Paravani and Saghamo lakes, the Poka monasteries, Gorelovka and the Madatapa reserve.
 
@@ -50,7 +38,7 @@ Day tour
 
 ### [Kakheti Day Tour: Chailuri, Gurjaani Kvelatsminda, Zegaani, Sanagire](https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani-day-trip/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Chailuri Fortress, Gurjaani Kvelatsminda, Nato Vachnadze museum, Ziari Lake, Zegaani and Sanagire.
 
@@ -62,45 +50,9 @@ Day tour
 
 ### [Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Nekresi monastery complex, Ilia Lake, Gremi and Batonis Tsikhe in Telavi in one day.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
-
-1 day25 Oct 2026
-
-Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
-
-1 day25 Oct 2026
-
-Tserakvi, Gagi Fortress, the Tamarisi lakes and Shavnabada monastery in one day.
-
-per person65 GEL
-
-View tour 
-
-Day tour
-
-### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
-
-1 day25 Oct 2026
-
-Truso Gorge: colorful travertines, the 'bottomless' lake, Abano convent and Zakagori fortress.
 
 per person60 GEL
 
@@ -115,6 +67,30 @@ Day tour
 Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
 per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
+
+1 day31 Oct 2026
+
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
+
+1 day31 Oct 2026
+
+Tserakvi, Gagi Fortress, the Tamarisi lakes and Shavnabada monastery in one day.
+
+per person65 GEL
 
 View tour 
 
@@ -149,6 +125,30 @@ Day tour
 1 day1 Nov 2026
 
 Four sights in one day: Navenakhevi Cave, Tetra Cave, Sataplia Nature Reserve and Prometheus Cave.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
+
+1 day1 Nov 2026
+
+Fortresses and monasteries of the Dzama Gorge, Bateti Lake and Mount Shuano in one day.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
+
+1 day1 Nov 2026
+
+Truso Gorge: colorful travertines, the 'bottomless' lake, Abano convent and Zakagori fortress.
 
 per person60 GEL
 
@@ -372,4 +372,4 @@ View tour
 
 ## Tours by month
 
-[October 2026 18](https://besttraveler.ge/en/tours/october-2026/)[November 2026 28](https://besttraveler.ge/en/tours/november-2026/)[December 2026 8](https://besttraveler.ge/en/tours/december-2026/)[January 2027 7](https://besttraveler.ge/en/tours/january-2027/)[February 2027 3](https://besttraveler.ge/en/tours/february-2027/)[March 2027 8](https://besttraveler.ge/en/tours/march-2027/)[April 2027 18](https://besttraveler.ge/en/tours/april-2027/)[May 2027 36](https://besttraveler.ge/en/tours/may-2027/)[June 2027 38](https://besttraveler.ge/en/tours/june-2027/)[July 2027 31](https://besttraveler.ge/en/tours/july-2027/)[September 2027 26](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 10](https://besttraveler.ge/en/tours/new-year-tours-2027/)
+[October 2026 15](https://besttraveler.ge/en/tours/october-2026/)[November 2026 28](https://besttraveler.ge/en/tours/november-2026/)[December 2026 8](https://besttraveler.ge/en/tours/december-2026/)[January 2027 7](https://besttraveler.ge/en/tours/january-2027/)[February 2027 3](https://besttraveler.ge/en/tours/february-2027/)[March 2027 12](https://besttraveler.ge/en/tours/march-2027/)[April 2027 25](https://besttraveler.ge/en/tours/april-2027/)[May 2027 43](https://besttraveler.ge/en/tours/may-2027/)[June 2027 43](https://besttraveler.ge/en/tours/june-2027/)[July 2027 32](https://besttraveler.ge/en/tours/july-2027/)[September 2027 27](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 10](https://besttraveler.ge/en/tours/new-year-tours-2027/)

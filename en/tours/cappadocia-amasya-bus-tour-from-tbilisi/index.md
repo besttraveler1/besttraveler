@@ -1,6 +1,6 @@
 # Cappadocia 6-Day Bus Tour from Tbilisi
 
-> 6-day bus tour from Tbilisi to Amasya, Cappadocia, Kayseri, Ordu and Trabzon. 2-7 November, 1350 GEL, no overnight bus rides.
+> 6-day bus tour from Tbilisi to Amasya, Cappadocia, Kayseri, Ordu and Trabzon. 1450 GEL, no overnight bus rides, Georgian-speaking guide.
 
 URL: https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/
 
@@ -21,11 +21,11 @@ Photo: [Feridun F. Alkaya](https://commons.wikimedia.org/w/index.php?curid=91480
 
 Duration6 days
 
-Next departure2–7 Nov 2026
+Next departure2–7 Nov 2026 +3
 
 DepartureTbilisi, 06:00
 
-Price1,350 GEL
+Price1,450 GEL
 
 ## Tour programme
 
@@ -113,6 +113,7 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 ## Good to know
 
 - Documents: International passport (valid for at least 6 months) or Georgian ID card
+- Alcohol and smoking are not allowed on the bus.
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
@@ -120,11 +121,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi” tour cost?**
 
-The tour costs 1,350 GEL per person.
+The tour costs 1,450 GEL per person. The deposit to book is 300 GEL.
 
 **When does the tour leave?**
 
-Next dates: 2–7 Nov 2026. Please check free places by phone or WhatsApp.
+Next dates: 2–7 Nov 2026, 13–18 Apr 2027, 12–17 May 2027, 18–23 Jun 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -134,13 +135,18 @@ Travel by comfortable bus (air conditioning, internet in Turkey); 4-5 star hotel
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 1,350 GELper person: 
+Price: 1,450 GELper person: 
+
+Deposit to book: 300 GEL
 
 ## Dates
 
 Dates
 
 - 2–7 Nov 2026
+- 13–18 Apr 2027
+- 12–17 May 2027
+- 18–23 Jun 2027
 
 - Travel by comfortable bus (air conditioning, internet in Turkey)
 - 4-5 star hotels in Cappadocia, Amasya and Ordu
@@ -155,11 +161,11 @@ Dates
 
 By plane
 
-### [Istanbul: 7-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
+### [Istanbul: 6-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
 
-7 daysTurkey
+6 days3–8 Mar 2027
 
-7 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
+6 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
 
 per person3,600 GEL
 
@@ -169,7 +175,7 @@ By bus
 
 ### [Kars, Ani and Van: 3-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/)
 
-3 days / 2 nightsTurkey
+3 days / 2 nights6–8 Mar 2027
 
 Kars, Ani, Ishak Pasha Palace, Van Fortress and Akdamar Island: 3 days by minibus.
 
@@ -179,12 +185,12 @@ View tour
 
 By bus
 
-### [Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana](https://besttraveler.ge/en/tours/tao-klarjeti-tour-turkey/)
+### [Van and Mardin: 7-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/eastern-turkey-van-mardin-nemrut-tour/)
 
-By busTurkey
+7 days / 6 nights13–19 Mar 2027
 
-Georgian monasteries and fortresses of historic Tao-Klarjeti: Tbeti, Artanuji, Oshki, Parkhali and Bana.
+7 days in eastern Turkey: Ani, Van, Mardin, Harran, Halfeti and Mount Nemrut.
 
-per person480 GEL
+per person1,450 GEL
 
 View tour

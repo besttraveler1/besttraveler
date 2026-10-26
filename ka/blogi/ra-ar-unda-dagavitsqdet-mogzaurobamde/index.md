@@ -159,11 +159,11 @@ URL: https://besttraveler.ge/ka/blogi/ra-ar-unda-dagavitsqdet-mogzaurobamde/
 
 ავიატური
 
-### [სტამბოლი — 7-დღიანი ტური თბილისიდან ან ბათუმიდან](https://besttraveler.ge/ka/turebi/stamboli-turi-tbilisidan/)
+### [სტამბოლი — 6-დღიანი ტური თბილისიდან ან ბათუმიდან](https://besttraveler.ge/ka/turebi/stamboli-turi-tbilisidan/)
 
-7 დღეთურქეთი
+6 დღე3–8 მარტი 2027
 
-7 დღე სტამბოლში: სასახლეები, მეჩეთები, ბოსფორის კრუიზი, პრინცების კუნძულები და ბაზრები.
+6 დღე სტამბოლში: სასახლეები, მეჩეთები, ბოსფორის კრუიზი, პრინცების კუნძულები და ბაზრები.
 
 ერთ ადამიანზე3 600 ლარი
 

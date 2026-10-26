@@ -10,22 +10,8 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 
 [ოქტომბერი 2026](#m-2026-10)[ნოემბერი 2026](#m-2026-11)[დეკემბერი 2026](#m-2026-12)[იანვარი 2027](#m-2027-01)[თებერვალი 2027](#m-2027-02)[მარტი 2027](#m-2027-03)[აპრილი 2027](#m-2027-04)[მაისი 2027](#m-2027-05)[ივნისი 2027](#m-2027-06)[ივლისი 2027](#m-2027-07)[აგვისტო 2027](#m-2027-08)[სექტემბერი 2027](#m-2027-09)[ოქტომბერი 2027](#m-2027-10)
 
-## ოქტომბერი 2026 29 გასვლა
+## ოქტომბერი 2026 15 გასვლა
 
-- [25 კვი ინდოეთი: რაჯასთანის ჯგუფური ტური — დელი, ჯაისალმერი, უდაიპური ავიატური · 9 დღე / 8 ღამე 4 800 ლარი](https://besttraveler.ge/ka/turebi/indoeti-rajastani-jgupuri-turi/)
-- [25 კვი განსხვავებული ვაშლოვანი: ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/)
-- [25 კვი გუდამაყრის ერთდღიანი ტური: ზანდუკი, ჩოხი, დუმაცხო, დიდებაანის ჩანჩქერი ერთდღიანი 70 ლარი](https://besttraveler.ge/ka/turebi/gudamakris-ertdghiani-turi/)
-- [25 კვი დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
-- [25 კვი თრუსოს ხეობის ტური: ტრავერტინები, უძირო ტბა, ზაქაგორი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/trusos-kheoba-ertdghiani-turi/)
-- [25 კვი კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-nekresi-gremi-telavi-turi/)
-- [25 კვი კახეთის ტური: ჩაილური, გურჯაანის ყველაწმინდა, ზეგაანი, სანაგირე ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-gurjaani-zegaani-turi/)
-- [25 კვი კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
-- [25 კვი რკონი-ქვათახევის ერთდღიანი ტური: ქვათახევი, ერთაწმინდა, რკონი, იკვი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/rkoni-kvatakhevi-ertdghiani-turi/)
-- [25 კვი ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
-- [25 კვი ქვემო ქართლის ერთდღიანი ტური: წერაქვი, გაგის ციხე, თამარისის ტბები ერთდღიანი 65 ლარი](https://besttraveler.ge/ka/turebi/kvemo-kartli-ertdghiani-turi/)
-- [25 კვი ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
-- [25 კვი ძამას ხეობის ერთდღიანი ტური: სამწევრისი, ბატეთის ტბა, შუანო ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/dzamas-kheoba-ertdghiani-turi/)
-- [25 კვი ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა ერთდღიანი 65 ლარი](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
 - [31 შაბ განსხვავებული ვაშლოვანი: ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/)
 - [31 შაბ გუდამაყრის ერთდღიანი ტური: ზანდუკი, ჩოხი, დუმაცხო, დიდებაანის ჩანჩქერი ერთდღიანი 70 ლარი](https://besttraveler.ge/ka/turebi/gudamakris-ertdghiani-turi/)
 - [31 შაბ დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
@@ -63,7 +49,7 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [1 კვი ძამას ხეობის ერთდღიანი ტური: სამწევრისი, ბატეთის ტბა, შუანო ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/dzamas-kheoba-ertdghiani-turi/)
 - [1 კვი ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა ერთდღიანი 65 ლარი](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
 - [2–6 ორშ ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან ავიატური · 5 დღე 2 600 ლარი](https://besttraveler.ge/ka/turebi/italia-bari-apulia-saakhaltslo-turi/)
-- [2–7 ორშ კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური ავტობუსით · 6 დღე 1 350 ლარი](https://besttraveler.ge/ka/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
+- [2–7 ორშ კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური ავტობუსით · 6 დღე 1 450 ლარი](https://besttraveler.ge/ka/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
 - [3–10 სამ ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 3–10 ნოემბერი ავიატური · 8 დღე / 7 ღამე 4 500 ლარი](https://besttraveler.ge/ka/turebi/espaneti-portugalia-mankanit-turi/)
 - [7 შაბ განსხვავებული ვაშლოვანი: ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/)
 - [7 შაბ გუდამაყრის ერთდღიანი ტური: ზანდუკი, ჩოხი, დუმაცხო, დიდებაანის ჩანჩქერი ერთდღიანი 70 ლარი](https://besttraveler.ge/ka/turebi/gudamakris-ertdghiani-turi/)
@@ -127,22 +113,30 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [16–20 სამ პარიზი, საფრანგეთი — 5-დღიანი ჯგუფური ტური ავიატური · 5 დღე 2 500 ლარი](https://besttraveler.ge/ka/turebi/parizi-saprangeti-jgupuri-turi/)
 - [20 შაბ ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა ერთდღიანი 65 ლარი](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
 
-## მარტი 2027 10 გასვლა
+## მარტი 2027 14 გასვლა
 
 - [2–9 სამ ბურგუნდია და ფრანშ-კონტე: კლიუნი, დიჟონი, ბონი ავიატური · 8 დღე / 7 ღამე 4 500 ლარი](https://besttraveler.ge/ka/turebi/burgundia-franshe-konte-turi/)
 - [2–6 სამ პარიზი, საფრანგეთი — 5-დღიანი ჯგუფური ტური ავიატური · 5 დღე 2 500 ლარი](https://besttraveler.ge/ka/turebi/parizi-saprangeti-jgupuri-turi/)
+- [3–8 ოთხ სტამბოლი — 6-დღიანი ტური თბილისიდან ან ბათუმიდან ავიატური · 6 დღე 3 600 ლარი](https://besttraveler.ge/ka/turebi/stamboli-turi-tbilisidan/)
+- [6–8 შაბ ყარსი, ანისი და ვანი — 3-დღიანი ტური თურქეთში ავტობუსით · 3 დღე / 2 ღამე 450 ლარი](https://besttraveler.ge/ka/turebi/turketi-karsi-anisi-vani-turi/)
 - [13 შაბ დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
+- [13–19 შაბ ვანი და მარდინი — 7-დღიანი ტური აღმოსავლეთ თურქეთში ავტობუსით · 7 დღე / 6 ღამე 1 450 ლარი](https://besttraveler.ge/ka/turebi/aghmosavlet-turketi-vani-mardini-turi/)
 - [13 შაბ ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
 - [19–28 პარ კორსიკა, საფრანგეთი — 10-დღიანი ჯგუფური ტური პარიზით ავიატური · 10 დღე / 9 ღამე 5 300 ლარი](https://besttraveler.ge/ka/turebi/korsikis-jgupuri-turi/)
 - [21 კვი დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
 - [21 კვი ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
+- [26–28 პარ ტრაპიზონი და სუმელას მონასტერი — 3-დღიანი ტური ავტობუსით · 3 დღე / 2 ღამე 480 ლარი](https://besttraveler.ge/ka/turebi/trapizoni-sumela-turi/)
 - [28 კვი ესპანეთი, საფრანგეთი, ანდორა — 10-დღიანი ტური ბარსელონიდან ავიატური · 10 დღე · → 4 აპრილი 4 700 ლარი](https://besttraveler.ge/ka/turebi/espaneti-saprangeti-andora-turi/)
 - [28 კვი თიანეთის ერთდღიანი ტური: მამკოდა, ცხვარიჭამია, ერწო, სიონის ტბა ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/tianeti-ertdghiani-turi/)
 - [28 კვი კოჯორისა და მანგლისის ერთდღიანი ტური ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kojori-manglisi-ertdghiani-turi/)
 
-## აპრილი 2027 34 გასვლა
+## აპრილი 2027 42 გასვლა
 
+- [2–4 პარ ტრაპიზონი და სუმელას მონასტერი — 3-დღიანი ტური ავტობუსით · 3 დღე / 2 ღამე 480 ლარი](https://besttraveler.ge/ka/turebi/trapizoni-sumela-turi/)
+- [3–8 შაბ სტამბოლი — 6-დღიანი ტური თბილისიდან ან ბათუმიდან ავიატური · 6 დღე 3 600 ლარი](https://besttraveler.ge/ka/turebi/stamboli-turi-tbilisidan/)
 - [5–9 ორშ პარიზი, საფრანგეთი — 5-დღიანი ჯგუფური ტური ავიატური · 5 დღე 2 500 ლარი](https://besttraveler.ge/ka/turebi/parizi-saprangeti-jgupuri-turi/)
+- [9–11 პარ ტაო-კლარჯეთის ტური — ტბეთი, არტანუჯი, ოშკი, პარხალი ავტობუსით · 3 დღე 480 ლარი](https://besttraveler.ge/ka/turebi/tao-klarjeti-turi/)
+- [9–11 პარ ყარსი, ანისი და ვანი — 3-დღიანი ტური თურქეთში ავტობუსით · 3 დღე / 2 ღამე 450 ლარი](https://besttraveler.ge/ka/turebi/turketi-karsi-anisi-vani-turi/)
 - [10 შაბ შიდა ქართლის ტური: სხვილოს ციხე, ბრეთი, რუისი, სამთავისი, ურბნისი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/shida-kartli-samtavisi-ruisi-urbnisi/)
 - [11 კვი ვაშლოვანის ტური: ელიას მთა, მერცხლების ქალაქი, ალესილები ერთდღიანი 70 ლარი](https://besttraveler.ge/ka/turebi/vashlovanis-turi-dedoplistskaro/)
 - [11 კვი თიანეთის ერთდღიანი ტური: მამკოდა, ცხვარიჭამია, ერწო, სიონის ტბა ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/tianeti-ertdghiani-turi/)
@@ -153,6 +147,7 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [11 კვი ქვემო ქართლის ერთდღიანი ტური: წერაქვი, გაგის ციხე, თამარისის ტბები ერთდღიანი 65 ლარი](https://besttraveler.ge/ka/turebi/kvemo-kartli-ertdghiani-turi/)
 - [11 კვი შიდა ქართლის ტური: გორის ციხე, გორიჯვარი, უფლისციხე, ატენის სიონი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/gori-uplistsikhe-ateni-turi/)
 - [11 კვი ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა ერთდღიანი 65 ლარი](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
+- [13–18 სამ კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური ავტობუსით · 6 დღე 1 450 ლარი](https://besttraveler.ge/ka/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
 - [18 კვი განსხვავებული ვაშლოვანი: ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/)
 - [18 კვი დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
 - [18 კვი კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-nekresi-gremi-telavi-turi/)
@@ -160,6 +155,8 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [18 კვი პანკისის ხეობის ტური: ხადორის ჩანჩქერი, დუისი, კვეტერა ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/pankisis-kheoba-khadoris-chanchkeri/)
 - [18 კვი ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
 - [18 კვი ქვემო ქართლი და ფიტარეთი: ხულუტი, ტანძია, ქვეში, ბოლნისის სიონი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kvemo-kartli-pitareti-bolnisi-turi/)
+- [19–25 ორშ ვანი და მარდინი — 7-დღიანი ტური აღმოსავლეთ თურქეთში ავტობუსით · 7 დღე / 6 ღამე 1 450 ლარი](https://besttraveler.ge/ka/turebi/aghmosavlet-turketi-vani-mardini-turi/)
+- [23–25 პარ რიზე და უზუნგოლი — 3-დღიანი ტური თურქეთში ავტობუსით · 3 დღე / 2 ღამე 470 ლარი](https://besttraveler.ge/ka/turebi/rize-uzungoli-samdghiani-turi/)
 - [24 შაბ განსხვავებული ვაშლოვანი: ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/)
 - [24 შაბ დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
 - [24 შაბ კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-nekresi-gremi-telavi-turi/)
@@ -176,14 +173,16 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [25 კვი შიდა ქართლის ტური: გორის ციხე, გორიჯვარი, უფლისციხე, ატენის სიონი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/gori-uplistsikhe-ateni-turi/)
 - [25 კვი შიდა ქართლის ტური: სხვილოს ციხე, ბრეთი, რუისი, სამთავისი, ურბნისი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/shida-kartli-samtavisi-ruisi-urbnisi/)
 - [25 კვი ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა ერთდღიანი 65 ლარი](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
+- [30 პარ ტაო-კლარჯეთის ტური — ტბეთი, არტანუჯი, ოშკი, პარხალი ავტობუსით · 3 დღე · → 2 მაისი 480 ლარი](https://besttraveler.ge/ka/turebi/tao-klarjeti-turi/)
 
-## მაისი 2027 69 გასვლა
+## მაისი 2027 76 გასვლა
 
 - [1 შაბ ვაშლოვანის ტური: ელიას მთა, მერცხლების ქალაქი, ალესილები ერთდღიანი 70 ლარი](https://besttraveler.ge/ka/turebi/vashlovanis-turi-dedoplistskaro/)
 - [1 შაბ კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
 - [1 შაბ კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
 - [1 შაბ სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა ერთდღიანი 65 ლარი](https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/)
 - [1 შაბ ქვემო ქართლის ერთდღიანი ტური: წერაქვი, გაგის ციხე, თამარისის ტბები ერთდღიანი 65 ლარი](https://besttraveler.ge/ka/turebi/kvemo-kartli-ertdghiani-turi/)
+- [1–3 შაბ ყარსი, ანისი და ვანი — 3-დღიანი ტური თურქეთში ავტობუსით · 3 დღე / 2 ღამე 450 ლარი](https://besttraveler.ge/ka/turebi/turketi-karsi-anisi-vani-turi/)
 - [1 შაბ ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა ერთდღიანი 65 ლარი](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
 - [2 კვი განსხვავებული ვაშლოვანი: ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/)
 - [2 კვი დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
@@ -195,6 +194,8 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [2 კვი ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
 - [2 კვი ქვემო ქართლი და ფიტარეთი: ხულუტი, ტანძია, ქვეში, ბოლნისის სიონი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kvemo-kartli-pitareti-bolnisi-turi/)
 - [3–10 ორშ ბურგუნდია და ფრანშ-კონტე: კლიუნი, დიჟონი, ბონი ავიატური · 8 დღე / 7 ღამე 4 500 ლარი](https://besttraveler.ge/ka/turebi/burgundia-franshe-konte-turi/)
+- [3–8 ორშ სტამბოლი — 6-დღიანი ტური თბილისიდან ან ბათუმიდან ავიატური · 6 დღე 3 600 ლარი](https://besttraveler.ge/ka/turebi/stamboli-turi-tbilisidan/)
+- [7–9 პარ ტრაპიზონი და სუმელას მონასტერი — 3-დღიანი ტური ავტობუსით · 3 დღე / 2 ღამე 480 ლარი](https://besttraveler.ge/ka/turebi/trapizoni-sumela-turi/)
 - [9 კვი განსხვავებული ვაშლოვანი: ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/)
 - [9 კვი დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
 - [9 კვი კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-nekresi-gremi-telavi-turi/)
@@ -205,6 +206,7 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [9 კვი ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
 - [9 კვი ქვემო ქართლი და ფიტარეთი: ხულუტი, ტანძია, ქვეში, ბოლნისის სიონი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kvemo-kartli-pitareti-bolnisi-turi/)
 - [10–14 ორშ პარიზი, საფრანგეთი — 5-დღიანი ჯგუფური ტური ავიატური · 5 დღე 2 500 ლარი](https://besttraveler.ge/ka/turebi/parizi-saprangeti-jgupuri-turi/)
+- [12–17 ოთხ კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური ავტობუსით · 6 დღე 1 450 ლარი](https://besttraveler.ge/ka/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
 - [15 შაბ დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
 - [15 შაბ ვაშლოვანის ტური: ელიას მთა, მერცხლების ქალაქი, ალესილები ერთდღიანი 70 ლარი](https://besttraveler.ge/ka/turebi/vashlovanis-turi-dedoplistskaro/)
 - [15 შაბ კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-nekresi-gremi-telavi-turi/)
@@ -226,6 +228,8 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [16 კვი შიდა ქართლის ტური: სხვილოს ციხე, ბრეთი, რუისი, სამთავისი, ურბნისი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/shida-kartli-samtavisi-ruisi-urbnisi/)
 - [17–24 ორშ ოქსიტანია და ახალი აკვიტანია: როკამადური, ბორდო, კარკასონი ავიატური · 8 დღე / 7 ღამე 4 500 ლარი](https://besttraveler.ge/ka/turebi/saprangeti-oksitania-akvitania-turi/)
 - [19–26 ოთხ ილ-დე-ფრანსი და ნორმანდია — სასახლეების ტური საფრანგეთში ავიატური · 8 დღე / 7 ღამე 4 100 ლარი](https://besttraveler.ge/ka/turebi/il-de-pransi-normandia-turi/)
+- [21–27 პარ ვანი და მარდინი — 7-დღიანი ტური აღმოსავლეთ თურქეთში ავტობუსით · 7 დღე / 6 ღამე 1 450 ლარი](https://besttraveler.ge/ka/turebi/aghmosavlet-turketi-vani-mardini-turi/)
+- [21–23 პარ ტაო-კლარჯეთის ტური — ტბეთი, არტანუჯი, ოშკი, პარხალი ავტობუსით · 3 დღე 480 ლარი](https://besttraveler.ge/ka/turebi/tao-klarjeti-turi/)
 - [22 შაბ იმერეთის ტური: მღვიმევი, კაცხის სვეტი, სამცვერას ჩანჩქერი, უბისი ერთდღიანი 70 ლარი](https://besttraveler.ge/ka/turebi/imeretis-turi-katskhis-sveti-ubisi/)
 - [22 შაბ მცხეთის ტური: კარსანი, ქართლის ქედი, არმაზის ციხე და მონასტერი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/mtskheta-karsani-armazi-turi/)
 - [22 შაბ შიდა ქართლის ტური: სხვილოს ციხე, ბრეთი, რუისი, სამთავისი, ურბნისი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/shida-kartli-samtavisi-ruisi-urbnisi/)
@@ -244,13 +248,16 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [24–31 ორშ საფრანგეთი, გერმანია, შვეიცარია: ელზასი, შავი ტყე და ბაზელი ავიატური · 8 დღე / 7 ღამე 4 500 ლარი](https://besttraveler.ge/ka/turebi/saprangeti-germania-shveitsaria-turi/)
 - [24–31 ორშ საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო ავიატური · 8 დღე 4 500 ლარი](https://besttraveler.ge/ka/turebi/provansi-monako-lazhvardovani-sanapiro/)
 - [27 ხუთ ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
+- [28–30 პარ რიზე და უზუნგოლი — 3-დღიანი ტური თურქეთში ავტობუსით · 3 დღე / 2 ღამე 470 ლარი](https://besttraveler.ge/ka/turebi/rize-uzungoli-samdghiani-turi/)
 - [28–30 პარ სვანეთის სამდღიანი ტური: ენგურჰესი, მესტია, ქორულდის ტბები, უშგული ავტობუსით · 3 დღე / 2 ღამე 410 ლარი](https://besttraveler.ge/ka/turebi/svaneti-mestia-ushguli-turi/)
 - [29–30 შაბ რაჭის ორდღიანი ტური: ცხრაჯვარი, შაორი, ნიკორწმინდა, უწერა, ღები ავტობუსით · 2 დღე / 1 ღამე 150 ლარი](https://besttraveler.ge/ka/turebi/racha-shaori-nikortsminda-turi/)
 - [30 კვი მღვიმეების ტური: ნავენახევი, თეთრა, სათაფლია, პრომეთე ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/mghvimeebis-turi-prometes-mghvime-sataplia/)
 - [30 კვი ძამას ხეობის ერთდღიანი ტური: სამწევრისი, ბატეთის ტბა, შუანო ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/dzamas-kheoba-ertdghiani-turi/)
 
-## ივნისი 2027 57 გასვლა
+## ივნისი 2027 62 გასვლა
 
+- [3–8 ხუთ სტამბოლი — 6-დღიანი ტური თბილისიდან ან ბათუმიდან ავიატური · 6 დღე 3 600 ლარი](https://besttraveler.ge/ka/turebi/stamboli-turi-tbilisidan/)
+- [4–6 პარ ტრაპიზონი და სუმელას მონასტერი — 3-დღიანი ტური ავტობუსით · 3 დღე / 2 ღამე 480 ლარი](https://besttraveler.ge/ka/turebi/trapizoni-sumela-turi/)
 - [5 შაბ ტაბაწყურის ტბის ტური: ცხრაწყაროს უღელტეხილი, ტიმოთესუბანი ერთდღიანი 70 ლარი](https://besttraveler.ge/ka/turebi/tabatskuris-tba-turi/)
 - [5 შაბ ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
 - [6 კვი ტაბაწყურის ტბის ტური: ცხრაწყაროს უღელტეხილი, ტიმოთესუბანი ერთდღიანი 70 ლარი](https://besttraveler.ge/ka/turebi/tabatskuris-tba-turi/)
@@ -258,6 +265,7 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [7–14 ორშ საფრანგეთი, გერმანია, შვეიცარია: ელზასი, შავი ტყე და ბაზელი ავიატური · 8 დღე / 7 ღამე 4 500 ლარი](https://besttraveler.ge/ka/turebi/saprangeti-germania-shveitsaria-turi/)
 - [7–14 ორშ საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო ავიატური · 8 დღე 4 500 ლარი](https://besttraveler.ge/ka/turebi/provansi-monako-lazhvardovani-sanapiro/)
 - [11–13 პარ სვანეთის სამდღიანი ტური: ენგურჰესი, მესტია, ქორულდის ტბები, უშგული ავტობუსით · 3 დღე / 2 ღამე 410 ლარი](https://besttraveler.ge/ka/turebi/svaneti-mestia-ushguli-turi/)
+- [11–13 პარ ტაო-კლარჯეთის ტური — ტბეთი, არტანუჯი, ოშკი, პარხალი ავტობუსით · 3 დღე 480 ლარი](https://besttraveler.ge/ka/turebi/tao-klarjeti-turi/)
 - [12 შაბ ბორჯომის ტური: დაბა, ტიმოთესუბანი, ბორჯომის პარკი, მწვანე მონასტერი ერთდღიანი 65 ლარი](https://besttraveler.ge/ka/turebi/borjomi-timotesubani-mtsvane-monasteri/)
 - [12 შაბ კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
 - [12 შაბ კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
@@ -280,6 +288,7 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [13 კვი შიდა ქართლის ტური: სხვილოს ციხე, ბრეთი, რუისი, სამთავისი, ურბნისი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/shida-kartli-samtavisi-ruisi-urbnisi/)
 - [14–21 ორშ 5 ქვეყანა ერთ ტურში მანქანით: საფრანგეთი, შვეიცარია, გერმანია, ავსტრია, ლიხტენშტაინი ავიატური · 8 დღე / 7 ღამე 4 500 ლარი](https://besttraveler.ge/ka/turebi/alpebi-shveitsaria-5-kveqana-turi/)
 - [14–21 ორშ ლუარის ხეობის სასახლეები: ბლუა, ამბუაზი, შინონი, ვალანსე ავიატური · 8 დღე / 7 ღამე 4 100 ლარი](https://besttraveler.ge/ka/turebi/luaris-velis-tsikheebi-turi/)
+- [18–23 პარ კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური ავტობუსით · 6 დღე 1 450 ლარი](https://besttraveler.ge/ka/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
 - [18–20 პარ ხევსურეთის 2-დღიანი ტური: შატილი, მუცო, ანატორი, ჩარგალი ავტობუსით · 2 დღე / 1 ღამე 150 ლარი](https://besttraveler.ge/ka/turebi/khevsuretis-ordghiani-turi-shatili-mutso/)
 - [19 შაბ კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
 - [19 შაბ კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
@@ -304,12 +313,13 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [21–28 ორშ საფრანგეთი: ელზასი და პარიზი — ჯგუფური ტური ქუთაისიდან ავიატური · 8 დღე / 7 ღამე 4 200 ლარი](https://besttraveler.ge/ka/turebi/saprangeti-elzasi-parizi-turi/)
 - [26 შაბ ლაგოდეხის ნაკრძალი: ნინოს ხევის (გურგენიანის) ჩანჩქერი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/lagodekhi-ninos-khevis-chanchkeri/)
 - [26–27 შაბ რაჭის ორდღიანი ტური: ცხრაჯვარი, შაორი, ნიკორწმინდა, უწერა, ღები ავტობუსით · 2 დღე / 1 ღამე 150 ლარი](https://besttraveler.ge/ka/turebi/racha-shaori-nikortsminda-turi/)
+- [26–27 შაბ რიზე და უზუნგოლი — 3-დღიანი ტური თურქეთში ავტობუსით · 3 დღე / 2 ღამე 470 ლარი](https://besttraveler.ge/ka/turebi/rize-uzungoli-samdghiani-turi/)
 - [26 შაბ ყაზბეგი და ჯუთა: ჭაუხები, თინას ტბა, სნო, ბიდარას ტრავერტინები ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/juta-chaukhi-ertdghiani-turi/)
 - [26 შაბ ხადას ხეობის ტური: წკერესა და როსტიანის ჩანჩქერები ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/khadas-kheoba-chanchkerebi-turi/)
 - [27 კვი აბუდელაურის ტბების ლაშქრობა: როშკა, ფერადი ტბები, ჭაუხი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/abudelauris-tbebi-roshka-lashqroba/)
 - [27 კვი თრუსოს ხეობის ტური: ტრავერტინები, უძირო ტბა, ზაქაგორი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/trusos-kheoba-ertdghiani-turi/)
 
-## ივლისი 2027 70 გასვლა
+## ივლისი 2027 71 გასვლა
 
 - [3 შაბ აბუდელაურის ტბების ლაშქრობა: როშკა, ფერადი ტბები, ჭაუხი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/abudelauris-tbebi-roshka-lashqroba/)
 - [3 შაბ კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/kakheti-nekresi-gremi-telavi-turi/)
@@ -334,6 +344,7 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [5–12 ორშ 5 ქვეყანა ერთ ტურში მანქანით: საფრანგეთი, შვეიცარია, გერმანია, ავსტრია, ლიხტენშტაინი ავიატური · 8 დღე / 7 ღამე 4 500 ლარი](https://besttraveler.ge/ka/turebi/alpebi-shveitsaria-5-kveqana-turi/)
 - [5–12 ორშ საფრანგეთი, გერმანია, შვეიცარია: ელზასი, შავი ტყე და ბაზელი ავიატური · 8 დღე / 7 ღამე 4 500 ლარი](https://besttraveler.ge/ka/turebi/saprangeti-germania-shveitsaria-turi/)
 - [5–12 ორშ საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო ავიატური · 8 დღე 4 500 ლარი](https://besttraveler.ge/ka/turebi/provansi-monako-lazhvardovani-sanapiro/)
+- [5–18 ორშ თურქეთი და საბერძნეთი — 14-დღიანი ტური ავტობუსით ავტობუსით · 14 დღე / 13 ღამე 3 700 ლარი](https://besttraveler.ge/ka/turebi/turketi-saberdzneti-14-dghiani-turi/)
 - [9–11 პარ ხევსურეთის 2-დღიანი ტური: შატილი, მუცო, ანატორი, ჩარგალი ავტობუსით · 2 დღე / 1 ღამე 150 ლარი](https://besttraveler.ge/ka/turebi/khevsuretis-ordghiani-turi-shatili-mutso/)
 - [10–11 შაბ რაჭის ორდღიანი ტური: ცხრაჯვარი, შაორი, ნიკორწმინდა, უწერა, ღები ავტობუსით · 2 დღე / 1 ღამე 150 ლარი](https://besttraveler.ge/ka/turebi/racha-shaori-nikortsminda-turi/)
 - [11 კვი აბუდელაურის ტბების ლაშქრობა: როშკა, ფერადი ტბები, ჭაუხი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/abudelauris-tbebi-roshka-lashqroba/)
@@ -454,11 +465,12 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [29 კვი ხევსურეთის ერთდღიანი ტური: დათვიჯვარი, შატილი, ანატორი ერთდღიანი 70 ლარი](https://besttraveler.ge/ka/turebi/khevsuretis-ertdghiani-turi-shatili/)
 - [29 კვი ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა ერთდღიანი 65 ლარი](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
 
-## სექტემბერი 2027 36 გასვლა
+## სექტემბერი 2027 37 გასვლა
 
 - [4 შაბ აბუდელაურის ტბების ლაშქრობა: როშკა, ფერადი ტბები, ჭაუხი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/abudelauris-tbebi-roshka-lashqroba/)
 - [4–5 შაბ რაჭის ორდღიანი ტური: ცხრაჯვარი, შაორი, ნიკორწმინდა, უწერა, ღები ავტობუსით · 2 დღე / 1 ღამე 150 ლარი](https://besttraveler.ge/ka/turebi/racha-shaori-nikortsminda-turi/)
 - [5 კვი თრუსოს ხეობის ტური: ტრავერტინები, უძირო ტბა, ზაქაგორი ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/trusos-kheoba-ertdghiani-turi/)
+- [5–18 კვი თურქეთი და საბერძნეთი — 14-დღიანი ტური ავტობუსით ავტობუსით · 14 დღე / 13 ღამე 3 700 ლარი](https://besttraveler.ge/ka/turebi/turketi-saberdzneti-14-dghiani-turi/)
 - [6–13 ორშ 5 ქვეყანა ერთ ტურში მანქანით: საფრანგეთი, შვეიცარია, გერმანია, ავსტრია, ლიხტენშტაინი ავიატური · 8 დღე / 7 ღამე 4 500 ლარი](https://besttraveler.ge/ka/turebi/alpebi-shveitsaria-5-kveqana-turi/)
 - [6–13 ორშ ნორმანდია, ბრეტანი და ლუარის ხეობა — 8-დღიანი ტური საფრანგეთში ავიატური · 8 დღე / 7 ღამე 4 100 ლარი](https://besttraveler.ge/ka/turebi/normandia-bretani-luara-turi/)
 - [10–12 პარ სვანეთის სამდღიანი ტური: ენგურჰესი, მესტია, ქორულდის ტბები, უშგული ავტობუსით · 3 დღე / 2 ღამე 410 ლარი](https://besttraveler.ge/ka/turebi/svaneti-mestia-ushguli-turi/)

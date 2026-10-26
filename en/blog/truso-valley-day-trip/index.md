@@ -94,7 +94,7 @@ Day tour
 
 ### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
 
-1 day25 Oct 2026
+1 day1 Nov 2026
 
 Truso Gorge: colorful travertines, the 'bottomless' lake, Abano convent and Zakagori fortress.
 
@@ -106,7 +106,7 @@ Day tour
 
 ### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
 

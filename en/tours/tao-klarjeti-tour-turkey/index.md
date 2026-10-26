@@ -23,9 +23,9 @@ A tour of historic Tao-Klarjeti (now in Turkey): Georgian monasteries, fortresse
 
 Photo: [sevdamujgan [1]](https://commons.wikimedia.org/w/index.php?curid=61679279), CC0
 
-DurationBy bus
+Duration3 days
 
-DatesOn request
+Next departure9–11 Apr 2027 +3
 
 DepartureTbilisi, 05:00
 
@@ -70,6 +70,7 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Meeting point: Didube metro station, upper exit
 - Documents: International passport (valid for at least 6 months) or Georgian ID card
 - Meeting point: next to Didube metro station (upper metro exit).
+- Alcohol and smoking are not allowed on the bus.
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
@@ -77,11 +78,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana” tour cost?**
 
-The tour costs 480 GEL per person.
+The tour costs 480 GEL per person. The deposit to book is 100 GEL.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 9–11 Apr 2027, 30 Apr – 2 May 2027, 21–23 May 2027, 11–13 Jun 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -93,11 +94,16 @@ Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and pr
 
 Price: 480 GELper person: 
 
+Deposit to book: 100 GEL
+
 ## Dates
 
 Dates
 
-Dates on request
+- 9–11 Apr 2027
+- 30 Apr – 2 May 2027
+- 21–23 May 2027
+- 11–13 Jun 2027
 
 - The programme described
 - Driver experienced on Tao's roads
@@ -117,17 +123,17 @@ By bus
 
 Amasya, Cappadocia, Kayseri, Ordu and Trabzon by bus, with no nights spent on the bus.
 
-per person1,350 GEL
+per person1,450 GEL
 
 View tour 
 
 By plane
 
-### [Istanbul: 7-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
+### [Istanbul: 6-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
 
-7 daysTurkey
+6 days3–8 Mar 2027
 
-7 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
+6 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
 
 per person3,600 GEL
 
@@ -137,7 +143,7 @@ By bus
 
 ### [Kars, Ani and Van: 3-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/)
 
-3 days / 2 nightsTurkey
+3 days / 2 nights6–8 Mar 2027
 
 Kars, Ani, Ishak Pasha Palace, Van Fortress and Akdamar Island: 3 days by minibus.
 

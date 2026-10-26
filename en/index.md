@@ -13,7 +13,7 @@ Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 22 more 
 [See tours](https://besttraveler.ge/en/tours/)
 [Message us on WhatsApp](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour)
 
-- 106tours
+- 108tours
 - 26countries
 - 50day tours
 - from 60 ₾day tours
@@ -30,7 +30,7 @@ Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 22 more 
 
 ### Tours abroad
 
-Flights, hotels and an escort — Europe, Egypt and Asia.](https://besttraveler.ge/en/tours/#flight)[15 tours 
+Flights, hotels and an escort — Europe, Egypt and Asia.](https://besttraveler.ge/en/tours/#flight)[17 tours 
 
 ### Multi-day by bus
 
@@ -44,23 +44,11 @@ Kakheti, Kazbegi, Truso, Gareja and more — out in the morning, back at night.]
 
 [All dates](https://besttraveler.ge/en/tour-calendar/)
 
-By plane
-
-### [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-group-tour/)
-
-9 days / 8 nights25 Oct 2026
-
-9 days in Rajasthan: forts, havelis, temples and a boat ride on Lake Pichola.
-
-per person4,800 GEL
-
-View tour 
-
 Day tour
 
 ### [A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Takhti-Tepa and Kilakupra mud volcanoes, the Dali reservoir and a rock-cut monastery.
 
@@ -72,7 +60,7 @@ Day tour
 
 ### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
 
@@ -84,7 +72,7 @@ Day tour
 
 ### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
 
@@ -96,7 +84,7 @@ Day tour
 
 ### [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 The rock-cut Sabereebi monastery complex of Gareja, 9th–10th centuries.
 
@@ -106,13 +94,25 @@ View tour
 
 Day tour
 
-### [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
+### [Gudamakari Day Tour: Zanduki, Chokhi, Dumatskho, Didebaani Waterfall](https://besttraveler.ge/en/tours/gudamakari-gorge-day-tour/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
-Fortresses and monasteries of the Dzama Gorge, Bateti Lake and Mount Shuano in one day.
+Zanduki church, the villages of Chokhi and Dumatskho and the Didebaani waterfall, with three short walks.
 
-per person60 GEL
+per person70 GEL
+
+View tour 
+
+Day tour
+
+### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
+
+1 day31 Oct 2026
+
+Paravani and Saghamo lakes, the Poka monasteries, Gorelovka and the Madatapa reserve.
+
+per person65 GEL
 
 View tour 
 
@@ -120,7 +120,7 @@ View tour
 
 [Destinations](https://besttraveler.ge/en/destinations/)
 
-[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 8 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 6 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 4 tours](https://besttraveler.ge/en/destinations/spain/)[France 12 tours](https://besttraveler.ge/en/destinations/france/)[Greece 2 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 4 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
+[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 8 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 8 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 4 tours](https://besttraveler.ge/en/destinations/spain/)[France 12 tours](https://besttraveler.ge/en/destinations/france/)[Greece 3 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 4 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
 
 ## Why besttraveler
 

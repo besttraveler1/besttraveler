@@ -13,7 +13,7 @@ URL: https://besttraveler.ge/ru/
 [Смотреть туры](https://besttraveler.ge/ru/tury/)
 [Написать в WhatsApp](https://wa.me/995579575636?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D1%82%D1%83%D1%80)
 
-- 106туров
+- 108туров
 - 26стран
 - 50однодневных туров
 - от 60 ₾однодневные туры
@@ -30,7 +30,7 @@ URL: https://besttraveler.ge/ru/
 
 ### Туры за границу
 
-Авиабилеты, отели и сопровождающий — Европа, Египет, Азия.](https://besttraveler.ge/ru/tury/#flight)[15 туров 
+Авиабилеты, отели и сопровождающий — Европа, Египет, Азия.](https://besttraveler.ge/ru/tury/#flight)[17 туров 
 
 ### Многодневные на автобусе
 
@@ -44,23 +44,11 @@ URL: https://besttraveler.ge/ru/
 
 [Все даты](https://besttraveler.ge/ru/kalendar-turov/)
 
-Авиатур
-
-### [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур](https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/)
-
-9 дней / 8 ночей25 октября 2026
-
-9 дней в Раджастхане: форты, хавели, храмы и прогулка на лодке по озеру Пичола.
-
-за человека4 800 лари
-
-Смотреть тур 
-
 Однодневный
 
 ### [Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Грязевые вулканы Тахти-Тепа и Килакупра, водохранилище Дали и высеченный в скале монастырь.
 
@@ -72,7 +60,7 @@ URL: https://besttraveler.ge/ru/
 
 ### [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Город-крепость Уджарма, Гомборский перевал, Шуамта, Икалто, Тетри Гиорги и Алаверди.
 
@@ -84,7 +72,7 @@ URL: https://besttraveler.ge/ru/
 
 ### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Додос Рка, монастырь Давид Гареджи, цветные горы и водохранилище Мравалцкаро.
 
@@ -96,7 +84,7 @@ URL: https://besttraveler.ge/ru/
 
 ### [Давид Гареджи: однодневный тур в пустыню Сабереби](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Высеченный в скале монастырский комплекс Сабереби в Гареджи, IX–X века.
 
@@ -106,13 +94,25 @@ URL: https://besttraveler.ge/ru/
 
 Однодневный
 
-### [Однодневный тур в ущелье Дзама: Самцевриси, озеро Батети, Шуано](https://besttraveler.ge/ru/tury/ushchele-dzama-odnodnevnyy-tur/)
+### [Однодневный тур в Гудамакари: Зандуки, Чохи, Думацхо, водопад Дидебаани](https://besttraveler.ge/ru/tury/gudamakari-odnodnevnyy-tur/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
-Крепости и монастыри ущелья Дзама, озеро Батети и гора Шуано за один день.
+Церковь Зандуки, сёла Чохи и Думацхо и водопад Дидебаани — с тремя короткими пешими прогулками.
 
-за человека60 лари
+за человека70 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
+
+1 день31 октября 2026
+
+Озёра Паравани и Сагамо, монастыри Пока, Гореловка и заказник Мадатапа.
+
+за человека65 лари
 
 Смотреть тур 
 
@@ -120,7 +120,7 @@ URL: https://besttraveler.ge/ru/
 
 [Направления](https://besttraveler.ge/ru/napravleniya/)
 
-[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 6 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 4 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 12 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Греция 2 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 4 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 56 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
+[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 8 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 4 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 12 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Греция 3 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 4 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 56 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
 
 ## Почему besttraveler
 

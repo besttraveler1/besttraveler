@@ -64,7 +64,7 @@ URL: https://besttraveler.ge/ru/tury/ekskursiya-iz-batumi-v-peshcheru-prometeya/
 
 ### [Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Грязевые вулканы Тахти-Тепа и Килакупра, водохранилище Дали и высеченный в скале монастырь.
 
@@ -76,7 +76,7 @@ URL: https://besttraveler.ge/ru/tury/ekskursiya-iz-batumi-v-peshcheru-prometeya/
 
 ### [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Город-крепость Уджарма, Гомборский перевал, Шуамта, Икалто, Тетри Гиорги и Алаверди.
 
@@ -88,7 +88,7 @@ URL: https://besttraveler.ge/ru/tury/ekskursiya-iz-batumi-v-peshcheru-prometeya/
 
 ### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Додос Рка, монастырь Давид Гареджи, цветные горы и водохранилище Мравалцкаро.
 

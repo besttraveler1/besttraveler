@@ -159,11 +159,11 @@ View tour
 
 By plane
 
-### [Istanbul: 7-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
+### [Istanbul: 6-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
 
-7 daysTurkey
+6 days3–8 Mar 2027
 
-7 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
+6 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
 
 per person3,600 GEL
 

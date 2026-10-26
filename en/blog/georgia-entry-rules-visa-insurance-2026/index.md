@@ -134,7 +134,7 @@ Day tour
 
 ### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
 
@@ -158,7 +158,7 @@ Day tour
 
 ### [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 The rock-cut Sabereebi monastery complex of Gareja, 9th–10th centuries.
 

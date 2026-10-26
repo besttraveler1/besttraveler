@@ -89,7 +89,7 @@ Day tour
 
 ### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
 
@@ -101,7 +101,7 @@ Day tour
 
 ### [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 The rock-cut Sabereebi monastery complex of Gareja, 9th–10th centuries.
 

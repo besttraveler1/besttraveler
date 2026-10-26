@@ -126,6 +126,18 @@ Dates
 
 [See all tours](https://besttraveler.ge/en/tours/)
 
+By bus
+
+### [Turkey and Greece — 14-Day Tour by Bus](https://besttraveler.ge/en/tours/turkey-greece-14-day-tour/)
+
+14 days / 13 nights5–18 Jul 2027
+
+Ankara, Pergamon, Izmir, Ephesus, the Aegean and Mediterranean coast, and the Greek islands of Chios and Rhodes.
+
+per person3,700 GEL
+
+View tour 
+
 By plane
 
 ### [Greece: Thessaloniki, Meteora and Athens — 8-Day Tour](https://besttraveler.ge/en/tours/greece-thessaloniki-meteora-athens-tour/)
@@ -135,18 +147,6 @@ By plane
 Thessaloniki, the Meteora monasteries, Athens and Aegina island — 8 days in Greece.
 
 per person2,100 GEL
-
-View tour 
-
-By plane
-
-### [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-group-tour/)
-
-9 days / 8 nights25 Oct 2026
-
-9 days in Rajasthan: forts, havelis, temples and a boat ride on Lake Pichola.
-
-per person4,800 GEL
 
 View tour 
 

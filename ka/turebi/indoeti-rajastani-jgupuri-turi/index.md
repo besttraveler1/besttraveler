@@ -23,7 +23,7 @@ URL: https://besttraveler.ge/ka/turebi/indoeti-rajastani-jgupuri-turi/
 
 ხანგრძლივობა9 დღე / 8 ღამე
 
-უახლოესი გასვლა25 ოქტომბერი 2026
+თარიღებიმოთხოვნით
 
 გასვლათბილისი (TBS)
 
@@ -151,7 +151,7 @@ URL: https://besttraveler.ge/ka/turebi/indoeti-rajastani-jgupuri-turi/
 
 **როდის არის გასვლა?**
 
-უახლოესი თარიღები: 25 ოქტომბერი 2026. თავისუფალი ადგილები დააზუსტეთ ტელეფონით ან WhatsApp-ით.
+თარიღებსა და თავისუფალ ადგილებს გეტყვით ტელეფონით ან WhatsApp-ით.
 
 **რა შედის ფასში?**
 
@@ -169,7 +169,7 @@ URL: https://besttraveler.ge/ka/turebi/indoeti-rajastani-jgupuri-turi/
 
 თარიღები
 
-- 25 ოქტომბერი 2026
+თარიღები — მოთხოვნით
 
 - ორმხრივი ავიაბილეთი თბილისი–დელი–თბილისი
 - 30 კგ ბარგი

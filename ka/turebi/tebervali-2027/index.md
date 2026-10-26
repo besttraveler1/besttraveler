@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ka/turebi/tebervali-2027/
 
 ### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
 
-1 დღე25 ოქტომბერი 2026
+1 დღე31 ოქტომბერი 2026
 
 ფარავნისა და საღამოს ტბები, ფოკას მონასტრები, გორელოვკა და მადათაფას აღკვეთილი.
 
@@ -48,4 +48,4 @@ URL: https://besttraveler.ge/ka/turebi/tebervali-2027/
 
 ## ტურები თვეების მიხედვით
 
-[ოქტომბერში 2026 18](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 28](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 8](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 7](https://besttraveler.ge/ka/turebi/ianvari-2027/)[მარტში 2027 8](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 18](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 36](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 38](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 31](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 26](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 10](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
+[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 28](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 8](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 7](https://besttraveler.ge/ka/turebi/ianvari-2027/)[მარტში 2027 12](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 25](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 43](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 43](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 27](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 10](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)

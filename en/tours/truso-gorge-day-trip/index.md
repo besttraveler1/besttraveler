@@ -18,7 +18,7 @@ Photo: [Alexkom000](https://commons.wikimedia.org/wiki/File:2024-08-03_Truso_Val
 
 Duration1 day
 
-Next departure25 Oct 2026 +8
+Next departure1 Nov 2026 +7
 
 DepartureTbilisi, 07:00
 
@@ -60,7 +60,7 @@ The tour costs 60 GEL per person.
 
 **When does the tour leave?**
 
-Next dates: 25 Oct 2026, 1 Nov 2026, 13 Jun 2027, 27 Jun 2027, 4 Jul 2027, 18 Jul 2027. Please check free places by phone or WhatsApp.
+Next dates: 1 Nov 2026, 13 Jun 2027, 27 Jun 2027, 4 Jul 2027, 18 Jul 2027, 1 Aug 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -76,7 +76,6 @@ Price: 60 GELper person:
 
 Dates
 
-- 25 Oct 2026
 - 1 Nov 2026
 - 13 Jun 2027
 - 27 Jun 2027
@@ -100,7 +99,7 @@ Day tour
 
 ### [A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Takhti-Tepa and Kilakupra mud volcanoes, the Dali reservoir and a rock-cut monastery.
 
@@ -112,7 +111,7 @@ Day tour
 
 ### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
 
@@ -124,7 +123,7 @@ Day tour
 
 ### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
 

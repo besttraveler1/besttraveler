@@ -126,7 +126,7 @@ URL: https://besttraveler.ge/ka/blogi/shri-lankis-viza-kartvelebistvis/
 
 ### [ინდოეთი: რაჯასთანის ჯგუფური ტური — დელი, ჯაისალმერი, უდაიპური](https://besttraveler.ge/ka/turebi/indoeti-rajastani-jgupuri-turi/)
 
-9 დღე / 8 ღამე25 ოქტომბერი 2026
+9 დღე / 8 ღამეინდოეთი
 
 9 დღე რაჯასთანში: ციხე-სასახლეები, ჰაველიები, ტაძრები და ნავით გასეირნება პიჩოლას ტბაზე.
 

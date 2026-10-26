@@ -89,7 +89,7 @@ URL: https://besttraveler.ge/ka/blogi/davit-gareji-da-peradi-mtebi/
 
 ### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
 
-1 დღე25 ოქტომბერი 2026
+1 დღე31 ოქტომბერი 2026
 
 დოდოს რქა, დავით გარეჯის მონასტერი, ფერადი მთები და მრავალწყაროს წყალსაცავი.
 
@@ -101,7 +101,7 @@ URL: https://besttraveler.ge/ka/blogi/davit-gareji-da-peradi-mtebi/
 
 ### [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
 
-1 დღე25 ოქტომბერი 2026
+1 დღე31 ოქტომბერი 2026
 
 გარეჯის საბერეების კლდეში ნაკვეთი სამონასტრო კომპლექსი, IX–X საუკუნეები.
 

@@ -14,7 +14,7 @@ Day tour
 
 ### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
-1 day25 Oct 2026
+1 day31 Oct 2026
 
 Paravani and Saghamo lakes, the Poka monasteries, Gorelovka and the Madatapa reserve.
 
@@ -132,4 +132,4 @@ View tour
 
 ## Tours by month
 
-[October 2026 18](https://besttraveler.ge/en/tours/october-2026/)[November 2026 28](https://besttraveler.ge/en/tours/november-2026/)[December 2026 8](https://besttraveler.ge/en/tours/december-2026/)[January 2027 7](https://besttraveler.ge/en/tours/january-2027/)[February 2027 3](https://besttraveler.ge/en/tours/february-2027/)[March 2027 8](https://besttraveler.ge/en/tours/march-2027/)[April 2027 18](https://besttraveler.ge/en/tours/april-2027/)[May 2027 36](https://besttraveler.ge/en/tours/may-2027/)[June 2027 38](https://besttraveler.ge/en/tours/june-2027/)[July 2027 31](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 26](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)
+[October 2026 15](https://besttraveler.ge/en/tours/october-2026/)[November 2026 28](https://besttraveler.ge/en/tours/november-2026/)[December 2026 8](https://besttraveler.ge/en/tours/december-2026/)[January 2027 7](https://besttraveler.ge/en/tours/january-2027/)[February 2027 3](https://besttraveler.ge/en/tours/february-2027/)[March 2027 12](https://besttraveler.ge/en/tours/march-2027/)[April 2027 25](https://besttraveler.ge/en/tours/april-2027/)[May 2027 43](https://besttraveler.ge/en/tours/may-2027/)[June 2027 43](https://besttraveler.ge/en/tours/june-2027/)[July 2027 32](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 27](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)

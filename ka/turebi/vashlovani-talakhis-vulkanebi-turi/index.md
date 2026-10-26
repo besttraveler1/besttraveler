@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/
 
 ხანგრძლივობა1 დღე
 
-უახლოესი გასვლა25 ოქტომბერი 2026 +13
+უახლოესი გასვლა31 ოქტომბერი 2026 +12
 
 გასვლათბილისი, 07:00
 
@@ -63,7 +63,7 @@ URL: https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/
 
 **როდის არის გასვლა?**
 
-უახლოესი თარიღები: 25 ოქტომბერი 2026, 31 ოქტომბერი 2026, 1 ნოემბერი 2026, 7 ნოემბერი 2026, 18 აპრილი 2027, 24 აპრილი 2027. თავისუფალი ადგილები დააზუსტეთ ტელეფონით ან WhatsApp-ით.
+უახლოესი თარიღები: 31 ოქტომბერი 2026, 1 ნოემბერი 2026, 7 ნოემბერი 2026, 18 აპრილი 2027, 24 აპრილი 2027, 2 მაისი 2027. თავისუფალი ადგილები დააზუსტეთ ტელეფონით ან WhatsApp-ით.
 
 **რა შედის ფასში?**
 
@@ -79,7 +79,6 @@ URL: https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/
 
 თარიღები
 
-- 25 ოქტომბერი 2026
 - 31 ოქტომბერი 2026
 - 1 ნოემბერი 2026
 - 7 ნოემბერი 2026
@@ -108,7 +107,7 @@ URL: https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/
 
 ### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
 
-1 დღე25 ოქტომბერი 2026
+1 დღე31 ოქტომბერი 2026
 
 უჯარმის ციხე-ქალაქი, გომბორის უღელტეხილი, შუამთა, იყალთო, თეთრი გიორგი და ალავერდი.
 
@@ -120,7 +119,7 @@ URL: https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/
 
 ### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
 
-1 დღე25 ოქტომბერი 2026
+1 დღე31 ოქტომბერი 2026
 
 დოდოს რქა, დავით გარეჯის მონასტერი, ფერადი მთები და მრავალწყაროს წყალსაცავი.
 
@@ -132,7 +131,7 @@ URL: https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/
 
 ### [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
 
-1 დღე25 ოქტომბერი 2026
+1 დღე31 ოქტომბერი 2026
 
 გარეჯის საბერეების კლდეში ნაკვეთი სამონასტრო კომპლექსი, IX–X საუკუნეები.
 

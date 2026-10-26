@@ -126,6 +126,18 @@ URL: https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/
 
 [Смотреть все туры](https://besttraveler.ge/ru/tury/)
 
+На автобусе
+
+### [Турция и Греция — автобусный тур на 14 дней](https://besttraveler.ge/ru/tury/turtsiya-gretsiya-tur-14-dney/)
+
+14 дней / 13 ночей5–18 июля 2027
+
+Анкара, Пергам, Измир, Эфес, побережье Эгейского и Средиземного морей и греческие острова Хиос и Родос.
+
+за человека3 700 лари
+
+Смотреть тур 
+
 Авиатур
 
 ### [Греция: Салоники, Метеоры и Афины — тур на 8 дней](https://besttraveler.ge/ru/tury/gretsiya-saloniki-meteory-afiny-tur/)
@@ -135,18 +147,6 @@ URL: https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/
 Салоники, монастыри Метеоры, Афины и остров Эгина — 8 дней в Греции.
 
 за человека2 100 лари
-
-Смотреть тур 
-
-Авиатур
-
-### [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур](https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/)
-
-9 дней / 8 ночей25 октября 2026
-
-9 дней в Раджастхане: форты, хавели, храмы и прогулка на лодке по озеру Пичола.
-
-за человека4 800 лари
 
 Смотреть тур 
 

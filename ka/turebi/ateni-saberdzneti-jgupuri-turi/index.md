@@ -126,6 +126,18 @@ URL: https://besttraveler.ge/ka/turebi/ateni-saberdzneti-jgupuri-turi/
 
 [ყველა ტურის ნახვა](https://besttraveler.ge/ka/turebi/)
 
+ავტობუსით
+
+### [თურქეთი და საბერძნეთი — 14-დღიანი ტური ავტობუსით](https://besttraveler.ge/ka/turebi/turketi-saberdzneti-14-dghiani-turi/)
+
+14 დღე / 13 ღამე5–18 ივლისი 2027
+
+ანკარა, პერგამონი, იზმირი, ეფესო, ეგეოსისა და ხმელთაშუა ზღვის სანაპირო და ბერძნული კუნძულები ქიოსი და როდოსი.
+
+ერთ ადამიანზე3 700 ლარი
+
+ტურის ნახვა 
+
 ავიატური
 
 ### [საბერძნეთი: სალონიკი, მეტეორა და ათენი — 8-დღიანი ტური](https://besttraveler.ge/ka/turebi/saberdzneti-saloniki-meteora-ateni-turi/)
@@ -135,18 +147,6 @@ URL: https://besttraveler.ge/ka/turebi/ateni-saberdzneti-jgupuri-turi/
 სალონიკი, მეტეორას მონასტრები, ათენი და კუნძული ეგინა — 8 დღე საბერძნეთში.
 
 ერთ ადამიანზე2 100 ლარი
-
-ტურის ნახვა 
-
-ავიატური
-
-### [ინდოეთი: რაჯასთანის ჯგუფური ტური — დელი, ჯაისალმერი, უდაიპური](https://besttraveler.ge/ka/turebi/indoeti-rajastani-jgupuri-turi/)
-
-9 დღე / 8 ღამე25 ოქტომბერი 2026
-
-9 დღე რაჯასთანში: ციხე-სასახლეები, ჰაველიები, ტაძრები და ნავით გასეირნება პიჩოლას ტბაზე.
-
-ერთ ადამიანზე4 800 ლარი
 
 ტურის ნახვა 
 

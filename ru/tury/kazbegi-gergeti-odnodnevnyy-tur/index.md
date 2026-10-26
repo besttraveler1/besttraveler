@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/
 
 Длительность1 день
 
-Ближайший выезд25 октября 2026 +11
+Ближайший выезд31 октября 2026 +10
 
 ВыездТбилиси, 07:00
 
@@ -63,7 +63,7 @@ URL: https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/
 
 **Когда выезд?**
 
-Ближайшие даты: 25 октября 2026, 31 октября 2026, 7 ноября 2026, 8 ноября 2026, 27 мая 2027, 5 июня 2027. Свободные места уточняйте по телефону или в WhatsApp.
+Ближайшие даты: 31 октября 2026, 7 ноября 2026, 8 ноября 2026, 27 мая 2027, 5 июня 2027, 3 июля 2027. Свободные места уточняйте по телефону или в WhatsApp.
 
 **Что входит в цену?**
 
@@ -79,7 +79,6 @@ URL: https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/
 
 Даты
 
-- 25 октября 2026
 - 31 октября 2026
 - 7 ноября 2026
 - 8 ноября 2026
@@ -106,7 +105,7 @@ URL: https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/
 
 ### [Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Грязевые вулканы Тахти-Тепа и Килакупра, водохранилище Дали и высеченный в скале монастырь.
 
@@ -118,7 +117,7 @@ URL: https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/
 
 ### [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Город-крепость Уджарма, Гомборский перевал, Шуамта, Икалто, Тетри Гиорги и Алаверди.
 
@@ -130,7 +129,7 @@ URL: https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/
 
 ### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Додос Рка, монастырь Давид Гареджи, цветные горы и водохранилище Мравалцкаро.
 

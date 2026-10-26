@@ -59,46 +59,6 @@ Flight tour prices are based on current air fares. Fares rise as the departure g
 
 # Tours
 
-## India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur
-
-URL: https://besttraveler.ge/en/tours/india-rajasthan-group-tour/
-
-- Type: By plane
-- Countries: India
-- Duration: 9 days / 8 nights
-- Price: 4,800 GEL per person
-- Departure: From Tbilisi airport
-- Dates: 25 Oct 2026
-
-A 9-day / 8-night group tour of India: Delhi and the cities of Rajasthan, including Mandawa, Bikaner, Jaisalmer, Jodhpur, Ranakpur, Udaipur and Pushkar. Departure from Tbilisi on 25 October at 23:45.
-
-**Day 1: Tbilisi to Delhi and Mandawa:** Flight from Tbilisi on 25 October at 23:45, arrival in Delhi on 26 October at 07:05; Transfer to the hotel; after breakfast, drive to Mandawa; Mandawa havelis, houses once owned by wealthy merchants; Breakfast, dinner and overnight at the hotel
-**Day 2: Mandawa to Bikaner:** Binsidhar Newatia Haveli, known for its bright, lively paintings; Gulab Rai Ladia Haveli, Goenka Double Haveli, Murmuria Haveli, Jhunjhunwala Haveli; Drive to Bikaner: Junagarh Fort, decorated with gold leaf, glass, mirror work and Dutch tiles; Breakfast, dinner and overnight at the hotel
-**Day 3: Bikaner to Jaisalmer:** Jaisalmer Fort, standing about 100 metres high; Havelis with carved facades and windows; Salim Singh Haveli (17th century), known for its peacock carvings; Nathumal Haveli (1885) and Patwon Haveli (1805); Dinner and overnight at the hotel
-**Day 4: Jaisalmer to Jodhpur:** Drive to Jodhpur, hotel check-in and free time; Mehrangarh Fort on a 125-metre hill, one of the most impressive buildings in Rajasthan; Jaswant Thada, a white marble memorial (1899) to Maharaja Jaswant Singh II; Evening: the Clock Tower and Sardar Bazaar, with textiles, antiques, silverware and handicrafts; Breakfast and overnight at the hotel
-**Day 5: Jodhpur to Udaipur via Ranakpur:** Ranakpur temples (15th century), famous for their intricate architecture; Arrival in Udaipur, transfer to the hotel; Breakfast and overnight at the hotel
-**Day 6: Udaipur, the City of Lakes:** City Palace, the former home of the Mewar rulers, now mostly a museum overlooking Lake Pichola; Jagdish Mandir; Sahelion ki Bari; Bharatiya Lok Kala Mandal; Evening boat ride on Lake Pichola; Breakfast and overnight at the hotel
-**Day 7: Udaipur to Pushkar:** Brahma Temple and the ghats; Pushkar, a town on the shore of Pushkar Lake; Breakfast and overnight at the hotel
-**Day 8: Pushkar to Delhi:** After breakfast, drive to Delhi; Free time
-**Day 9: Delhi to Tbilisi:** Qutub Minar; India Gate; President's House and Parliament; Bangla Sahib; Agrasen ki Baoli, a historic stepwell 60 m long and 15 m wide; Dinner at Lazeez restaurant, then transfer to the international airport
-
-Included:
-- Return flights Tbilisi-Delhi-Tbilisi
-- 30 kg baggage
-- 4-5 star hotels
-- Two meals a day (breakfast and dinner)
-- Internal transfers
-- Travel insurance
-- Local guide
-- Georgian-speaking tour escort from Tbilisi
-- Group excursions
-- Boat ride on Lake Pichola
-- Entrance fees to architectural sites
-- All taxes and fees
-
-Not included:
-- Visa fee (40 USD)
-
 ## A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes
 
 URL: https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/
@@ -108,7 +68,7 @@ URL: https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/
 - Duration: 1 day
 - Price: 60 GEL per person
 - Departure: From Tbilisi at 07:00
-- Dates: 25 Oct 2026, 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027, 17 Sep 2027, 23 Sep 2027, 30 Sep 2027, 8 Oct 2027, 14 Oct 2027, 22 Oct 2027
+- Dates: 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027, 17 Sep 2027, 23 Sep 2027, 30 Sep 2027, 8 Oct 2027, 14 Oct 2027, 22 Oct 2027
 
 A one-day minibus tour from Tbilisi to the Vashlovani area. We see mud volcanoes at two sites, the Dali reservoir and a monastery cut into the rock.
 
@@ -134,7 +94,7 @@ URL: https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/
 - Duration: 1 day
 - Price: 60 GEL per person
 - Departure: From Tbilisi at 08:00
-- Dates: 25 Oct 2026, 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
+- Dates: 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
 
 A classic one-day tour to Kakheti over the Gombori Pass, visiting well-known Kakhetian monasteries.
 
@@ -160,7 +120,7 @@ URL: https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/
 - Duration: 1 day
 - Price: 60 GEL per person
 - Departure: From Tbilisi at 08:00
-- Dates: 25 Oct 2026, 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 13 Mar 2027, 21 Mar 2027, 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027, 15 May 2027
+- Dates: 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 13 Mar 2027, 21 Mar 2027, 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027, 15 May 2027
 
 A one-day tour to the Gareja desert: monasteries, colorful mountains and views over the desert. The walking is easy, about 1 km in total.
 
@@ -183,7 +143,7 @@ URL: https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/
 - Duration: 1 day
 - Price: 60 GEL per person
 - Departure: From Tbilisi at 08:00
-- Dates: 25 Oct 2026, 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 13 Mar 2027, 21 Mar 2027, 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027, 15 May 2027
+- Dates: 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 13 Mar 2027, 21 Mar 2027, 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027, 15 May 2027
 
 The Sabereebi complex dates from the 9th–10th centuries. The rock-cut monastery covers a large area and survives as groups of caves set next to each other.
 
@@ -197,32 +157,6 @@ Included:
 Notes:
 - The tour runs in any weather; it is postponed only if there is a problem with the road.
 
-## Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano
-
-URL: https://besttraveler.ge/en/tours/dzama-gorge-day-trip/
-
-- Type: Day tour
-- Countries: Georgia
-- Duration: 1 day
-- Price: 60 GEL per person
-- Departure: From Tbilisi at 08:00
-- Dates: 25 Oct 2026, 1 Nov 2026, 30 May 2027, 20 Jun 2027, 18 Jul 2027, 7 Aug 2027, 28 Aug 2027, 12 Sep 2027, 19 Sep 2027, 10 Oct 2027
-
-A different one-day tour to the Dzama Gorge. We go up to Bateti Lake and Kvemo Shuano by Delica vehicles.
-
-Stops: Samtsevrisi Fortress; Ortubani Convent; Sarkineti Monastery; Bateti Lake (ascent by Delica, 10 GEL); Kvemo Shuano (ascent by Delica, 20 GEL); Mount Shuano; Gorijvari St George Church
-
-Included:
-- Transport by minibus
-- Tour escort
-- Photography
-
-Not included:
-- Delica rides to Bateti Lake and Kvemo Shuano — 30 GEL in total (10 + 20 GEL)
-
-Notes:
-- The tour runs in any weather; it is postponed only if there is a problem with the road.
-
 ## Gudamakari Day Tour: Zanduki, Chokhi, Dumatskho, Didebaani Waterfall
 
 URL: https://besttraveler.ge/en/tours/gudamakari-gorge-day-tour/
@@ -232,7 +166,7 @@ URL: https://besttraveler.ge/en/tours/gudamakari-gorge-day-tour/
 - Duration: 1 day
 - Price: 70 GEL per person
 - Departure: From Tbilisi at 07:00
-- Dates: 25 Oct 2026, 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 23 Sep 2027, 3 Oct 2027, 16 Oct 2027, 31 Oct 2027
+- Dates: 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 23 Sep 2027, 3 Oct 2027, 16 Oct 2027, 31 Oct 2027
 
 A one-day minibus tour from Tbilisi to Gudamakari. There are three short walks during the day; the longest is to Chokhi, 1.6 km one way (medium).
 
@@ -258,7 +192,7 @@ URL: https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/
 - Duration: 1 day
 - Price: 65 GEL per person
 - Departure: From Tbilisi at 07:00
-- Dates: 25 Oct 2026, 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 6 Dec 2026, 19 Dec 2026, 10 Jan 2027, 23 Jan 2027, 20 Feb 2027, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
+- Dates: 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 6 Dec 2026, 19 Dec 2026, 10 Jan 2027, 23 Jan 2027, 20 Feb 2027, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
 
 A one-day tour to the lakes of Javakheti, including Paravani, the largest lake in Georgia.
 
@@ -278,7 +212,7 @@ URL: https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani-day-trip/
 - Duration: 1 day
 - Price: 60 GEL per person
 - Departure: From Tbilisi at 08:00
-- Dates: 25 Oct 2026, 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027, 15 May 2027, 13 Jun 2027, 20 Jun 2027, 3 Jul 2027, 18 Jul 2027, 25 Jul 2027, 8 Aug 2027, 15 Aug 2027, 28 Aug 2027
+- Dates: 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027, 15 May 2027, 13 Jun 2027, 20 Jun 2027, 3 Jul 2027, 18 Jul 2027, 25 Jul 2027, 8 Aug 2027, 15 Aug 2027, 28 Aug 2027
 
 A one-day tour to Kakheti: a medieval fortress and monasteries, the Nato Vachnadze house-museum and Ziari Lake.
 
@@ -301,7 +235,7 @@ URL: https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/
 - Duration: 1 day
 - Price: 60 GEL per person
 - Departure: From Tbilisi at 08:00
-- Dates: 25 Oct 2026, 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027, 15 May 2027, 13 Jun 2027, 20 Jun 2027, 3 Jul 2027, 18 Jul 2027, 25 Jul 2027, 8 Aug 2027, 15 Aug 2027, 28 Aug 2027
+- Dates: 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027, 15 May 2027, 13 Jun 2027, 20 Jun 2027, 3 Jul 2027, 18 Jul 2027, 25 Jul 2027, 8 Aug 2027, 15 Aug 2027, 28 Aug 2027
 
 A one-day minibus tour to Kakheti: Nekresi, Ilia Lake, Gremi and Telavi.
 
@@ -314,95 +248,6 @@ Included:
 
 Notes:
 - The tour runs in any weather; it is postponed only if there is a problem with the road.
-
-## Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity
-
-URL: https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/
-
-- Type: Day tour
-- Countries: Georgia
-- Duration: 1 day
-- Price: 60 GEL per person
-- Departure: From Tbilisi at 07:00
-- Dates: 25 Oct 2026, 31 Oct 2026, 7 Nov 2026, 8 Nov 2026, 27 May 2027, 5 Jun 2027, 3 Jul 2027, 18 Jul 2027, 25 Jul 2027, 7 Aug 2027, 15 Aug 2027, 22 Aug 2027
-
-A one-day tour to Kazbegi. The walk to the big Gveleti waterfall is 1.2 km one way (medium), and to the small one 500 m.
-
-Stops: Dariali Monastery Complex; Big Gveleti waterfall (walk, 1.2 km one way, medium); Small Gveleti waterfall (walk, easy, 500 m); Gergeti Trinity Church (ride up by local jeep, 10 GEL); Gudauri panorama
-
-Included:
-- Travel by top-class minibus
-- Services of a qualified tour organizer (organization, short overview of the sights)
-- Photography
-
-Not included:
-- Ride up to Gergeti by local jeep — 10 GEL per person
-
-## Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes
-
-URL: https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/
-
-- Type: Day tour
-- Countries: Georgia
-- Duration: 1 day
-- Price: 65 GEL per person
-- Departure: From Tbilisi at 07:00
-- Dates: 25 Oct 2026, 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
-
-A one-day minibus tour from Tbilisi to the Kvemo Kartli region. We visit old monasteries, Gagi Fortress and the Tamarisi lakes.
-
-Stops: Tserakvi Monastery of the Mother of God; Gagi Fortress; Tamarisi lakes; Queen Ketevan Convent; Shavnabada Monastery of St George
-
-Included:
-- Travel by top-class minibus
-- Services of a qualified guide
-- Photography
-
-## Rkoni and Kvatakhevi Day Tour: Kvatakhevi, Ertatsminda, Rkoni, Ikvi
-
-URL: https://besttraveler.ge/en/tours/rkoni-kvatakhevi-day-tour/
-
-- Type: Day tour
-- Countries: Georgia
-- Duration: 1 day
-- Price: 60 GEL per person
-- Departure: From Tbilisi at 07:00
-- Dates: 25 Oct 2026, 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 17 Sep 2027, 23 Sep 2027, 30 Sep 2027, 8 Oct 2027, 14 Oct 2027, 22 Oct 2027
-
-A one-day minibus tour from Tbilisi to Shida Kartli. We walk to Rkoni Monastery and to Ikvi church (1.8 and 1.6 km one way, easy).
-
-Stops: Kvatakhevi Monastery; Ertatsminda; Rkoni Monastery and Queen Tamar's Bridge (walk, 1.8 km one way, easy); Ikvi church (walk, 1.6 km one way, easy)
-
-Included:
-- Travel by top-class minibus
-- Services of a qualified tour organizer (organization, short overview of the sights)
-- Photography
-
-Not included:
-- Meals (on your own)
-
-Notes:
-- The tour runs in any weather; it is postponed only if there is a problem with the road.
-
-## Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori
-
-URL: https://besttraveler.ge/en/tours/truso-gorge-day-trip/
-
-- Type: Day tour
-- Countries: Georgia
-- Duration: 1 day
-- Price: 60 GEL per person
-- Departure: From Tbilisi at 07:00
-- Dates: 25 Oct 2026, 1 Nov 2026, 13 Jun 2027, 27 Jun 2027, 4 Jul 2027, 18 Jul 2027, 1 Aug 2027, 22 Aug 2027, 5 Sep 2027
-
-A one-day tour to the Truso Gorge. The walk is 6–7 km one way and easy.
-
-Stops: Truso Gorge: colorful travertines; The 'bottomless' lake; Ketrisi village; Abano Convent; Zakagori Fortress; Walk: 6–7 km one way, easy
-
-Included:
-- Travel by minibus
-- Services of a qualified tour organizer (organization, short overview of each sight)
-- Photography
 
 ## Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe
 
@@ -430,6 +275,49 @@ Not included:
 Notes:
 - The tour runs in any weather; it is postponed only if there is a problem with the road.
 
+## Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity
+
+URL: https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/
+
+- Type: Day tour
+- Countries: Georgia
+- Duration: 1 day
+- Price: 60 GEL per person
+- Departure: From Tbilisi at 07:00
+- Dates: 31 Oct 2026, 7 Nov 2026, 8 Nov 2026, 27 May 2027, 5 Jun 2027, 3 Jul 2027, 18 Jul 2027, 25 Jul 2027, 7 Aug 2027, 15 Aug 2027, 22 Aug 2027
+
+A one-day tour to Kazbegi. The walk to the big Gveleti waterfall is 1.2 km one way (medium), and to the small one 500 m.
+
+Stops: Dariali Monastery Complex; Big Gveleti waterfall (walk, 1.2 km one way, medium); Small Gveleti waterfall (walk, easy, 500 m); Gergeti Trinity Church (ride up by local jeep, 10 GEL); Gudauri panorama
+
+Included:
+- Travel by top-class minibus
+- Services of a qualified tour organizer (organization, short overview of the sights)
+- Photography
+
+Not included:
+- Ride up to Gergeti by local jeep — 10 GEL per person
+
+## Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes
+
+URL: https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/
+
+- Type: Day tour
+- Countries: Georgia
+- Duration: 1 day
+- Price: 65 GEL per person
+- Departure: From Tbilisi at 07:00
+- Dates: 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
+
+A one-day minibus tour from Tbilisi to the Kvemo Kartli region. We visit old monasteries, Gagi Fortress and the Tamarisi lakes.
+
+Stops: Tserakvi Monastery of the Mother of God; Gagi Fortress; Tamarisi lakes; Queen Ketevan Convent; Shavnabada Monastery of St George
+
+Included:
+- Travel by top-class minibus
+- Services of a qualified guide
+- Photography
+
 ## Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike
 
 URL: https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/
@@ -449,6 +337,32 @@ Included:
 - Travel by high-clearance minibus
 - Services of a qualified hiking guide (tour organization)
 - Photography
+
+## Rkoni and Kvatakhevi Day Tour: Kvatakhevi, Ertatsminda, Rkoni, Ikvi
+
+URL: https://besttraveler.ge/en/tours/rkoni-kvatakhevi-day-tour/
+
+- Type: Day tour
+- Countries: Georgia
+- Duration: 1 day
+- Price: 60 GEL per person
+- Departure: From Tbilisi at 07:00
+- Dates: 31 Oct 2026, 1 Nov 2026, 7 Nov 2026, 17 Sep 2027, 23 Sep 2027, 30 Sep 2027, 8 Oct 2027, 14 Oct 2027, 22 Oct 2027
+
+A one-day minibus tour from Tbilisi to Shida Kartli. We walk to Rkoni Monastery and to Ikvi church (1.8 and 1.6 km one way, easy).
+
+Stops: Kvatakhevi Monastery; Ertatsminda; Rkoni Monastery and Queen Tamar's Bridge (walk, 1.8 km one way, easy); Ikvi church (walk, 1.6 km one way, easy)
+
+Included:
+- Travel by top-class minibus
+- Services of a qualified tour organizer (organization, short overview of the sights)
+- Photography
+
+Not included:
+- Meals (on your own)
+
+Notes:
+- The tour runs in any weather; it is postponed only if there is a problem with the road.
 
 ## Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara
 
@@ -555,6 +469,32 @@ Not included:
 Notes:
 - The tour runs in any weather; it is postponed only if there is a problem with the road.
 
+## Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano
+
+URL: https://besttraveler.ge/en/tours/dzama-gorge-day-trip/
+
+- Type: Day tour
+- Countries: Georgia
+- Duration: 1 day
+- Price: 60 GEL per person
+- Departure: From Tbilisi at 08:00
+- Dates: 1 Nov 2026, 30 May 2027, 20 Jun 2027, 18 Jul 2027, 7 Aug 2027, 28 Aug 2027, 12 Sep 2027, 19 Sep 2027, 10 Oct 2027
+
+A different one-day tour to the Dzama Gorge. We go up to Bateti Lake and Kvemo Shuano by Delica vehicles.
+
+Stops: Samtsevrisi Fortress; Ortubani Convent; Sarkineti Monastery; Bateti Lake (ascent by Delica, 10 GEL); Kvemo Shuano (ascent by Delica, 20 GEL); Mount Shuano; Gorijvari St George Church
+
+Included:
+- Transport by minibus
+- Tour escort
+- Photography
+
+Not included:
+- Delica rides to Bateti Lake and Kvemo Shuano — 30 GEL in total (10 + 20 GEL)
+
+Notes:
+- The tour runs in any weather; it is postponed only if there is a problem with the road.
+
 ## Shida Kartli Tour: Gori Fortress, Gorijvari, Uplistsikhe, Ateni Sioni
 
 URL: https://besttraveler.ge/en/tours/gori-uplistsikhe-ateni-day-tour/
@@ -601,6 +541,26 @@ Included:
 - Services of a qualified tour organizer (organization, short overview of the sights)
 - Photography
 
+## Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori
+
+URL: https://besttraveler.ge/en/tours/truso-gorge-day-trip/
+
+- Type: Day tour
+- Countries: Georgia
+- Duration: 1 day
+- Price: 60 GEL per person
+- Departure: From Tbilisi at 07:00
+- Dates: 1 Nov 2026, 13 Jun 2027, 27 Jun 2027, 4 Jul 2027, 18 Jul 2027, 1 Aug 2027, 22 Aug 2027, 5 Sep 2027
+
+A one-day tour to the Truso Gorge. The walk is 6–7 km one way and easy.
+
+Stops: Truso Gorge: colorful travertines; The 'bottomless' lake; Ketrisi village; Abano Convent; Zakagori Fortress; Walk: 6–7 km one way, easy
+
+Included:
+- Travel by minibus
+- Services of a qualified tour organizer (organization, short overview of each sight)
+- Photography
+
 ## Bari and Puglia, Italy — New Year Group Tour via Yerevan
 
 URL: https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/
@@ -640,9 +600,9 @@ URL: https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/
 - Type: By bus
 - Countries: Turkey
 - Duration: 6 days
-- Price: 1,350 GEL per person
+- Price: 1,450 GEL per person (deposit 300 GEL)
 - Departure: From Tbilisi at 06:00
-- Dates: 2–7 Nov 2026
+- Dates: 2–7 Nov 2026, 13–18 Apr 2027, 12–17 May 2027, 18–23 Jun 2027
 
 A 6-day tour of Turkey by comfortable bus. We never travel overnight: every night is spent in a hotel.
 
@@ -666,6 +626,9 @@ Not included:
 Optional extras:
 - Hot-air balloon flight: 200-250 EUR (optional)
 - Turkish Night: 30 EUR (optional)
+
+Notes:
+- Alcohol and smoking are not allowed on the bus.
 
 ## Spain and Portugal by Car — Group Tour, 3–10 November
 
@@ -1161,6 +1124,104 @@ Not included:
 - Entrance fees to the sights
 - Meals other than breakfast
 
+## Istanbul: 6-Day Tour with Flights from Tbilisi or Batumi
+
+URL: https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/
+
+- Type: By plane
+- Countries: Turkey
+- Duration: 6 days
+- Price: 3,600 GEL per person (deposit 1,000 GEL)
+- Departure: From Tbilisi airport
+- Dates: 3–8 Mar 2027, 3–8 Apr 2027, 3–8 May 2027, 3–8 Jun 2027
+
+A 6-day tour of Istanbul with flights from Tbilisi or Batumi. The programme covers Istanbul's main sights, a cruise to the Princes' Islands and a trip to Sile.
+
+**Day 1:** Flight from Tbilisi (or Batumi) airport; Transfer in Istanbul, hotel check-in, free time; Turkish night and a Bosphorus cruise; Dinner
+**Day 2:** 07:30 breakfast, 08:30 start of the tour; Topkapi Palace and Harem; Hagia Irene; Sultan Ahmed Mosque (Blue Mosque); Ibrahim Pasha Palace; Hurrem Sultan Hamam; Lunch at a Turkish restaurant; Boat trip: the Golden Horn, the Bosphorus, Rumeli Hisari fortress, Maiden's Tower; Beylerbeyi Park
+**Day 3:** 07:30 breakfast; Cruise to the Princes' Islands: Buyukada and Burgazada; Lunch; Leather showroom
+**Day 4:** Trip to Sile; Lunch
+**Day 5:** 07:30 breakfast; Basilica Cistern, dating from 532, from the time of old Constantinople; Sultanahmet Square; Hagia Sophia, the main church of old Constantinople; Taksim Square and Istiklal Street; Galata Tower
+**Day 6:** 07:30 breakfast; St George's Cathedral and the Ecumenical Patriarchate; The 'One-Day Church', where you can make a wish; Valens Aqueduct; Suleymaniye Mosque; Balat, with its colourful houses; Emirgan Park; Spice Bazaar and Grand Bazaar: free time for shopping; Transfer to the airport, flight back to Tbilisi (or Batumi)
+
+Included:
+- Return flights Tbilisi (or Batumi) - Istanbul
+- 20 kg checked baggage
+- Transfer
+- Transport during the tour
+- Hotel with breakfast
+- Three lunches and one dinner
+- Entrance fees to all sites
+- Tour escort from Tbilisi
+- Local guide (3 days)
+- Photography
+- Travel insurance
+
+Not included:
+- Other meals
+
+## Kars, Ani and Van: 3-Day Tour of Eastern Turkey
+
+URL: https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/
+
+- Type: By bus
+- Countries: Turkey
+- Duration: 3 days / 2 nights
+- Price: 450 GEL per person (deposit 100 GEL)
+- Departure: From Tbilisi at 05:00
+- Dates: 6–8 Mar 2027, 9–11 Apr 2027, 1–3 May 2027
+
+A 3-day minibus tour of eastern Turkey. Your guide is Giorgi Beridze-Berjavakhi.
+
+**Day 1:** 05:00 departure from Tbilisi; Kartsakhi border crossing; Kajis Tsikhe, a 10th-century fortress; Keles Droi waterfall; Kars Castle (1153); Kars, hotel check-in, free time
+**Day 2:** Ani Cathedral (built 989-1001); Ani archaeological site; Ishak Pasha Palace (1784); Khtskonk Monastery; Van, hotel check-in, free time
+**Day 3:** Van Fortress (9th-7th century BC); Akdamar Island; Muradiye Waterfall; Return to Tbilisi
+
+Included:
+- Transport by minibus
+- Hotel with breakfast
+- Guide: Giorgi Beridze-Berjavakhi
+
+Not included:
+- Local fees (100-150 GEL)
+- Meals other than breakfast
+
+## Van and Mardin: 7-Day Tour of Eastern Turkey
+
+URL: https://besttraveler.ge/en/tours/eastern-turkey-van-mardin-nemrut-tour/
+
+- Type: By bus
+- Countries: Turkey
+- Duration: 7 days / 6 nights
+- Price: 1,450 GEL per person
+- Departure: From Tbilisi at 07:00
+- Dates: 13–19 Mar 2027, 19–25 Apr 2027, 21–27 May 2027
+
+A 7-day minibus tour of Turkey with a Georgian-speaking guide: Kars, Van, Mardin, Adiyaman and Bingol.
+
+**Day 1:** 07:00 departure from Tbilisi to the Kartsakhi border crossing, border formalities; Kajis Tsikhe, a 10th-century fortress; Kars Castle (1153); Kars, hotel check-in, free time
+**Day 2:** Ani Cathedral (built 989-1001); Ani archaeological site; Ishak Pasha Palace (1784); Muradiye Waterfall; Van, hotel check-in
+**Day 3:** Van Fortress (9th-7th century BC); Hosap Castle (17th century); Akdamar Island (boat about 15-30 Turkish lira); Mardin, hotel check-in
+**Day 4:** Deyrulzafaran Monastery, founded in the 5th century (20-30 Turkish lira); Mor Gabriel Monastery, founded in 397, one of the oldest Christian monasteries in the world; Diyarbakir; Mardin: walk and free time
+**Day 5:** Harran, one of the oldest cities in the world; Sanliurfa, one of the oldest cities; The sunken town of Halfeti, boat trip; Adiyaman, capital of Adiyaman province, with a rich history; Hotel check-in
+**Day 6:** Perre (Pirin), an ancient city in Adiyaman province (4th-3rd century BC); Mount Nemrut (69-34 BC), a UNESCO World Heritage site with large statues and royal reliefs made on the orders of King Antiochus I of Commagene; Bingol
+**Day 7:** Return to Tbilisi
+
+Included:
+- Transport and transfers by minibus
+- Hotels with breakfast: 1 night in Kars, 1 in Van, 2 in Mardin, 1 in Adiyaman, 1 in Bingol
+- Georgian-speaking guide
+- Travel insurance
+- Photography
+
+Not included:
+- Boat trips
+- Museum tickets
+- Meals other than breakfast
+
+Notes:
+- Alcohol and smoking are not allowed on the bus.
+
 ## Corsica, France — 10-Day Group Tour with Paris
 
 URL: https://besttraveler.ge/en/tours/corsica-group-tour-from-kutaisi/
@@ -1208,6 +1269,33 @@ Optional extras:
 Notes:
 - The order of visits may change.
 
+## Trabzon and Sumela Monastery: 3-Day Tour
+
+URL: https://besttraveler.ge/en/tours/trabzon-sumela-monastery-tour/
+
+- Type: By bus
+- Countries: Turkey
+- Duration: 3 days / 2 nights
+- Price: 480 GEL per person (deposit 100 GEL)
+- Departure: From Tbilisi at 05:00
+- Dates: 26–28 Mar 2027, 2–4 Apr 2027, 7–9 May 2027, 4–6 Jun 2027
+
+A 3-day tour of Trabzon and its surroundings. Departure from Tbilisi (Didube) at 5 am.
+
+**Day 1:** 05:00 departure from Tbilisi; Trabzon; Trabzon Aquarium; Theoskepastos Monastery, a former Orthodox convent (1349-1390); Boztepe hill and viewing deck; Hotel check-in
+**Day 2:** Cal Cave; Duzkoy; Sabachak cafe and restaurant; Kayabasi nature park, with views and lakes; Haikal plateau; Little Hagia Sophia; Meydan: free time
+**Day 3:** Sumela Monastery; Return to Georgia
+
+Included:
+- Travel by minibus
+- Tour organisation and a short overview of each sight
+- Photography
+- Two nights in a hotel in Trabzon with breakfast
+
+Notes:
+- Meeting point: next to Didube metro station (upper metro exit).
+- Alcohol and smoking are not allowed on the bus.
+
 ## Spain, France and Andorra — 10-Day Tour from Barcelona
 
 URL: https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/
@@ -1245,6 +1333,30 @@ Not included:
 - Museum entrance fees (optional)
 - Meals other than breakfast
 - Transfer Tbilisi–Kutaisi–Tbilisi (60 GEL)
+
+## Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana
+
+URL: https://besttraveler.ge/en/tours/tao-klarjeti-tour-turkey/
+
+- Type: By bus
+- Countries: Turkey
+- Duration: 3 days
+- Price: 480 GEL per person (deposit 100 GEL)
+- Departure: From Tbilisi at 05:00
+- Dates: 9–11 Apr 2027, 30 Apr – 2 May 2027, 21–23 May 2027, 11–13 Jun 2027
+
+A tour of historic Tao-Klarjeti (now in Turkey): Georgian monasteries, fortresses and the landscapes of Klarjeti. Departure from Tbilisi at 5 am, crossing the border at Vale.
+
+**Programme:** 05:00 departure from Tbilisi, border crossing at Vale; Tbeti monastery complex, religious centre of a powerful diocese and a Georgian centre of writing; Satle fortress, centre of the Shavsheti duchy; Hell's Canyon, a natural wonder of Klarjeti; Artanuji, fortress town and citadel, a capital of the Georgian kingdom, with its strong citadel and remains of town life; Landscapes of Klarjeti; Doliskana Monastery; Yusufeli; Oshki monastery complex and cathedral; Tortum gorge and Tortum Waterfall; Otkhta Eklesia monastery complex; Parkhali Monastery, from the time of David Kuropalates and the Tao-Klarjeti renaissance; Chapels of Parkhali; Former summer residences of the Bagrationi; Ruins of Bana cathedral and the old town; Shopping and a walk in Ardahan (Artaani); Return to Georgia
+
+Included:
+- The programme described
+- Driver experienced on Tao's roads
+- Breakfast and dinner
+
+Notes:
+- Meeting point: next to Didube metro station (upper metro exit).
+- Alcohol and smoking are not allowed on the bus.
 
 ## Shida Kartli Tour: Skhvilo, Breti, Ruisi, Samtavisi, Urbnisi
 
@@ -1323,6 +1435,38 @@ Not included:
 
 Notes:
 - The tour runs in any weather; it is postponed only if there is a problem with the road.
+
+## Rize and Uzungöl — 3-Day Tour in Turkey
+
+URL: https://besttraveler.ge/en/tours/rize-uzungol-3-day-tour/
+
+- Type: By bus
+- Countries: Turkey
+- Duration: 3 days / 2 nights
+- Price: 470 GEL per person (deposit 100 GEL)
+- Departure: From Tbilisi at 05:00
+- Dates: 23–25 Apr 2027, 28–30 May 2027, 26–27 Jun 2027
+
+A 3-day tour of Rize and Uzungöl in Turkey, with one night in Rize and one in Uzungöl. Departure from Tbilisi at 5 am.
+
+**Day 1:** 05:00 departure from Tbilisi (Didube); Rize valley: Queen Tamar bridges and waterfalls (zipline optional); Timisvat bridge; Çamlıhemşin and its waterfall; Şenyuva bridge; Palovit waterfall; Zilkale castle; Mikron bridge; Rize — check in at the hotel
+**Day 2:** Rize square and Rize castle; Culture park; Hacı Hafız Yusuf Yılmaz mosque; İslampaşa nature park; Ziraat tea garden; Çağlayan waterfall; Uzungöl valley — check in at the hotel
+**Day 3:** Uzungöl lake; Viewpoint with panoramic views; Free time; Return to Georgia
+
+Included:
+- Transport by minibus
+- Tour organisation and a short overview of each sight
+- Photos
+- One night in a hotel in Rize with breakfast
+- One night in a hotel in Uzungöl with breakfast
+
+Not included:
+- Museum fees, optional (100–150 GEL)
+- Meals other than breakfast
+
+Notes:
+- Meeting point: next to Didube metro station (upper metro exit).
+- No alcohol or smoking in the vehicle.
 
 ## Martvili and Nokalakevi Tour: Tsikhe-Goji, Martvili Canyon, Salkhino
 
@@ -1953,6 +2097,50 @@ Not included:
 Notes:
 - The tour runs in any weather; it is postponed only if there is a problem with the road.
 
+## Turkey and Greece — 14-Day Tour by Bus
+
+URL: https://besttraveler.ge/en/tours/turkey-greece-14-day-tour/
+
+- Type: By bus
+- Countries: Turkey, Greece
+- Duration: 14 days / 13 nights
+- Price: 3,700 GEL per person (deposit 1,000 GEL)
+- Departure: From Tbilisi at 05:00
+- Dates: 5–18 Jul 2027, 5–18 Sep 2027
+
+A 14-day bus tour along Turkey's Aegean and Mediterranean coast, with two days on the Greek islands of Chios and Rhodes. 4–5 star hotels with breakfast and dinner.
+
+**Day 1:** 05:00 departure from Tbilisi towards Sarpi, border procedures; Tokat; Tokat castle (10–20 TRY); Check in at the hotel
+**Day 2:** Ankara — the capital of Turkey; Anıtkabir — Atatürk's mausoleum (30–50 TRY); Ankara citadel; Eskişehir, check in at the hotel
+**Day 3:** Sazova Park in Eskişehir: Shakespeare's House and a small zoo; Boat ride on the Porsuk river (10–20 TRY); Walk through the city streets; Night at the hotel
+**Day 4:** Bergama — ancient Pergamon; Acropolis of Pergamon (100–150 TRY); Pergamon theatre and Temple of Zeus; Asclepion; Izmir — check in at the hotel, evening walk
+**Day 5:** The old port of Smyrna; Agora — the ancient Greek market; Kadifekale; Kemeraltı bazaar; Alaçatı — free time; Çeşme, check in at the hotel
+**Day 6:** Ferry to the Greek island of Chios (50–60 EUR); A full day on the island: sights and time at the sea; Night at the hotel in Çeşme
+**Day 7:** Çeşme castle (20–30 TRY); Ephesus (150–200 TRY); House of the Virgin Mary near Ephesus; Şirince village; Akyaka, check in at the hotel
+**Day 8:** Boat ride on the river; Free time at the sea or in the village; 14:00 drive to Marmaris; Marmaris castle (50–75 TRY); Check in at the hotel, walk along the seafront
+**Day 9:** The Greek island of Rhodes (50–60 EUR); Rhodes old town — a UNESCO World Heritage site; Rhodes fortress and the Palace of the Grand Master; Free time at the sea; Night at the hotel in Marmaris
+**Day 10:** Ancient city of Kaunos (excursion 150–250 TRY); Kaunos rock tombs (50–100 TRY); Göcek — check in at the hotel, free time
+**Day 11:** Side; Roman theatre (50–60 TRY); Temple of Apollo (50–60 TRY); Ancient forum and market; Check in at the hotel, free time
+**Day 12:** Göreme; Check in at the hotel, free time
+**Day 13:** Giresun; Check in at the hotel, free time
+**Day 14:** Return to Tbilisi (a stop at a shopping centre if the group wishes)
+
+Included:
+- Transport by bus or minibus, with internet across Turkey
+- Tour organisation and a short overview of each sight
+- Photos
+- 4–5 star hotels with breakfast and dinner
+- Nights: Tokat, Eskişehir (2), Izmir, Çeşme (2), Akyaka, Marmaris (2), Göcek, Side, Göreme, Giresun
+
+Not included:
+- Ferry to the Greek islands (120 EUR)
+- Museum tickets (1200–1500 TRY)
+
+Notes:
+- An ID card is enough for Turkey, but the Greek islands (Chios, Rhodes) need an international passport.
+- Meeting point: next to Didube metro station (upper metro exit).
+- No alcohol or smoking in the vehicle.
+
 ## Upper Adjara 2-Day Tour: Goderdzi, Shuamta Lakes, Zarzma
 
 URL: https://besttraveler.ge/en/tours/upper-adjara-2-day-tour-goderdzi/
@@ -2202,39 +2390,45 @@ Included:
 - Photography
 - Travel insurance
 
-## Istanbul: 7-Day Tour with Flights from Tbilisi or Batumi
+## India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur
 
-URL: https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/
+URL: https://besttraveler.ge/en/tours/india-rajasthan-group-tour/
 
 - Type: By plane
-- Countries: Turkey
-- Duration: 7 days
-- Price: 3,600 GEL per person
+- Countries: India
+- Duration: 9 days / 8 nights
+- Price: 4,800 GEL per person
 - Departure: From Tbilisi airport
 - Dates: on request
 
-A 7-day tour of Istanbul with flights from Tbilisi or Batumi. The programme covers Istanbul's main sights, a cruise to the Princes' Islands and a trip to Sile.
+A 9-day / 8-night group tour of India: Delhi and the cities of Rajasthan, including Mandawa, Bikaner, Jaisalmer, Jodhpur, Ranakpur, Udaipur and Pushkar. Departure from Tbilisi on 25 October at 23:45.
 
-**Day 1:** Flight from Tbilisi (or Batumi) airport; Transfer in Istanbul, hotel check-in, free time; Turkish night and a Bosphorus cruise; Dinner
-**Day 2:** 07:30 breakfast, 08:30 start of the tour; Topkapi Palace and Harem; Hagia Irene; Sultan Ahmed Mosque (Blue Mosque); Ibrahim Pasha Palace; Hurrem Sultan Hamam; Lunch at a Turkish restaurant; Boat trip: the Golden Horn, the Bosphorus, Rumeli Hisari fortress, Maiden's Tower; Beylerbeyi Park
-**Day 3:** 07:30 breakfast; Cruise to the Princes' Islands: Buyukada and Burgazada; Lunch; Leather showroom
-**Day 4:** Trip to Sile; Lunch
-**Day 5:** 07:30 breakfast; Basilica Cistern, dating from 532, from the time of old Constantinople; Sultanahmet Square; Hagia Sophia, the main church of old Constantinople; Taksim Square and Istiklal Street; Galata Tower
-**Day 6:** 07:30 breakfast; St George's Cathedral and the Ecumenical Patriarchate; The 'One-Day Church', where you can make a wish; Valens Aqueduct; Suleymaniye Mosque; Balat, with its colourful houses
-**Day 7:** 07:30 breakfast; Emirgan Park; Spice Bazaar and Grand Bazaar: free time for shopping; Transfer to the airport, flight back to Tbilisi (or Batumi)
+**Day 1: Tbilisi to Delhi and Mandawa:** Flight from Tbilisi on 25 October at 23:45, arrival in Delhi on 26 October at 07:05; Transfer to the hotel; after breakfast, drive to Mandawa; Mandawa havelis, houses once owned by wealthy merchants; Breakfast, dinner and overnight at the hotel
+**Day 2: Mandawa to Bikaner:** Binsidhar Newatia Haveli, known for its bright, lively paintings; Gulab Rai Ladia Haveli, Goenka Double Haveli, Murmuria Haveli, Jhunjhunwala Haveli; Drive to Bikaner: Junagarh Fort, decorated with gold leaf, glass, mirror work and Dutch tiles; Breakfast, dinner and overnight at the hotel
+**Day 3: Bikaner to Jaisalmer:** Jaisalmer Fort, standing about 100 metres high; Havelis with carved facades and windows; Salim Singh Haveli (17th century), known for its peacock carvings; Nathumal Haveli (1885) and Patwon Haveli (1805); Dinner and overnight at the hotel
+**Day 4: Jaisalmer to Jodhpur:** Drive to Jodhpur, hotel check-in and free time; Mehrangarh Fort on a 125-metre hill, one of the most impressive buildings in Rajasthan; Jaswant Thada, a white marble memorial (1899) to Maharaja Jaswant Singh II; Evening: the Clock Tower and Sardar Bazaar, with textiles, antiques, silverware and handicrafts; Breakfast and overnight at the hotel
+**Day 5: Jodhpur to Udaipur via Ranakpur:** Ranakpur temples (15th century), famous for their intricate architecture; Arrival in Udaipur, transfer to the hotel; Breakfast and overnight at the hotel
+**Day 6: Udaipur, the City of Lakes:** City Palace, the former home of the Mewar rulers, now mostly a museum overlooking Lake Pichola; Jagdish Mandir; Sahelion ki Bari; Bharatiya Lok Kala Mandal; Evening boat ride on Lake Pichola; Breakfast and overnight at the hotel
+**Day 7: Udaipur to Pushkar:** Brahma Temple and the ghats; Pushkar, a town on the shore of Pushkar Lake; Breakfast and overnight at the hotel
+**Day 8: Pushkar to Delhi:** After breakfast, drive to Delhi; Free time
+**Day 9: Delhi to Tbilisi:** Qutub Minar; India Gate; President's House and Parliament; Bangla Sahib; Agrasen ki Baoli, a historic stepwell 60 m long and 15 m wide; Dinner at Lazeez restaurant, then transfer to the international airport
 
 Included:
-- Return flights Tbilisi (or Batumi) - Istanbul
-- 12 kg checked baggage
-- Transfer
-- Transport during the tour
-- Hotel with breakfast
-- Three lunches and one dinner
-- Entrance fees to all sites
-- Tour escort from Tbilisi
-- Local guide (3 days)
-- Photography
+- Return flights Tbilisi-Delhi-Tbilisi
+- 30 kg baggage
+- 4-5 star hotels
+- Two meals a day (breakfast and dinner)
+- Internal transfers
 - Travel insurance
+- Local guide
+- Georgian-speaking tour escort from Tbilisi
+- Group excursions
+- Boat ride on Lake Pichola
+- Entrance fees to architectural sites
+- All taxes and fees
+
+Not included:
+- Visa fee (40 USD)
 
 ## Malta via Rome — 8-Day Tour
 
@@ -2678,28 +2872,6 @@ Stops: Borjomi Central Park and mineral springs; Kukushka — narrow-gauge train
 Notes:
 - Price, dates and the exact programme are agreed individually — call or message us on WhatsApp.
 
-## Kars, Ani and Van: 3-Day Tour of Eastern Turkey
-
-URL: https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/
-
-- Type: By bus
-- Countries: Turkey
-- Duration: 3 days / 2 nights
-- Price: 450 GEL per person
-- Departure: From Tbilisi at 05:00
-- Dates: on request
-
-A 3-day minibus tour of eastern Turkey. Your guide is Giorgi Beridze-Berjavakhi.
-
-**Day 1:** 05:00 departure from Tbilisi; Kartsakhi border crossing; Kajis Tsikhe, a 10th-century fortress; Keles Droi waterfall; Kars Castle (1153); Kars, hotel check-in, free time
-**Day 2:** Ani Cathedral (built 989-1001); Ani archaeological site; Ishak Pasha Palace (1784); Khtskonk Monastery; Van, hotel check-in, free time
-**Day 3:** Van Fortress (9th-7th century BC); Akdamar Island; Muradiye Waterfall; Return to Tbilisi
-
-Included:
-- Transport by minibus
-- Hotel with breakfast
-- Guide: Giorgi Beridze-Berjavakhi
-
 ## Kutaisi, caves and canyons tour: Prometheus, Martvili, Okatse
 
 URL: https://besttraveler.ge/en/tours/kutaisi-caves-canyons-tour/
@@ -2716,76 +2888,6 @@ Stops: Sataplia Nature Reserve — dinosaur footprints and a karst cave; Kutaisi
 
 Notes:
 - Price, dates and the exact programme are agreed individually — call or message us on WhatsApp.
-
-## Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana
-
-URL: https://besttraveler.ge/en/tours/tao-klarjeti-tour-turkey/
-
-- Type: By bus
-- Countries: Turkey
-- Price: 480 GEL per person
-- Departure: From Tbilisi at 05:00
-- Dates: on request
-
-A tour of historic Tao-Klarjeti (now in Turkey): Georgian monasteries, fortresses and the landscapes of Klarjeti. Departure from Tbilisi at 5 am, crossing the border at Vale.
-
-**Programme:** 05:00 departure from Tbilisi, border crossing at Vale; Tbeti monastery complex, religious centre of a powerful diocese and a Georgian centre of writing; Satle fortress, centre of the Shavsheti duchy; Hell's Canyon, a natural wonder of Klarjeti; Artanuji, fortress town and citadel, a capital of the Georgian kingdom, with its strong citadel and remains of town life; Landscapes of Klarjeti; Doliskana Monastery; Yusufeli; Oshki monastery complex and cathedral; Tortum gorge and Tortum Waterfall; Otkhta Eklesia monastery complex; Parkhali Monastery, from the time of David Kuropalates and the Tao-Klarjeti renaissance; Chapels of Parkhali; Former summer residences of the Bagrationi; Ruins of Bana cathedral and the old town; Shopping and a walk in Ardahan (Artaani); Return to Georgia
-
-Included:
-- The programme described
-- Driver experienced on Tao's roads
-- Breakfast and dinner
-
-Notes:
-- Meeting point: next to Didube metro station (upper metro exit).
-
-## Trabzon and Sumela Monastery: 3-Day Tour
-
-URL: https://besttraveler.ge/en/tours/trabzon-sumela-monastery-tour/
-
-- Type: By bus
-- Countries: Turkey
-- Duration: 3 days
-- Price: 470 GEL per person
-- Departure: From Tbilisi at 05:00
-- Dates: on request
-
-A 3-day tour of Trabzon and its surroundings. Departure from Tbilisi (Didube) at 5 am.
-
-**Day 1:** 05:00 departure from Tbilisi; Trabzon; Trabzon Aquarium; Theoskepastos Monastery, a former Orthodox convent (1349-1390); Boztepe hill and viewing deck; Hotel check-in
-**Day 2:** Cal Cave; Duzkoy; Sabachak cafe and restaurant; Kayabasi nature park, with views and lakes; Haikal plateau; Little Hagia Sophia; Meydan: free time
-**Day 3:** Sumela Monastery; Return to Georgia
-
-Notes:
-- Meeting point: next to Didube metro station (upper metro exit).
-
-## Van and Mardin: 7-Day Tour of Eastern Turkey
-
-URL: https://besttraveler.ge/en/tours/eastern-turkey-van-mardin-nemrut-tour/
-
-- Type: By bus
-- Countries: Turkey
-- Duration: 7 days / 6 nights
-- Price: 1,450 GEL per person
-- Departure: From Tbilisi at 07:00
-- Dates: on request
-
-A 7-day minibus tour of Turkey with a Georgian-speaking guide: Kars, Van, Mardin, Adiyaman and Bingol.
-
-**Day 1:** 07:00 departure from Tbilisi to the Kartsakhi border crossing, border formalities; Kajis Tsikhe, a 10th-century fortress; Kars Castle (1153); Kars, hotel check-in, free time
-**Day 2:** Ani Cathedral (built 989-1001); Ani archaeological site; Ishak Pasha Palace (1784); Muradiye Waterfall; Van, hotel check-in
-**Day 3:** Van Fortress (9th-7th century BC); Hosap Castle (17th century); Akdamar Island (boat about 15-30 Turkish lira); Mardin, hotel check-in
-**Day 4:** Deyrulzafaran Monastery, founded in the 5th century (20-30 Turkish lira); Mor Gabriel Monastery, founded in 397, one of the oldest Christian monasteries in the world; Diyarbakir; Mardin: walk and free time
-**Day 5:** Harran, one of the oldest cities in the world; Sanliurfa, one of the oldest cities; The sunken town of Halfeti, boat trip; Adiyaman, capital of Adiyaman province, with a rich history; Hotel check-in
-**Day 6:** Perre (Pirin), an ancient city in Adiyaman province (4th-3rd century BC); Mount Nemrut (69-34 BC), a UNESCO World Heritage site with large statues and royal reliefs made on the orders of King Antiochus I of Commagene; Bingol
-**Day 7:** Return to Tbilisi
-
-Included:
-- Transport and transfers by minibus
-- Hotels with one meal a day: 1 night in Kars, 1 in Van, 2 in Mardin, 1 in Adiyaman, 1 in Bingol
-- Georgian-speaking guide
-- Travel insurance
-- Photography
 
 ## Yerevan in 3 Days: Sevan, Garni, Geghard, Etchmiadzin
 

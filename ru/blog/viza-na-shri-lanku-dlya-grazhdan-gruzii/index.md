@@ -126,7 +126,7 @@ URL: https://besttraveler.ge/ru/blog/viza-na-shri-lanku-dlya-grazhdan-gruzii/
 
 ### [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур](https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/)
 
-9 дней / 8 ночей25 октября 2026
+9 дней / 8 ночейИндия
 
 9 дней в Раджастхане: форты, хавели, храмы и прогулка на лодке по озеру Пичола.
 

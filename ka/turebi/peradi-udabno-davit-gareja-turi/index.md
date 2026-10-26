@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/
 
 ხანგრძლივობა1 დღე
 
-უახლოესი გასვლა25 ოქტომბერი 2026 +10
+უახლოესი გასვლა31 ოქტომბერი 2026 +9
 
 გასვლათბილისი, 08:00
 
@@ -62,7 +62,7 @@ URL: https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/
 
 **როდის არის გასვლა?**
 
-უახლოესი თარიღები: 25 ოქტომბერი 2026, 31 ოქტომბერი 2026, 1 ნოემბერი 2026, 7 ნოემბერი 2026, 13 მარტი 2027, 21 მარტი 2027. თავისუფალი ადგილები დააზუსტეთ ტელეფონით ან WhatsApp-ით.
+უახლოესი თარიღები: 31 ოქტომბერი 2026, 1 ნოემბერი 2026, 7 ნოემბერი 2026, 13 მარტი 2027, 21 მარტი 2027, 18 აპრილი 2027. თავისუფალი ადგილები დააზუსტეთ ტელეფონით ან WhatsApp-ით.
 
 **რა შედის ფასში?**
 
@@ -78,7 +78,6 @@ URL: https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/
 
 თარიღები
 
-- 25 ოქტომბერი 2026
 - 31 ოქტომბერი 2026
 - 1 ნოემბერი 2026
 - 7 ნოემბერი 2026
@@ -104,7 +103,7 @@ URL: https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/
 
 ### [განსხვავებული ვაშლოვანი: ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები](https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/)
 
-1 დღე25 ოქტომბერი 2026
+1 დღე31 ოქტომბერი 2026
 
 ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები, დალის წყალსაცავი და კლდეში ნაკვეთი მონასტერი.
 
@@ -116,7 +115,7 @@ URL: https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/
 
 ### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
 
-1 დღე25 ოქტომბერი 2026
+1 დღე31 ოქტომბერი 2026
 
 უჯარმის ციხე-ქალაქი, გომბორის უღელტეხილი, შუამთა, იყალთო, თეთრი გიორგი და ალავერდი.
 
@@ -128,7 +127,7 @@ URL: https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/
 
 ### [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
 
-1 დღე25 ოქტომბერი 2026
+1 დღე31 ოქტომბერი 2026
 
 გარეჯის საბერეების კლდეში ნაკვეთი სამონასტრო კომპლექსი, IX–X საუკუნეები.
 

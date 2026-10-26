@@ -125,18 +125,6 @@ Dates on request
 
 By plane
 
-### [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-group-tour/)
-
-9 days / 8 nights25 Oct 2026
-
-9 days in Rajasthan: forts, havelis, temples and a boat ride on Lake Pichola.
-
-per person4,800 GEL
-
-View tour 
-
-By plane
-
 ### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
 
 4 days / 3 nights1–4 Nov 2026
@@ -156,5 +144,17 @@ By plane
 5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
 
 per person2,600 GEL
+
+View tour 
+
+By plane
+
+### [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
+
+8 days / 7 nights3–10 Nov 2026
+
+8 days by car: Segovia, Salamanca, Porto, Coimbra, Sintra, Lisbon and Toledo.
+
+per person4,500 GEL
 
 View tour

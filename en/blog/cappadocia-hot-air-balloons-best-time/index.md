@@ -89,7 +89,7 @@ By bus
 
 Amasya, Cappadocia, Kayseri, Ordu and Trabzon by bus, with no nights spent on the bus.
 
-per person1,350 GEL
+per person1,450 GEL
 
 View tour 
 
@@ -97,11 +97,11 @@ By bus
 
 ### [Trabzon and Sumela Monastery: 3-Day Tour](https://besttraveler.ge/en/tours/trabzon-sumela-monastery-tour/)
 
-3 daysTurkey
+3 days / 2 nights26–28 Mar 2027
 
 3 days in and around Trabzon: Boztepe, Kayabasi park, Hagia Sophia and Sumela Monastery.
 
-per person470 GEL
+per person480 GEL
 
 View tour 
 

@@ -8,9 +8,9 @@ URL: https://besttraveler.ge/en/destinations/turkey/
 
 Tours to Turkey: Istanbul, Cappadocia, historic Tao-Klarjeti, Trabzon, Kars, Van and Mardin.
 
-- 6 tours
+- 8 tours
 - from 450 ₾
-- 3–7 days
+- 3–14 days
 - Next: 2–7 Nov 2026
 
 ## Tours to Turkey
@@ -23,17 +23,17 @@ By bus
 
 Amasya, Cappadocia, Kayseri, Ordu and Trabzon by bus, with no nights spent on the bus.
 
-per person1,350 GEL
+per person1,450 GEL
 
 View tour 
 
 By plane
 
-### [Istanbul: 7-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
+### [Istanbul: 6-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
 
-7 daysTurkey
+6 days3–8 Mar 2027
 
-7 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
+6 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
 
 per person3,600 GEL
 
@@ -43,7 +43,7 @@ By bus
 
 ### [Kars, Ani and Van: 3-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/)
 
-3 days / 2 nightsTurkey
+3 days / 2 nights6–8 Mar 2027
 
 Kars, Ani, Ishak Pasha Palace, Van Fortress and Akdamar Island: 3 days by minibus.
 
@@ -53,9 +53,33 @@ View tour
 
 By bus
 
+### [Van and Mardin: 7-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/eastern-turkey-van-mardin-nemrut-tour/)
+
+7 days / 6 nights13–19 Mar 2027
+
+7 days in eastern Turkey: Ani, Van, Mardin, Harran, Halfeti and Mount Nemrut.
+
+per person1,450 GEL
+
+View tour 
+
+By bus
+
+### [Trabzon and Sumela Monastery: 3-Day Tour](https://besttraveler.ge/en/tours/trabzon-sumela-monastery-tour/)
+
+3 days / 2 nights26–28 Mar 2027
+
+3 days in and around Trabzon: Boztepe, Kayabasi park, Hagia Sophia and Sumela Monastery.
+
+per person480 GEL
+
+View tour 
+
+By bus
+
 ### [Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana](https://besttraveler.ge/en/tours/tao-klarjeti-tour-turkey/)
 
-By busTurkey
+3 days9–11 Apr 2027
 
 Georgian monasteries and fortresses of historic Tao-Klarjeti: Tbeti, Artanuji, Oshki, Parkhali and Bana.
 
@@ -65,11 +89,11 @@ View tour
 
 By bus
 
-### [Trabzon and Sumela Monastery: 3-Day Tour](https://besttraveler.ge/en/tours/trabzon-sumela-monastery-tour/)
+### [Rize and Uzungöl — 3-Day Tour in Turkey](https://besttraveler.ge/en/tours/rize-uzungol-3-day-tour/)
 
-3 daysTurkey
+3 days / 2 nights23–25 Apr 2027
 
-3 days in and around Trabzon: Boztepe, Kayabasi park, Hagia Sophia and Sumela Monastery.
+Rize valley with old stone bridges and waterfalls, Zilkale castle, a tea garden and Uzungöl lake.
 
 per person470 GEL
 
@@ -77,13 +101,13 @@ View tour
 
 By bus
 
-### [Van and Mardin: 7-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/eastern-turkey-van-mardin-nemrut-tour/)
+### [Turkey and Greece — 14-Day Tour by Bus](https://besttraveler.ge/en/tours/turkey-greece-14-day-tour/)
 
-7 days / 6 nightsTurkey
+14 days / 13 nights5–18 Jul 2027
 
-7 days in eastern Turkey: Ani, Van, Mardin, Harran, Halfeti and Mount Nemrut.
+Ankara, Pergamon, Izmir, Ephesus, the Aegean and Mediterranean coast, and the Greek islands of Chios and Rhodes.
 
-per person1,450 GEL
+per person3,700 GEL
 
 View tour 
 
@@ -95,7 +119,7 @@ Our tours start from 450 GEL per person. The exact price and what it includes ar
 
 **How long are the tours?**
 
-The tours last from 3 to 7 days.
+The tours last from 3 to 14 days.
 
 **How do I book a tour?**
 

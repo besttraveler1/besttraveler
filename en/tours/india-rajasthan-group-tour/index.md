@@ -23,7 +23,7 @@ Photo: [Dudva](https://commons.wikimedia.org/w/index.php?curid=177132884), CC0
 
 Duration9 days / 8 nights
 
-Next departure25 Oct 2026
+DatesOn request
 
 DepartureTbilisi (TBS)
 
@@ -151,7 +151,7 @@ The tour costs 4,800 GEL per person. The price can change with air fares — ple
 
 **When does the tour leave?**
 
-Next dates: 25 Oct 2026. Please check free places by phone or WhatsApp.
+We will tell you the dates and free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -169,7 +169,7 @@ The price can change with air fares — please confirm it before booking.
 
 Dates
 
-- 25 Oct 2026
+Dates on request
 
 - Return flights Tbilisi-Delhi-Tbilisi
 - 30 kg baggage

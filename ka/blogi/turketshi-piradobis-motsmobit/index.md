@@ -91,11 +91,11 @@ URL: https://besttraveler.ge/ka/blogi/turketshi-piradobis-motsmobit/
 
 ავიატური
 
-### [სტამბოლი — 7-დღიანი ტური თბილისიდან ან ბათუმიდან](https://besttraveler.ge/ka/turebi/stamboli-turi-tbilisidan/)
+### [სტამბოლი — 6-დღიანი ტური თბილისიდან ან ბათუმიდან](https://besttraveler.ge/ka/turebi/stamboli-turi-tbilisidan/)
 
-7 დღეთურქეთი
+6 დღე3–8 მარტი 2027
 
-7 დღე სტამბოლში: სასახლეები, მეჩეთები, ბოსფორის კრუიზი, პრინცების კუნძულები და ბაზრები.
+6 დღე სტამბოლში: სასახლეები, მეჩეთები, ბოსფორის კრუიზი, პრინცების კუნძულები და ბაზრები.
 
 ერთ ადამიანზე3 600 ლარი
 
@@ -109,7 +109,7 @@ URL: https://besttraveler.ge/ka/blogi/turketshi-piradobis-motsmobit/
 
 ამასია, კაპადოკია, კაისერი, ორდუ და ტრაპიზონი ავტობუსით — ღამით მგზავრობის გარეშე.
 
-ერთ ადამიანზე1 350 ლარი
+ერთ ადამიანზე1 450 ლარი
 
 ტურის ნახვა 
 
@@ -117,11 +117,11 @@ URL: https://besttraveler.ge/ka/blogi/turketshi-piradobis-motsmobit/
 
 ### [ტრაპიზონი და სუმელას მონასტერი — 3-დღიანი ტური](https://besttraveler.ge/ka/turebi/trapizoni-sumela-turi/)
 
-3 დღეთურქეთი
+3 დღე / 2 ღამე26–28 მარტი 2027
 
 3 დღე ტრაპიზონსა და მის შემოგარენში — ბოზტეპე, კაიაბაშის პარკი, აია-სოფია და სუმელა.
 
-ერთ ადამიანზე470 ლარი
+ერთ ადამიანზე480 ლარი
 
 ტურის ნახვა 
 
@@ -129,7 +129,7 @@ URL: https://besttraveler.ge/ka/blogi/turketshi-piradobis-motsmobit/
 
 ### [ტაო-კლარჯეთის ტური — ტბეთი, არტანუჯი, ოშკი, პარხალი](https://besttraveler.ge/ka/turebi/tao-klarjeti-turi/)
 
-ავტობუსითთურქეთი
+3 დღე9–11 აპრილი 2027
 
 ქართული ტაძრები და ციხეები ისტორიულ ტაო-კლარჯეთში — ტბეთი, არტანუჯი, ოშკი, პარხალი, ბანა.
 
@@ -141,7 +141,7 @@ URL: https://besttraveler.ge/ka/blogi/turketshi-piradobis-motsmobit/
 
 ### [ყარსი, ანისი და ვანი — 3-დღიანი ტური თურქეთში](https://besttraveler.ge/ka/turebi/turketi-karsi-anisi-vani-turi/)
 
-3 დღე / 2 ღამეთურქეთი
+3 დღე / 2 ღამე6–8 მარტი 2027
 
 ყარსი, ანისი, იშაკ ფაშას სასახლე, ვანის ციხე და ახთამარის კუნძული — 3 დღე მიკროავტობუსით.
 

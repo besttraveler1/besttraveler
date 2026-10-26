@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ru/tury/novogodnie-tury-2027/
 
 ### [Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Озёра Паравани и Сагамо, монастыри Пока, Гореловка и заказник Мадатапа.
 
@@ -132,4 +132,4 @@ URL: https://besttraveler.ge/ru/tury/novogodnie-tury-2027/
 
 ## Туры по месяцам
 
-[В октябре 2026 18](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 28](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 8](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 7](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 3](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 8](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 18](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 36](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 38](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 31](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 26](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)
+[В октябре 2026 15](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 28](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 8](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 7](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 3](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 12](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 25](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 43](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 43](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 32](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 27](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)

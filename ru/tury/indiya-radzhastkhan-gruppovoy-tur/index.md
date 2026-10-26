@@ -23,7 +23,7 @@ URL: https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/
 
 Длительность9 дней / 8 ночей
 
-Ближайший выезд25 октября 2026
+ДатыПо запросу
 
 ВыездТбилиси (TBS)
 
@@ -151,7 +151,7 @@ URL: https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/
 
 **Когда выезд?**
 
-Ближайшие даты: 25 октября 2026. Свободные места уточняйте по телефону или в WhatsApp.
+Даты и свободные места подскажем по телефону или в WhatsApp.
 
 **Что входит в цену?**
 
@@ -169,7 +169,7 @@ URL: https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/
 
 Даты
 
-- 25 октября 2026
+Даты по запросу
 
 - Авиабилеты туда и обратно Тбилиси–Дели–Тбилиси
 - Багаж 30 кг

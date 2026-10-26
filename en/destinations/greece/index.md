@@ -8,9 +8,9 @@ URL: https://besttraveler.ge/en/destinations/greece/
 
 Group tours to Greece: Athens and the Acropolis, Aegina island, Thessaloniki and Meteora.
 
-- 2 tours
+- 3 tours
 - from 1200 ₾
-- 4–8 days
+- 4–14 days
 - Next: 1–4 Nov 2026
 
 ## Tours to Greece
@@ -24,6 +24,18 @@ By plane
 4 days in Athens: the Acropolis, Plaka, the Agora and a day on Aegina island. Flight from Kutaisi.
 
 per person1,200 GEL
+
+View tour 
+
+By bus
+
+### [Turkey and Greece — 14-Day Tour by Bus](https://besttraveler.ge/en/tours/turkey-greece-14-day-tour/)
+
+14 days / 13 nights5–18 Jul 2027
+
+Ankara, Pergamon, Izmir, Ephesus, the Aegean and Mediterranean coast, and the Greek islands of Chios and Rhodes.
+
+per person3,700 GEL
 
 View tour 
 
@@ -47,7 +59,7 @@ Our tours start from 1,200 GEL per person. The exact price and what it includes 
 
 **How long are the tours?**
 
-The tours last from 4 to 8 days.
+The tours last from 4 to 14 days.
 
 **How do I book a tour?**
 

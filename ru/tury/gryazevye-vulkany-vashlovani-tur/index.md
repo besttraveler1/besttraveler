@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/
 
 Длительность1 день
 
-Ближайший выезд25 октября 2026 +13
+Ближайший выезд31 октября 2026 +12
 
 ВыездТбилиси, 07:00
 
@@ -63,7 +63,7 @@ URL: https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/
 
 **Когда выезд?**
 
-Ближайшие даты: 25 октября 2026, 31 октября 2026, 1 ноября 2026, 7 ноября 2026, 18 апреля 2027, 24 апреля 2027. Свободные места уточняйте по телефону или в WhatsApp.
+Ближайшие даты: 31 октября 2026, 1 ноября 2026, 7 ноября 2026, 18 апреля 2027, 24 апреля 2027, 2 мая 2027. Свободные места уточняйте по телефону или в WhatsApp.
 
 **Что входит в цену?**
 
@@ -79,7 +79,6 @@ URL: https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/
 
 Даты
 
-- 25 октября 2026
 - 31 октября 2026
 - 1 ноября 2026
 - 7 ноября 2026
@@ -108,7 +107,7 @@ URL: https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/
 
 ### [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Город-крепость Уджарма, Гомборский перевал, Шуамта, Икалто, Тетри Гиорги и Алаверди.
 
@@ -120,7 +119,7 @@ URL: https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/
 
 ### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Додос Рка, монастырь Давид Гареджи, цветные горы и водохранилище Мравалцкаро.
 
@@ -132,7 +131,7 @@ URL: https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/
 
 ### [Давид Гареджи: однодневный тур в пустыню Сабереби](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
 
-1 день25 октября 2026
+1 день31 октября 2026
 
 Высеченный в скале монастырский комплекс Сабереби в Гареджи, IX–X века.
 

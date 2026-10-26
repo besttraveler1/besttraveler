@@ -23,7 +23,7 @@ Photo: [Hamdigumus](https://commons.wikimedia.org/w/index.php?curid=151677849), 
 
 Duration7 days / 6 nights
 
-DatesOn request
+Next departure13–19 Mar 2027 +2
 
 DepartureTbilisi, 07:00
 
@@ -99,14 +99,21 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 ## Included in the price
 
 - Transport and transfers by minibus
-- Hotels with one meal a day: 1 night in Kars, 1 in Van, 2 in Mardin, 1 in Adiyaman, 1 in Bingol
+- Hotels with breakfast: 1 night in Kars, 1 in Van, 2 in Mardin, 1 in Adiyaman, 1 in Bingol
 - Georgian-speaking guide
 - Travel insurance
 - Photography
 
+## Not included
+
+- Boat trips
+- Museum tickets
+- Meals other than breakfast
+
 ## Good to know
 
 - Documents: International passport (valid for at least 6 months) or Georgian ID card
+- Alcohol and smoking are not allowed on the bus.
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
@@ -118,11 +125,11 @@ The tour costs 1,450 GEL per person.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 13–19 Mar 2027, 19–25 Apr 2027, 21–27 May 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
-Transport and transfers by minibus; Hotels with one meal a day: 1 night in Kars, 1 in Van, 2 in Mardin, 1 in Adiyaman, 1 in Bingol; Georgian-speaking guide; Travel insurance; Photography.
+Transport and transfers by minibus; Hotels with breakfast: 1 night in Kars, 1 in Van, 2 in Mardin, 1 in Adiyaman, 1 in Bingol; Georgian-speaking guide; Travel insurance; Photography.
 
 **How do I book this tour?**
 
@@ -134,10 +141,12 @@ Price: 1,450 GELper person:
 
 Dates
 
-Dates on request
+- 13–19 Mar 2027
+- 19–25 Apr 2027
+- 21–27 May 2027
 
 - Transport and transfers by minibus
-- Hotels with one meal a day: 1 night in Kars, 1 in Van, 2 in Mardin, 1 in Adiyaman, 1 in Bingol
+- Hotels with breakfast: 1 night in Kars, 1 in Van, 2 in Mardin, 1 in Adiyaman, 1 in Bingol
 - Georgian-speaking guide
 - Travel insurance
 
@@ -155,17 +164,17 @@ By bus
 
 Amasya, Cappadocia, Kayseri, Ordu and Trabzon by bus, with no nights spent on the bus.
 
-per person1,350 GEL
+per person1,450 GEL
 
 View tour 
 
 By plane
 
-### [Istanbul: 7-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
+### [Istanbul: 6-Day Tour with Flights from Tbilisi or Batumi](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
 
-7 daysTurkey
+6 days3–8 Mar 2027
 
-7 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
+6 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
 
 per person3,600 GEL
 
@@ -175,7 +184,7 @@ By bus
 
 ### [Kars, Ani and Van: 3-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/)
 
-3 days / 2 nightsTurkey
+3 days / 2 nights6–8 Mar 2027
 
 Kars, Ani, Ishak Pasha Palace, Van Fortress and Akdamar Island: 3 days by minibus.
 

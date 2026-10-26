@@ -102,7 +102,7 @@ By plane
 
 ### [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-group-tour/)
 
-9 days / 8 nights25 Oct 2026
+9 days / 8 nightsIndia
 
 9 days in Rajasthan: forts, havelis, temples and a boat ride on Lake Pichola.
 

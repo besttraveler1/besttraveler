@@ -94,7 +94,7 @@ URL: https://besttraveler.ge/ka/blogi/trusos-kheoba-ert-dgheshi/
 
 ### [თრუსოს ხეობის ტური: ტრავერტინები, უძირო ტბა, ზაქაგორი](https://besttraveler.ge/ka/turebi/trusos-kheoba-ertdghiani-turi/)
 
-1 დღე25 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 თრუსოს ხეობა: ფერადი ტრავერტინები, „უძირო“ ტბა, აბანოს მონასტერი და ზაქაგორის ციხე.
 
@@ -106,7 +106,7 @@ URL: https://besttraveler.ge/ka/blogi/trusos-kheoba-ert-dgheshi/
 
 ### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
 
-1 დღე25 ოქტომბერი 2026
+1 დღე31 ოქტომბერი 2026
 
 დარიალის მონასტერი, გველეთის დიდი და პატარა ჩანჩქერი, გერგეტის სამება და გუდაურის პანორამა.
 
