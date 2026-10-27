@@ -15,7 +15,7 @@ Photo: [Alexey Okhrimenko](https://commons.wikimedia.org/wiki/File:Gudauri_Ski_R
 
 Duration1 day
 
-Next departure12 Dec 2026 +5
+Next departure12 Dec 2026 +6
 
 DepartureTbilisi, 08:00
 
@@ -59,7 +59,7 @@ The tour costs 60 GEL per person.
 
 **When does the tour leave?**
 
-Next dates: 12 Dec 2026, 20 Dec 2026, 26 Dec 2026, 9 Jan 2027, 17 Jan 2027, 23 Jan 2027. Please check free places by phone or WhatsApp.
+Next dates: 12 Dec 2026, 20 Dec 2026, 26 Dec 2026, 29 Dec 2026, 9 Jan 2027, 17 Jan 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -78,6 +78,7 @@ Dates
 - 12 Dec 2026
 - 20 Dec 2026
 - 26 Dec 2026
+- 29 Dec 2026
 - 9 Jan 2027
 - 17 Jan 2027
 - 23 Jan 2027

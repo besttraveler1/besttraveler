@@ -80,7 +80,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [23–27 Mon Bari and Puglia, Italy — New Year Group Tour via Yerevan By plane · 5 days 2,600 GEL](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
 - [26–30 Thu Egypt Tour: Cairo and Alexandria, 5 Days By plane · 5 days / 4 nights 2,500 GEL](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 
-## December 2026 15 departures
+## December 2026 16 departures
 
 - [1–8 Tue France: Alsace and Paris — Group Tour from Kutaisi By plane · 8 days / 7 nights 4,200 GEL](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
 - [6–14 Sun Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria By plane · 9 days 6,550 GEL](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
@@ -97,6 +97,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [22–29 Tue France: Alsace and Paris — Group Tour from Kutaisi By plane · 8 days / 7 nights 4,200 GEL](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
 - [24–28 Thu Egypt Tour: Cairo and Alexandria, 5 Days By plane · 5 days / 4 nights 2,500 GEL](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 - [26 Sat Gudauri Day Trip: Free Time at the Ski Resort Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
+- [29 Tue Gudauri Day Trip: Free Time at the Ski Resort Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
 
 ## January 2027 16 departures
 

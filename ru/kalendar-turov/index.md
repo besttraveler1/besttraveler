@@ -80,7 +80,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [23–27 пн Бари и Апулия, Италия — новогодний групповой тур через Ереван Авиатур · 5 дней 2 600 лари](https://besttraveler.ge/ru/tury/italiya-bari-apuliya-novogodniy-tur/)
 - [26–30 чт Тур в Египет: Каир и Александрия, 5 дней Авиатур · 5 дней / 4 ночи 2 500 лари](https://besttraveler.ge/ru/tury/egipet-kair-aleksandriya-tur/)
 
-## Декабрь 2026 15 выездов
+## Декабрь 2026 16 выездов
 
 - [1–8 вт Франция: Эльзас и Париж — групповой тур из Кутаиси Авиатур · 8 дней / 7 ночей 4 200 лари](https://besttraveler.ge/ru/tury/frantsiya-elzas-parizh-tur/)
 - [6–14 вс Круиз по Нилу: Каир, Луксор, Асуан, Абу-Симбел и Александрия Авиатур · 9 дней 6 550 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-kair-luksor-aleksandriya/)
@@ -97,6 +97,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [22–29 вт Франция: Эльзас и Париж — групповой тур из Кутаиси Авиатур · 8 дней / 7 ночей 4 200 лари](https://besttraveler.ge/ru/tury/frantsiya-elzas-parizh-tur/)
 - [24–28 чт Тур в Египет: Каир и Александрия, 5 дней Авиатур · 5 дней / 4 ночи 2 500 лари](https://besttraveler.ge/ru/tury/egipet-kair-aleksandriya-tur/)
 - [26 сб Однодневный тур в Гудаури: свободное время на горнолыжном курорте Однодневный 60 лари](https://besttraveler.ge/ru/tury/gudauri-zimoy-odnodnevnyy-tur/)
+- [29 вт Однодневный тур в Гудаури: свободное время на горнолыжном курорте Однодневный 60 лари](https://besttraveler.ge/ru/tury/gudauri-zimoy-odnodnevnyy-tur/)
 
 ## Январь 2027 16 выездов
 

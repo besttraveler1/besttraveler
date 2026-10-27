@@ -80,7 +80,7 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [23–27 ორშ ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან ავიატური · 5 დღე 2 600 ლარი](https://besttraveler.ge/ka/turebi/italia-bari-apulia-saakhaltslo-turi/)
 - [26–30 ხუთ ეგვიპტის ტური: კაირო და ალექსანდრია, 5 დღე ავიატური · 5 დღე / 4 ღამე 2 500 ლარი](https://besttraveler.ge/ka/turebi/egvipte-kairo-aleksandria-turi/)
 
-## დეკემბერი 2026 15 გასვლა
+## დეკემბერი 2026 16 გასვლა
 
 - [1–8 სამ საფრანგეთი: ელზასი და პარიზი — ჯგუფური ტური ქუთაისიდან ავიატური · 8 დღე / 7 ღამე 4 200 ლარი](https://besttraveler.ge/ka/turebi/saprangeti-elzasi-parizi-turi/)
 - [6–14 კვი ნილოსის კრუიზი: კაირო, ლუქსორი, ასუანი, აბუ-სიმბელი, ალექსანდრია ავიატური · 9 დღე 6 550 ლარი](https://besttraveler.ge/ka/turebi/nilosis-kruizi-kairo-luksori-aleksandria/)
@@ -97,6 +97,7 @@ URL: https://besttraveler.ge/ka/dagegmili-turebi/
 - [22–29 სამ საფრანგეთი: ელზასი და პარიზი — ჯგუფური ტური ქუთაისიდან ავიატური · 8 დღე / 7 ღამე 4 200 ლარი](https://besttraveler.ge/ka/turebi/saprangeti-elzasi-parizi-turi/)
 - [24–28 ხუთ ეგვიპტის ტური: კაირო და ალექსანდრია, 5 დღე ავიატური · 5 დღე / 4 ღამე 2 500 ლარი](https://besttraveler.ge/ka/turebi/egvipte-kairo-aleksandria-turi/)
 - [26 შაბ გუდაურის ერთდღიანი ტური: თავისუფალი დრო სათხილამურო კურორტზე ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/gudauri-zamtarshi-ertdghiani-turi/)
+- [29 სამ გუდაურის ერთდღიანი ტური: თავისუფალი დრო სათხილამურო კურორტზე ერთდღიანი 60 ლარი](https://besttraveler.ge/ka/turebi/gudauri-zamtarshi-ertdghiani-turi/)
 
 ## იანვარი 2027 16 გასვლა
 
