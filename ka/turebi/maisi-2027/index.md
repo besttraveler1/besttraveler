@@ -1,12 +1,12 @@
 # ტურები 2027 წლის მაისში — ფასები
 
-> 43 ტური, რომელიც 2027 წლის მაისში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
+> 49 ტური, რომელიც 2027 წლის მაისში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
 
 URL: https://besttraveler.ge/ka/turebi/maisi-2027/
 
 # ტურები 2027 წლის მაისში
 
-ყველა ჩვენი ტური, რომელიც 2027 წლის მაისში იწყება: 43 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
+ყველა ჩვენი ტური, რომელიც 2027 წლის მაისში იწყება: 49 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
 
 ## ტურები 2027 წლის მაისში
 
@@ -214,6 +214,18 @@ URL: https://besttraveler.ge/ka/turebi/maisi-2027/
 
 ტურის ნახვა 
 
+ავიატური
+
+### [ნილოსის კრუიზი: ლუქსორი, ასუანი, აბუ-სიმბელი, ჰურგადა და ელ-გუნა](https://besttraveler.ge/ka/turebi/nilosis-kruizi-luksori-asuani-hurgada/)
+
+8 დღე8–15 ნოემბერი 2026
+
+8 დღე ეგვიპტეში: კრუიზი ნილოსზე ლუქსორიდან ასუანამდე, ჰურგადა და ელ-გუნა.
+
+ერთ ადამიანზე4 500 ლარი
+
+ტურის ნახვა 
+
 ერთდღიანი
 
 ### [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/kojori-manglisi-ertdghiani-turi/)
@@ -228,6 +240,18 @@ URL: https://besttraveler.ge/ka/turebi/maisi-2027/
 
 ავიატური
 
+### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/ka/turebi/egvipte-hurgada-luksori-suetsis-arkhi/)
+
+7 დღე / 6 ღამე9–15 ნოემბერი 2026
+
+7 დღე ჰურგადაში: სუეცის არხი და პორტ-საიდი, ჰულა-ჰულას კუნძული, ლუქსორი და მონასტრები.
+
+ერთ ადამიანზე6 100 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
 ### [პარიზი, საფრანგეთი — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/ka/turebi/parizi-saprangeti-jgupuri-turi/)
 
 5 დღე10–14 ნოემბერი 2026
@@ -235,6 +259,54 @@ URL: https://besttraveler.ge/ka/turebi/maisi-2027/
 5 დღე პარიზში: ვერსალი, ლუვრი, მონმარტრი, შანზ-ელიზე და ნოტრ-დამი.
 
 ერთ ადამიანზე2 500 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [ნილოსის კრუიზი: კაირო, ლუქსორი, ასუანი, აბუ-სიმბელი, ალექსანდრია](https://besttraveler.ge/ka/turebi/nilosis-kruizi-kairo-luksori-aleksandria/)
+
+9 დღე22–30 ნოემბერი 2026
+
+9 დღე ეგვიპტეში: კრუიზი ნილოსზე, აბუ-სიმბელი, გიზას პირამიდები და ალექსანდრია.
+
+ერთ ადამიანზე6 550 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [ეგვიპტის ტური: კაირო და ალექსანდრია, 5 დღე](https://besttraveler.ge/ka/turebi/egvipte-kairo-aleksandria-turi/)
+
+5 დღე / 4 ღამე26–30 ნოემბერი 2026
+
+5 დღე ეგვიპტეში: გიზას პირამიდები, საკარა და ალექსანდრია. 3-ჯერადი კვება, 2500 ლარი.
+
+ერთ ადამიანზე2 500 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [ნასერის ტბის კრუიზი, კაირო და ლუქსორი — ჯგუფური ტური](https://besttraveler.ge/ka/turebi/egvipte-naseris-tbis-kruizi/)
+
+11 დღე14–24 დეკემბერი 2026
+
+11 დღე ეგვიპტეში: კაირო, კრუიზი ნასერის ტბაზე, აბუ-სიმბელი და ლუქსორი, 4 ღამე ლაინერზე.
+
+ერთ ადამიანზე6 650 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [ეგვიპტე და იორდანია: შარმ-ელ-შეიხი და პეტრა, 8 დღე](https://besttraveler.ge/ka/turebi/egvipte-iordania-sharm-el-sheikhi-petra/)
+
+8 დღე24–31 იანვარი 2027
+
+8 დღე შარმ-ელ-შეიხში შეუზღუდავი კვებით, ტური პეტრაში და სურვილისამებრ ექსკურსიები.
+
+ერთ ადამიანზე3 700 ლარი
 
 ტურის ნახვა 
 
@@ -528,4 +600,4 @@ URL: https://besttraveler.ge/ka/turebi/maisi-2027/
 
 ## ტურები თვეების მიხედვით
 
-[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 28](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 8](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 7](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 3](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 12](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 25](https://besttraveler.ge/ka/turebi/aprili-2027/)[ივნისში 2027 43](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 27](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 10](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
+[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 30](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 13](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 9](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 18](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 31](https://besttraveler.ge/ka/turebi/aprili-2027/)[ივნისში 2027 43](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 27](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 11](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)

@@ -298,6 +298,18 @@ URL: https://besttraveler.ge/ru/tury/
 
 Смотреть тур 
 
+Авиатур
+
+### [Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
+
+8 дней8–15 ноября 2026
+
+8 дней в Египте: круиз по Нилу от Луксора до Асуана, Хургада и Эль-Гуна.
+
+за человека4 500 лари
+
+Смотреть тур 
+
 Однодневный
 
 ### [Однодневный тур Коджори – Манглиси](https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/)
@@ -360,6 +372,18 @@ URL: https://besttraveler.ge/ru/tury/
 
 Авиатур
 
+### [Круиз по Нилу: Каир, Луксор, Асуан, Абу-Симбел и Александрия](https://besttraveler.ge/ru/tury/kruiz-po-nilu-kair-luksor-aleksandriya/)
+
+9 дней22–30 ноября 2026
+
+9 дней в Египте: круиз по Нилу, Абу-Симбел, пирамиды Гизы и Александрия.
+
+за человека6 550 лари
+
+Смотреть тур 
+
+Авиатур
+
 ### [Тур в Египет: Каир и Александрия, 5 дней](https://besttraveler.ge/ru/tury/egipet-kair-aleksandriya-tur/)
 
 5 дней / 4 ночи26–30 ноября 2026
@@ -388,7 +412,7 @@ URL: https://besttraveler.ge/ru/tury/
 
 11 дней14–24 декабря 2026
 
-11 дней в Египте: Каир, круиз по озеру Насер, Абу-Симбел и Луксор. 14–24 декабря.
+11 дней в Египте: Каир, круиз по озеру Насер, Абу-Симбел и Луксор, 4 ночи на лайнере.
 
 за человека6 650 лари
 
@@ -427,6 +451,18 @@ URL: https://besttraveler.ge/ru/tury/
 4 дня в Венеции во время карнавала: Сан-Марко, Дворец дожей, Мурано и Бурано.
 
 за человека1 500 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Египет и Иордания: Шарм-эль-Шейх и Петра, 8 дней](https://besttraveler.ge/ru/tury/egipet-iordaniya-sharm-el-sheykh-petra/)
+
+8 дней24–31 января 2027
+
+8 дней в Шарм-эль-Шейхе с безлимитным питанием, поездка в Петру и экскурсии по желанию.
+
+за человека3 700 лари
 
 Смотреть тур 
 
@@ -912,18 +948,6 @@ URL: https://besttraveler.ge/ru/tury/
 
 Авиатур
 
-### [Египет и Иордания: Шарм-эль-Шейх и Петра, 8 дней](https://besttraveler.ge/ru/tury/egipet-iordaniya-sharm-el-sheykh-petra/)
-
-8 днейЕгипет, Иордания
-
-8 дней в Шарм-эль-Шейхе с безлимитным питанием, поездка в Петру и экскурсии по желанию.
-
-за человека3 700 лари
-
-Смотреть тур 
-
-Авиатур
-
 ### [Греция: Салоники, Метеоры и Афины — тур на 8 дней](https://besttraveler.ge/ru/tury/gretsiya-saloniki-meteory-afiny-tur/)
 
 8 днейГреция
@@ -967,30 +991,6 @@ URL: https://besttraveler.ge/ru/tury/
 Фестиваль тюльпанов, голландские замки, мельницы и Амстердам — 8 дней.
 
 за человека4 100 лари
-
-Смотреть тур 
-
-Авиатур
-
-### [Круиз по Нилу: Каир, Луксор, Асуан, Абу-Симбел и Александрия](https://besttraveler.ge/ru/tury/kruiz-po-nilu-kair-luksor-aleksandriya/)
-
-9 днейЕгипет
-
-9 дней в Египте: круиз по Нилу, Абу-Симбел, пирамиды Гизы и Александрия.
-
-за человека6 550 лари
-
-Смотреть тур 
-
-Авиатур
-
-### [Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
-
-8 днейЕгипет
-
-8 дней в Египте: круиз по Нилу от Луксора до Асуана, Хургада и Эль-Гуна.
-
-за человека4 500 лари
 
 Смотреть тур 
 
@@ -1312,4 +1312,4 @@ URL: https://besttraveler.ge/ru/tury/
 
 [Календарь туров](https://besttraveler.ge/ru/kalendar-turov/)
 
-[В октябре 2026 15](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 28](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 8](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 7](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 3](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 12](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 25](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 43](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 43](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 32](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 27](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 10](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)
+[В октябре 2026 15](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 30](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 13](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 9](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 18](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 31](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 49](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 43](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 32](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 27](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 11](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)

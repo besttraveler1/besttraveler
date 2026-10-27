@@ -169,7 +169,7 @@ URL: https://besttraveler.ge/ru/blog/dengi-za-granitsey-karty-nalichnye/
 
 ### [Египет и Иордания: Шарм-эль-Шейх и Петра, 8 дней](https://besttraveler.ge/ru/tury/egipet-iordaniya-sharm-el-sheykh-petra/)
 
-8 днейЕгипет, Иордания
+8 дней24–31 января 2027
 
 8 дней в Шарм-эль-Шейхе с безлимитным питанием, поездка в Петру и экскурсии по желанию.
 

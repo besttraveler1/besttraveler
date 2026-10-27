@@ -1,12 +1,12 @@
 # ტურები 2026 წლის დეკემბერში — ფასები
 
-> 8 ტური, რომელიც 2026 წლის დეკემბერში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
+> 10 ტური, რომელიც 2026 წლის დეკემბერში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
 
 URL: https://besttraveler.ge/ka/turebi/dekemberi-2026/
 
 # ტურები 2026 წლის დეკემბერში
 
-ყველა ჩვენი ტური, რომელიც 2026 წლის დეკემბერში იწყება: 8 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
+ყველა ჩვენი ტური, რომელიც 2026 წლის დეკემბერში იწყება: 10 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
 
 ## ტურები 2026 წლის დეკემბერში
 
@@ -31,6 +31,18 @@ URL: https://besttraveler.ge/ka/turebi/dekemberi-2026/
 5 დღე აპულიაში: ბარი, მონოპოლი, პოლინიანო-ა-მარე, ალბერობელო და მატერა. გაფრენა ერევნიდან.
 
 ერთ ადამიანზე2 600 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [ნილოსის კრუიზი: ლუქსორი, ასუანი, აბუ-სიმბელი, ჰურგადა და ელ-გუნა](https://besttraveler.ge/ka/turebi/nilosis-kruizi-luksori-asuani-hurgada/)
+
+8 დღე8–15 ნოემბერი 2026
+
+8 დღე ეგვიპტეში: კრუიზი ნილოსზე ლუქსორიდან ასუანამდე, ჰურგადა და ელ-გუნა.
+
+ერთ ადამიანზე4 500 ლარი
 
 ტურის ნახვა 
 
@@ -72,6 +84,18 @@ URL: https://besttraveler.ge/ka/turebi/dekemberi-2026/
 
 ავიატური
 
+### [ნილოსის კრუიზი: კაირო, ლუქსორი, ასუანი, აბუ-სიმბელი, ალექსანდრია](https://besttraveler.ge/ka/turebi/nilosis-kruizi-kairo-luksori-aleksandria/)
+
+9 დღე22–30 ნოემბერი 2026
+
+9 დღე ეგვიპტეში: კრუიზი ნილოსზე, აბუ-სიმბელი, გიზას პირამიდები და ალექსანდრია.
+
+ერთ ადამიანზე6 550 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
 ### [ეგვიპტის ტური: კაირო და ალექსანდრია, 5 დღე](https://besttraveler.ge/ka/turebi/egvipte-kairo-aleksandria-turi/)
 
 5 დღე / 4 ღამე26–30 ნოემბერი 2026
@@ -100,7 +124,7 @@ URL: https://besttraveler.ge/ka/turebi/dekemberi-2026/
 
 11 დღე14–24 დეკემბერი 2026
 
-11 დღე ეგვიპტეში: კაირო, კრუიზი ნასერის ტბაზე, აბუ-სიმბელი და ლუქსორი. 14–24 დეკემბერი.
+11 დღე ეგვიპტეში: კაირო, კრუიზი ნასერის ტბაზე, აბუ-სიმბელი და ლუქსორი, 4 ღამე ლაინერზე.
 
 ერთ ადამიანზე6 650 ლარი
 
@@ -108,4 +132,4 @@ URL: https://besttraveler.ge/ka/turebi/dekemberi-2026/
 
 ## ტურები თვეების მიხედვით
 
-[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 28](https://besttraveler.ge/ka/turebi/noemberi-2026/)[იანვარში 2027 7](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 3](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 12](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 25](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 43](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 43](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 27](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 10](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
+[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 30](https://besttraveler.ge/ka/turebi/noemberi-2026/)[იანვარში 2027 13](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 9](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 18](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 31](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 49](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 43](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 27](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 11](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)

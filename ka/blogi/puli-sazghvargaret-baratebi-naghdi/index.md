@@ -169,7 +169,7 @@ URL: https://besttraveler.ge/ka/blogi/puli-sazghvargaret-baratebi-naghdi/
 
 ### [ეგვიპტე და იორდანია: შარმ-ელ-შეიხი და პეტრა, 8 დღე](https://besttraveler.ge/ka/turebi/egvipte-iordania-sharm-el-sheikhi-petra/)
 
-8 დღეეგვიპტე, იორდანია
+8 დღე24–31 იანვარი 2027
 
 8 დღე შარმ-ელ-შეიხში შეუზღუდავი კვებით, ტური პეტრაში და სურვილისამებრ ექსკურსიები.
 

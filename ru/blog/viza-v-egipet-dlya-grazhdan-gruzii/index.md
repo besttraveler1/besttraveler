@@ -135,7 +135,7 @@ URL: https://besttraveler.ge/ru/blog/viza-v-egipet-dlya-grazhdan-gruzii/
 
 11 дней14–24 декабря 2026
 
-11 дней в Египте: Каир, круиз по озеру Насер, Абу-Симбел и Луксор. 14–24 декабря.
+11 дней в Египте: Каир, круиз по озеру Насер, Абу-Симбел и Луксор, 4 ночи на лайнере.
 
 за человека6 650 лари
 
@@ -145,7 +145,7 @@ URL: https://besttraveler.ge/ru/blog/viza-v-egipet-dlya-grazhdan-gruzii/
 
 ### [Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
 
-8 днейЕгипет
+8 дней8–15 ноября 2026
 
 8 дней в Египте: круиз по Нилу от Луксора до Асуана, Хургада и Эль-Гуна.
 
@@ -157,7 +157,7 @@ URL: https://besttraveler.ge/ru/blog/viza-v-egipet-dlya-grazhdan-gruzii/
 
 ### [Египет и Иордания: Шарм-эль-Шейх и Петра, 8 дней](https://besttraveler.ge/ru/tury/egipet-iordaniya-sharm-el-sheykh-petra/)
 
-8 днейЕгипет, Иордания
+8 дней24–31 января 2027
 
 8 дней в Шарм-эль-Шейхе с безлимитным питанием, поездка в Петру и экскурсии по желанию.
 

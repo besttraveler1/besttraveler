@@ -135,7 +135,7 @@ URL: https://besttraveler.ge/ka/blogi/egviptis-viza-kartvelebistvis/
 
 11 დღე14–24 დეკემბერი 2026
 
-11 დღე ეგვიპტეში: კაირო, კრუიზი ნასერის ტბაზე, აბუ-სიმბელი და ლუქსორი. 14–24 დეკემბერი.
+11 დღე ეგვიპტეში: კაირო, კრუიზი ნასერის ტბაზე, აბუ-სიმბელი და ლუქსორი, 4 ღამე ლაინერზე.
 
 ერთ ადამიანზე6 650 ლარი
 
@@ -145,7 +145,7 @@ URL: https://besttraveler.ge/ka/blogi/egviptis-viza-kartvelebistvis/
 
 ### [ნილოსის კრუიზი: ლუქსორი, ასუანი, აბუ-სიმბელი, ჰურგადა და ელ-გუნა](https://besttraveler.ge/ka/turebi/nilosis-kruizi-luksori-asuani-hurgada/)
 
-8 დღეეგვიპტე
+8 დღე8–15 ნოემბერი 2026
 
 8 დღე ეგვიპტეში: კრუიზი ნილოსზე ლუქსორიდან ასუანამდე, ჰურგადა და ელ-გუნა.
 
@@ -157,7 +157,7 @@ URL: https://besttraveler.ge/ka/blogi/egviptis-viza-kartvelebistvis/
 
 ### [ეგვიპტე და იორდანია: შარმ-ელ-შეიხი და პეტრა, 8 დღე](https://besttraveler.ge/ka/turebi/egvipte-iordania-sharm-el-sheikhi-petra/)
 
-8 დღეეგვიპტე, იორდანია
+8 დღე24–31 იანვარი 2027
 
 8 დღე შარმ-ელ-შეიხში შეუზღუდავი კვებით, ტური პეტრაში და სურვილისამებრ ექსკურსიები.
 

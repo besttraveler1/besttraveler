@@ -1,12 +1,12 @@
 # Tours in November 2026 — prices and dates
 
-> 28 tours that start in November 2026: flight tours, bus tours and day tours from Georgia. Prices, dates and full day-by-day programmes.
+> 30 tours that start in November 2026: flight tours, bus tours and day tours from Georgia. Prices, dates and full day-by-day programmes.
 
 URL: https://besttraveler.ge/en/tours/november-2026/
 
 # Tours in November 2026
 
-All our tours that start in November 2026: 28 tours abroad and in Georgia, with prices and full programmes.
+All our tours that start in November 2026: 30 tours abroad and in Georgia, with prices and full programmes.
 
 ## Tours in November 2026
 
@@ -274,6 +274,18 @@ per person4,500 GEL
 
 View tour 
 
+By plane
+
+### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
+
+8 days8–15 Nov 2026
+
+8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
+
+per person4,500 GEL
+
+View tour 
+
 Day tour
 
 ### [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
@@ -336,6 +348,18 @@ View tour
 
 By plane
 
+### [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
+
+9 days22–30 Nov 2026
+
+9 days in Egypt: a Nile cruise, Abu Simbel, the Giza pyramids and Alexandria.
+
+per person6,550 GEL
+
+View tour 
+
+By plane
+
 ### [Egypt Tour: Cairo and Alexandria, 5 Days](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 
 5 days / 4 nights26–30 Nov 2026
@@ -348,4 +372,4 @@ View tour
 
 ## Tours by month
 
-[October 2026 15](https://besttraveler.ge/en/tours/october-2026/)[December 2026 8](https://besttraveler.ge/en/tours/december-2026/)[January 2027 7](https://besttraveler.ge/en/tours/january-2027/)[February 2027 3](https://besttraveler.ge/en/tours/february-2027/)[March 2027 12](https://besttraveler.ge/en/tours/march-2027/)[April 2027 25](https://besttraveler.ge/en/tours/april-2027/)[May 2027 43](https://besttraveler.ge/en/tours/may-2027/)[June 2027 43](https://besttraveler.ge/en/tours/june-2027/)[July 2027 32](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 27](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 10](https://besttraveler.ge/en/tours/new-year-tours-2027/)
+[October 2026 15](https://besttraveler.ge/en/tours/october-2026/)[December 2026 10](https://besttraveler.ge/en/tours/december-2026/)[January 2027 13](https://besttraveler.ge/en/tours/january-2027/)[February 2027 9](https://besttraveler.ge/en/tours/february-2027/)[March 2027 18](https://besttraveler.ge/en/tours/march-2027/)[April 2027 31](https://besttraveler.ge/en/tours/april-2027/)[May 2027 49](https://besttraveler.ge/en/tours/may-2027/)[June 2027 43](https://besttraveler.ge/en/tours/june-2027/)[July 2027 32](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 27](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 11](https://besttraveler.ge/en/tours/new-year-tours-2027/)

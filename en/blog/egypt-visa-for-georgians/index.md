@@ -135,7 +135,7 @@ By plane
 
 11 days14–24 Dec 2026
 
-11 days in Egypt: Cairo, a Lake Nasser cruise, Abu Simbel and Luxor. 14–24 December.
+11 days in Egypt: Cairo, a Lake Nasser cruise, Abu Simbel and Luxor, with 4 nights on board.
 
 per person6,650 GEL
 
@@ -145,7 +145,7 @@ By plane
 
 ### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
 
-8 daysEgypt
+8 days8–15 Nov 2026
 
 8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
 
@@ -157,7 +157,7 @@ By plane
 
 ### [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
 
-8 daysEgypt, Jordan
+8 days24–31 Jan 2027
 
 8 days in Sharm el-Sheikh with unlimited meals, a trip to Petra and optional excursions.
 

@@ -21,7 +21,7 @@ Photo: [Warren LeMay from Cullowhee, NC, United States](https://commons.wikimedi
 
 Duration8 days
 
-DatesOn request
+Next departure8–15 Nov 2026 +6
 
 DepartureTbilisi (TBS)
 
@@ -137,7 +137,7 @@ The tour costs 4,500 GEL per person. The deposit to book is 1,500 GEL. The price
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 8–15 Nov 2026, 6–13 Dec 2026, 24–31 Jan 2027, 21–28 Feb 2027, 21–28 Mar 2027, 18–25 Apr 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -157,7 +157,13 @@ The price can change with air fares — please confirm it before booking.
 
 Dates
 
-Dates on request
+- 8–15 Nov 2026
+- 6–13 Dec 2026
+- 24–31 Jan 2027
+- 21–28 Feb 2027
+- 21–28 Mar 2027
+- 18–25 Apr 2027
+- 23–30 May 2027
 
 - Round-trip flight Tbilisi–Istanbul–Hurghada
 - 20 kg baggage
@@ -184,6 +190,18 @@ View tour
 
 By plane
 
+### [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
+
+9 days22–30 Nov 2026
+
+9 days in Egypt: a Nile cruise, Abu Simbel, the Giza pyramids and Alexandria.
+
+per person6,550 GEL
+
+View tour 
+
+By plane
+
 ### [Egypt Tour: Cairo and Alexandria, 5 Days](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 
 5 days / 4 nights26–30 Nov 2026
@@ -191,17 +209,5 @@ By plane
 5 days in Egypt: the Giza pyramids, Saqqara and Alexandria. Three meals a day, 2500 GEL.
 
 per person2,500 GEL
-
-View tour 
-
-By plane
-
-### [Lake Nasser Cruise, Cairo and Luxor — Group Tour](https://besttraveler.ge/en/tours/egypt-lake-nasser-cruise-cairo-luxor/)
-
-11 days14–24 Dec 2026
-
-11 days in Egypt: Cairo, a Lake Nasser cruise, Abu Simbel and Luxor. 14–24 December.
-
-per person6,650 GEL
 
 View tour

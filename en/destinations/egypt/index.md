@@ -11,9 +11,21 @@ Group tours to Egypt from Tbilisi: Cairo and the Giza pyramids, Luxor, Aswan, Ni
 - 6 tours
 - from 2500 ₾
 - 5–11 days
-- Next: 9–15 Nov 2026
+- Next: 8–15 Nov 2026
 
 ## Tours to Egypt
+
+By plane
+
+### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
+
+8 days8–15 Nov 2026
+
+8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
+
+per person4,500 GEL
+
+View tour 
 
 By plane
 
@@ -24,6 +36,18 @@ By plane
 7 days in Hurghada: the Suez Canal and Port Said, Hula Hula island, Luxor and the monasteries.
 
 per person6,100 GEL
+
+View tour 
+
+By plane
+
+### [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
+
+9 days22–30 Nov 2026
+
+9 days in Egypt: a Nile cruise, Abu Simbel, the Giza pyramids and Alexandria.
+
+per person6,550 GEL
 
 View tour 
 
@@ -45,7 +69,7 @@ By plane
 
 11 days14–24 Dec 2026
 
-11 days in Egypt: Cairo, a Lake Nasser cruise, Abu Simbel and Luxor. 14–24 December.
+11 days in Egypt: Cairo, a Lake Nasser cruise, Abu Simbel and Luxor, with 4 nights on board.
 
 per person6,650 GEL
 
@@ -55,35 +79,11 @@ By plane
 
 ### [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
 
-8 daysEgypt, Jordan
+8 days24–31 Jan 2027
 
 8 days in Sharm el-Sheikh with unlimited meals, a trip to Petra and optional excursions.
 
 per person3,700 GEL
-
-View tour 
-
-By plane
-
-### [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
-
-9 daysEgypt
-
-9 days in Egypt: a Nile cruise, Abu Simbel, the Giza pyramids and Alexandria.
-
-per person6,550 GEL
-
-View tour 
-
-By plane
-
-### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
-
-8 daysEgypt
-
-8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
-
-per person4,500 GEL
 
 View tour 
 

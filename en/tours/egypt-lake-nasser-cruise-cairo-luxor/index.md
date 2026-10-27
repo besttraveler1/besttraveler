@@ -19,7 +19,7 @@ Photo: [Warren LeMay from Cullowhee, NC, United States](https://commons.wikimedi
 
 Duration11 days
 
-Next departure14–24 Dec 2026
+Next departure14–24 Dec 2026 +5
 
 DepartureTbilisi (TBS)
 
@@ -151,7 +151,7 @@ The tour costs 6,650 GEL per person. The deposit to book is 1,650 GEL. The price
 
 **When does the tour leave?**
 
-Next dates: 14–24 Dec 2026. Please check free places by phone or WhatsApp.
+Next dates: 14–24 Dec 2026, 8–18 Jan 2027, 5–15 Feb 2027, 5–15 Mar 2027, 2–12 Apr 2027, 7–17 May 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -172,6 +172,11 @@ The price can change with air fares — please confirm it before booking.
 Dates
 
 - 14–24 Dec 2026
+- 8–18 Jan 2027
+- 5–15 Feb 2027
+- 5–15 Mar 2027
+- 2–12 Apr 2027
+- 7–17 May 2027
 
 - Flights: Tbilisi–Istanbul–Cairo, Cairo–Aswan, Luxor–Istanbul–Tbilisi
 - 20 kg baggage
@@ -183,6 +188,18 @@ Dates
 ## Similar tours
 
 [See all tours](https://besttraveler.ge/en/tours/)
+
+By plane
+
+### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
+
+8 days8–15 Nov 2026
+
+8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
+
+per person4,500 GEL
+
+View tour 
 
 By plane
 
@@ -198,24 +215,12 @@ View tour
 
 By plane
 
-### [Egypt Tour: Cairo and Alexandria, 5 Days](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
+### [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
 
-5 days / 4 nights26–30 Nov 2026
+9 days22–30 Nov 2026
 
-5 days in Egypt: the Giza pyramids, Saqqara and Alexandria. Three meals a day, 2500 GEL.
+9 days in Egypt: a Nile cruise, Abu Simbel, the Giza pyramids and Alexandria.
 
-per person2,500 GEL
-
-View tour 
-
-By plane
-
-### [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
-
-8 daysEgypt, Jordan
-
-8 days in Sharm el-Sheikh with unlimited meals, a trip to Petra and optional excursions.
-
-per person3,700 GEL
+per person6,550 GEL
 
 View tour

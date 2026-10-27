@@ -298,6 +298,18 @@ per person4,500 GEL
 
 View tour 
 
+By plane
+
+### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
+
+8 days8–15 Nov 2026
+
+8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
+
+per person4,500 GEL
+
+View tour 
+
 Day tour
 
 ### [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
@@ -360,6 +372,18 @@ View tour
 
 By plane
 
+### [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
+
+9 days22–30 Nov 2026
+
+9 days in Egypt: a Nile cruise, Abu Simbel, the Giza pyramids and Alexandria.
+
+per person6,550 GEL
+
+View tour 
+
+By plane
+
 ### [Egypt Tour: Cairo and Alexandria, 5 Days](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 
 5 days / 4 nights26–30 Nov 2026
@@ -388,7 +412,7 @@ By plane
 
 11 days14–24 Dec 2026
 
-11 days in Egypt: Cairo, a Lake Nasser cruise, Abu Simbel and Luxor. 14–24 December.
+11 days in Egypt: Cairo, a Lake Nasser cruise, Abu Simbel and Luxor, with 4 nights on board.
 
 per person6,650 GEL
 
@@ -427,6 +451,18 @@ By plane
 4 days in Venice during the carnival: San Marco, the Doge's Palace, Murano and Burano.
 
 per person1,500 GEL
+
+View tour 
+
+By plane
+
+### [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
+
+8 days24–31 Jan 2027
+
+8 days in Sharm el-Sheikh with unlimited meals, a trip to Petra and optional excursions.
+
+per person3,700 GEL
 
 View tour 
 
@@ -912,18 +948,6 @@ View tour
 
 By plane
 
-### [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
-
-8 daysEgypt, Jordan
-
-8 days in Sharm el-Sheikh with unlimited meals, a trip to Petra and optional excursions.
-
-per person3,700 GEL
-
-View tour 
-
-By plane
-
 ### [Greece: Thessaloniki, Meteora and Athens — 8-Day Tour](https://besttraveler.ge/en/tours/greece-thessaloniki-meteora-athens-tour/)
 
 8 daysGreece
@@ -967,30 +991,6 @@ By plane
 The tulip festival, Dutch castles, windmills and Amsterdam — 8 days.
 
 per person4,100 GEL
-
-View tour 
-
-By plane
-
-### [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
-
-9 daysEgypt
-
-9 days in Egypt: a Nile cruise, Abu Simbel, the Giza pyramids and Alexandria.
-
-per person6,550 GEL
-
-View tour 
-
-By plane
-
-### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
-
-8 daysEgypt
-
-8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
-
-per person4,500 GEL
 
 View tour 
 
@@ -1312,4 +1312,4 @@ Nothing found
 
 [Tour calendar](https://besttraveler.ge/en/tour-calendar/)
 
-[October 2026 15](https://besttraveler.ge/en/tours/october-2026/)[November 2026 28](https://besttraveler.ge/en/tours/november-2026/)[December 2026 8](https://besttraveler.ge/en/tours/december-2026/)[January 2027 7](https://besttraveler.ge/en/tours/january-2027/)[February 2027 3](https://besttraveler.ge/en/tours/february-2027/)[March 2027 12](https://besttraveler.ge/en/tours/march-2027/)[April 2027 25](https://besttraveler.ge/en/tours/april-2027/)[May 2027 43](https://besttraveler.ge/en/tours/may-2027/)[June 2027 43](https://besttraveler.ge/en/tours/june-2027/)[July 2027 32](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 27](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 10](https://besttraveler.ge/en/tours/new-year-tours-2027/)
+[October 2026 15](https://besttraveler.ge/en/tours/october-2026/)[November 2026 30](https://besttraveler.ge/en/tours/november-2026/)[December 2026 10](https://besttraveler.ge/en/tours/december-2026/)[January 2027 13](https://besttraveler.ge/en/tours/january-2027/)[February 2027 9](https://besttraveler.ge/en/tours/february-2027/)[March 2027 18](https://besttraveler.ge/en/tours/march-2027/)[April 2027 31](https://besttraveler.ge/en/tours/april-2027/)[May 2027 49](https://besttraveler.ge/en/tours/may-2027/)[June 2027 43](https://besttraveler.ge/en/tours/june-2027/)[July 2027 32](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 27](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 11](https://besttraveler.ge/en/tours/new-year-tours-2027/)

@@ -17,7 +17,7 @@ Photo: [Mustang Joe](https://commons.wikimedia.org/w/index.php?curid=147605971),
 
 Duration5 days / 4 nights
 
-Next departure26–30 Nov 2026 +1
+Next departure26–30 Nov 2026 +6
 
 DepartureTbilisi (TBS)
 
@@ -101,7 +101,7 @@ The tour costs 2,500 GEL per person. The deposit to book is 1,000 GEL. The price
 
 **When does the tour leave?**
 
-Next dates: 26–30 Nov 2026, 24–28 Dec 2026. Please check free places by phone or WhatsApp.
+Next dates: 26–30 Nov 2026, 24–28 Dec 2026, 21–26 Jan 2027, 18–23 Feb 2027, 25–30 Mar 2027, 22–27 Apr 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -123,6 +123,11 @@ Dates
 
 - 26–30 Nov 2026
 - 24–28 Dec 2026
+- 21–26 Jan 2027
+- 18–23 Feb 2027
+- 25–30 Mar 2027
+- 22–27 Apr 2027
+- 6–11 May 2027
 
 - Round-trip flight Tbilisi–Istanbul–Cairo
 - 20 kg baggage
@@ -134,6 +139,18 @@ Dates
 ## Similar tours
 
 [See all tours](https://besttraveler.ge/en/tours/)
+
+By plane
+
+### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
+
+8 days8–15 Nov 2026
+
+8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
+
+per person4,500 GEL
+
+View tour 
 
 By plane
 
@@ -149,24 +166,12 @@ View tour
 
 By plane
 
-### [Lake Nasser Cruise, Cairo and Luxor — Group Tour](https://besttraveler.ge/en/tours/egypt-lake-nasser-cruise-cairo-luxor/)
+### [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
 
-11 days14–24 Dec 2026
+9 days22–30 Nov 2026
 
-11 days in Egypt: Cairo, a Lake Nasser cruise, Abu Simbel and Luxor. 14–24 December.
+9 days in Egypt: a Nile cruise, Abu Simbel, the Giza pyramids and Alexandria.
 
-per person6,650 GEL
-
-View tour 
-
-By plane
-
-### [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
-
-8 daysEgypt, Jordan
-
-8 days in Sharm el-Sheikh with unlimited meals, a trip to Petra and optional excursions.
-
-per person3,700 GEL
+per person6,550 GEL
 
 View tour

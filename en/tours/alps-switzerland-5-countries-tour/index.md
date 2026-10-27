@@ -1,12 +1,12 @@
 # 5 Countries Alps Tour by Car
 
-> 8-day group tour by car through the Alps: Annecy, Lauterbrunnen, Lucerne, Vaduz, Neuschwanstein, Bern and Lyon. Price 4500 GEL.
+> 8-day group tour by car through the Alps: Annecy, Lauterbrunnen, Lucerne, Vaduz, Neuschwanstein, Bern and Geneva. Price 4500 GEL.
 
 URL: https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/
 
 # 5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein
 
-A group tour by car through France, Switzerland, Liechtenstein, Austria and Germany. The tour starts in Geneva and ends in Lyon.
+A group tour by car through France, Switzerland, Liechtenstein, Austria and Germany. The tour starts and ends in Geneva.
 
 - Switzerland
 - France
@@ -28,7 +28,6 @@ A group tour by car through France, Switzerland, Liechtenstein, Austria and Germ
 - Basel
 - Bern
 - Geneva
-- Lyon
 
 Photo: [cameralends](https://commons.wikimedia.org/w/index.php?curid=46307855), CC0
 
@@ -116,8 +115,8 @@ Price4,500 GEL
 
 ### Day 8
 
-- Lyon — France's third-largest city, known as the capital of gastronomy; its historic centre is on the UNESCO list
-- Transfer at 15:00
+- Transfer to the airport
+- Flight to Tbilisi at 06:30
 
 ## Route on the map
 

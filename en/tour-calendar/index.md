@@ -28,7 +28,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [31 Sat Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity Day tour 60 GEL](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 - [31 Sat Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
-## November 2026 47 departures
+## November 2026 49 departures
 
 - [1–4 Sun Athens, Greece — Group Tour from Kutaisi, 1–4 November By plane · 4 days / 3 nights 1,200 GEL](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
 - [1 Sun A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes Day tour 60 GEL](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
@@ -62,6 +62,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [7 Sat Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes Day tour 65 GEL](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
 - [7 Sat Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity Day tour 60 GEL](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 - [7 Sat Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
+- [8–15 Sun Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna By plane · 8 days 4,500 GEL](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
 - [8 Sun Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake Day tour 60 GEL](https://besttraveler.ge/en/tours/tianeti-day-trip/)
 - [8 Sun Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe Day tour 60 GEL](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 - [8 Sun Kojori and Manglisi Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
@@ -74,13 +75,16 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [21 Sat Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe Day tour 60 GEL](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 - [21 Sat Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara Day tour 65 GEL](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
 - [21 Sat Shida Kartli Tour: Gori Fortress, Gorijvari, Uplistsikhe, Ateni Sioni Day tour 60 GEL](https://besttraveler.ge/en/tours/gori-uplistsikhe-ateni-day-tour/)
+- [22–30 Sun Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria By plane · 9 days 6,550 GEL](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
 - [22 Sun Kojori and Manglisi Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
 - [23–27 Mon Bari and Puglia, Italy — New Year Group Tour via Yerevan By plane · 5 days 2,600 GEL](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
 - [26–30 Thu Egypt Tour: Cairo and Alexandria, 5 Days By plane · 5 days / 4 nights 2,500 GEL](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 
-## December 2026 13 departures
+## December 2026 15 departures
 
 - [1–8 Tue France: Alsace and Paris — Group Tour from Kutaisi By plane · 8 days / 7 nights 4,200 GEL](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
+- [6–14 Sun Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria By plane · 9 days 6,550 GEL](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
+- [6–13 Sun Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna By plane · 8 days 4,500 GEL](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
 - [6 Sun Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 - [7–11 Mon Bari and Puglia, Italy — New Year Group Tour via Yerevan By plane · 5 days 2,600 GEL](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
 - [12 Sat Gudauri Day Trip: Free Time at the Ski Resort Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
@@ -94,46 +98,66 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [24–28 Thu Egypt Tour: Cairo and Alexandria, 5 Days By plane · 5 days / 4 nights 2,500 GEL](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 - [26 Sat Gudauri Day Trip: Free Time at the Ski Resort Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
 
-## January 2027 10 departures
+## January 2027 16 departures
 
+- [3–11 Sun Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria By plane · 9 days 6,550 GEL](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
+- [8–18 Fri Lake Nasser Cruise, Cairo and Luxor — Group Tour By plane · 11 days 6,650 GEL](https://besttraveler.ge/en/tours/egypt-lake-nasser-cruise-cairo-luxor/)
 - [9–19 Sat Sri Lanka and Maldives Group Tour By plane · 11 days 8,500 GEL](https://besttraveler.ge/en/tours/sri-lanka-maldives-group-tour/)
 - [9–16 Sat Sri Lanka Tour: Sigiriya, Kandy, Ella, Mirissa and Colombo By plane · 8 days / 6 nights 4,500 GEL](https://besttraveler.ge/en/tours/sri-lanka-kandy-ella-mirissa-tour/)
 - [9 Sat Gudauri Day Trip: Free Time at the Ski Resort Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
 - [10 Sun Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 - [12–16 Tue Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [17 Sun Gudauri Day Trip: Free Time at the Ski Resort Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
+- [18–24 Mon Hurghada, Luxor, Port Said and the Suez Canal — 7 Days By plane · 7 days / 6 nights 6,100 GEL](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
+- [21–26 Thu Egypt Tour: Cairo and Alexandria, 5 Days By plane · 5 days / 4 nights 2,500 GEL](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 - [23–26 Sat Venice Carnival 2027 — 4-Day Tour of Italy By plane · 4 days 1,500 GEL](https://besttraveler.ge/en/tours/venice-carnival-tour/)
 - [23 Sat Gudauri Day Trip: Free Time at the Ski Resort Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
 - [23 Sat Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
+- [24–31 Sun Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days By plane · 8 days 3,700 GEL](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
+- [24–31 Sun Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna By plane · 8 days 4,500 GEL](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
 - [27 Wed Southern Spain and Gibraltar — Group Tour, 27 January – 3 February By plane · 8 days / 7 nights · → 3 Feb 4,800 GEL](https://besttraveler.ge/en/tours/southern-spain-andalusia-gibraltar-tour/)
 
-## February 2027 3 departures
+## February 2027 9 departures
 
+- [5–15 Fri Lake Nasser Cruise, Cairo and Luxor — Group Tour By plane · 11 days 6,650 GEL](https://besttraveler.ge/en/tours/egypt-lake-nasser-cruise-cairo-luxor/)
 - [6–9 Sat Venice Carnival 2027 — 4-Day Tour of Italy By plane · 4 days 1,500 GEL](https://besttraveler.ge/en/tours/venice-carnival-tour/)
+- [7–15 Sun Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria By plane · 9 days 6,550 GEL](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
+- [14–21 Sun Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days By plane · 8 days 3,700 GEL](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
+- [15–21 Mon Hurghada, Luxor, Port Said and the Suez Canal — 7 Days By plane · 7 days / 6 nights 6,100 GEL](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
 - [16–20 Tue Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
+- [18–23 Thu Egypt Tour: Cairo and Alexandria, 5 Days By plane · 5 days / 4 nights 2,500 GEL](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 - [20 Sat Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
+- [21–28 Sun Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna By plane · 8 days 4,500 GEL](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
 
-## March 2027 14 departures
+## March 2027 20 departures
 
 - [2–9 Tue Burgundy and Franche-Comté: Cluny, Dijon and Beaune By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
 - [2–6 Tue Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [3–8 Wed Istanbul: 6-Day Tour with Flights from Tbilisi or Batumi By plane · 6 days 3,600 GEL](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
+- [5–15 Fri Lake Nasser Cruise, Cairo and Luxor — Group Tour By plane · 11 days 6,650 GEL](https://besttraveler.ge/en/tours/egypt-lake-nasser-cruise-cairo-luxor/)
 - [6–8 Sat Kars, Ani and Van: 3-Day Tour of Eastern Turkey By bus · 3 days / 2 nights 450 GEL](https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/)
+- [7–15 Sun Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria By plane · 9 days 6,550 GEL](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
 - [13 Sat David Gareja: Sabereebi Desert Monastery Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 - [13–19 Sat Van and Mardin: 7-Day Tour of Eastern Turkey By bus · 7 days / 6 nights 1,450 GEL](https://besttraveler.ge/en/tours/eastern-turkey-van-mardin-nemrut-tour/)
 - [13 Sat Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
+- [15–21 Mon Hurghada, Luxor, Port Said and the Suez Canal — 7 Days By plane · 7 days / 6 nights 6,100 GEL](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
 - [19–28 Fri Corsica, France — 10-Day Group Tour with Paris By plane · 10 days / 9 nights 5,300 GEL](https://besttraveler.ge/en/tours/corsica-group-tour-from-kutaisi/)
+- [21–28 Sun Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days By plane · 8 days 3,700 GEL](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
+- [21–28 Sun Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna By plane · 8 days 4,500 GEL](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
 - [21 Sun David Gareja: Sabereebi Desert Monastery Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 - [21 Sun Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
+- [25–30 Thu Egypt Tour: Cairo and Alexandria, 5 Days By plane · 5 days / 4 nights 2,500 GEL](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 - [26–28 Fri Trabzon and Sumela Monastery: 3-Day Tour By bus · 3 days / 2 nights 480 GEL](https://besttraveler.ge/en/tours/trabzon-sumela-monastery-tour/)
 - [28 Sun Spain, France and Andorra — 10-Day Tour from Barcelona By plane · 10 days · → 4 Apr 4,700 GEL](https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/)
 - [28 Sun Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake Day tour 60 GEL](https://besttraveler.ge/en/tours/tianeti-day-trip/)
 - [28 Sun Kojori and Manglisi Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
 
-## April 2027 42 departures
+## April 2027 48 departures
 
+- [2–12 Fri Lake Nasser Cruise, Cairo and Luxor — Group Tour By plane · 11 days 6,650 GEL](https://besttraveler.ge/en/tours/egypt-lake-nasser-cruise-cairo-luxor/)
 - [2–4 Fri Trabzon and Sumela Monastery: 3-Day Tour By bus · 3 days / 2 nights 480 GEL](https://besttraveler.ge/en/tours/trabzon-sumela-monastery-tour/)
 - [3–8 Sat Istanbul: 6-Day Tour with Flights from Tbilisi or Batumi By plane · 6 days 3,600 GEL](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
+- [4–12 Sun Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria By plane · 9 days 6,550 GEL](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
 - [5–9 Mon Paris, France — 5-Day Group Tour By plane · 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [9–11 Fri Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana By bus · 3 days 480 GEL](https://besttraveler.ge/en/tours/tao-klarjeti-tour-turkey/)
 - [9–11 Fri Kars, Ani and Van: 3-Day Tour of Eastern Turkey By bus · 3 days / 2 nights 450 GEL](https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/)
@@ -148,6 +172,8 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [11 Sun Shida Kartli Tour: Gori Fortress, Gorijvari, Uplistsikhe, Ateni Sioni Day tour 60 GEL](https://besttraveler.ge/en/tours/gori-uplistsikhe-ateni-day-tour/)
 - [11 Sun Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 - [13–18 Tue Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi By bus · 6 days 1,450 GEL](https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/)
+- [18–25 Sun Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days By plane · 8 days 3,700 GEL](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
+- [18–25 Sun Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna By plane · 8 days 4,500 GEL](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
 - [18 Sun A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes Day tour 60 GEL](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 - [18 Sun David Gareja: Sabereebi Desert Monastery Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 - [18 Sun Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi Day tour 60 GEL](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/)
@@ -155,7 +181,9 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [18 Sun Pankisi Gorge Tour: Khadori Waterfall, Duisi, Kvetera Day tour 60 GEL](https://besttraveler.ge/en/tours/pankisi-gorge-khadori-waterfall-day-tour/)
 - [18 Sun Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 - [18 Sun Kvemo Kartli and Pitareti: Khuluti, Tandzia, Kveshi, Bolnisi Sioni Day tour 60 GEL](https://besttraveler.ge/en/tours/pitareti-bolnisi-kvemo-kartli-tour/)
+- [19–25 Mon Hurghada, Luxor, Port Said and the Suez Canal — 7 Days By plane · 7 days / 6 nights 6,100 GEL](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
 - [19–25 Mon Van and Mardin: 7-Day Tour of Eastern Turkey By bus · 7 days / 6 nights 1,450 GEL](https://besttraveler.ge/en/tours/eastern-turkey-van-mardin-nemrut-tour/)
+- [22–27 Thu Egypt Tour: Cairo and Alexandria, 5 Days By plane · 5 days / 4 nights 2,500 GEL](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 - [23–25 Fri Rize and Uzungöl — 3-Day Tour in Turkey By bus · 3 days / 2 nights 470 GEL](https://besttraveler.ge/en/tours/rize-uzungol-3-day-tour/)
 - [24 Sat A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes Day tour 60 GEL](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 - [24 Sat David Gareja: Sabereebi Desert Monastery Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
@@ -175,7 +203,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [25 Sun Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 - [30 Fri Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana By bus · 3 days · → 2 May 480 GEL](https://besttraveler.ge/en/tours/tao-klarjeti-tour-turkey/)
 
-## May 2027 76 departures
+## May 2027 82 departures
 
 - [1 Sat Vashlovani Tour: Mount Elia, Swallows' Town, Alesilebi Day tour 70 GEL](https://besttraveler.ge/en/tours/vashlovani-national-park-day-tour/)
 - [1 Sat Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe Day tour 60 GEL](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
@@ -184,6 +212,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [1 Sat Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes Day tour 65 GEL](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
 - [1–3 Sat Kars, Ani and Van: 3-Day Tour of Eastern Turkey By bus · 3 days / 2 nights 450 GEL](https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/)
 - [1 Sat Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
+- [2–10 Sun Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria By plane · 9 days 6,550 GEL](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
 - [2 Sun A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes Day tour 60 GEL](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 - [2 Sun David Gareja: Sabereebi Desert Monastery Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 - [2 Sun Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake Day tour 60 GEL](https://besttraveler.ge/en/tours/tianeti-day-trip/)
@@ -195,7 +224,10 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [2 Sun Kvemo Kartli and Pitareti: Khuluti, Tandzia, Kveshi, Bolnisi Sioni Day tour 60 GEL](https://besttraveler.ge/en/tours/pitareti-bolnisi-kvemo-kartli-tour/)
 - [3–10 Mon Burgundy and Franche-Comté: Cluny, Dijon and Beaune By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
 - [3–8 Mon Istanbul: 6-Day Tour with Flights from Tbilisi or Batumi By plane · 6 days 3,600 GEL](https://besttraveler.ge/en/tours/istanbul-tour-from-tbilisi/)
+- [6–11 Thu Egypt Tour: Cairo and Alexandria, 5 Days By plane · 5 days / 4 nights 2,500 GEL](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
+- [7–17 Fri Lake Nasser Cruise, Cairo and Luxor — Group Tour By plane · 11 days 6,650 GEL](https://besttraveler.ge/en/tours/egypt-lake-nasser-cruise-cairo-luxor/)
 - [7–9 Fri Trabzon and Sumela Monastery: 3-Day Tour By bus · 3 days / 2 nights 480 GEL](https://besttraveler.ge/en/tours/trabzon-sumela-monastery-tour/)
+- [9–16 Sun Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days By plane · 8 days 3,700 GEL](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
 - [9 Sun A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes Day tour 60 GEL](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 - [9 Sun David Gareja: Sabereebi Desert Monastery Day Tour Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 - [9 Sun Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi Day tour 60 GEL](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/)
@@ -233,6 +265,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [22 Sat Imereti Day Tour: Mgvimevi, Katskhi Pillar, Samtsvera, Ubisi Day tour 70 GEL](https://besttraveler.ge/en/tours/imereti-tour-katskhi-pillar-ubisi/)
 - [22 Sat Mtskheta Tour: Karsani, Kartli Range, Armazi Fortress and Monastery Day tour 60 GEL](https://besttraveler.ge/en/tours/karsani-armazi-mtskheta-day-tour/)
 - [22 Sat Shida Kartli Tour: Skhvilo, Breti, Ruisi, Samtavisi, Urbnisi Day tour 60 GEL](https://besttraveler.ge/en/tours/samtavisi-ruisi-urbnisi-day-tour/)
+- [23–30 Sun Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna By plane · 8 days 4,500 GEL](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
 - [23 Sun Borjomi Tour: Daba, Timotesubani, Borjomi Park, Green Monastery Day tour 65 GEL](https://besttraveler.ge/en/tours/borjomi-timotesubani-green-monastery-tour/)
 - [23 Sun Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake Day tour 60 GEL](https://besttraveler.ge/en/tours/tianeti-day-trip/)
 - [23 Sun Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe Day tour 60 GEL](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
@@ -247,6 +280,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [24–31 Mon Normandy, Brittany and the Loire Valley — 8-Day Tour of France By plane · 8 days / 7 nights 4,100 GEL](https://besttraveler.ge/en/tours/normandy-brittany-loire-tour/)
 - [24–31 Mon France, Germany and Switzerland: Alsace, the Black Forest and Basel By plane · 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/france-germany-switzerland-tour/)
 - [24–31 Mon France, Italy and Monaco: Provence, the Alps and the Côte d'Azur By plane · 8 days 4,500 GEL](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
+- [24–30 Mon Hurghada, Luxor, Port Said and the Suez Canal — 7 Days By plane · 7 days / 6 nights 6,100 GEL](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
 - [27 Thu Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity Day tour 60 GEL](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 - [28–30 Fri Rize and Uzungöl — 3-Day Tour in Turkey By bus · 3 days / 2 nights 470 GEL](https://besttraveler.ge/en/tours/rize-uzungol-3-day-tour/)
 - [28–30 Fri Svaneti 3-Day Tour: Enguri Dam, Mestia, Koruldi Lakes, Ushguli By bus · 3 days / 2 nights 410 GEL](https://besttraveler.ge/en/tours/svaneti-mestia-ushguli-tour/)

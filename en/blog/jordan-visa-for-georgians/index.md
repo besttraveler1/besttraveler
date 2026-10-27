@@ -101,7 +101,7 @@ By plane
 
 ### [Egypt and Jordan: Sharm el-Sheikh and Petra, 8 Days](https://besttraveler.ge/en/tours/egypt-jordan-sharm-el-sheikh-petra-tour/)
 
-8 daysEgypt, Jordan
+8 days24–31 Jan 2027
 
 8 days in Sharm el-Sheikh with unlimited meals, a trip to Petra and optional excursions.
 
