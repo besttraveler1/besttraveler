@@ -92,11 +92,11 @@ URL: https://besttraveler.ge/ka/blogi/somkhetshi-pasportit-tu-piradobit/
 
 ### [დილიჯანის ერთდღიანი ტური, სომხეთი: ჰაღარცინი, გოშავანკი, პარზი](https://besttraveler.ge/ka/turebi/somkheti-dilijani-ertdghiani-turi/)
 
-1 დღესომხეთი
+1 დღე28 მარტი 2027
 
 დილიჯანი, ჰაღარცინისა და გოშავანკის მონასტრები და პარზის ტბა ერთ დღეში.
 
-ერთ ადამიანზე150 ლარი
+ერთ ადამიანზე120 ლარი
 
 ტურის ნახვა 
 
@@ -104,11 +104,11 @@ URL: https://besttraveler.ge/ka/blogi/somkhetshi-pasportit-tu-piradobit/
 
 ### [ისტორიული ლორე, სომხეთი: ახტალა, ახპატი, სანაჰინი, ოძუნი](https://besttraveler.ge/ka/turebi/somkheti-lore-akhpati-sanahini-turi/)
 
-1 დღესომხეთი
+1 დღე18 აპრილი 2027
 
 ახტალა, იუნესკოს ძეგლები ახპატი და სანაჰინი, ოძუნი, ქობაირი და თამარის ხიდი.
 
-ერთ ადამიანზე90 ლარი
+ერთ ადამიანზე80 ლარი
 
 ტურის ნახვა 
 
@@ -116,7 +116,7 @@ URL: https://besttraveler.ge/ka/blogi/somkhetshi-pasportit-tu-piradobit/
 
 ### [სომხეთი 3 დღე: დილიჯანი, ჯერმუკი, ტათევი, ნორავანკი, სევანი](https://besttraveler.ge/ka/turebi/somkheti-tatevi-jermuki-noravanki-turi/)
 
-3 დღე / 2 ღამესომხეთი
+3 დღე / 2 ღამე23–25 აპრილი 2027
 
 სამი დღე სომხეთში: დილიჯანი, ჯერმუკის ჩანჩქერი, ტათევი, ხნძორესკი, ნორავანკი და სევანი.
 
@@ -128,7 +128,7 @@ URL: https://besttraveler.ge/ka/blogi/somkhetshi-pasportit-tu-piradobit/
 
 ### [ერევნის ტური 3 დღე: სევანი, გარნი, გეღარდი, ეჩმიაძინი](https://besttraveler.ge/ka/turebi/erevani-garni-gheghardi-turi/)
 
-3 დღესომხეთი
+3 დღე / 2 ღამე27–29 ნოემბერი 2026
 
 სამი დღე სომხეთში: სევანი, ერევანი, ხორ ვირაპი, გარნი, გეღარდი, ზვართნოცი და ეჩმიაძინი.
 

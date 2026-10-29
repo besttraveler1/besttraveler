@@ -79,10 +79,13 @@ URL: https://besttraveler.ge/ka/saitis-ruka/
 ## მრავალდღიანი ტურები ავტობუსით
 
 - [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/ka/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
+- [ერევნის ტური 3 დღე: სევანი, გარნი, გეღარდი, ეჩმიაძინი](https://besttraveler.ge/ka/turebi/erevani-garni-gheghardi-turi/)
 - [ყარსი, ანისი და ვანი — 3-დღიანი ტური თურქეთში](https://besttraveler.ge/ka/turebi/turketi-karsi-anisi-vani-turi/)
 - [ვანი და მარდინი — 7-დღიანი ტური აღმოსავლეთ თურქეთში](https://besttraveler.ge/ka/turebi/aghmosavlet-turketi-vani-mardini-turi/)
+- [ერევანი 2 დღეში: სევანი, ეჩმიაძინი, გარნი და გეღარდი](https://besttraveler.ge/ka/turebi/erevnis-ordghiani-turi-garni-geghardi/)
 - [ტრაპიზონი და სუმელას მონასტერი — 3-დღიანი ტური](https://besttraveler.ge/ka/turebi/trapizoni-sumela-turi/)
 - [ტაო-კლარჯეთის ტური — ტბეთი, არტანუჯი, ოშკი, პარხალი](https://besttraveler.ge/ka/turebi/tao-klarjeti-turi/)
+- [სომხეთი 3 დღე: დილიჯანი, ჯერმუკი, ტათევი, ნორავანკი, სევანი](https://besttraveler.ge/ka/turebi/somkheti-tatevi-jermuki-noravanki-turi/)
 - [რიზე და უზუნგოლი — 3-დღიანი ტური თურქეთში](https://besttraveler.ge/ka/turebi/rize-uzungoli-samdghiani-turi/)
 - [რაჭის ორდღიანი ტური: ცხრაჯვარი, შაორი, ნიკორწმინდა, უწერა, ღები](https://besttraveler.ge/ka/turebi/racha-shaori-nikortsminda-turi/)
 - [სვანეთის სამდღიანი ტური: ენგურჰესი, მესტია, ქორულდის ტბები, უშგული](https://besttraveler.ge/ka/turebi/svaneti-mestia-ushguli-turi/)
@@ -90,11 +93,9 @@ URL: https://besttraveler.ge/ka/saitis-ruka/
 - [თურქეთი და საბერძნეთი — 14-დღიანი ტური ავტობუსით](https://besttraveler.ge/ka/turebi/turketi-saberdzneti-14-dghiani-turi/)
 - [ზემო აჭარის 2-დღიანი ტური: გოდერძი, შუამთის ტბები, ზარზმა](https://besttraveler.ge/ka/turebi/zemo-acharis-ordghiani-turi-goderdzi/)
 - [თუშეთის 3-დღიანი ტური: აბანოს უღელტეხილი, დართლო, ომალო](https://besttraveler.ge/ka/turebi/tushetis-samdghiani-turi-omalo-dartlo/)
-- [სომხეთი 3 დღე: დილიჯანი, ჯერმუკი, ტათევი, ნორავანკი, სევანი](https://besttraveler.ge/ka/turebi/somkheti-tatevi-jermuki-noravanki-turi/)
 - [ბათუმი და აჭარა — საზაფხულო ტური](https://besttraveler.ge/ka/turebi/batumi-achara-sazapkhulo-turi/)
 - [ბორჯომი და ბაკურიანი — ტური „კუკუშკით“](https://besttraveler.ge/ka/turebi/borjomi-bakuriani-turi/)
 - [ქუთაისი, მღვიმეები და კანიონები: პრომეთე, მარტვილი, ოკაცე](https://besttraveler.ge/ka/turebi/kutaisi-mghvimeebi-kanionebi-turi/)
-- [ერევნის ტური 3 დღე: სევანი, გარნი, გეღარდი, ეჩმიაძინი](https://besttraveler.ge/ka/turebi/erevani-garni-gheghardi-turi/)
 
 ## ერთდღიანი ტურები
 
@@ -120,7 +121,9 @@ URL: https://besttraveler.ge/ka/saitis-ruka/
 - [თრუსოს ხეობის ტური: ტრავერტინები, უძირო ტბა, ზაქაგორი](https://besttraveler.ge/ka/turebi/trusos-kheoba-ertdghiani-turi/)
 - [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/kojori-manglisi-ertdghiani-turi/)
 - [გუდაურის ერთდღიანი ტური: თავისუფალი დრო სათხილამურო კურორტზე](https://besttraveler.ge/ka/turebi/gudauri-zamtarshi-ertdghiani-turi/)
+- [დილიჯანის ერთდღიანი ტური, სომხეთი: ჰაღარცინი, გოშავანკი, პარზი](https://besttraveler.ge/ka/turebi/somkheti-dilijani-ertdghiani-turi/)
 - [შიდა ქართლის ტური: სხვილოს ციხე, ბრეთი, რუისი, სამთავისი, ურბნისი](https://besttraveler.ge/ka/turebi/shida-kartli-samtavisi-ruisi-urbnisi/)
+- [ისტორიული ლორე, სომხეთი: ახტალა, ახპატი, სანაჰინი, ოძუნი](https://besttraveler.ge/ka/turebi/somkheti-lore-akhpati-sanahini-turi/)
 - [ქვემო ქართლი და ფიტარეთი: ხულუტი, ტანძია, ქვეში, ბოლნისის სიონი](https://besttraveler.ge/ka/turebi/kvemo-kartli-pitareti-bolnisi-turi/)
 - [პანკისის ხეობის ტური: ხადორის ჩანჩქერი, დუისი, კვეტერა](https://besttraveler.ge/ka/turebi/pankisis-kheoba-khadoris-chanchkeri/)
 - [მარტვილი-ნოქალაქევის ტური: ციხე-გოჯი, მარტვილის კანიონი, სალხინო](https://besttraveler.ge/ka/turebi/martvilis-kanioni-nokalakevi-turi/)
@@ -137,9 +140,7 @@ URL: https://besttraveler.ge/ka/saitis-ruka/
 - [ბათუმის ტური და ბოტანიკური ბაღი](https://besttraveler.ge/ka/turebi/batumis-turi-botanikuri-baghi/)
 - [ბირთვისის ციხე და კანიონი — ერთდღიანი ლაშქრობა](https://besttraveler.ge/ka/turebi/birtvisis-kanioni-lashkroba/)
 - [დაშბაშის კანიონი და წალკა — ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/dashbashis-kanioni-tsalka-ertdghiani-turi/)
-- [დილიჯანის ერთდღიანი ტური, სომხეთი: ჰაღარცინი, გოშავანკი, პარზი](https://besttraveler.ge/ka/turebi/somkheti-dilijani-ertdghiani-turi/)
 - [გონიო, კვარიათი და სარფი — ტური ბათუმიდან](https://besttraveler.ge/ka/turebi/gonio-kvariati-sarpi-turi-batumidan/)
-- [ისტორიული ლორე, სომხეთი: ახტალა, ახპატი, სანაჰინი, ოძუნი](https://besttraveler.ge/ka/turebi/somkheti-lore-akhpati-sanahini-turi/)
 - [კახეთის ღვინის ტური — ალაზნის ველი, წინანდალი, სიღნაღი](https://besttraveler.ge/ka/turebi/kakhetis-ghvinis-turi/)
 - [ყინწვისი, ატენის სიონი და გორი — ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/qintsvisi-atenis-sioni-ertdghiani-turi/)
 - [მარტვილისა და ოკაცის კანიონები — ტური ბათუმიდან](https://besttraveler.ge/ka/turebi/martvilis-okatsis-kanionebi-batumidan/)

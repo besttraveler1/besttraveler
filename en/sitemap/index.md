@@ -79,10 +79,13 @@ URL: https://besttraveler.ge/en/sitemap/
 ## Multi-day by bus
 
 - [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/)
+- [Yerevan in 3 Days: Sevan, Garni, Geghard, Etchmiadzin](https://besttraveler.ge/en/tours/yerevan-garni-geghard-tour/)
 - [Kars, Ani and Van: 3-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/)
 - [Van and Mardin: 7-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/eastern-turkey-van-mardin-nemrut-tour/)
+- [Yerevan in 2 Days: Sevan, Etchmiadzin, Garni and Geghard](https://besttraveler.ge/en/tours/yerevan-2-day-tour-garni-geghard/)
 - [Trabzon and Sumela Monastery: 3-Day Tour](https://besttraveler.ge/en/tours/trabzon-sumela-monastery-tour/)
 - [Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana](https://besttraveler.ge/en/tours/tao-klarjeti-tour-turkey/)
+- [Armenia in 3 Days: Dilijan, Jermuk, Tatev, Noravank, Sevan](https://besttraveler.ge/en/tours/armenia-tatev-jermuk-noravank-tour/)
 - [Rize and Uzungöl — 3-Day Tour in Turkey](https://besttraveler.ge/en/tours/rize-uzungol-3-day-tour/)
 - [Racha 2-Day Tour: Tskhrajvari, Shaori, Nikortsminda, Utsera, Ghebi](https://besttraveler.ge/en/tours/racha-shaori-nikortsminda-tour/)
 - [Svaneti 3-Day Tour: Enguri Dam, Mestia, Koruldi Lakes, Ushguli](https://besttraveler.ge/en/tours/svaneti-mestia-ushguli-tour/)
@@ -90,11 +93,9 @@ URL: https://besttraveler.ge/en/sitemap/
 - [Turkey and Greece — 14-Day Tour by Bus](https://besttraveler.ge/en/tours/turkey-greece-14-day-tour/)
 - [Upper Adjara 2-Day Tour: Goderdzi, Shuamta Lakes, Zarzma](https://besttraveler.ge/en/tours/upper-adjara-2-day-tour-goderdzi/)
 - [Tusheti 3-Day Tour: Abano Pass, Dartlo, Bochorna, Omalo](https://besttraveler.ge/en/tours/tusheti-3-day-tour-omalo-dartlo/)
-- [Armenia in 3 Days: Dilijan, Jermuk, Tatev, Noravank, Sevan](https://besttraveler.ge/en/tours/armenia-tatev-jermuk-noravank-tour/)
 - [Batumi and Adjara summer tour](https://besttraveler.ge/en/tours/batumi-adjara-summer-tour/)
 - [Borjomi and Bakuriani tour with the Kukushka train](https://besttraveler.ge/en/tours/borjomi-bakuriani-tour/)
 - [Kutaisi, caves and canyons tour: Prometheus, Martvili, Okatse](https://besttraveler.ge/en/tours/kutaisi-caves-canyons-tour/)
-- [Yerevan in 3 Days: Sevan, Garni, Geghard, Etchmiadzin](https://besttraveler.ge/en/tours/yerevan-garni-geghard-tour/)
 
 ## Day tours
 
@@ -120,7 +121,9 @@ URL: https://besttraveler.ge/en/sitemap/
 - [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
 - [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
 - [Gudauri Day Trip: Free Time at the Ski Resort](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
+- [Dilijan Day Tour, Armenia: Haghartsin, Goshavank, Lake Parz](https://besttraveler.ge/en/tours/armenia-dilijan-day-trip/)
 - [Shida Kartli Tour: Skhvilo, Breti, Ruisi, Samtavisi, Urbnisi](https://besttraveler.ge/en/tours/samtavisi-ruisi-urbnisi-day-tour/)
+- [Historic Lori, Armenia: Akhtala, Haghpat, Sanahin, Odzun](https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-tour/)
 - [Kvemo Kartli and Pitareti: Khuluti, Tandzia, Kveshi, Bolnisi Sioni](https://besttraveler.ge/en/tours/pitareti-bolnisi-kvemo-kartli-tour/)
 - [Pankisi Gorge Tour: Khadori Waterfall, Duisi, Kvetera](https://besttraveler.ge/en/tours/pankisi-gorge-khadori-waterfall-day-tour/)
 - [Martvili and Nokalakevi Tour: Tsikhe-Goji, Martvili Canyon, Salkhino](https://besttraveler.ge/en/tours/martvili-canyon-nokalakevi-day-tour/)
@@ -137,9 +140,7 @@ URL: https://besttraveler.ge/en/sitemap/
 - [Batumi city tour and Botanical Garden](https://besttraveler.ge/en/tours/batumi-city-tour-botanical-garden/)
 - [Birtvisi fortress and canyon hike](https://besttraveler.ge/en/tours/birtvisi-canyon-hike/)
 - [Dashbashi Canyon and Tsalka day trip](https://besttraveler.ge/en/tours/dashbashi-canyon-tsalka-day-trip/)
-- [Dilijan Day Tour, Armenia: Haghartsin, Goshavank, Lake Parz](https://besttraveler.ge/en/tours/armenia-dilijan-day-trip/)
 - [Gonio, Kvariati and Sarpi trip from Batumi](https://besttraveler.ge/en/tours/gonio-kvariati-sarpi-trip-from-batumi/)
-- [Historic Lori, Armenia: Akhtala, Haghpat, Sanahin, Odzun](https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-tour/)
 - [Kakheti wine tour: Alazani Valley, Tsinandali, Sighnaghi](https://besttraveler.ge/en/tours/kakheti-wine-tour-from-tbilisi/)
 - [Kintsvisi, Ateni Sioni and Gori day trip](https://besttraveler.ge/en/tours/kintsvisi-ateni-sioni-day-trip/)
 - [Martvili and Okatse canyons trip from Batumi](https://besttraveler.ge/en/tours/martvili-okatse-canyons-from-batumi/)

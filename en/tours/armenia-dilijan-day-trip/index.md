@@ -1,6 +1,6 @@
 # Dilijan day tour to Armenia
 
-> One-day tour to Armenia from Tbilisi: Dilijan, Haghartsin, Goshavank and Lake Parz. Departs 06:00 from Didube, price 150 GEL.
+> One-day tour to Armenia from Tbilisi: Dilijan, Haghartsin, Goshavank and Lake Parz. Departs 06:00 from Didube, price 120 GEL.
 
 URL: https://besttraveler.ge/en/tours/armenia-dilijan-day-trip/
 
@@ -19,11 +19,11 @@ Photo: [Benoît Prieur](https://commons.wikimedia.org/w/index.php?curid=62585446
 
 Duration1 day
 
-DatesOn request
+Next departure28 Mar 2027 +3
 
 DepartureTbilisi, 06:00
 
-Price150 GEL
+Price120 GEL
 
 ## Tour programme
 
@@ -46,12 +46,15 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Services of a qualified tour guide (organization, short overview of each sight)
 - Photography
 
+## Not included
+
+- Meals (on your own)
+
 ## Good to know
 
 - Return: 23:00
 - Meeting point: Didube metro station, upper exit
 - Documents: International passport (valid for at least 6 months) or Georgian ID card
-- If a participant leaves the list during the last two days, the money is not returned.
 - The tour runs in any weather.
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
@@ -60,11 +63,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Dilijan Day Tour, Armenia: Haghartsin, Goshavank, Lake Parz” tour cost?**
 
-The tour costs 150 GEL per person.
+The tour costs 120 GEL per person.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 28 Mar 2027, 10 Apr 2027, 25 Apr 2027, 15 May 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -74,13 +77,16 @@ Travel by top-class minibus; Services of a qualified tour guide (organization, s
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 150 GELper person: 
+Price: 120 GELper person: 
 
 ## Dates
 
 Dates
 
-Dates on request
+- 28 Mar 2027
+- 10 Apr 2027
+- 25 Apr 2027
+- 15 May 2027
 
 - Travel by top-class minibus
 - Services of a qualified tour guide (organization, short overview of each sight)
@@ -94,21 +100,9 @@ Dates on request
 
 By bus
 
-### [Armenia in 3 Days: Dilijan, Jermuk, Tatev, Noravank, Sevan](https://besttraveler.ge/en/tours/armenia-tatev-jermuk-noravank-tour/)
-
-3 days / 2 nightsArmenia
-
-Three days in Armenia: Dilijan, Jermuk waterfall, Tatev, Khndzoresk, Noravank and Sevan.
-
-per person480 GEL
-
-View tour 
-
-By bus
-
 ### [Yerevan in 3 Days: Sevan, Garni, Geghard, Etchmiadzin](https://besttraveler.ge/en/tours/yerevan-garni-geghard-tour/)
 
-3 daysArmenia
+3 days / 2 nights27–29 Nov 2026
 
 Three days in Armenia: Sevan, Yerevan, Khor Virap, Garni, Geghard, Zvartnots and Etchmiadzin.
 
@@ -116,14 +110,26 @@ per person450 GEL
 
 View tour 
 
+By bus
+
+### [Yerevan in 2 Days: Sevan, Etchmiadzin, Garni and Geghard](https://besttraveler.ge/en/tours/yerevan-2-day-tour-garni-geghard/)
+
+2 days20–21 Mar 2027
+
+Two days in Armenia: Dilijan, Lake Sevan, Etchmiadzin, Yerevan, Garni and Geghard.
+
+per person280 GEL
+
+View tour 
+
 Day tour
 
 ### [Historic Lori, Armenia: Akhtala, Haghpat, Sanahin, Odzun](https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-tour/)
 
-1 dayArmenia
+1 day18 Apr 2027
 
 Akhtala, UNESCO-listed Haghpat and Sanahin, Odzun, Kobayr and Tamar's Bridge.
 
-per person90 GEL
+per person80 GEL
 
 View tour

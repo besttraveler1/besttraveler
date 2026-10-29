@@ -79,10 +79,13 @@ URL: https://besttraveler.ge/ru/karta-sayta/
 ## Многодневные на автобусе
 
 - [Каппадокия, Амасья и Орду: автобусный тур на 6 дней](https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/)
+- [Ереван за 3 дня: Севан, Гарни, Гегард, Эчмиадзин](https://besttraveler.ge/ru/tury/erevan-garni-gegard-tur/)
 - [Карс, Ани и Ван — тур по Турции на 3 дня](https://besttraveler.ge/ru/tury/turtsiya-kars-ani-van-tur/)
 - [Ван и Мардин — тур по Восточной Турции на 7 дней](https://besttraveler.ge/ru/tury/vostochnaya-turtsiya-van-mardin-tur/)
+- [Ереван за 2 дня: Севан, Эчмиадзин, Гарни и Гегард](https://besttraveler.ge/ru/tury/erevan-tur-na-2-dnya-garni-gegard/)
 - [Трабзон и монастырь Сумела — тур на 3 дня](https://besttraveler.ge/ru/tury/trabzon-sumela-tur/)
 - [Тур в Тао-Кларджети: Тбети, Артануджи, Ошки, Пархали, Бана](https://besttraveler.ge/ru/tury/tao-klardzheti-tur/)
+- [Армения за 3 дня: Дилижан, Джермук, Татев, Нораванк, Севан](https://besttraveler.ge/ru/tury/armeniya-tatev-dzhermuk-noravank-tur/)
 - [Ризе и Узунгёль — тур по Турции на 3 дня](https://besttraveler.ge/ru/tury/rize-uzungol-tur-na-3-dnya/)
 - [Двухдневный тур в Рачу: Цхраджвари, Шаори, Никорцминда, Уцера, Геби](https://besttraveler.ge/ru/tury/racha-shaori-nikortsminda-tur/)
 - [Трёхдневный тур в Сванетию: Ингури ГЭС, Местиа, озёра Корулди, Ушгули](https://besttraveler.ge/ru/tury/svanetiya-mestia-ushguli-tur/)
@@ -90,11 +93,9 @@ URL: https://besttraveler.ge/ru/karta-sayta/
 - [Турция и Греция — автобусный тур на 14 дней](https://besttraveler.ge/ru/tury/turtsiya-gretsiya-tur-14-dney/)
 - [Тур в Верхнюю Аджарию на 2 дня: Годердзи, озёра Шуамта, Зарзма](https://besttraveler.ge/ru/tury/verkhnyaya-adzhariya-tur-na-2-dnya/)
 - [Тур в Тушетию на 3 дня: перевал Абано, Дартло, Омало](https://besttraveler.ge/ru/tury/tusheti-tur-na-3-dnya-omalo-dartlo/)
-- [Армения за 3 дня: Дилижан, Джермук, Татев, Нораванк, Севан](https://besttraveler.ge/ru/tury/armeniya-tatev-dzhermuk-noravank-tur/)
 - [Батуми и Аджария — летний тур](https://besttraveler.ge/ru/tury/batumi-adzhariya-letniy-tur/)
 - [Боржоми и Бакуриани — тур с поездом «Кукушка»](https://besttraveler.ge/ru/tury/borzhomi-bakuriani-tur/)
 - [Кутаиси, пещеры и каньоны: Прометей, Мартвили, Окаце](https://besttraveler.ge/ru/tury/kutaisi-peshchery-kanony-tur/)
-- [Ереван за 3 дня: Севан, Гарни, Гегард, Эчмиадзин](https://besttraveler.ge/ru/tury/erevan-garni-gegard-tur/)
 
 ## Однодневные туры
 
@@ -120,7 +121,9 @@ URL: https://besttraveler.ge/ru/karta-sayta/
 - [Тур в Трусовское ущелье: травертины, «бездонное» озеро, Закагори](https://besttraveler.ge/ru/tury/trusovskoe-ushchele-tur/)
 - [Однодневный тур Коджори – Манглиси](https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/)
 - [Однодневный тур в Гудаури: свободное время на горнолыжном курорте](https://besttraveler.ge/ru/tury/gudauri-zimoy-odnodnevnyy-tur/)
+- [Однодневный тур в Дилижан, Армения: Агарцин, Гошаванк, озеро Парз](https://besttraveler.ge/ru/tury/armeniya-dilizhan-odnodnevnyy-tur/)
 - [Тур по Шида Картли: Схвило, Брети, Руиси, Самтависи, Урбниси](https://besttraveler.ge/ru/tury/samtavisi-ruisi-urbnisi-tur/)
+- [Исторический Лори, Армения: Ахтала, Ахпат, Санаин, Одзун](https://besttraveler.ge/ru/tury/armeniya-lori-akhpat-sanain-tur/)
 - [Квемо Картли и Питарети: Хулути, Тандзиа, Квеши, Болнисский Сиони](https://besttraveler.ge/ru/tury/pitareti-bolnisi-kvemo-kartli-tur/)
 - [Тур в Панкисское ущелье: водопад Хадори, Дуиси, Квэтера](https://besttraveler.ge/ru/tury/pankisskoe-ushchele-vodopad-khadori/)
 - [Тур Мартвили – Нокалакеви: Цихе-Годжи, каньон Мартвили, Салхино](https://besttraveler.ge/ru/tury/martvilskiy-kanon-nokalakevi-tur/)
@@ -137,9 +140,7 @@ URL: https://besttraveler.ge/ru/karta-sayta/
 - [Обзорная экскурсия по Батуми и Ботанический сад](https://besttraveler.ge/ru/tury/obzornaya-ekskursiya-po-batumi-botanicheskiy-sad/)
 - [Крепость и каньон Биртвиси — однодневный поход](https://besttraveler.ge/ru/tury/kanon-birtvisi-pokhod/)
 - [Каньон Дашбаши и Цалка — однодневный тур](https://besttraveler.ge/ru/tury/kanon-dashbashi-tsalka-odnodnevnyy-tur/)
-- [Однодневный тур в Дилижан, Армения: Агарцин, Гошаванк, озеро Парз](https://besttraveler.ge/ru/tury/armeniya-dilizhan-odnodnevnyy-tur/)
 - [Гонио, Квариати и Сарпи — экскурсия из Батуми](https://besttraveler.ge/ru/tury/ekskursiya-iz-batumi-v-gonio-kvariati-sarpi/)
-- [Исторический Лори, Армения: Ахтала, Ахпат, Санаин, Одзун](https://besttraveler.ge/ru/tury/armeniya-lori-akhpat-sanain-tur/)
 - [Винный тур по Кахетии: Алазанская долина, Цинандали, Сигнахи](https://besttraveler.ge/ru/tury/vinnyy-tur-po-kakhetii/)
 - [Кинцвиси, Атенский Сиони и Гори — однодневный тур](https://besttraveler.ge/ru/tury/kintsvisi-atenskiy-sioni-odnodnevnyy-tur/)
 - [Каньоны Мартвили и Окаце — экскурсия из Батуми](https://besttraveler.ge/ru/tury/ekskursiya-iz-batumi-v-martvili-i-okatse/)

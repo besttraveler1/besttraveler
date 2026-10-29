@@ -28,7 +28,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [31 сб Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети Однодневный 60 лари](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
 - [31 сб Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка Однодневный 65 лари](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
 
-## Ноябрь 2026 49 выездов
+## Ноябрь 2026 50 выездов
 
 - [1–4 вс Афины, Греция — групповой тур из Кутаиси, 1–4 ноября Авиатур · 4 дня / 3 ночи 1 200 лари](https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/)
 - [1 вс Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра Однодневный 60 лари](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
@@ -79,6 +79,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [22 вс Однодневный тур Коджори – Манглиси Однодневный 60 лари](https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/)
 - [23–27 пн Бари и Апулия, Италия — новогодний групповой тур через Ереван Авиатур · 5 дней 2 600 лари](https://besttraveler.ge/ru/tury/italiya-bari-apuliya-novogodniy-tur/)
 - [26–30 чт Тур в Египет: Каир и Александрия, 5 дней Авиатур · 5 дней / 4 ночи 2 500 лари](https://besttraveler.ge/ru/tury/egipet-kair-aleksandriya-tur/)
+- [27–29 пт Ереван за 3 дня: Севан, Гарни, Гегард, Эчмиадзин На автобусе · 3 дня / 2 ночи 450 лари](https://besttraveler.ge/ru/tury/erevan-garni-gegard-tur/)
 
 ## Декабрь 2026 16 выездов
 
@@ -130,7 +131,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [20 сб Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка Однодневный 65 лари](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
 - [21–28 вс Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна Авиатур · 8 дней 4 500 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
 
-## Март 2027 20 выездов
+## Март 2027 22 выезда
 
 - [2–9 вт Бургундия и Франш-Конте: Клюни, Дижон и Бон Авиатур · 8 дней / 7 ночей 4 500 лари](https://besttraveler.ge/ru/tury/burgundiya-fransh-konte-tur/)
 - [2–6 вт Париж, Франция — групповой тур на 5 дней Авиатур · 5 дней 2 500 лари](https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/)
@@ -143,6 +144,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [13 сб Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро Однодневный 60 лари](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 - [15–21 пн Хургада, Луксор, Порт-Саид и Суэцкий канал — 7 дней Авиатур · 7 дней / 6 ночей 6 100 лари](https://besttraveler.ge/ru/tury/egipet-khurgada-luksor-suetskiy-kanal/)
 - [19–28 пт Корсика, Франция — групповой тур на 10 дней с Парижем Авиатур · 10 дней / 9 ночей 5 300 лари](https://besttraveler.ge/ru/tury/korsika-gruppovoy-tur/)
+- [20–21 сб Ереван за 2 дня: Севан, Эчмиадзин, Гарни и Гегард На автобусе · 2 дня 280 лари](https://besttraveler.ge/ru/tury/erevan-tur-na-2-dnya-garni-gegard/)
 - [21–28 вс Египет и Иордания: Шарм-эль-Шейх и Петра, 8 дней Авиатур · 8 дней 3 700 лари](https://besttraveler.ge/ru/tury/egipet-iordaniya-sharm-el-sheykh-petra/)
 - [21–28 вс Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна Авиатур · 8 дней 4 500 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
 - [21 вс Давид Гареджи: однодневный тур в пустыню Сабереби Однодневный 60 лари](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
@@ -150,18 +152,21 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [25–30 чт Тур в Египет: Каир и Александрия, 5 дней Авиатур · 5 дней / 4 ночи 2 500 лари](https://besttraveler.ge/ru/tury/egipet-kair-aleksandriya-tur/)
 - [26–28 пт Трабзон и монастырь Сумела — тур на 3 дня На автобусе · 3 дня / 2 ночи 480 лари](https://besttraveler.ge/ru/tury/trabzon-sumela-tur/)
 - [28 вс Испания, Франция, Андорра — тур на 10 дней из Барселоны Авиатур · 10 дней · → 4 апреля 4 700 лари](https://besttraveler.ge/ru/tury/ispaniya-frantsiya-andorra-tur/)
+- [28 вс Однодневный тур в Дилижан, Армения: Агарцин, Гошаванк, озеро Парз Однодневный 120 лари](https://besttraveler.ge/ru/tury/armeniya-dilizhan-odnodnevnyy-tur/)
 - [28 вс Однодневный тур в Тианети: Мамкода, Цхваричамия, Эрцо, озеро Сиони Однодневный 60 лари](https://besttraveler.ge/ru/tury/tianeti-odnodnevnyy-tur/)
 - [28 вс Однодневный тур Коджори – Манглиси Однодневный 60 лари](https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/)
 
-## Апрель 2027 48 выездов
+## Апрель 2027 54 выезда
 
 - [2–12 пт Круиз по озеру Насер, Каир и Луксор — групповой тур Авиатур · 11 дней 6 650 лари](https://besttraveler.ge/ru/tury/egipet-kruiz-po-ozeru-naser/)
 - [2–4 пт Трабзон и монастырь Сумела — тур на 3 дня На автобусе · 3 дня / 2 ночи 480 лари](https://besttraveler.ge/ru/tury/trabzon-sumela-tur/)
 - [3–8 сб Стамбул — тур на 6 дней с вылетом из Тбилиси или Батуми Авиатур · 6 дней 3 600 лари](https://besttraveler.ge/ru/tury/stambul-tur-iz-tbilisi/)
 - [4–12 вс Круиз по Нилу: Каир, Луксор, Асуан, Абу-Симбел и Александрия Авиатур · 9 дней 6 550 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-kair-luksor-aleksandriya/)
 - [5–9 пн Париж, Франция — групповой тур на 5 дней Авиатур · 5 дней 2 500 лари](https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/)
+- [9–11 пт Ереван за 3 дня: Севан, Гарни, Гегард, Эчмиадзин На автобусе · 3 дня / 2 ночи 450 лари](https://besttraveler.ge/ru/tury/erevan-garni-gegard-tur/)
 - [9–11 пт Тур в Тао-Кларджети: Тбети, Артануджи, Ошки, Пархали, Бана На автобусе · 3 дня 480 лари](https://besttraveler.ge/ru/tury/tao-klardzheti-tur/)
 - [9–11 пт Карс, Ани и Ван — тур по Турции на 3 дня На автобусе · 3 дня / 2 ночи 450 лари](https://besttraveler.ge/ru/tury/turtsiya-kars-ani-van-tur/)
+- [10 сб Однодневный тур в Дилижан, Армения: Агарцин, Гошаванк, озеро Парз Однодневный 120 лари](https://besttraveler.ge/ru/tury/armeniya-dilizhan-odnodnevnyy-tur/)
 - [10 сб Тур по Шида Картли: Схвило, Брети, Руиси, Самтависи, Урбниси Однодневный 60 лари](https://besttraveler.ge/ru/tury/samtavisi-ruisi-urbnisi-tur/)
 - [11 вс Тур в Вашловани: гора Элия, Город ласточек, Алесилеби Однодневный 70 лари](https://besttraveler.ge/ru/tury/vashlovani-tur-dedoplistskaro/)
 - [11 вс Однодневный тур в Тианети: Мамкода, Цхваричамия, Эрцо, озеро Сиони Однодневный 60 лари](https://besttraveler.ge/ru/tury/tianeti-odnodnevnyy-tur/)
@@ -173,10 +178,12 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [11 вс Тур по Шида Картли: крепость Гори, Горисджвари, Уплисцихе, Атенский Сиони Однодневный 60 лари](https://besttraveler.ge/ru/tury/gori-uplistsikhe-ateni-tur/)
 - [11 вс Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка Однодневный 65 лари](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
 - [13–18 вт Каппадокия, Амасья и Орду: автобусный тур на 6 дней На автобусе · 6 дней 1 450 лари](https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/)
+- [17–18 сб Ереван за 2 дня: Севан, Эчмиадзин, Гарни и Гегард На автобусе · 2 дня 280 лари](https://besttraveler.ge/ru/tury/erevan-tur-na-2-dnya-garni-gegard/)
 - [18–25 вс Египет и Иордания: Шарм-эль-Шейх и Петра, 8 дней Авиатур · 8 дней 3 700 лари](https://besttraveler.ge/ru/tury/egipet-iordaniya-sharm-el-sheykh-petra/)
 - [18–25 вс Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна Авиатур · 8 дней 4 500 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
 - [18 вс Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра Однодневный 60 лари](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
 - [18 вс Давид Гареджи: однодневный тур в пустыню Сабереби Однодневный 60 лари](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
+- [18 вс Исторический Лори, Армения: Ахтала, Ахпат, Санаин, Одзун Однодневный 80 лари](https://besttraveler.ge/ru/tury/armeniya-lori-akhpat-sanain-tur/)
 - [18 вс Тур по Кахетии: Некреси, озеро Ильи, Греми, Телави Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-nekresi-gremi-telavi-tur/)
 - [18 вс Тур по Кахетии: Чаилури, Гурджаанская Квелацминда, Зегаани, Санагире Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-gurdzhaani-zegaani-tur/)
 - [18 вс Тур в Панкисское ущелье: водопад Хадори, Дуиси, Квэтера Однодневный 60 лари](https://besttraveler.ge/ru/tury/pankisskoe-ushchele-vodopad-khadori/)
@@ -186,6 +193,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [19–25 пн Ван и Мардин — тур по Восточной Турции на 7 дней На автобусе · 7 дней / 6 ночей 1 450 лари](https://besttraveler.ge/ru/tury/vostochnaya-turtsiya-van-mardin-tur/)
 - [22–27 чт Тур в Египет: Каир и Александрия, 5 дней Авиатур · 5 дней / 4 ночи 2 500 лари](https://besttraveler.ge/ru/tury/egipet-kair-aleksandriya-tur/)
 - [23–25 пт Ризе и Узунгёль — тур по Турции на 3 дня На автобусе · 3 дня / 2 ночи 470 лари](https://besttraveler.ge/ru/tury/rize-uzungol-tur-na-3-dnya/)
+- [23–25 пт Армения за 3 дня: Дилижан, Джермук, Татев, Нораванк, Севан На автобусе · 3 дня / 2 ночи 480 лари](https://besttraveler.ge/ru/tury/armeniya-tatev-dzhermuk-noravank-tur/)
 - [24 сб Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра Однодневный 60 лари](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
 - [24 сб Давид Гареджи: однодневный тур в пустыню Сабереби Однодневный 60 лари](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
 - [24 сб Тур по Кахетии: Некреси, озеро Ильи, Греми, Телави Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-nekresi-gremi-telavi-tur/)
@@ -193,6 +201,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [24 сб Тур в Панкисское ущелье: водопад Хадори, Дуиси, Квэтера Однодневный 60 лари](https://besttraveler.ge/ru/tury/pankisskoe-ushchele-vodopad-khadori/)
 - [24 сб Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро Однодневный 60 лари](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 - [24 сб Квемо Картли и Питарети: Хулути, Тандзиа, Квеши, Болнисский Сиони Однодневный 60 лари](https://besttraveler.ge/ru/tury/pitareti-bolnisi-kvemo-kartli-tur/)
+- [25 вс Однодневный тур в Дилижан, Армения: Агарцин, Гошаванк, озеро Парз Однодневный 120 лари](https://besttraveler.ge/ru/tury/armeniya-dilizhan-odnodnevnyy-tur/)
 - [25 вс Тур в Вашловани: гора Элия, Город ласточек, Алесилеби Однодневный 70 лари](https://besttraveler.ge/ru/tury/vashlovani-tur-dedoplistskaro/)
 - [25 вс Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
 - [25 вс Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
@@ -204,7 +213,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [25 вс Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка Однодневный 65 лари](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
 - [30 пт Тур в Тао-Кларджети: Тбети, Артануджи, Ошки, Пархали, Бана На автобусе · 3 дня · → 2 мая 480 лари](https://besttraveler.ge/ru/tury/tao-klardzheti-tur/)
 
-## Май 2027 82 выезда
+## Май 2027 88 выездов
 
 - [1 сб Тур в Вашловани: гора Элия, Город ласточек, Алесилеби Однодневный 70 лари](https://besttraveler.ge/ru/tury/vashlovani-tur-dedoplistskaro/)
 - [1 сб Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
@@ -227,10 +236,12 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [3–8 пн Стамбул — тур на 6 дней с вылетом из Тбилиси или Батуми Авиатур · 6 дней 3 600 лари](https://besttraveler.ge/ru/tury/stambul-tur-iz-tbilisi/)
 - [6–11 чт Тур в Египет: Каир и Александрия, 5 дней Авиатур · 5 дней / 4 ночи 2 500 лари](https://besttraveler.ge/ru/tury/egipet-kair-aleksandriya-tur/)
 - [7–17 пт Круиз по озеру Насер, Каир и Луксор — групповой тур Авиатур · 11 дней 6 650 лари](https://besttraveler.ge/ru/tury/egipet-kruiz-po-ozeru-naser/)
+- [7–9 пт Ереван за 3 дня: Севан, Гарни, Гегард, Эчмиадзин На автобусе · 3 дня / 2 ночи 450 лари](https://besttraveler.ge/ru/tury/erevan-garni-gegard-tur/)
 - [7–9 пт Трабзон и монастырь Сумела — тур на 3 дня На автобусе · 3 дня / 2 ночи 480 лари](https://besttraveler.ge/ru/tury/trabzon-sumela-tur/)
 - [9–16 вс Египет и Иордания: Шарм-эль-Шейх и Петра, 8 дней Авиатур · 8 дней 3 700 лари](https://besttraveler.ge/ru/tury/egipet-iordaniya-sharm-el-sheykh-petra/)
 - [9 вс Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра Однодневный 60 лари](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
 - [9 вс Давид Гареджи: однодневный тур в пустыню Сабереби Однодневный 60 лари](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
+- [9 вс Исторический Лори, Армения: Ахтала, Ахпат, Санаин, Одзун Однодневный 80 лари](https://besttraveler.ge/ru/tury/armeniya-lori-akhpat-sanain-tur/)
 - [9 вс Тур по Кахетии: Некреси, озеро Ильи, Греми, Телави Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-nekresi-gremi-telavi-tur/)
 - [9 вс Тур по Кахетии: Чаилури, Гурджаанская Квелацминда, Зегаани, Санагире Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-gurdzhaani-zegaani-tur/)
 - [9 вс Однодневный тур Коджори – Манглиси Однодневный 60 лари](https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/)
@@ -240,7 +251,10 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [9 вс Квемо Картли и Питарети: Хулути, Тандзиа, Квеши, Болнисский Сиони Однодневный 60 лари](https://besttraveler.ge/ru/tury/pitareti-bolnisi-kvemo-kartli-tur/)
 - [10–14 пн Париж, Франция — групповой тур на 5 дней Авиатур · 5 дней 2 500 лари](https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/)
 - [12–17 ср Каппадокия, Амасья и Орду: автобусный тур на 6 дней На автобусе · 6 дней 1 450 лари](https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/)
+- [14–16 пт Армения за 3 дня: Дилижан, Джермук, Татев, Нораванк, Севан На автобусе · 3 дня / 2 ночи 480 лари](https://besttraveler.ge/ru/tury/armeniya-tatev-dzhermuk-noravank-tur/)
 - [15 сб Давид Гареджи: однодневный тур в пустыню Сабереби Однодневный 60 лари](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
+- [15 сб Однодневный тур в Дилижан, Армения: Агарцин, Гошаванк, озеро Парз Однодневный 120 лари](https://besttraveler.ge/ru/tury/armeniya-dilizhan-odnodnevnyy-tur/)
+- [15–16 сб Ереван за 2 дня: Севан, Эчмиадзин, Гарни и Гегард На автобусе · 2 дня 280 лари](https://besttraveler.ge/ru/tury/erevan-tur-na-2-dnya-garni-gegard/)
 - [15 сб Тур в Вашловани: гора Элия, Город ласточек, Алесилеби Однодневный 70 лари](https://besttraveler.ge/ru/tury/vashlovani-tur-dedoplistskaro/)
 - [15 сб Тур по Кахетии: Некреси, озеро Ильи, Греми, Телави Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-nekresi-gremi-telavi-tur/)
 - [15 сб Тур по Кахетии: Чаилури, Гурджаанская Квелацминда, Зегаани, Санагире Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-gurdzhaani-zegaani-tur/)
@@ -264,6 +278,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [21–27 пт Ван и Мардин — тур по Восточной Турции на 7 дней На автобусе · 7 дней / 6 ночей 1 450 лари](https://besttraveler.ge/ru/tury/vostochnaya-turtsiya-van-mardin-tur/)
 - [21–23 пт Тур в Тао-Кларджети: Тбети, Артануджи, Ошки, Пархали, Бана На автобусе · 3 дня 480 лари](https://besttraveler.ge/ru/tury/tao-klardzheti-tur/)
 - [22 сб Тур по Имерети: Мгвимеви, Кацхский столп, водопад Самцвера, Убиси Однодневный 70 лари](https://besttraveler.ge/ru/tury/imeretiya-stolp-katskhi-ubisi-tur/)
+- [22 сб Исторический Лори, Армения: Ахтала, Ахпат, Санаин, Одзун Однодневный 80 лари](https://besttraveler.ge/ru/tury/armeniya-lori-akhpat-sanain-tur/)
 - [22 сб Тур по Мцхета: Карсани, Картлийский хребет, крепость и монастырь Армази Однодневный 60 лари](https://besttraveler.ge/ru/tury/karsani-armazi-mtskheta-tur/)
 - [22 сб Тур по Шида Картли: Схвило, Брети, Руиси, Самтависи, Урбниси Однодневный 60 лари](https://besttraveler.ge/ru/tury/samtavisi-ruisi-urbnisi-tur/)
 - [23–30 вс Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна Авиатур · 8 дней 4 500 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
@@ -289,16 +304,19 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [30 вс Тур по пещерам: Навенахеви, Тетра, Сатаплиа, Прометей Однодневный 60 лари](https://besttraveler.ge/ru/tury/tur-v-peshchery-prometey-sataplia/)
 - [30 вс Однодневный тур в ущелье Дзама: Самцевриси, озеро Батети, Шуано Однодневный 60 лари](https://besttraveler.ge/ru/tury/ushchele-dzama-odnodnevnyy-tur/)
 
-## Июнь 2027 62 выезда
+## Июнь 2027 65 выездов
 
 - [3–8 чт Стамбул — тур на 6 дней с вылетом из Тбилиси или Батуми Авиатур · 6 дней 3 600 лари](https://besttraveler.ge/ru/tury/stambul-tur-iz-tbilisi/)
+- [4–6 пт Армения за 3 дня: Дилижан, Джермук, Татев, Нораванк, Севан На автобусе · 3 дня / 2 ночи 480 лари](https://besttraveler.ge/ru/tury/armeniya-tatev-dzhermuk-noravank-tur/)
 - [4–6 пт Трабзон и монастырь Сумела — тур на 3 дня На автобусе · 3 дня / 2 ночи 480 лари](https://besttraveler.ge/ru/tury/trabzon-sumela-tur/)
+- [5–6 сб Ереван за 2 дня: Севан, Эчмиадзин, Гарни и Гегард На автобусе · 2 дня 280 лари](https://besttraveler.ge/ru/tury/erevan-tur-na-2-dnya-garni-gegard/)
 - [5 сб Тур на озеро Табацкури: перевал Цхрацкаро, Тимотесубани Однодневный 70 лари](https://besttraveler.ge/ru/tury/ozero-tabatskuri-tur/)
 - [5 сб Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети Однодневный 60 лари](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
 - [6 вс Тур на озеро Табацкури: перевал Цхрацкаро, Тимотесубани Однодневный 70 лари](https://besttraveler.ge/ru/tury/ozero-tabatskuri-tur/)
 - [7–11 пн Париж, Франция — групповой тур на 5 дней Авиатур · 5 дней 2 500 лари](https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/)
 - [7–14 пн Франция, Германия и Швейцария: Эльзас, Шварцвальд и Базель Авиатур · 8 дней / 7 ночей 4 500 лари](https://besttraveler.ge/ru/tury/frantsiya-germaniya-shveytsariya-tur/)
 - [7–14 пн Франция, Италия, Монако: Прованс, Альпы и Лазурный берег Авиатур · 8 дней 4 500 лари](https://besttraveler.ge/ru/tury/provans-monako-lazurnyy-bereg-tur/)
+- [11–13 пт Ереван за 3 дня: Севан, Гарни, Гегард, Эчмиадзин На автобусе · 3 дня / 2 ночи 450 лари](https://besttraveler.ge/ru/tury/erevan-garni-gegard-tur/)
 - [11–13 пт Трёхдневный тур в Сванетию: Ингури ГЭС, Местиа, озёра Корулди, Ушгули На автобусе · 3 дня / 2 ночи 410 лари](https://besttraveler.ge/ru/tury/svanetiya-mestia-ushguli-tur/)
 - [11–13 пт Тур в Тао-Кларджети: Тбети, Артануджи, Ошки, Пархали, Бана На автобусе · 3 дня 480 лари](https://besttraveler.ge/ru/tury/tao-klardzheti-tur/)
 - [12 сб Тур в Боржоми: Даба, Тимотесубани, Боржомский парк, Зелёный монастырь Однодневный 65 лари](https://besttraveler.ge/ru/tury/borzhomi-timotesubani-zelenyy-monastyr/)

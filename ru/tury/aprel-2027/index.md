@@ -1,12 +1,12 @@
 # Туры в апреле 2027 — цены и даты
 
-> 31 туров с началом в апреле 2027: авиатуры, автобусные и однодневные туры из Грузии. Цены, даты и подробная программа по дням.
+> 36 туров с началом в апреле 2027: авиатуры, автобусные и однодневные туры из Грузии. Цены, даты и подробная программа по дням.
 
 URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 # Туры в апреле 2027
 
-Все наши туры, которые начинаются в апреле 2027: 31 туров за границу и по Грузии, с ценами и программой.
+Все наши туры, которые начинаются в апреле 2027: 36 туров за границу и по Грузии, с ценами и программой.
 
 ## Туры в апреле 2027
 
@@ -250,6 +250,18 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 Смотреть тур 
 
+На автобусе
+
+### [Ереван за 3 дня: Севан, Гарни, Гегард, Эчмиадзин](https://besttraveler.ge/ru/tury/erevan-garni-gegard-tur/)
+
+3 дня / 2 ночи27–29 ноября 2026
+
+Три дня в Армении: Севан, Ереван, Хор Вирап, Гарни, Гегард, Звартноц и Эчмиадзин.
+
+за человека450 лари
+
+Смотреть тур 
+
 Авиатур
 
 ### [Круиз по озеру Насер, Каир и Луксор — групповой тур](https://besttraveler.ge/ru/tury/egipet-kruiz-po-ozeru-naser/)
@@ -312,6 +324,18 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 На автобусе
 
+### [Ереван за 2 дня: Севан, Эчмиадзин, Гарни и Гегард](https://besttraveler.ge/ru/tury/erevan-tur-na-2-dnya-garni-gegard/)
+
+2 дня20–21 марта 2027
+
+Два дня в Армении: Дилижан, Севан, Эчмиадзин, Ереван, Гарни и Гегард.
+
+за человека280 лари
+
+Смотреть тур 
+
+На автобусе
+
 ### [Трабзон и монастырь Сумела — тур на 3 дня](https://besttraveler.ge/ru/tury/trabzon-sumela-tur/)
 
 3 дня / 2 ночи26–28 марта 2027
@@ -319,6 +343,18 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 3 дня в Трабзоне и окрестностях: Бозтепе, парк Каябаши, Айя-София и монастырь Сумела.
 
 за человека480 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Однодневный тур в Дилижан, Армения: Агарцин, Гошаванк, озеро Парз](https://besttraveler.ge/ru/tury/armeniya-dilizhan-odnodnevnyy-tur/)
+
+1 день28 марта 2027
+
+Дилижан, монастыри Агарцин и Гошаванк и озеро Парз за один день.
+
+за человека120 лари
 
 Смотреть тур 
 
@@ -348,6 +384,18 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 Однодневный
 
+### [Исторический Лори, Армения: Ахтала, Ахпат, Санаин, Одзун](https://besttraveler.ge/ru/tury/armeniya-lori-akhpat-sanain-tur/)
+
+1 день18 апреля 2027
+
+Ахтала, Ахпат и Санаин из списка ЮНЕСКО, Одзун, Кобайр и мост Тамары.
+
+за человека80 лари
+
+Смотреть тур 
+
+Однодневный
+
 ### [Квемо Картли и Питарети: Хулути, Тандзиа, Квеши, Болнисский Сиони](https://besttraveler.ge/ru/tury/pitareti-bolnisi-kvemo-kartli-tur/)
 
 1 день18 апреля 2027
@@ -372,6 +420,18 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 На автобусе
 
+### [Армения за 3 дня: Дилижан, Джермук, Татев, Нораванк, Севан](https://besttraveler.ge/ru/tury/armeniya-tatev-dzhermuk-noravank-tur/)
+
+3 дня / 2 ночи23–25 апреля 2027
+
+Три дня в Армении: Дилижан, водопад Джермук, Татев, Хндзореск, Нораванк и Севан.
+
+за человека480 лари
+
+Смотреть тур 
+
+На автобусе
+
 ### [Ризе и Узунгёль — тур по Турции на 3 дня](https://besttraveler.ge/ru/tury/rize-uzungol-tur-na-3-dnya/)
 
 3 дня / 2 ночи23–25 апреля 2027
@@ -384,4 +444,4 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 ## Туры по месяцам
 
-[В октябре 2026 15](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 30](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 13](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 9](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 18](https://besttraveler.ge/ru/tury/mart-2027/)[В мае 2027 49](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 43](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 32](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 27](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 11](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)
+[В октябре 2026 15](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 31](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 13](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 9](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 20](https://besttraveler.ge/ru/tury/mart-2027/)[В мае 2027 54](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 46](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 32](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 27](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 11](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)

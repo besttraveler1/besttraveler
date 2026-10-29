@@ -19,9 +19,9 @@ A different three-day tour to Yerevan, via Dilijan and Lake Sevan. On the second
 
 Photo: [Marion&Christoph Aistleitner](https://commons.wikimedia.org/w/index.php?curid=44367471), CC0
 
-Duration3 days
+Duration3 days / 2 nights
 
-DatesOn request
+Next departure27–29 Nov 2026 +3
 
 DepartureTbilisi, 06:00
 
@@ -67,13 +67,28 @@ Price450 GEL
 
 Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
+## Included in the price
+
+- Travel by top-class minibus
+- Two nights in a hotel with breakfast
+- Services of a qualified tour guide (organization, short overview of each sight)
+- Photography
+
+## Not included
+
+- Local fees
+- Meals other than breakfast
+
 ## Optional extras
 
 - Boat trip on Lake Sevan — 10 GEL (optional)
 
 ## Good to know
 
+- Return: 23:00
+- Meeting point: Didube metro station, upper exit
 - Documents: International passport (valid for at least 6 months) or Georgian ID card
+- The tour runs in any weather.
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
@@ -81,11 +96,15 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Yerevan in 3 Days: Sevan, Garni, Geghard, Etchmiadzin” tour cost?**
 
-The tour costs 450 GEL per person.
+The tour costs 450 GEL per person. The deposit to book is 100 GEL.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 27–29 Nov 2026, 9–11 Apr 2027, 7–9 May 2027, 11–13 Jun 2027. Please check free places by phone or WhatsApp.
+
+**What is included in the price?**
+
+Travel by top-class minibus; Two nights in a hotel with breakfast; Services of a qualified tour guide (organization, short overview of each sight); Photography.
 
 **How do I book this tour?**
 
@@ -93,11 +112,21 @@ Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and pr
 
 Price: 450 GELper person: 
 
+Deposit to book: 100 GEL
+
 ## Dates
 
 Dates
 
-Dates on request
+- 27–29 Nov 2026
+- 9–11 Apr 2027
+- 7–9 May 2027
+- 11–13 Jun 2027
+
+- Travel by top-class minibus
+- Two nights in a hotel with breakfast
+- Services of a qualified tour guide (organization, short overview of each sight)
+- Photography
 
 [Book a place](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour%3A%20Yerevan%20in%203%20Days%3A%20Sevan%2C%20Garni%2C%20Geghard%2C%20Etchmiadzin)[579 57 56 36](tel:+995579575636)[Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
@@ -107,13 +136,13 @@ Dates on request
 
 By bus
 
-### [Armenia in 3 Days: Dilijan, Jermuk, Tatev, Noravank, Sevan](https://besttraveler.ge/en/tours/armenia-tatev-jermuk-noravank-tour/)
+### [Yerevan in 2 Days: Sevan, Etchmiadzin, Garni and Geghard](https://besttraveler.ge/en/tours/yerevan-2-day-tour-garni-geghard/)
 
-3 days / 2 nightsArmenia
+2 days20–21 Mar 2027
 
-Three days in Armenia: Dilijan, Jermuk waterfall, Tatev, Khndzoresk, Noravank and Sevan.
+Two days in Armenia: Dilijan, Lake Sevan, Etchmiadzin, Yerevan, Garni and Geghard.
 
-per person480 GEL
+per person280 GEL
 
 View tour 
 
@@ -121,11 +150,11 @@ Day tour
 
 ### [Dilijan Day Tour, Armenia: Haghartsin, Goshavank, Lake Parz](https://besttraveler.ge/en/tours/armenia-dilijan-day-trip/)
 
-1 dayArmenia
+1 day28 Mar 2027
 
 Dilijan, the Haghartsin and Goshavank monasteries and Lake Parz in one day.
 
-per person150 GEL
+per person120 GEL
 
 View tour 
 
@@ -133,10 +162,10 @@ Day tour
 
 ### [Historic Lori, Armenia: Akhtala, Haghpat, Sanahin, Odzun](https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-tour/)
 
-1 dayArmenia
+1 day18 Apr 2027
 
 Akhtala, UNESCO-listed Haghpat and Sanahin, Odzun, Kobayr and Tamar's Bridge.
 
-per person90 GEL
+per person80 GEL
 
 View tour

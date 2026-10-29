@@ -92,11 +92,11 @@ Day tour
 
 ### [Dilijan Day Tour, Armenia: Haghartsin, Goshavank, Lake Parz](https://besttraveler.ge/en/tours/armenia-dilijan-day-trip/)
 
-1 dayArmenia
+1 day28 Mar 2027
 
 Dilijan, the Haghartsin and Goshavank monasteries and Lake Parz in one day.
 
-per person150 GEL
+per person120 GEL
 
 View tour 
 
@@ -104,11 +104,11 @@ Day tour
 
 ### [Historic Lori, Armenia: Akhtala, Haghpat, Sanahin, Odzun](https://besttraveler.ge/en/tours/armenia-lori-haghpat-sanahin-tour/)
 
-1 dayArmenia
+1 day18 Apr 2027
 
 Akhtala, UNESCO-listed Haghpat and Sanahin, Odzun, Kobayr and Tamar's Bridge.
 
-per person90 GEL
+per person80 GEL
 
 View tour 
 
@@ -116,7 +116,7 @@ By bus
 
 ### [Armenia in 3 Days: Dilijan, Jermuk, Tatev, Noravank, Sevan](https://besttraveler.ge/en/tours/armenia-tatev-jermuk-noravank-tour/)
 
-3 days / 2 nightsArmenia
+3 days / 2 nights23–25 Apr 2027
 
 Three days in Armenia: Dilijan, Jermuk waterfall, Tatev, Khndzoresk, Noravank and Sevan.
 
@@ -128,7 +128,7 @@ By bus
 
 ### [Yerevan in 3 Days: Sevan, Garni, Geghard, Etchmiadzin](https://besttraveler.ge/en/tours/yerevan-garni-geghard-tour/)
 
-3 daysArmenia
+3 days / 2 nights27–29 Nov 2026
 
 Three days in Armenia: Sevan, Yerevan, Khor Virap, Garni, Geghard, Zvartnots and Etchmiadzin.
 

@@ -92,11 +92,11 @@ URL: https://besttraveler.ge/ru/blog/armeniya-vezd-iz-gruzii-po-id-karte/
 
 ### [Однодневный тур в Дилижан, Армения: Агарцин, Гошаванк, озеро Парз](https://besttraveler.ge/ru/tury/armeniya-dilizhan-odnodnevnyy-tur/)
 
-1 деньАрмения
+1 день28 марта 2027
 
 Дилижан, монастыри Агарцин и Гошаванк и озеро Парз за один день.
 
-за человека150 лари
+за человека120 лари
 
 Смотреть тур 
 
@@ -104,11 +104,11 @@ URL: https://besttraveler.ge/ru/blog/armeniya-vezd-iz-gruzii-po-id-karte/
 
 ### [Исторический Лори, Армения: Ахтала, Ахпат, Санаин, Одзун](https://besttraveler.ge/ru/tury/armeniya-lori-akhpat-sanain-tur/)
 
-1 деньАрмения
+1 день18 апреля 2027
 
 Ахтала, Ахпат и Санаин из списка ЮНЕСКО, Одзун, Кобайр и мост Тамары.
 
-за человека90 лари
+за человека80 лари
 
 Смотреть тур 
 
@@ -116,7 +116,7 @@ URL: https://besttraveler.ge/ru/blog/armeniya-vezd-iz-gruzii-po-id-karte/
 
 ### [Армения за 3 дня: Дилижан, Джермук, Татев, Нораванк, Севан](https://besttraveler.ge/ru/tury/armeniya-tatev-dzhermuk-noravank-tur/)
 
-3 дня / 2 ночиАрмения
+3 дня / 2 ночи23–25 апреля 2027
 
 Три дня в Армении: Дилижан, водопад Джермук, Татев, Хндзореск, Нораванк и Севан.
 
@@ -128,7 +128,7 @@ URL: https://besttraveler.ge/ru/blog/armeniya-vezd-iz-gruzii-po-id-karte/
 
 ### [Ереван за 3 дня: Севан, Гарни, Гегард, Эчмиадзин](https://besttraveler.ge/ru/tury/erevan-garni-gegard-tur/)
 
-3 дняАрмения
+3 дня / 2 ночи27–29 ноября 2026
 
 Три дня в Армении: Севан, Ереван, Хор Вирап, Гарни, Гегард, Звартноц и Эчмиадзин.
 

@@ -1,12 +1,12 @@
 # ტურები 2027 წლის მაისში — ფასები
 
-> 49 ტური, რომელიც 2027 წლის მაისში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
+> 54 ტური, რომელიც 2027 წლის მაისში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
 
 URL: https://besttraveler.ge/ka/turebi/maisi-2027/
 
 # ტურები 2027 წლის მაისში
 
-ყველა ჩვენი ტური, რომელიც 2027 წლის მაისში იწყება: 49 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
+ყველა ჩვენი ტური, რომელიც 2027 წლის მაისში იწყება: 54 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
 
 ## ტურები 2027 წლის მაისში
 
@@ -286,6 +286,18 @@ URL: https://besttraveler.ge/ka/turebi/maisi-2027/
 
 ტურის ნახვა 
 
+ავტობუსით
+
+### [ერევნის ტური 3 დღე: სევანი, გარნი, გეღარდი, ეჩმიაძინი](https://besttraveler.ge/ka/turebi/erevani-garni-gheghardi-turi/)
+
+3 დღე / 2 ღამე27–29 ნოემბერი 2026
+
+სამი დღე სომხეთში: სევანი, ერევანი, ხორ ვირაპი, გარნი, გეღარდი, ზვართნოცი და ეჩმიაძინი.
+
+ერთ ადამიანზე450 ლარი
+
+ტურის ნახვა 
+
 ავიატური
 
 ### [ნასერის ტბის კრუიზი, კაირო და ლუქსორი — ჯგუფური ტური](https://besttraveler.ge/ka/turebi/egvipte-naseris-tbis-kruizi/)
@@ -360,6 +372,18 @@ URL: https://besttraveler.ge/ka/turebi/maisi-2027/
 
 ავტობუსით
 
+### [ერევანი 2 დღეში: სევანი, ეჩმიაძინი, გარნი და გეღარდი](https://besttraveler.ge/ka/turebi/erevnis-ordghiani-turi-garni-geghardi/)
+
+2 დღე20–21 მარტი 2027
+
+ორი დღე სომხეთში: დილიჯანი, სევანი, ეჩმიაძინი, ერევანი, გარნი და გეღარდი.
+
+ერთ ადამიანზე280 ლარი
+
+ტურის ნახვა 
+
+ავტობუსით
+
 ### [ტრაპიზონი და სუმელას მონასტერი — 3-დღიანი ტური](https://besttraveler.ge/ka/turebi/trapizoni-sumela-turi/)
 
 3 დღე / 2 ღამე26–28 მარტი 2027
@@ -367,6 +391,18 @@ URL: https://besttraveler.ge/ka/turebi/maisi-2027/
 3 დღე ტრაპიზონსა და მის შემოგარენში — ბოზტეპე, კაიაბაშის პარკი, აია-სოფია და სუმელა.
 
 ერთ ადამიანზე480 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
+### [დილიჯანის ერთდღიანი ტური, სომხეთი: ჰაღარცინი, გოშავანკი, პარზი](https://besttraveler.ge/ka/turebi/somkheti-dilijani-ertdghiani-turi/)
+
+1 დღე28 მარტი 2027
+
+დილიჯანი, ჰაღარცინისა და გოშავანკის მონასტრები და პარზის ტბა ერთ დღეში.
+
+ერთ ადამიანზე120 ლარი
 
 ტურის ნახვა 
 
@@ -396,6 +432,18 @@ URL: https://besttraveler.ge/ka/turebi/maisi-2027/
 
 ერთდღიანი
 
+### [ისტორიული ლორე, სომხეთი: ახტალა, ახპატი, სანაჰინი, ოძუნი](https://besttraveler.ge/ka/turebi/somkheti-lore-akhpati-sanahini-turi/)
+
+1 დღე18 აპრილი 2027
+
+ახტალა, იუნესკოს ძეგლები ახპატი და სანაჰინი, ოძუნი, ქობაირი და თამარის ხიდი.
+
+ერთ ადამიანზე80 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
 ### [ქვემო ქართლი და ფიტარეთი: ხულუტი, ტანძია, ქვეში, ბოლნისის სიონი](https://besttraveler.ge/ka/turebi/kvemo-kartli-pitareti-bolnisi-turi/)
 
 1 დღე18 აპრილი 2027
@@ -415,6 +463,18 @@ URL: https://besttraveler.ge/ka/turebi/maisi-2027/
 ჯოყოლო, მახვალის (ხადორის) ჩანჩქერი, პანკისის ხეობა, დუისი და კვეტერას ციხე-ქალაქი ერთ დღეში.
 
 ერთ ადამიანზე60 ლარი
+
+ტურის ნახვა 
+
+ავტობუსით
+
+### [სომხეთი 3 დღე: დილიჯანი, ჯერმუკი, ტათევი, ნორავანკი, სევანი](https://besttraveler.ge/ka/turebi/somkheti-tatevi-jermuki-noravanki-turi/)
+
+3 დღე / 2 ღამე23–25 აპრილი 2027
+
+სამი დღე სომხეთში: დილიჯანი, ჯერმუკის ჩანჩქერი, ტათევი, ხნძორესკი, ნორავანკი და სევანი.
+
+ერთ ადამიანზე480 ლარი
 
 ტურის ნახვა 
 
@@ -600,4 +660,4 @@ URL: https://besttraveler.ge/ka/turebi/maisi-2027/
 
 ## ტურები თვეების მიხედვით
 
-[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 30](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 13](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 9](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 18](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 31](https://besttraveler.ge/ka/turebi/aprili-2027/)[ივნისში 2027 43](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 27](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 11](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
+[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 31](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 13](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 9](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 20](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 36](https://besttraveler.ge/ka/turebi/aprili-2027/)[ივნისში 2027 46](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 27](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 11](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)

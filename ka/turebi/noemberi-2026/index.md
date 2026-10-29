@@ -1,12 +1,12 @@
 # ტურები 2026 წლის ნოემბერში — ფასები
 
-> 30 ტური, რომელიც 2026 წლის ნოემბერში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
+> 31 ტური, რომელიც 2026 წლის ნოემბერში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
 
 URL: https://besttraveler.ge/ka/turebi/noemberi-2026/
 
 # ტურები 2026 წლის ნოემბერში
 
-ყველა ჩვენი ტური, რომელიც 2026 წლის ნოემბერში იწყება: 30 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
+ყველა ჩვენი ტური, რომელიც 2026 წლის ნოემბერში იწყება: 31 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
 
 ## ტურები 2026 წლის ნოემბერში
 
@@ -370,6 +370,18 @@ URL: https://besttraveler.ge/ka/turebi/noemberi-2026/
 
 ტურის ნახვა 
 
+ავტობუსით
+
+### [ერევნის ტური 3 დღე: სევანი, გარნი, გეღარდი, ეჩმიაძინი](https://besttraveler.ge/ka/turebi/erevani-garni-gheghardi-turi/)
+
+3 დღე / 2 ღამე27–29 ნოემბერი 2026
+
+სამი დღე სომხეთში: სევანი, ერევანი, ხორ ვირაპი, გარნი, გეღარდი, ზვართნოცი და ეჩმიაძინი.
+
+ერთ ადამიანზე450 ლარი
+
+ტურის ნახვა 
+
 ## ტურები თვეების მიხედვით
 
-[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 13](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 9](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 18](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 31](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 49](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 43](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 27](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 11](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
+[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 13](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 9](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 20](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 36](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 54](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 46](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 27](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 11](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
