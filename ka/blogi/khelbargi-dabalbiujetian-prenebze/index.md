@@ -158,7 +158,7 @@ URL: https://besttraveler.ge/ka/blogi/khelbargi-dabalbiujetian-prenebze/
 
 ### [მალტა რომის გავლით — 8-დღიანი ტური](https://besttraveler.ge/ka/turebi/malta-romis-gavlit-turi/)
 
-8 დღემალტა, იტალია
+8 დღე22–29 მარტი 2027
 
 ვალეტა, მდინა, მეთევზეთა სოფლები და პოპაის სოფელი — 8 დღე მალტაზე რომის გავლით.
 

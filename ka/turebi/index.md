@@ -348,7 +348,7 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [მაროკოს ჯგუფური ტური რომის გავლით — 13–22 ნოემბერი](https://besttraveler.ge/ka/turebi/maroko-jgupuri-turi-romis-gavlit/)
+### [მაროკოს ჯგუფური ტური რომის გავლით](https://besttraveler.ge/ka/turebi/maroko-jgupuri-turi-romis-gavlit/)
 
 10 დღე / 9 ღამე13–22 ნოემბერი 2026
 
@@ -492,6 +492,18 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
+### [ინდოეთი: რაჯასთანის ჯგუფური ტური — დელი, ჯაისალმერი, უდაიპური](https://besttraveler.ge/ka/turebi/indoeti-rajastani-jgupuri-turi/)
+
+9 დღე / 8 ღამე1–9 მარტი 2027
+
+9 დღე რაჯასთანში: ციხე-სასახლეები, ჰაველიები, ტაძრები და ნავით გასეირნება პიჩოლას ტბაზე.
+
+ერთ ადამიანზე4 800 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
 ### [ბურგუნდია და ფრანშ-კონტე: კლიუნი, დიჟონი, ბონი](https://besttraveler.ge/ka/turebi/burgundia-franshe-konte-turi/)
 
 8 დღე / 7 ღამე2–9 მარტი 2027
@@ -559,6 +571,18 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 ორი დღე სომხეთში: დილიჯანი, სევანი, ეჩმიაძინი, ერევანი, გარნი და გეღარდი.
 
 ერთ ადამიანზე280 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [მალტა რომის გავლით — 8-დღიანი ტური](https://besttraveler.ge/ka/turebi/malta-romis-gavlit-turi/)
+
+8 დღე22–29 მარტი 2027
+
+ვალეტა, მდინა, მეთევზეთა სოფლები და პოპაის სოფელი — 8 დღე მალტაზე რომის გავლით.
+
+ერთ ადამიანზე4 100 ლარი
 
 ტურის ნახვა 
 
@@ -972,6 +996,18 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
+### [ჩინეთის ჯგუფური ტური: პეკინი, ჟანჯიაჯიე, ლეშანი, ჰონკონგი](https://besttraveler.ge/ka/turebi/chineti-pekini-zhanjiajie-honkongi-turi/)
+
+13 დღე1–13 სექტემბერი 2027
+
+13 დღე ჩინეთში: პეკინი, დიდი კედელი, ჟანჯიაჯიეს მთები, ლეშანის ბუდა და ჰონკონგი.
+
+ერთ ადამიანზე3 500 დოლარი
+
+ტურის ნახვა 
+
+ავიატური
+
 ### [ბელგია და ნიდერლანდები — 8-დღიანი ჯგუფური ტური](https://besttraveler.ge/ka/turebi/belgia-niderlandebi-jgupuri-turi/)
 
 8 დღებელგია, ნიდერლანდები
@@ -996,18 +1032,6 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 ავიატური
 
-### [ჩინეთის ჯგუფური ტური: პეკინი, ჟანჯიაჯიე, ლეშანი, ჰონკონგი](https://besttraveler.ge/ka/turebi/chineti-pekini-zhanjiajie-honkongi-turi/)
-
-13 დღეჩინეთი
-
-13 დღე ჩინეთში: პეკინი, დიდი კედელი, ჟანჯიაჯიეს მთები, ლეშანის ბუდა და ჰონკონგი.
-
-ერთ ადამიანზე3 500 დოლარი
-
-ტურის ნახვა 
-
-ავიატური
-
 ### [საბერძნეთი: სალონიკი, მეტეორა და ათენი — 8-დღიანი ტური](https://besttraveler.ge/ka/turebi/saberdzneti-saloniki-meteora-ateni-turi/)
 
 8 დღესაბერძნეთი
@@ -1015,30 +1039,6 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 სალონიკი, მეტეორას მონასტრები, ათენი და კუნძული ეგინა — 8 დღე საბერძნეთში.
 
 ერთ ადამიანზე2 100 ლარი
-
-ტურის ნახვა 
-
-ავიატური
-
-### [ინდოეთი: რაჯასთანის ჯგუფური ტური — დელი, ჯაისალმერი, უდაიპური](https://besttraveler.ge/ka/turebi/indoeti-rajastani-jgupuri-turi/)
-
-9 დღე / 8 ღამეინდოეთი
-
-9 დღე რაჯასთანში: ციხე-სასახლეები, ჰაველიები, ტაძრები და ნავით გასეირნება პიჩოლას ტბაზე.
-
-ერთ ადამიანზე4 800 ლარი
-
-ტურის ნახვა 
-
-ავიატური
-
-### [მალტა რომის გავლით — 8-დღიანი ტური](https://besttraveler.ge/ka/turebi/malta-romis-gavlit-turi/)
-
-8 დღემალტა, იტალია
-
-ვალეტა, მდინა, მეთევზეთა სოფლები და პოპაის სოფელი — 8 დღე მალტაზე რომის გავლით.
-
-ერთ ადამიანზე4 100 ლარი
 
 ტურის ნახვა 
 
@@ -1324,4 +1324,4 @@ besttraveler-ის ყველა ტური ერთ გვერდზე
 
 [დაგეგმილი ტურები](https://besttraveler.ge/ka/dagegmili-turebi/)
 
-[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 31](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 13](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 9](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 20](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 36](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 54](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 46](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 27](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 11](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
+[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 31](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 10](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 22](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 37](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 55](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 46](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 28](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 12](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)

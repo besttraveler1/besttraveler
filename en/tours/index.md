@@ -348,7 +348,7 @@ View tour
 
 By plane
 
-### [Morocco Group Tour with a Stop in Rome — 13–22 November](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
+### [Morocco Group Tour with a Stop in Rome](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 
 10 days / 9 nights13–22 Nov 2026
 
@@ -492,6 +492,18 @@ View tour
 
 By plane
 
+### [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-group-tour/)
+
+9 days / 8 nights1–9 Mar 2027
+
+9 days in Rajasthan: forts, havelis, temples and a boat ride on Lake Pichola.
+
+per person4,800 GEL
+
+View tour 
+
+By plane
+
 ### [Burgundy and Franche-Comté: Cluny, Dijon and Beaune](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
 
 8 days / 7 nights2–9 Mar 2027
@@ -559,6 +571,18 @@ By bus
 Two days in Armenia: Dilijan, Lake Sevan, Etchmiadzin, Yerevan, Garni and Geghard.
 
 per person280 GEL
+
+View tour 
+
+By plane
+
+### [Malta via Rome — 8-Day Tour](https://besttraveler.ge/en/tours/malta-tour-via-rome/)
+
+8 days22–29 Mar 2027
+
+Valletta, Mdina, fishing villages and Popeye Village — 8 days in Malta via Rome.
+
+per person4,100 GEL
 
 View tour 
 
@@ -972,6 +996,18 @@ View tour
 
 By plane
 
+### [China Group Tour: Beijing, Zhangjiajie, Leshan and Hong Kong](https://besttraveler.ge/en/tours/china-beijing-zhangjiajie-hong-kong-tour/)
+
+13 days1–13 Sep 2027
+
+13 days in China: Beijing, the Great Wall, Zhangjiajie's mountains, the Leshan Buddha and Hong Kong.
+
+per person3,500 USD
+
+View tour 
+
+By plane
+
 ### [Belgium and the Netherlands — 8-Day Group Tour](https://besttraveler.ge/en/tours/belgium-netherlands-group-tour/)
 
 8 daysBelgium, Netherlands
@@ -996,18 +1032,6 @@ View tour
 
 By plane
 
-### [China Group Tour: Beijing, Zhangjiajie, Leshan and Hong Kong](https://besttraveler.ge/en/tours/china-beijing-zhangjiajie-hong-kong-tour/)
-
-13 daysChina
-
-13 days in China: Beijing, the Great Wall, Zhangjiajie's mountains, the Leshan Buddha and Hong Kong.
-
-per person3,500 USD
-
-View tour 
-
-By plane
-
 ### [Greece: Thessaloniki, Meteora and Athens — 8-Day Tour](https://besttraveler.ge/en/tours/greece-thessaloniki-meteora-athens-tour/)
 
 8 daysGreece
@@ -1015,30 +1039,6 @@ By plane
 Thessaloniki, the Meteora monasteries, Athens and Aegina island — 8 days in Greece.
 
 per person2,100 GEL
-
-View tour 
-
-By plane
-
-### [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-group-tour/)
-
-9 days / 8 nightsIndia
-
-9 days in Rajasthan: forts, havelis, temples and a boat ride on Lake Pichola.
-
-per person4,800 GEL
-
-View tour 
-
-By plane
-
-### [Malta via Rome — 8-Day Tour](https://besttraveler.ge/en/tours/malta-tour-via-rome/)
-
-8 daysMalta, Italy
-
-Valletta, Mdina, fishing villages and Popeye Village — 8 days in Malta via Rome.
-
-per person4,100 GEL
 
 View tour 
 
@@ -1324,4 +1324,4 @@ Nothing found
 
 [Tour calendar](https://besttraveler.ge/en/tour-calendar/)
 
-[October 2026 15](https://besttraveler.ge/en/tours/october-2026/)[November 2026 31](https://besttraveler.ge/en/tours/november-2026/)[December 2026 10](https://besttraveler.ge/en/tours/december-2026/)[January 2027 13](https://besttraveler.ge/en/tours/january-2027/)[February 2027 9](https://besttraveler.ge/en/tours/february-2027/)[March 2027 20](https://besttraveler.ge/en/tours/march-2027/)[April 2027 36](https://besttraveler.ge/en/tours/april-2027/)[May 2027 54](https://besttraveler.ge/en/tours/may-2027/)[June 2027 46](https://besttraveler.ge/en/tours/june-2027/)[July 2027 32](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 27](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 11](https://besttraveler.ge/en/tours/new-year-tours-2027/)
+[October 2026 15](https://besttraveler.ge/en/tours/october-2026/)[November 2026 31](https://besttraveler.ge/en/tours/november-2026/)[December 2026 10](https://besttraveler.ge/en/tours/december-2026/)[January 2027 14](https://besttraveler.ge/en/tours/january-2027/)[February 2027 10](https://besttraveler.ge/en/tours/february-2027/)[March 2027 22](https://besttraveler.ge/en/tours/march-2027/)[April 2027 37](https://besttraveler.ge/en/tours/april-2027/)[May 2027 55](https://besttraveler.ge/en/tours/may-2027/)[June 2027 46](https://besttraveler.ge/en/tours/june-2027/)[July 2027 32](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 28](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 12](https://besttraveler.ge/en/tours/new-year-tours-2027/)

@@ -1,12 +1,12 @@
 # India Group Tour: Rajasthan
 
-> 9 days / 8 nights in India: Delhi, Mandawa, Bikaner, Jaisalmer, Jodhpur, Ranakpur, Udaipur and Pushkar. Departs 25 October, 4800 GEL.
+> 9 days / 8 nights in India: Delhi, Mandawa, Bikaner, Jaisalmer, Jodhpur, Ranakpur, Udaipur and Pushkar. 1–9 March 2027, 4800 GEL.
 
 URL: https://besttraveler.ge/en/tours/india-rajasthan-group-tour/
 
 # India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur
 
-A 9-day / 8-night group tour of India: Delhi and the cities of Rajasthan, including Mandawa, Bikaner, Jaisalmer, Jodhpur, Ranakpur, Udaipur and Pushkar. Departure from Tbilisi on 25 October at 23:45.
+A 9-day / 8-night group tour of India: Delhi and the cities of Rajasthan, including Mandawa, Bikaner, Jaisalmer, Jodhpur, Ranakpur, Udaipur and Pushkar.
 
 - India
 - Delhi
@@ -23,7 +23,7 @@ Photo: [Dudva](https://commons.wikimedia.org/w/index.php?curid=177132884), CC0
 
 Duration9 days / 8 nights
 
-DatesOn request
+Next departure1–9 Mar 2027
 
 DepartureTbilisi (TBS)
 
@@ -35,7 +35,7 @@ Price4,800 GEL
 
 ### Day 1: Tbilisi to Delhi and Mandawa
 
-- Flight from Tbilisi on 25 October at 23:45, arrival in Delhi on 26 October at 07:05
+- Flight from Tbilisi, morning arrival in Delhi
 - Transfer to the hotel; after breakfast, drive to Mandawa
 - Mandawa havelis, houses once owned by wealthy merchants
 - Breakfast, dinner and overnight at the hotel
@@ -147,11 +147,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur” tour cost?**
 
-The tour costs 4,800 GEL per person. The price can change with air fares — please confirm it before booking.
+The tour costs 4,800 GEL per person. The deposit to book is 1,500 GEL. The price can change with air fares — please confirm it before booking.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 1–9 Mar 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -163,13 +163,15 @@ Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and pr
 
 Price: 4,800 GELper person: 
 
+Deposit to book: 1,500 GEL
+
 The price can change with air fares — please confirm it before booking.
 
 ## Dates
 
 Dates
 
-Dates on request
+- 1–9 Mar 2027
 
 - Return flights Tbilisi-Delhi-Tbilisi
 - 30 kg baggage

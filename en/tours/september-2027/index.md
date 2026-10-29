@@ -1,12 +1,12 @@
 # Tours in September 2027 — prices and dates
 
-> 27 tours that start in September 2027: flight tours, bus tours and day tours from Georgia. Prices, dates and full day-by-day programmes.
+> 28 tours that start in September 2027: flight tours, bus tours and day tours from Georgia. Prices, dates and full day-by-day programmes.
 
 URL: https://besttraveler.ge/en/tours/september-2027/
 
 # Tours in September 2027
 
-All our tours that start in September 2027: 27 tours abroad and in Georgia, with prices and full programmes.
+All our tours that start in September 2027: 28 tours abroad and in Georgia, with prices and full programmes.
 
 ## Tours in September 2027
 
@@ -334,6 +334,18 @@ per person3,700 GEL
 
 View tour 
 
+By plane
+
+### [China Group Tour: Beijing, Zhangjiajie, Leshan and Hong Kong](https://besttraveler.ge/en/tours/china-beijing-zhangjiajie-hong-kong-tour/)
+
+13 days1–13 Sep 2027
+
+13 days in China: Beijing, the Great Wall, Zhangjiajie's mountains, the Leshan Buddha and Hong Kong.
+
+per person3,500 USD
+
+View tour 
+
 ## Tours by month
 
-[October 2026 15](https://besttraveler.ge/en/tours/october-2026/)[November 2026 31](https://besttraveler.ge/en/tours/november-2026/)[December 2026 10](https://besttraveler.ge/en/tours/december-2026/)[January 2027 13](https://besttraveler.ge/en/tours/january-2027/)[February 2027 9](https://besttraveler.ge/en/tours/february-2027/)[March 2027 20](https://besttraveler.ge/en/tours/march-2027/)[April 2027 36](https://besttraveler.ge/en/tours/april-2027/)[May 2027 54](https://besttraveler.ge/en/tours/may-2027/)[June 2027 46](https://besttraveler.ge/en/tours/june-2027/)[July 2027 32](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 11](https://besttraveler.ge/en/tours/new-year-tours-2027/)
+[October 2026 15](https://besttraveler.ge/en/tours/october-2026/)[November 2026 31](https://besttraveler.ge/en/tours/november-2026/)[December 2026 10](https://besttraveler.ge/en/tours/december-2026/)[January 2027 14](https://besttraveler.ge/en/tours/january-2027/)[February 2027 10](https://besttraveler.ge/en/tours/february-2027/)[March 2027 22](https://besttraveler.ge/en/tours/march-2027/)[April 2027 37](https://besttraveler.ge/en/tours/april-2027/)[May 2027 55](https://besttraveler.ge/en/tours/may-2027/)[June 2027 46](https://besttraveler.ge/en/tours/june-2027/)[July 2027 32](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 12](https://besttraveler.ge/en/tours/new-year-tours-2027/)

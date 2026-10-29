@@ -185,7 +185,7 @@ View tour
 
 By plane
 
-### [Morocco Group Tour with a Stop in Rome — 13–22 November](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
+### [Morocco Group Tour with a Stop in Rome](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 
 10 days / 9 nights13–22 Nov 2026
 

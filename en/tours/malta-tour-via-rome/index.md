@@ -23,7 +23,7 @@ Photo: [Edelmauswaldgeist](https://commons.wikimedia.org/w/index.php?curid=17698
 
 Duration8 days
 
-DatesOn request
+Next departure22–29 Mar 2027 +2
 
 DepartureKutaisi (KUT)
 
@@ -35,10 +35,10 @@ Price4,100 GEL
 
 ### Day 1
 
-- Flight from Kutaisi
-- Arrival in Rome (Fiumicino)
-- Flight to Malta
-- Arrival in Malta
+- Flight from Kutaisi at 06:15
+- Arrival in Rome (Fiumicino) at 07:20
+- Flight to Malta at 12:00
+- Arrival in Malta at 13:35
 - Transfer to the hotel
 - Free time
 
@@ -81,8 +81,8 @@ Price4,100 GEL
 
 - Free time
 - Transfer to the airport
-- Flight to Rome
-- Arrival in Rome
+- Flight to Rome at 14:20
+- Arrival in Rome at 16:00
 - Transfer to the hotel (Fiumicino)
 
 - 
@@ -90,7 +90,7 @@ Price4,100 GEL
 ### Day 8
 
 - Transfer to the airport
-- Flight to Kutaisi
+- Flight to Kutaisi at 08:30
 
 ## Route on the map
 
@@ -106,6 +106,11 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Photography
 - Travel insurance
 
+## Not included
+
+- Meals other than breakfast
+- Transfer to Kutaisi and back (60 GEL)
+
 ## Good to know
 
 - Documents: International passport valid for at least 6 months
@@ -116,11 +121,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Malta via Rome — 8-Day Tour” tour cost?**
 
-The tour costs 4,100 GEL per person.
+The tour costs 4,100 GEL per person. The deposit to book is 1,000 GEL.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 22–29 Mar 2027, 19–26 Apr 2027, 24–31 May 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -132,11 +137,15 @@ Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and pr
 
 Price: 4,100 GELper person: 
 
+Deposit to book: 1,000 GEL
+
 ## Dates
 
 Dates
 
-Dates on request
+- 22–29 Mar 2027
+- 19–26 Apr 2027
+- 24–31 May 2027
 
 - Flights Kutaisi–Rome–Kutaisi
 - Flights Rome–Malta–Rome
@@ -163,7 +172,7 @@ View tour
 
 By plane
 
-### [Morocco Group Tour with a Stop in Rome — 13–22 November](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
+### [Morocco Group Tour with a Stop in Rome](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 
 10 days / 9 nights13–22 Nov 2026
 

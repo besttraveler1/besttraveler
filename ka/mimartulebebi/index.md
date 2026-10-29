@@ -98,7 +98,7 @@ URL: https://besttraveler.ge/ka/mimartulebebi/
 
 1 ტური: 
 
-- [მაროკოს ჯგუფური ტური რომის გავლით — 13–22 ნოემბერი 10 დღე / 9 ღამე · 2 200 ევრო](https://besttraveler.ge/ka/turebi/maroko-jgupuri-turi-romis-gavlit/)
+- [მაროკოს ჯგუფური ტური რომის გავლით 10 დღე / 9 ღამე · 2 200 ევრო](https://besttraveler.ge/ka/turebi/maroko-jgupuri-turi-romis-gavlit/)
 
 ### ინდოეთი
 

@@ -70,7 +70,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [8 вс Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети Однодневный 60 лари](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
 - [9–15 пн Хургада, Луксор, Порт-Саид и Суэцкий канал — 7 дней Авиатур · 7 дней / 6 ночей 6 100 лари](https://besttraveler.ge/ru/tury/egipet-khurgada-luksor-suetskiy-kanal/)
 - [10–14 вт Париж, Франция — групповой тур на 5 дней Авиатур · 5 дней 2 500 лари](https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/)
-- [13–22 пт Групповой тур в Марокко с остановкой в Риме — 13–22 ноября Авиатур · 10 дней / 9 ночей 2 200 евро](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
+- [13–22 пт Групповой тур в Марокко с остановкой в Риме Авиатур · 10 дней / 9 ночей 2 200 евро](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
 - [19–26 чт Франция: Эльзас и Париж — групповой тур из Кутаиси Авиатур · 8 дней / 7 ночей 4 200 лари](https://besttraveler.ge/ru/tury/frantsiya-elzas-parizh-tur/)
 - [21 сб Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
 - [21 сб Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара Однодневный 65 лари](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
@@ -100,9 +100,10 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [26 сб Однодневный тур в Гудаури: свободное время на горнолыжном курорте Однодневный 60 лари](https://besttraveler.ge/ru/tury/gudauri-zimoy-odnodnevnyy-tur/)
 - [29 вт Однодневный тур в Гудаури: свободное время на горнолыжном курорте Однодневный 60 лари](https://besttraveler.ge/ru/tury/gudauri-zimoy-odnodnevnyy-tur/)
 
-## Январь 2027 16 выездов
+## Январь 2027 17 выездов
 
 - [3–11 вс Круиз по Нилу: Каир, Луксор, Асуан, Абу-Симбел и Александрия Авиатур · 9 дней 6 550 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-kair-luksor-aleksandriya/)
+- [8–17 пт Групповой тур в Марокко с остановкой в Риме Авиатур · 10 дней / 9 ночей 2 200 евро](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
 - [8–18 пт Круиз по озеру Насер, Каир и Луксор — групповой тур Авиатур · 11 дней 6 650 лари](https://besttraveler.ge/ru/tury/egipet-kruiz-po-ozeru-naser/)
 - [9–19 сб Шри-Ланка и Мальдивы — групповой тур Авиатур · 11 дней 8 500 лари](https://besttraveler.ge/ru/tury/shri-lanka-maldivy-gruppovoy-tur/)
 - [9–16 сб Шри-Ланка: Сигирия, Канди, Элла, Мирисса и Коломбо Авиатур · 8 дней / 6 ночей 4 500 лари](https://besttraveler.ge/ru/tury/shri-lanka-kandi-ella-mirissa-tur/)
@@ -119,8 +120,9 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [24–31 вс Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна Авиатур · 8 дней 4 500 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
 - [27 ср Юг Испании и Гибралтар — групповой тур, 27 января – 3 февраля Авиатур · 8 дней / 7 ночей · → 3 февраля 4 800 лари](https://besttraveler.ge/ru/tury/yug-ispanii-gibraltar-tur/)
 
-## Февраль 2027 9 выездов
+## Февраль 2027 10 выездов
 
+- [5–14 пт Групповой тур в Марокко с остановкой в Риме Авиатур · 10 дней / 9 ночей 2 200 евро](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
 - [5–15 пт Круиз по озеру Насер, Каир и Луксор — групповой тур Авиатур · 11 дней 6 650 лари](https://besttraveler.ge/ru/tury/egipet-kruiz-po-ozeru-naser/)
 - [6–9 сб Карнавал в Венеции 2027 — тур на 4 дня Авиатур · 4 дня 1 500 лари](https://besttraveler.ge/ru/tury/venetsianskiy-karnaval-tur/)
 - [7–15 вс Круиз по Нилу: Каир, Луксор, Асуан, Абу-Симбел и Александрия Авиатур · 9 дней 6 550 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-kair-luksor-aleksandriya/)
@@ -131,8 +133,9 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [20 сб Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка Однодневный 65 лари](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
 - [21–28 вс Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна Авиатур · 8 дней 4 500 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
 
-## Март 2027 22 выезда
+## Март 2027 24 выезда
 
+- [1–9 пн Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур Авиатур · 9 дней / 8 ночей 4 800 лари](https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/)
 - [2–9 вт Бургундия и Франш-Конте: Клюни, Дижон и Бон Авиатур · 8 дней / 7 ночей 4 500 лари](https://besttraveler.ge/ru/tury/burgundiya-fransh-konte-tur/)
 - [2–6 вт Париж, Франция — групповой тур на 5 дней Авиатур · 5 дней 2 500 лари](https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/)
 - [3–8 ср Стамбул — тур на 6 дней с вылетом из Тбилиси или Батуми Авиатур · 6 дней 3 600 лари](https://besttraveler.ge/ru/tury/stambul-tur-iz-tbilisi/)
@@ -149,6 +152,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [21–28 вс Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна Авиатур · 8 дней 4 500 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
 - [21 вс Давид Гареджи: однодневный тур в пустыню Сабереби Однодневный 60 лари](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
 - [21 вс Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро Однодневный 60 лари](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
+- [22–29 пн Мальта через Рим — тур на 8 дней Авиатур · 8 дней 4 100 лари](https://besttraveler.ge/ru/tury/malta-cherez-rim-tur/)
 - [25–30 чт Тур в Египет: Каир и Александрия, 5 дней Авиатур · 5 дней / 4 ночи 2 500 лари](https://besttraveler.ge/ru/tury/egipet-kair-aleksandriya-tur/)
 - [26–28 пт Трабзон и монастырь Сумела — тур на 3 дня На автобусе · 3 дня / 2 ночи 480 лари](https://besttraveler.ge/ru/tury/trabzon-sumela-tur/)
 - [28 вс Испания, Франция, Андорра — тур на 10 дней из Барселоны Авиатур · 10 дней · → 4 апреля 4 700 лари](https://besttraveler.ge/ru/tury/ispaniya-frantsiya-andorra-tur/)
@@ -156,7 +160,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [28 вс Однодневный тур в Тианети: Мамкода, Цхваричамия, Эрцо, озеро Сиони Однодневный 60 лари](https://besttraveler.ge/ru/tury/tianeti-odnodnevnyy-tur/)
 - [28 вс Однодневный тур Коджори – Манглиси Однодневный 60 лари](https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/)
 
-## Апрель 2027 54 выезда
+## Апрель 2027 55 выездов
 
 - [2–12 пт Круиз по озеру Насер, Каир и Луксор — групповой тур Авиатур · 11 дней 6 650 лари](https://besttraveler.ge/ru/tury/egipet-kruiz-po-ozeru-naser/)
 - [2–4 пт Трабзон и монастырь Сумела — тур на 3 дня На автобусе · 3 дня / 2 ночи 480 лари](https://besttraveler.ge/ru/tury/trabzon-sumela-tur/)
@@ -189,6 +193,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [18 вс Тур в Панкисское ущелье: водопад Хадори, Дуиси, Квэтера Однодневный 60 лари](https://besttraveler.ge/ru/tury/pankisskoe-ushchele-vodopad-khadori/)
 - [18 вс Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро Однодневный 60 лари](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 - [18 вс Квемо Картли и Питарети: Хулути, Тандзиа, Квеши, Болнисский Сиони Однодневный 60 лари](https://besttraveler.ge/ru/tury/pitareti-bolnisi-kvemo-kartli-tur/)
+- [19–26 пн Мальта через Рим — тур на 8 дней Авиатур · 8 дней 4 100 лари](https://besttraveler.ge/ru/tury/malta-cherez-rim-tur/)
 - [19–25 пн Хургада, Луксор, Порт-Саид и Суэцкий канал — 7 дней Авиатур · 7 дней / 6 ночей 6 100 лари](https://besttraveler.ge/ru/tury/egipet-khurgada-luksor-suetskiy-kanal/)
 - [19–25 пн Ван и Мардин — тур по Восточной Турции на 7 дней На автобусе · 7 дней / 6 ночей 1 450 лари](https://besttraveler.ge/ru/tury/vostochnaya-turtsiya-van-mardin-tur/)
 - [22–27 чт Тур в Египет: Каир и Александрия, 5 дней Авиатур · 5 дней / 4 ночи 2 500 лари](https://besttraveler.ge/ru/tury/egipet-kair-aleksandriya-tur/)
@@ -213,7 +218,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [25 вс Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка Однодневный 65 лари](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
 - [30 пт Тур в Тао-Кларджети: Тбети, Артануджи, Ошки, Пархали, Бана На автобусе · 3 дня · → 2 мая 480 лари](https://besttraveler.ge/ru/tury/tao-klardzheti-tur/)
 
-## Май 2027 88 выездов
+## Май 2027 89 выездов
 
 - [1 сб Тур в Вашловани: гора Элия, Город ласточек, Алесилеби Однодневный 70 лари](https://besttraveler.ge/ru/tury/vashlovani-tur-dedoplistskaro/)
 - [1 сб Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
@@ -293,6 +298,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [23 вс Тур по Шида Картли: крепость Гори, Горисджвари, Уплисцихе, Атенский Сиони Однодневный 60 лари](https://besttraveler.ge/ru/tury/gori-uplistsikhe-ateni-tur/)
 - [23 вс Однодневный тур в Хевсурети: перевал Датвиджвари, Шатили, Анатори Однодневный 70 лари](https://besttraveler.ge/ru/tury/khevsuretiya-shatili-odnodnevnyy-tur/)
 - [23 вс Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка Однодневный 65 лари](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
+- [24–31 пн Мальта через Рим — тур на 8 дней Авиатур · 8 дней 4 100 лари](https://besttraveler.ge/ru/tury/malta-cherez-rim-tur/)
 - [24–31 пн Нормандия, Бретань и долина Луары — тур по Франции на 8 дней Авиатур · 8 дней / 7 ночей 4 100 лари](https://besttraveler.ge/ru/tury/normandiya-bretan-luara-tur/)
 - [24–31 пн Франция, Германия и Швейцария: Эльзас, Шварцвальд и Базель Авиатур · 8 дней / 7 ночей 4 500 лари](https://besttraveler.ge/ru/tury/frantsiya-germaniya-shveytsariya-tur/)
 - [24–31 пн Франция, Италия, Монако: Прованс, Альпы и Лазурный берег Авиатур · 8 дней 4 500 лари](https://besttraveler.ge/ru/tury/provans-monako-lazurnyy-bereg-tur/)
@@ -518,8 +524,9 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [29 вс Однодневный тур в Хевсурети: перевал Датвиджвари, Шатили, Анатори Однодневный 70 лари](https://besttraveler.ge/ru/tury/khevsuretiya-shatili-odnodnevnyy-tur/)
 - [29 вс Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка Однодневный 65 лари](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
 
-## Сентябрь 2027 37 выездов
+## Сентябрь 2027 38 выездов
 
+- [1–13 ср Групповой тур в Китай: Пекин, Чжанцзяцзе, Лэшань, Гонконг Авиатур · 13 дней 3 500 долларов](https://besttraveler.ge/ru/tury/kitay-pekin-chzhantszyatsze-gonkong-tur/)
 - [4 сб Поход к озёрам Абуделаури: Рошка, цветные озёра, Чаухи Однодневный 60 лари](https://besttraveler.ge/ru/tury/abudelaurskie-ozera-pokhod/)
 - [4–5 сб Двухдневный тур в Рачу: Цхраджвари, Шаори, Никорцминда, Уцера, Геби На автобусе · 2 дня / 1 ночь 150 лари](https://besttraveler.ge/ru/tury/racha-shaori-nikortsminda-tur/)
 - [5 вс Тур в Трусовское ущелье: травертины, «бездонное» озеро, Закагори Однодневный 60 лари](https://besttraveler.ge/ru/tury/trusovskoe-ushchele-tur/)

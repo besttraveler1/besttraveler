@@ -91,7 +91,7 @@ By plane
 
 ### [China Group Tour: Beijing, Zhangjiajie, Leshan and Hong Kong](https://besttraveler.ge/en/tours/china-beijing-zhangjiajie-hong-kong-tour/)
 
-13 daysChina
+13 days1–13 Sep 2027
 
 13 days in China: Beijing, the Great Wall, Zhangjiajie's mountains, the Leshan Buddha and Hong Kong.
 
@@ -103,7 +103,7 @@ By plane
 
 ### [India Group Tour: Rajasthan, Delhi, Jaisalmer and Udaipur](https://besttraveler.ge/en/tours/india-rajasthan-group-tour/)
 
-9 days / 8 nightsIndia
+9 days / 8 nights1–9 Mar 2027
 
 9 days in Rajasthan: forts, havelis, temples and a boat ride on Lake Pichola.
 

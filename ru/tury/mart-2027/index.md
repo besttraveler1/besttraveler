@@ -1,12 +1,12 @@
 # Туры в марте 2027 — цены и даты
 
-> 20 туров с началом в марте 2027: авиатуры, автобусные и однодневные туры из Грузии. Цены, даты и подробная программа по дням.
+> 22 туров с началом в марте 2027: авиатуры, автобусные и однодневные туры из Грузии. Цены, даты и подробная программа по дням.
 
 URL: https://besttraveler.ge/ru/tury/mart-2027/
 
 # Туры в марте 2027
 
-Все наши туры, которые начинаются в марте 2027: 20 туров за границу и по Грузии, с ценами и программой.
+Все наши туры, которые начинаются в марте 2027: 22 туров за границу и по Грузии, с ценами и программой.
 
 ## Туры в марте 2027
 
@@ -144,6 +144,18 @@ URL: https://besttraveler.ge/ru/tury/mart-2027/
 
 Авиатур
 
+### [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур](https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/)
+
+9 дней / 8 ночей1–9 марта 2027
+
+9 дней в Раджастхане: форты, хавели, храмы и прогулка на лодке по озеру Пичола.
+
+за человека4 800 лари
+
+Смотреть тур 
+
+Авиатур
+
 ### [Бургундия и Франш-Конте: Клюни, Дижон и Бон](https://besttraveler.ge/ru/tury/burgundiya-fransh-konte-tur/)
 
 8 дней / 7 ночей2–9 марта 2027
@@ -214,6 +226,18 @@ URL: https://besttraveler.ge/ru/tury/mart-2027/
 
 Смотреть тур 
 
+Авиатур
+
+### [Мальта через Рим — тур на 8 дней](https://besttraveler.ge/ru/tury/malta-cherez-rim-tur/)
+
+8 дней22–29 марта 2027
+
+Валлетта, Мдина, рыбацкие деревни и деревня Попая — 8 дней на Мальте через Рим.
+
+за человека4 100 лари
+
+Смотреть тур 
+
 На автобусе
 
 ### [Трабзон и монастырь Сумела — тур на 3 дня](https://besttraveler.ge/ru/tury/trabzon-sumela-tur/)
@@ -252,4 +276,4 @@ URL: https://besttraveler.ge/ru/tury/mart-2027/
 
 ## Туры по месяцам
 
-[В октябре 2026 15](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 31](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 13](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 9](https://besttraveler.ge/ru/tury/fevral-2027/)[В апреле 2027 36](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 54](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 46](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 32](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 27](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 11](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)
+[В октябре 2026 15](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 31](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 14](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 10](https://besttraveler.ge/ru/tury/fevral-2027/)[В апреле 2027 37](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 55](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 46](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 32](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 28](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 12](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)

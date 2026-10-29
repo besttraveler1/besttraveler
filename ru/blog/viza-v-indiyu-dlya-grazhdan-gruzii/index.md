@@ -102,7 +102,7 @@ URL: https://besttraveler.ge/ru/blog/viza-v-indiyu-dlya-grazhdan-gruzii/
 
 ### [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур](https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/)
 
-9 дней / 8 ночейИндия
+9 дней / 8 ночей1–9 марта 2027
 
 9 дней в Раджастхане: форты, хавели, храмы и прогулка на лодке по озеру Пичола.
 

@@ -154,7 +154,7 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Sri Lanka and Maldives Group Tour” tour cost?**
 
-The tour costs 8,500 GEL per person.
+The tour costs 8,500 GEL per person. The deposit to book is 1,500 GEL.
 
 **When does the tour leave?**
 
@@ -169,6 +169,8 @@ Airport transfers on arrival and departure; Meeting and assistance at the airpor
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
 Price: 8,500 GELper person: 
+
+Deposit to book: 1,500 GEL
 
 ## Dates
 

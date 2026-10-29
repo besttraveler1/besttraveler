@@ -139,7 +139,7 @@ URL: https://besttraveler.ge/ka/turebi/italia-bari-apulia-saakhaltslo-turi/
 
 ავიატური
 
-### [მაროკოს ჯგუფური ტური რომის გავლით — 13–22 ნოემბერი](https://besttraveler.ge/ka/turebi/maroko-jgupuri-turi-romis-gavlit/)
+### [მაროკოს ჯგუფური ტური რომის გავლით](https://besttraveler.ge/ka/turebi/maroko-jgupuri-turi-romis-gavlit/)
 
 10 დღე / 9 ღამე13–22 ნოემბერი 2026
 
@@ -163,12 +163,12 @@ URL: https://besttraveler.ge/ka/turebi/italia-bari-apulia-saakhaltslo-turi/
 
 ავიატური
 
-### [საფრანგეთი, იტალია, მონაკო: პროვანსი, ალპები და ლაჟვარდოვანი სანაპირო](https://besttraveler.ge/ka/turebi/provansi-monako-lazhvardovani-sanapiro/)
+### [მალტა რომის გავლით — 8-დღიანი ტური](https://besttraveler.ge/ka/turebi/malta-romis-gavlit-turi/)
 
-8 დღე24–31 მაისი 2027
+8 დღე22–29 მარტი 2027
 
-ალპები, ტურინი, ლაჟვარდოვანი სანაპირო და პროვანსი — სამი ქვეყანა 8 დღეში.
+ვალეტა, მდინა, მეთევზეთა სოფლები და პოპაის სოფელი — 8 დღე მალტაზე რომის გავლით.
 
-ერთ ადამიანზე4 500 ლარი
+ერთ ადამიანზე4 100 ლარი
 
 ტურის ნახვა

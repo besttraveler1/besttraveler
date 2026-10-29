@@ -146,7 +146,7 @@ URL: https://besttraveler.ge/ru/tury/venetsiya-paduya-gruppovoy-tur/
 
 Авиатур
 
-### [Групповой тур в Марокко с остановкой в Риме — 13–22 ноября](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
+### [Групповой тур в Марокко с остановкой в Риме](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
 
 10 дней / 9 ночей13–22 ноября 2026
 

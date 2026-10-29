@@ -20,7 +20,7 @@ Photo: [Nicolas Perrault III](https://commons.wikimedia.org/w/index.php?curid=11
 
 Duration13 days
 
-DatesOn request
+Next departure1–13 Sep 2027
 
 DepartureTbilisi (TBS)
 
@@ -32,13 +32,13 @@ Price3,500 USD
 
 ### Day 1
 
-- Flight from Tbilisi
+- Flight from Tbilisi at 09:40
 
 - 
 
 ### Day 2
 
-- Arrival in Beijing
+- Arrival in Beijing at 00:15
 - Temple of Heaven (Tiantan)
 - Grand View Garden
 - Tiananmen Square
@@ -67,7 +67,7 @@ Price3,500 USD
 
 ### Day 6
 
-- Train to Zhangjiajie
+- Train to Zhangjiajie (about 3 hours)
 - City sightseeing
 
 - 
@@ -115,7 +115,7 @@ Price3,500 USD
 ### Day 13
 
 - Transfer to the airport
-- Flight to Tbilisi
+- Flight to Tbilisi at 17:50
 
 ## Route on the map
 
@@ -139,7 +139,6 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 ## Good to know
 
 - Documents: International passport valid for at least 6 months
-- The rest of the price is paid 1 month before the tour.
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
@@ -151,7 +150,7 @@ The tour costs 3,500 USD per person. The deposit to book is 1,500 USD.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 1–13 Sep 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -169,7 +168,7 @@ Deposit to book: 1,500 USD
 
 Dates
 
-Dates on request
+- 1–13 Sep 2027
 
 - Flights: Tbilisi-Beijing, Chengdu-Hong Kong, Hong Kong-Tbilisi
 - High-speed train tickets: Beijing-Tianshui, Tianshui-Zhangjiajie, Zhangjiajie-Leshan, Leshan-Chengdu

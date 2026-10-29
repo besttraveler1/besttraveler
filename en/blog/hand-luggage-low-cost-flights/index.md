@@ -158,7 +158,7 @@ By plane
 
 ### [Malta via Rome — 8-Day Tour](https://besttraveler.ge/en/tours/malta-tour-via-rome/)
 
-8 daysMalta, Italy
+8 days22–29 Mar 2027
 
 Valletta, Mdina, fishing villages and Popeye Village — 8 days in Malta via Rome.
 

@@ -91,7 +91,7 @@ URL: https://besttraveler.ge/ka/blogi/chineti-uvizod-kartvelebistvis/
 
 ### [ჩინეთის ჯგუფური ტური: პეკინი, ჟანჯიაჯიე, ლეშანი, ჰონკონგი](https://besttraveler.ge/ka/turebi/chineti-pekini-zhanjiajie-honkongi-turi/)
 
-13 დღეჩინეთი
+13 დღე1–13 სექტემბერი 2027
 
 13 დღე ჩინეთში: პეკინი, დიდი კედელი, ჟანჯიაჯიეს მთები, ლეშანის ბუდა და ჰონკონგი.
 
@@ -103,7 +103,7 @@ URL: https://besttraveler.ge/ka/blogi/chineti-uvizod-kartvelebistvis/
 
 ### [ინდოეთი: რაჯასთანის ჯგუფური ტური — დელი, ჯაისალმერი, უდაიპური](https://besttraveler.ge/ka/turebi/indoeti-rajastani-jgupuri-turi/)
 
-9 დღე / 8 ღამეინდოეთი
+9 დღე / 8 ღამე1–9 მარტი 2027
 
 9 დღე რაჯასთანში: ციხე-სასახლეები, ჰაველიები, ტაძრები და ნავით გასეირნება პიჩოლას ტბაზე.
 

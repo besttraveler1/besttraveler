@@ -98,7 +98,7 @@ Countries where besttraveler runs tours: Egypt, Italy, Spain, France, Turkey, Ar
 
 1 tours: 
 
-- [Morocco Group Tour with a Stop in Rome — 13–22 November 10 days / 9 nights · 2,200 EUR](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
+- [Morocco Group Tour with a Stop in Rome 10 days / 9 nights · 2,200 EUR](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 
 ### India
 

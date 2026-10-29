@@ -158,7 +158,7 @@ URL: https://besttraveler.ge/ru/blog/ruchnaya-klad-na-loukosterakh/
 
 ### [Мальта через Рим — тур на 8 дней](https://besttraveler.ge/ru/tury/malta-cherez-rim-tur/)
 
-8 днейМальта, Италия
+8 дней22–29 марта 2027
 
 Валлетта, Мдина, рыбацкие деревни и деревня Попая — 8 дней на Мальте через Рим.
 

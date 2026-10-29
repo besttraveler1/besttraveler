@@ -348,7 +348,7 @@ URL: https://besttraveler.ge/ru/tury/
 
 Авиатур
 
-### [Групповой тур в Марокко с остановкой в Риме — 13–22 ноября](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
+### [Групповой тур в Марокко с остановкой в Риме](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
 
 10 дней / 9 ночей13–22 ноября 2026
 
@@ -492,6 +492,18 @@ URL: https://besttraveler.ge/ru/tury/
 
 Авиатур
 
+### [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур](https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/)
+
+9 дней / 8 ночей1–9 марта 2027
+
+9 дней в Раджастхане: форты, хавели, храмы и прогулка на лодке по озеру Пичола.
+
+за человека4 800 лари
+
+Смотреть тур 
+
+Авиатур
+
 ### [Бургундия и Франш-Конте: Клюни, Дижон и Бон](https://besttraveler.ge/ru/tury/burgundiya-fransh-konte-tur/)
 
 8 дней / 7 ночей2–9 марта 2027
@@ -559,6 +571,18 @@ URL: https://besttraveler.ge/ru/tury/
 Два дня в Армении: Дилижан, Севан, Эчмиадзин, Ереван, Гарни и Гегард.
 
 за человека280 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Мальта через Рим — тур на 8 дней](https://besttraveler.ge/ru/tury/malta-cherez-rim-tur/)
+
+8 дней22–29 марта 2027
+
+Валлетта, Мдина, рыбацкие деревни и деревня Попая — 8 дней на Мальте через Рим.
+
+за человека4 100 лари
 
 Смотреть тур 
 
@@ -972,6 +996,18 @@ URL: https://besttraveler.ge/ru/tury/
 
 Авиатур
 
+### [Групповой тур в Китай: Пекин, Чжанцзяцзе, Лэшань, Гонконг](https://besttraveler.ge/ru/tury/kitay-pekin-chzhantszyatsze-gonkong-tur/)
+
+13 дней1–13 сентября 2027
+
+13 дней в Китае: Пекин, Великая стена, горы Чжанцзяцзе, Будда в Лэшане и Гонконг.
+
+за человека3 500 долларов
+
+Смотреть тур 
+
+Авиатур
+
 ### [Бельгия и Нидерланды — групповой тур на 8 дней](https://besttraveler.ge/ru/tury/belgiya-niderlandy-gruppovoy-tur/)
 
 8 днейБельгия, Нидерланды
@@ -996,18 +1032,6 @@ URL: https://besttraveler.ge/ru/tury/
 
 Авиатур
 
-### [Групповой тур в Китай: Пекин, Чжанцзяцзе, Лэшань, Гонконг](https://besttraveler.ge/ru/tury/kitay-pekin-chzhantszyatsze-gonkong-tur/)
-
-13 днейКитай
-
-13 дней в Китае: Пекин, Великая стена, горы Чжанцзяцзе, Будда в Лэшане и Гонконг.
-
-за человека3 500 долларов
-
-Смотреть тур 
-
-Авиатур
-
 ### [Греция: Салоники, Метеоры и Афины — тур на 8 дней](https://besttraveler.ge/ru/tury/gretsiya-saloniki-meteory-afiny-tur/)
 
 8 днейГреция
@@ -1015,30 +1039,6 @@ URL: https://besttraveler.ge/ru/tury/
 Салоники, монастыри Метеоры, Афины и остров Эгина — 8 дней в Греции.
 
 за человека2 100 лари
-
-Смотреть тур 
-
-Авиатур
-
-### [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур](https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/)
-
-9 дней / 8 ночейИндия
-
-9 дней в Раджастхане: форты, хавели, храмы и прогулка на лодке по озеру Пичола.
-
-за человека4 800 лари
-
-Смотреть тур 
-
-Авиатур
-
-### [Мальта через Рим — тур на 8 дней](https://besttraveler.ge/ru/tury/malta-cherez-rim-tur/)
-
-8 днейМальта, Италия
-
-Валлетта, Мдина, рыбацкие деревни и деревня Попая — 8 дней на Мальте через Рим.
-
-за человека4 100 лари
 
 Смотреть тур 
 
@@ -1324,4 +1324,4 @@ URL: https://besttraveler.ge/ru/tury/
 
 [Календарь туров](https://besttraveler.ge/ru/kalendar-turov/)
 
-[В октябре 2026 15](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 31](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 13](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 9](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 20](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 36](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 54](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 46](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 32](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 27](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 11](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)
+[В октябре 2026 15](https://besttraveler.ge/ru/tury/oktyabr-2026/)[В ноябре 2026 31](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 14](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 10](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 22](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 37](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 55](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 46](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 32](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 28](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 12](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)

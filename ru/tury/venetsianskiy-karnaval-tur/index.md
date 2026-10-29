@@ -131,7 +131,7 @@ URL: https://besttraveler.ge/ru/tury/venetsianskiy-karnaval-tur/
 
 Авиатур
 
-### [Групповой тур в Марокко с остановкой в Риме — 13–22 ноября](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
+### [Групповой тур в Марокко с остановкой в Риме](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
 
 10 дней / 9 ночей13–22 ноября 2026
 
@@ -143,12 +143,12 @@ URL: https://besttraveler.ge/ru/tury/venetsianskiy-karnaval-tur/
 
 Авиатур
 
-### [Франция, Италия, Монако: Прованс, Альпы и Лазурный берег](https://besttraveler.ge/ru/tury/provans-monako-lazurnyy-bereg-tur/)
+### [Мальта через Рим — тур на 8 дней](https://besttraveler.ge/ru/tury/malta-cherez-rim-tur/)
 
-8 дней24–31 мая 2027
+8 дней22–29 марта 2027
 
-Альпы, Турин, Лазурный берег и Прованс — три страны за 8 дней.
+Валлетта, Мдина, рыбацкие деревни и деревня Попая — 8 дней на Мальте через Рим.
 
-за человека4 500 лари
+за человека4 100 лари
 
 Смотреть тур

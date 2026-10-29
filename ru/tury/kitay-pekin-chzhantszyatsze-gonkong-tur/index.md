@@ -20,7 +20,7 @@ URL: https://besttraveler.ge/ru/tury/kitay-pekin-chzhantszyatsze-gonkong-tur/
 
 Длительность13 дней
 
-ДатыПо запросу
+Ближайший выезд1–13 сентября 2027
 
 ВыездТбилиси (TBS)
 
@@ -32,13 +32,13 @@ URL: https://besttraveler.ge/ru/tury/kitay-pekin-chzhantszyatsze-gonkong-tur/
 
 ### День 1
 
-- Вылет из Тбилиси
+- Вылет из Тбилиси в 09:40
 
 - 
 
 ### День 2
 
-- Прилёт в Пекин
+- Прилёт в Пекин в 00:15
 - Храм Неба (Тяньтань)
 - Сад Дагуаньюань (Grand View Garden)
 - Площадь Тяньаньмэнь
@@ -67,7 +67,7 @@ URL: https://besttraveler.ge/ru/tury/kitay-pekin-chzhantszyatsze-gonkong-tur/
 
 ### День 6
 
-- Поезд в Чжанцзяцзе
+- Поезд в Чжанцзяцзе (около 3 часов)
 - Осмотр города
 
 - 
@@ -115,7 +115,7 @@ URL: https://besttraveler.ge/ru/tury/kitay-pekin-chzhantszyatsze-gonkong-tur/
 ### День 13
 
 - Трансфер в аэропорт
-- Вылет в Тбилиси
+- Вылет в Тбилиси в 17:50
 
 ## Маршрут на карте
 
@@ -139,7 +139,6 @@ URL: https://besttraveler.ge/ru/tury/kitay-pekin-chzhantszyatsze-gonkong-tur/
 ## Важно знать
 
 - Документы: Заграничный паспорт, действующий не менее 6 месяцев
-- Остаток суммы оплачивается за 1 месяц до тура.
 
 Для брони вносится предоплата, остаток — за 15 дней до тура. [Условия бронирования и оплаты](https://besttraveler.ge/ru/usloviya-bronirovaniya/)
 
@@ -151,7 +150,7 @@ URL: https://besttraveler.ge/ru/tury/kitay-pekin-chzhantszyatsze-gonkong-tur/
 
 **Когда выезд?**
 
-Даты и свободные места подскажем по телефону или в WhatsApp.
+Ближайшие даты: 1–13 сентября 2027. Свободные места уточняйте по телефону или в WhatsApp.
 
 **Что входит в цену?**
 
@@ -169,7 +168,7 @@ URL: https://besttraveler.ge/ru/tury/kitay-pekin-chzhantszyatsze-gonkong-tur/
 
 Даты
 
-Даты по запросу
+- 1–13 сентября 2027
 
 - Авиабилеты: Тбилиси–Пекин, Чэнду–Гонконг, Гонконг–Тбилиси
 - Билеты на скоростной поезд: Пекин–Тяньшуй, Тяньшуй–Чжанцзяцзе, Чжанцзяцзе–Лэшань, Лэшань–Чэнду

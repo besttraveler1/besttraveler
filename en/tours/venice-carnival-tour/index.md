@@ -131,7 +131,7 @@ View tour
 
 By plane
 
-### [Morocco Group Tour with a Stop in Rome — 13–22 November](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
+### [Morocco Group Tour with a Stop in Rome](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 
 10 days / 9 nights13–22 Nov 2026
 
@@ -143,12 +143,12 @@ View tour
 
 By plane
 
-### [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)
+### [Malta via Rome — 8-Day Tour](https://besttraveler.ge/en/tours/malta-tour-via-rome/)
 
-8 days24–31 May 2027
+8 days22–29 Mar 2027
 
-The Alps, Turin, the Côte d'Azur and Provence — three countries in 8 days.
+Valletta, Mdina, fishing villages and Popeye Village — 8 days in Malta via Rome.
 
-per person4,500 GEL
+per person4,100 GEL
 
 View tour

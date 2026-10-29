@@ -185,7 +185,7 @@ URL: https://besttraveler.ge/ka/turebi/samkhret-italia-neapoli-amalfi-turi/
 
 ავიატური
 
-### [მაროკოს ჯგუფური ტური რომის გავლით — 13–22 ნოემბერი](https://besttraveler.ge/ka/turebi/maroko-jgupuri-turi-romis-gavlit/)
+### [მაროკოს ჯგუფური ტური რომის გავლით](https://besttraveler.ge/ka/turebi/maroko-jgupuri-turi-romis-gavlit/)
 
 10 დღე / 9 ღამე13–22 ნოემბერი 2026
 

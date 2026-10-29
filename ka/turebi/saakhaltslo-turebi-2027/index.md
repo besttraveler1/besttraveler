@@ -60,6 +60,18 @@ URL: https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/
 
 ავიატური
 
+### [მაროკოს ჯგუფური ტური რომის გავლით](https://besttraveler.ge/ka/turebi/maroko-jgupuri-turi-romis-gavlit/)
+
+10 დღე / 9 ღამე13–22 ნოემბერი 2026
+
+10 დღე: რომი, მარაქეში, აიტ-ბენ-ჰადუ, რაბატი, შეფშაუენი, ფესი და კასაბლანკა. მაროკოს ვიზა შედის.
+
+ერთ ადამიანზე2 200 ევრო
+
+ტურის ნახვა 
+
+ავიატური
+
 ### [საფრანგეთი: ელზასი და პარიზი — ჯგუფური ტური ქუთაისიდან](https://besttraveler.ge/ka/turebi/saprangeti-elzasi-parizi-turi/)
 
 8 დღე / 7 ღამე19–26 ნოემბერი 2026
@@ -144,4 +156,4 @@ URL: https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/
 
 ## ტურები თვეების მიხედვით
 
-[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 31](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 13](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 9](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 20](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 36](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 54](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 46](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 27](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)
+[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 31](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 10](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 22](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 37](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 55](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 46](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 28](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)

@@ -91,7 +91,7 @@ URL: https://besttraveler.ge/ru/blog/kitay-bez-vizy-dlya-grazhdan-gruzii/
 
 ### [Групповой тур в Китай: Пекин, Чжанцзяцзе, Лэшань, Гонконг](https://besttraveler.ge/ru/tury/kitay-pekin-chzhantszyatsze-gonkong-tur/)
 
-13 днейКитай
+13 дней1–13 сентября 2027
 
 13 дней в Китае: Пекин, Великая стена, горы Чжанцзяцзе, Будда в Лэшане и Гонконг.
 
@@ -103,7 +103,7 @@ URL: https://besttraveler.ge/ru/blog/kitay-bez-vizy-dlya-grazhdan-gruzii/
 
 ### [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур](https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/)
 
-9 дней / 8 ночейИндия
+9 дней / 8 ночей1–9 марта 2027
 
 9 дней в Раджастхане: форты, хавели, храмы и прогулка на лодке по озеру Пичола.
 

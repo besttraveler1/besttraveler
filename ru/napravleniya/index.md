@@ -98,7 +98,7 @@ URL: https://besttraveler.ge/ru/napravleniya/
 
 1 туров: 
 
-- [Групповой тур в Марокко с остановкой в Риме — 13–22 ноября 10 дней / 9 ночей · 2 200 евро](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
+- [Групповой тур в Марокко с остановкой в Риме 10 дней / 9 ночей · 2 200 евро](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
 
 ### Индия
 
