@@ -483,17 +483,23 @@ main{display:block}
 .calm h2 .c{font-size:13px;font-weight:400;color:var(--muted)}
 .cal{list-style:none;margin:0;padding:0;border:1px solid var(--border);border-radius:16px;background:var(--card);overflow:hidden}
 .cal li+li{border-top:1px solid var(--border)}
-.cal a{display:grid;grid-template-columns:56px minmax(0,1fr) auto;gap:12px;align-items:center;padding:12px 14px;color:var(--fg);text-decoration:none;min-height:44px}
+.cal a{display:grid;grid-template-columns:44px minmax(0,1fr) auto;gap:14px;align-items:center;padding:14px 16px;color:var(--fg);text-decoration:none;min-height:44px}
 .cal a:hover{background:var(--soft)}
-.cal .cd{display:flex;flex-direction:column;align-items:center;justify-content:center;height:52px;border-radius:12px;background:var(--soft);line-height:1.1}
-.cal .cd b{font-size:17px}
-.cal .cd small{font-size:12px;color:var(--muted)}
+.cal .fl{position:relative;width:40px;height:40px;align-self:start;margin-top:2px}
+.cal .fl img{width:40px;height:40px;border-radius:50%;object-fit:cover;box-shadow:0 0 0 1px var(--border2);display:block}
+.cal .fl2 img{width:32px;height:32px;position:absolute}
+.cal .fl2 img:first-child{left:0;top:0;z-index:1;box-shadow:0 0 0 2px var(--card)}
+.cal .fl2 img+img{right:-4px;bottom:-4px}
 .cal .ct{min-width:0}
-.cal .ct b{display:block;font-weight:600;font-size:15px;line-height:1.35}
-.cal .ct small{display:flex;align-items:center;gap:6px;margin-top:3px;font-size:13px;color:var(--muted)}
-.cal .ct small .ico{width:14px;height:14px;flex:none}
+.cal .ct>b{display:block;font-weight:600;font-size:15px;line-height:1.35}
+.cal .bds{display:flex;flex-wrap:wrap;gap:6px;margin-top:7px}
+.cal .bd{display:inline-flex;align-items:center;gap:5px;min-height:26px;padding:0 9px;border-radius:999px;background:var(--soft);font-size:13px;color:var(--muted);white-space:nowrap}
+.cal .bd .ico{width:14px;height:14px;flex:none}
+.cal .bd-d{background:color-mix(in srgb,var(--brand) 12%,transparent);color:var(--fg);font-weight:600}
+.cal .bd-d .ico{color:var(--brand)}
 .cal .cp{font-weight:700;font-size:15px;white-space:nowrap;color:var(--brand)}
-@media (max-width:480px){.cal a{grid-template-columns:48px minmax(0,1fr);row-gap:4px}.cal .cp{grid-column:2;font-size:14px}.cal .cd{height:48px}}
+@media (max-width:480px){.cal a{grid-template-columns:36px minmax(0,1fr);gap:12px;padding:12px}.cal .fl,.cal .fl img{width:36px;height:36px}.cal .fl2 img{width:28px;height:28px}
+  .cal .cp{grid-column:2;font-size:14px}}
 /* share buttons */
 .share{margin-top:18px;padding-top:16px;border-top:1px solid var(--border);text-align:center}
 .share>p:first-child{margin:0 0 10px;font-size:14px;font-weight:600;color:var(--muted)}
