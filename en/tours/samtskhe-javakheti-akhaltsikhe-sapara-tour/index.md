@@ -18,7 +18,7 @@ Photo: [יעקב](https://commons.wikimedia.org/w/index.php?curid=149268829), CC
 
 Duration1 day
 
-Next departure31 Oct 2026 +16
+Next departure1 Nov 2026 +15
 
 DepartureTbilisi, 07:00
 
@@ -59,7 +59,7 @@ The tour costs 65 GEL per person.
 
 **When does the tour leave?**
 
-Next dates: 31 Oct 2026, 1 Nov 2026, 8 Nov 2026, 21 Nov 2026, 11 Apr 2027, 25 Apr 2027. Please check free places by phone or WhatsApp.
+Next dates: 1 Nov 2026, 8 Nov 2026, 21 Nov 2026, 11 Apr 2027, 25 Apr 2027, 1 May 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -75,7 +75,6 @@ Price: 65 GELper person:
 
 Dates
 
-- 31 Oct 2026
 - 1 Nov 2026
 - 8 Nov 2026
 - 21 Nov 2026
@@ -107,7 +106,7 @@ Day tour
 
 ### [A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 
-1 day31 Oct 2026
+1 day1 Nov 2026
 
 Takhti-Tepa and Kilakupra mud volcanoes, the Dali reservoir and a rock-cut monastery.
 
@@ -117,11 +116,11 @@ View tour
 
 Day tour
 
-### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
+### [Caves Day Tour: Navenakhevi, Tetra, Sataplia, Prometheus](https://besttraveler.ge/en/tours/caves-tour-prometheus-sataplia-from-tbilisi/)
 
-1 day31 Oct 2026
+1 day1 Nov 2026
 
-Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
+Four sights in one day: Navenakhevi Cave, Tetra Cave, Sataplia Nature Reserve and Prometheus Cave.
 
 per person60 GEL
 
@@ -129,11 +128,11 @@ View tour
 
 Day tour
 
-### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
+### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
 
-1 day31 Oct 2026
+1 day1 Nov 2026
 
-Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
+Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
 
 per person60 GEL
 

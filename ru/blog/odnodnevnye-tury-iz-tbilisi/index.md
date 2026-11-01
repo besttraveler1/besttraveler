@@ -91,7 +91,7 @@ URL: https://besttraveler.ge/ru/blog/odnodnevnye-tury-iz-tbilisi/
 
 ### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
 
-1 день31 октября 2026
+1 день7 ноября 2026
 
 Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
 
@@ -115,7 +115,7 @@ URL: https://besttraveler.ge/ru/blog/odnodnevnye-tury-iz-tbilisi/
 
 ### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 
-1 день31 октября 2026
+1 день1 ноября 2026
 
 Додос Рка, монастырь Давид Гареджи, цветные горы и водохранилище Мравалцкаро.
 
@@ -127,7 +127,7 @@ URL: https://besttraveler.ge/ru/blog/odnodnevnye-tury-iz-tbilisi/
 
 ### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
 
-1 день31 октября 2026
+1 день1 ноября 2026
 
 Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
 
@@ -139,7 +139,7 @@ URL: https://besttraveler.ge/ru/blog/odnodnevnye-tury-iz-tbilisi/
 
 ### [Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
 
-1 день31 октября 2026
+1 день1 ноября 2026
 
 Озёра Паравани и Сагамо, монастыри Пока, Гореловка и заказник Мадатапа.
 
@@ -151,7 +151,7 @@ URL: https://besttraveler.ge/ru/blog/odnodnevnye-tury-iz-tbilisi/
 
 ### [Лагодехский заповедник: водопад Ниносхеви (Гургениани)](https://besttraveler.ge/ru/tury/lagodekhi-vodopad-ninoskhevi/)
 
-1 день31 октября 2026
+1 день20 июня 2027
 
 Поход в Лагодехском заповеднике к водопаду Ниносхеви, 8,3 км в одну сторону.
 

@@ -91,7 +91,7 @@ URL: https://besttraveler.ge/ka/blogi/ertdghiani-turebi-tbilisidan/
 
 ### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე7 ნოემბერი 2026
 
 დარიალის მონასტერი, გველეთის დიდი და პატარა ჩანჩქერი, გერგეტის სამება და გუდაურის პანორამა.
 
@@ -115,7 +115,7 @@ URL: https://besttraveler.ge/ka/blogi/ertdghiani-turebi-tbilisidan/
 
 ### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 დოდოს რქა, დავით გარეჯის მონასტერი, ფერადი მთები და მრავალწყაროს წყალსაცავი.
 
@@ -127,7 +127,7 @@ URL: https://besttraveler.ge/ka/blogi/ertdghiani-turebi-tbilisidan/
 
 ### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
 
@@ -139,7 +139,7 @@ URL: https://besttraveler.ge/ka/blogi/ertdghiani-turebi-tbilisidan/
 
 ### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 ფარავნისა და საღამოს ტბები, ფოკას მონასტრები, გორელოვკა და მადათაფას აღკვეთილი.
 
@@ -151,7 +151,7 @@ URL: https://besttraveler.ge/ka/blogi/ertdghiani-turebi-tbilisidan/
 
 ### [ლაგოდეხის ნაკრძალი: ნინოს ხევის (გურგენიანის) ჩანჩქერი](https://besttraveler.ge/ka/turebi/lagodekhi-ninos-khevis-chanchkeri/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე20 ივნისი 2027
 
 ლაშქრობა ლაგოდეხის ნაკრძალში ნინოს ხევის ჩანჩქერამდე, 8.3 კმ ცალმხრივად.
 

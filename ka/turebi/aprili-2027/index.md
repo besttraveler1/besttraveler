@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [განსხვავებული ვაშლოვანი: ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები](https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები, დალის წყალსაცავი და კლდეში ნაკვეთი მონასტერი.
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 უჯარმის ციხე-ქალაქი, გომბორის უღელტეხილი, შუამთა, იყალთო, თეთრი გიორგი და ალავერდი.
 
@@ -38,7 +38,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 დოდოს რქა, დავით გარეჯის მონასტერი, ფერადი მთები და მრავალწყაროს წყალსაცავი.
 
@@ -50,7 +50,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 გარეჯის საბერეების კლდეში ნაკვეთი სამონასტრო კომპლექსი, IX–X საუკუნეები.
 
@@ -62,7 +62,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 ფარავნისა და საღამოს ტბები, ფოკას მონასტრები, გორელოვკა და მადათაფას აღკვეთილი.
 
@@ -74,7 +74,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [კახეთის ტური: ჩაილური, გურჯაანის ყველაწმინდა, ზეგაანი, სანაგირე](https://besttraveler.ge/ka/turebi/kakheti-gurjaani-zegaani-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 ჩაილურის ციხე, გურჯაანის ყველაწმინდა, ნატო ვაჩნაძის მუზეუმი, ზიარის ტბა, ზეგაანი და სანაგირე.
 
@@ -86,7 +86,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი](https://besttraveler.ge/ka/turebi/kakheti-nekresi-gremi-telavi-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 ნეკრესის სამონასტრო კომპლექსი, ილიას ტბა, გრემი და თელავის „ბატონის ციხე“ ერთ დღეში.
 
@@ -98,7 +98,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
 
@@ -110,7 +110,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [ქვემო ქართლის ერთდღიანი ტური: წერაქვი, გაგის ციხე, თამარისის ტბები](https://besttraveler.ge/ka/turebi/kvemo-kartli-ertdghiani-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 წერაქვი, გაგის ციხე-სიმაგრე, თამარისის ტბები და შავნაბადის მონასტერი ერთ დღეში.
 
@@ -122,23 +122,11 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/)
 
-1 დღე31 ოქტომბერი 2026
+1 დღე1 ნოემბერი 2026
 
 ზარზმა, ჭულეს მონასტერი და ჩანჩქერი, ახალციხის რაბათი და საფარა, გიდთან ერთად.
 
 ერთ ადამიანზე65 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [ვაშლოვანის ტური: ელიას მთა, მერცხლების ქალაქი, ალესილები](https://besttraveler.ge/ka/turebi/vashlovanis-turi-dedoplistskaro/)
-
-1 დღე31 ოქტომბერი 2026
-
-ვაშლოვანის ნაკრძალი: ელიას მთის კლდის მონასტერი, მერცხლების ქალაქი, პანტიშარა, ალესილები და დათვისხევი.
-
-ერთ ადამიანზე70 ლარი
 
 ტურის ნახვა 
 
@@ -396,6 +384,18 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ერთდღიანი
 
+### [ვაშლოვანის ტური: ელიას მთა, მერცხლების ქალაქი, ალესილები](https://besttraveler.ge/ka/turebi/vashlovanis-turi-dedoplistskaro/)
+
+1 დღე11 აპრილი 2027
+
+ვაშლოვანის ნაკრძალი: ელიას მთის კლდის მონასტერი, მერცხლების ქალაქი, პანტიშარა, ალესილები და დათვისხევი.
+
+ერთ ადამიანზე70 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
 ### [ისტორიული ლორე, სომხეთი: ახტალა, ახპატი, სანაჰინი, ოძუნი](https://besttraveler.ge/ka/turebi/somkheti-lore-akhpati-sanahini-turi/)
 
 1 დღე18 აპრილი 2027
@@ -456,4 +456,4 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ## ტურები თვეების მიხედვით
 
-[ოქტომბერში 2026 15](https://besttraveler.ge/ka/turebi/oqtomberi-2026/)[ნოემბერში 2026 31](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 10](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 22](https://besttraveler.ge/ka/turebi/marti-2027/)[მაისში 2027 55](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 46](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 32](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 28](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 12](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
+[ნოემბერში 2026 31](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 10](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 22](https://besttraveler.ge/ka/turebi/marti-2027/)[მაისში 2027 55](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 47](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 33](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 28](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 12](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)

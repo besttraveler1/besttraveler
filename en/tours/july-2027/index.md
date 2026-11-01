@@ -1,122 +1,14 @@
 # Tours in July 2027 — prices and dates
 
-> 32 tours that start in July 2027: flight tours, bus tours and day tours from Georgia. Prices, dates and full day-by-day programmes.
+> 33 tours that start in July 2027: flight tours, bus tours and day tours from Georgia. Prices, dates and full day-by-day programmes.
 
 URL: https://besttraveler.ge/en/tours/july-2027/
 
 # Tours in July 2027
 
-All our tours that start in July 2027: 32 tours abroad and in Georgia, with prices and full programmes.
+All our tours that start in July 2027: 33 tours abroad and in Georgia, with prices and full programmes.
 
 ## Tours in July 2027
-
-Day tour
-
-### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
-
-1 day31 Oct 2026
-
-Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
-
-1 day31 Oct 2026
-
-Paravani and Saghamo lakes, the Poka monasteries, Gorelovka and the Madatapa reserve.
-
-per person65 GEL
-
-View tour 
-
-Day tour
-
-### [Kakheti Day Tour: Chailuri, Gurjaani Kvelatsminda, Zegaani, Sanagire](https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani-day-trip/)
-
-1 day31 Oct 2026
-
-Chailuri Fortress, Gurjaani Kvelatsminda, Nato Vachnadze museum, Ziari Lake, Zegaani and Sanagire.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/)
-
-1 day31 Oct 2026
-
-Nekresi monastery complex, Ilia Lake, Gremi and Batonis Tsikhe in Telavi in one day.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
-
-1 day31 Oct 2026
-
-Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
-
-1 day31 Oct 2026
-
-Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
-
-1 day31 Oct 2026
-
-Tserakvi, Gagi Fortress, the Tamarisi lakes and Shavnabada monastery in one day.
-
-per person65 GEL
-
-View tour 
-
-Day tour
-
-### [Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/)
-
-1 day31 Oct 2026
-
-A hike in Lagodekhi Reserve to the Ninoskhevi waterfall, 8.3 km one way.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
-
-1 day31 Oct 2026
-
-Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
-
-per person65 GEL
-
-View tour 
 
 Day tour
 
@@ -125,6 +17,18 @@ Day tour
 1 day1 Nov 2026
 
 Four sights in one day: Navenakhevi Cave, Tetra Cave, Sataplia Nature Reserve and Prometheus Cave.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
+
+1 day1 Nov 2026
+
+Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
 
 per person60 GEL
 
@@ -144,11 +48,95 @@ View tour
 
 Day tour
 
+### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
+
+1 day1 Nov 2026
+
+Paravani and Saghamo lakes, the Poka monasteries, Gorelovka and the Madatapa reserve.
+
+per person65 GEL
+
+View tour 
+
+Day tour
+
+### [Kakheti Day Tour: Chailuri, Gurjaani Kvelatsminda, Zegaani, Sanagire](https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani-day-trip/)
+
+1 day1 Nov 2026
+
+Chailuri Fortress, Gurjaani Kvelatsminda, Nato Vachnadze museum, Ziari Lake, Zegaani and Sanagire.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/)
+
+1 day1 Nov 2026
+
+Nekresi monastery complex, Ilia Lake, Gremi and Batonis Tsikhe in Telavi in one day.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
+
+1 day1 Nov 2026
+
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
+
+1 day1 Nov 2026
+
+Tserakvi, Gagi Fortress, the Tamarisi lakes and Shavnabada monastery in one day.
+
+per person65 GEL
+
+View tour 
+
+Day tour
+
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+
+1 day1 Nov 2026
+
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+
+per person65 GEL
+
+View tour 
+
+Day tour
+
 ### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
 
 1 day1 Nov 2026
 
 Truso Gorge: colorful travertines, the 'bottomless' lake, Abano convent and Zakagori fortress.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
+
+1 day7 Nov 2026
+
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
 
 per person60 GEL
 
@@ -348,6 +336,18 @@ View tour
 
 Day tour
 
+### [Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/)
+
+1 day20 Jun 2027
+
+A hike in Lagodekhi Reserve to the Ninoskhevi waterfall, 8.3 km one way.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
 ### [Abudelauri Lakes Hike: Roshka, Colorful Lakes, Chaukhi](https://besttraveler.ge/en/tours/abudelauri-lakes-hike-from-tbilisi/)
 
 1 day27 Jun 2027
@@ -367,6 +367,18 @@ By bus
 Ankara, Pergamon, Izmir, Ephesus, the Aegean and Mediterranean coast, and the Greek islands of Chios and Rhodes.
 
 per person3,700 GEL
+
+View tour 
+
+By plane
+
+### [Bulgaria in 8 Days: Nessebar, Plovdiv, Rila, Sofia and Varna](https://besttraveler.ge/en/tours/bulgaria-tour-nessebar-plovdiv-rila-sofia/)
+
+8 days / 7 nights15–22 Jul 2027
+
+Nessebar, Sozopol, Plovdiv, Bachkovo Monastery, Rila, Sofia, Belogradchik and Veliko Tarnovo.
+
+per person3,500 GEL
 
 View tour 
 
@@ -396,4 +408,4 @@ View tour
 
 ## Tours by month
 
-[October 2026 15](https://besttraveler.ge/en/tours/october-2026/)[November 2026 31](https://besttraveler.ge/en/tours/november-2026/)[December 2026 10](https://besttraveler.ge/en/tours/december-2026/)[January 2027 14](https://besttraveler.ge/en/tours/january-2027/)[February 2027 10](https://besttraveler.ge/en/tours/february-2027/)[March 2027 22](https://besttraveler.ge/en/tours/march-2027/)[April 2027 37](https://besttraveler.ge/en/tours/april-2027/)[May 2027 55](https://besttraveler.ge/en/tours/may-2027/)[June 2027 46](https://besttraveler.ge/en/tours/june-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 28](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 12](https://besttraveler.ge/en/tours/new-year-tours-2027/)
+[November 2026 31](https://besttraveler.ge/en/tours/november-2026/)[December 2026 10](https://besttraveler.ge/en/tours/december-2026/)[January 2027 14](https://besttraveler.ge/en/tours/january-2027/)[February 2027 10](https://besttraveler.ge/en/tours/february-2027/)[March 2027 22](https://besttraveler.ge/en/tours/march-2027/)[April 2027 37](https://besttraveler.ge/en/tours/april-2027/)[May 2027 55](https://besttraveler.ge/en/tours/may-2027/)[June 2027 47](https://besttraveler.ge/en/tours/june-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 28](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 12](https://besttraveler.ge/en/tours/new-year-tours-2027/)

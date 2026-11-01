@@ -91,7 +91,7 @@ Day tour
 
 ### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
-1 day31 Oct 2026
+1 day7 Nov 2026
 
 Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
 
@@ -115,7 +115,7 @@ Day tour
 
 ### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 
-1 day31 Oct 2026
+1 day1 Nov 2026
 
 Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
 
@@ -127,7 +127,7 @@ Day tour
 
 ### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-1 day31 Oct 2026
+1 day1 Nov 2026
 
 Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
@@ -139,7 +139,7 @@ Day tour
 
 ### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
-1 day31 Oct 2026
+1 day1 Nov 2026
 
 Paravani and Saghamo lakes, the Poka monasteries, Gorelovka and the Madatapa reserve.
 
@@ -151,7 +151,7 @@ Day tour
 
 ### [Lagodekhi Reserve: Ninoskhevi (Gurgeniani) Waterfall Hike](https://besttraveler.ge/en/tours/lagodekhi-ninoskhevi-waterfall-hike/)
 
-1 day31 Oct 2026
+1 day20 Jun 2027
 
 A hike in Lagodekhi Reserve to the Ninoskhevi waterfall, 8.3 km one way.
 
