@@ -315,6 +315,68 @@
     });
   });
 
+  // modern select: a button that opens a list with search, flags and icons; the native select stays the source of truth
+  function csel(sel) {
+    var form = sel.closest('form') || d, tpl = function (k) { var t = form.querySelector('template[data-ico="' + k + '"]'); return t ? t.innerHTML : ''; };
+    var media = function (o) {
+      var im = o.getAttribute('data-img'), ic = o.getAttribute('data-ico');
+      return '<span class="md">' + (im ? '<img src="' + im + '" alt="" width="22" height="22">' : ic ? tpl(ic) : '') + '</span>';
+    };
+    var opts = $$('option', sel), uid = 'cs' + Math.random().toString(36).slice(2, 8);
+    var box = d.createElement('div'); box.className = 'csel';
+    var btn = d.createElement('button'); btn.type = 'button'; btn.className = 'csel-btn';
+    btn.setAttribute('aria-haspopup', 'listbox'); btn.setAttribute('aria-expanded', 'false');
+    var lab = sel.closest('label'); if (lab) { var sp = lab.querySelector('span'); if (sp) { sp.id = uid + '-l'; btn.setAttribute('aria-labelledby', sp.id + ' ' + uid + '-b'); } }
+    var pop = d.createElement('div'); pop.className = 'csel-pop'; pop.hidden = true;
+    var search = sel.hasAttribute('data-search');
+    pop.innerHTML = (search ? '<div class="csel-s">' + tpl('search') + '<input type="text" autocomplete="off" aria-label="' + esc(sel.getAttribute('data-ph')) + '" placeholder="' + esc(sel.getAttribute('data-ph')) + '"></div>' : '') +
+      '<ul class="csel-l" role="listbox" id="' + uid + '-x"></ul>';
+    btn.setAttribute('aria-controls', uid + '-x');
+    var inp = $('input', pop), list = $('ul', pop), shown = [], act = 0;
+    sel.parentNode.insertBefore(box, sel); box.appendChild(btn); box.appendChild(pop); box.appendChild(sel); sel.hidden = true;
+    function label() {
+      var o = sel.options[sel.selectedIndex] || opts[0];
+      btn.innerHTML = media(o) + '<span class="t" id="' + uid + '-b">' + esc(o.textContent) + '</span><svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>';
+    }
+    function draw() {
+      var q = inp ? norm(inp.value) : '';
+      shown = opts.filter(function (o) { return !q || norm(o.textContent).indexOf(q) > -1; });
+      if (act >= shown.length) act = shown.length - 1; if (act < 0) act = 0;
+      list.innerHTML = shown.length ? shown.map(function (o, i) {
+        return '<li role="option" id="' + uid + '-' + i + '" data-i="' + i + '" aria-selected="' + (o.value === sel.value) + '"' + (i === act ? ' class="act"' : '') + '>' + media(o) +
+          '<span class="t">' + esc(o.textContent) + '</span><span class="n">' + esc(o.getAttribute('data-n') || '') + '</span>' + tpl('check').replace('class="ico"', 'class="ico ok"') + '</li>';
+      }).join('') : '<li class="none">' + esc(sel.getAttribute('data-none')) + '</li>';
+      var a = d.getElementById(uid + '-' + act); if (a) { (inp || btn).setAttribute('aria-activedescendant', a.id); a.scrollIntoView({ block: 'nearest' }); }
+    }
+    function open(v) {
+      if (v) { $$('.csel[data-open]').forEach(function (b) { if (b !== box) b._close(); }); }
+      pop.hidden = !v; btn.setAttribute('aria-expanded', v ? 'true' : 'false');
+      if (v) { box.setAttribute('data-open', ''); act = Math.max(0, opts.indexOf(sel.options[sel.selectedIndex])); if (inp) inp.value = ''; draw(); if (inp) inp.focus(); }
+      else box.removeAttribute('data-open');
+    }
+    box._close = function () { open(false); };
+    function pick(i) {
+      var o = shown[i]; if (!o) return;
+      sel.value = o.value; label(); open(false); btn.focus();
+      sel.dispatchEvent(new Event('change'));
+    }
+    function keys(e) {
+      if (e.key === 'ArrowDown') { e.preventDefault(); if (pop.hidden) return open(true); act = Math.min(shown.length - 1, act + 1); draw(); }
+      else if (e.key === 'ArrowUp') { e.preventDefault(); act = Math.max(0, act - 1); draw(); }
+      else if (e.key === 'Enter' && !pop.hidden) { e.preventDefault(); pick(act); }
+      else if (e.key === 'Escape' && !pop.hidden) { e.preventDefault(); open(false); btn.focus(); }
+      else if (e.key === 'Tab' && !pop.hidden) { open(false); }
+    }
+    btn.addEventListener('click', function () { open(pop.hidden); });
+    btn.addEventListener('keydown', keys);
+    if (inp) { inp.addEventListener('keydown', keys); inp.addEventListener('input', function () { act = 0; draw(); }); }
+    list.addEventListener('mousedown', function (e) { var li = e.target.closest('[data-i]'); if (li) { e.preventDefault(); pick(+li.getAttribute('data-i')); } });
+    list.addEventListener('mousemove', function (e) { var li = e.target.closest('[data-i]'); if (li && +li.getAttribute('data-i') !== act) { act = +li.getAttribute('data-i'); $$('.act', list).forEach(function (x) { x.classList.remove('act'); }); li.classList.add('act'); } });
+    d.addEventListener('mousedown', function (e) { if (!pop.hidden && !box.contains(e.target)) open(false); });
+    sel.addEventListener('change', label);
+    label();
+  }
+
   // tour calendar: type / country / month filters, kept in the URL (?k=&c=&m=) so a filtered list can be shared
   var calList = $('[data-cal-list]');
   if (calList) {
@@ -325,6 +387,7 @@
     calForm.hidden = false;
     var params = new URLSearchParams(location.search);
     sels.forEach(function (s) { var v = params.get(s.getAttribute('data-cal')); if (v && s.querySelector('option[value="' + v + '"]')) s.value = v; });
+    sels.forEach(csel);
     function val(name) { var s = $('[data-cal="' + name + '"]'); return s ? s.value : ''; }
     function runCal(push) {
       var k = val('k'), c = val('c'), m = val('m'), n = 0, any = !!(k || c || m);
@@ -348,7 +411,7 @@
       }
     }
     sels.forEach(function (s) { s.addEventListener('change', function () { runCal(true); }); });
-    reset.addEventListener('click', function () { sels.forEach(function (s) { s.value = ''; }); runCal(true); });
+    reset.addEventListener('click', function () { sels.forEach(function (s) { s.value = ''; s.dispatchEvent(new Event('change')); }); });
     calForm.addEventListener('submit', function (ev) { ev.preventDefault(); });
     runCal(false);
   }
