@@ -411,6 +411,18 @@ main{display:block}
 @media (prefers-reduced-motion:reduce){.socrow a{transition:none}.socrow a:hover{transform:none}}
 
 /* tour calendar */
+.calf{display:grid;grid-template-columns:1fr;gap:10px;margin:0 0 6px;padding:14px;border:1px solid var(--border);border-radius:16px;background:var(--card)}
+.calf[hidden]{display:none}
+.calsel{display:flex;flex-direction:column;gap:4px;font-size:13px;font-weight:600;color:var(--muted)}
+.calsel select{min-height:44px;padding:0 36px 0 12px;border:1px solid var(--border2);border-radius:12px;background:var(--bg);color:var(--fg);font:inherit;font-size:15px;font-weight:500;
+ appearance:none;-webkit-appearance:none;background-image:linear-gradient(45deg,transparent 50%,currentColor 50%),linear-gradient(135deg,currentColor 50%,transparent 50%);
+ background-position:calc(100% - 18px) 50%,calc(100% - 13px) 50%;background-size:5px 5px;background-repeat:no-repeat;cursor:pointer}
+.calsel select:focus-visible{outline:2px solid var(--brand);outline-offset:2px}
+.calf .btn{align-self:end;min-height:44px}
+.calcount{margin:8px 0 0;font-size:14px;font-weight:600;color:var(--muted)}
+.calcount:empty{display:none}
+[data-cal-empty]{display:none}
+@media (min-width:720px){.calf{grid-template-columns:repeat(3,minmax(0,1fr)) auto;align-items:end}}
 .calj{margin-top:-6px}
 .calj .chip{min-height:36px;font-size:13px}
 .calm{scroll-margin-top:80px;margin-top:24px}

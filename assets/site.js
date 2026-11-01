@@ -315,6 +315,44 @@
     });
   });
 
+  // tour calendar: type / country / month filters, kept in the URL (?k=&c=&m=) so a filtered list can be shared
+  var calList = $('[data-cal-list]');
+  if (calList) {
+    var now2 = new Date(), today2 = now2.getFullYear() + '-' + ('0' + (now2.getMonth() + 1)).slice(-2) + '-' + ('0' + now2.getDate()).slice(-2);
+    $$('[data-end]', calList).forEach(function (r) { if (r.getAttribute('data-end') < today2) r.remove(); });
+    var calForm = $('[data-calf]'), sels = $$('[data-cal]'), reset = $('[data-cal-reset]'),
+        countEl = $('[data-cal-count]'), emptyEl = $('[data-cal-empty]');
+    calForm.hidden = false;
+    var params = new URLSearchParams(location.search);
+    sels.forEach(function (s) { var v = params.get(s.getAttribute('data-cal')); if (v && s.querySelector('option[value="' + v + '"]')) s.value = v; });
+    function val(name) { var s = $('[data-cal="' + name + '"]'); return s ? s.value : ''; }
+    function runCal(push) {
+      var k = val('k'), c = val('c'), m = val('m'), n = 0, any = !!(k || c || m);
+      $$('[data-m]', calList).forEach(function (sec) {
+        var shown = 0;
+        $$('li[data-k]', sec).forEach(function (r) {
+          var ok = (!k || r.getAttribute('data-k') === k) && (!c || (' ' + r.getAttribute('data-c') + ' ').indexOf(' ' + c + ' ') > -1);
+          r.hidden = !ok; if (ok) shown++;
+        });
+        sec.hidden = !shown || (m && sec.getAttribute('data-m') !== m);
+        var cnt = sec.querySelector('h2 .c'); if (cnt) cnt.hidden = any;
+        if (!sec.hidden) n += shown;
+      });
+      countEl.textContent = any ? countEl.getAttribute('data-found').replace('{n}', n) : '';
+      emptyEl.style.display = n ? 'none' : 'block';
+      reset.hidden = !any;
+      if (push) {
+        var q = new URLSearchParams();
+        if (k) q.set('k', k); if (c) q.set('c', c); if (m) q.set('m', m);
+        try { history.replaceState(null, '', location.pathname + (q.toString() ? '?' + q : '')); } catch (e) {}
+      }
+    }
+    sels.forEach(function (s) { s.addEventListener('change', function () { runCal(true); }); });
+    reset.addEventListener('click', function () { sels.forEach(function (s) { s.value = ''; }); runCal(true); });
+    calForm.addEventListener('submit', function (ev) { ev.preventDefault(); });
+    runCal(false);
+  }
+
   // tour filters
   var grid = $('[data-filter-grid]');
   if (grid) {

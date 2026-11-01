@@ -8,8 +8,6 @@ URL: https://besttraveler.ge/en/tour-calendar/
 
 All upcoming tours by date. Pick a day, open the programme and book your seat on WhatsApp or by phone.
 
-[November 2026](#m-2026-11)[December 2026](#m-2026-12)[January 2027](#m-2027-01)[February 2027](#m-2027-02)[March 2027](#m-2027-03)[April 2027](#m-2027-04)[May 2027](#m-2027-05)[June 2027](#m-2027-06)[July 2027](#m-2027-07)[August 2027](#m-2027-08)[September 2027](#m-2027-09)[October 2027](#m-2027-10)
-
 ## November 2026 50 departures
 
 - [1–4 Sun Athens, Greece — Group Tour from Kutaisi, 1–4 November By plane · 4 days / 3 nights 1,200 GEL](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
@@ -576,4 +574,4 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [24 Sun Shida Kartli Tour: Skhvilo, Breti, Ruisi, Samtavisi, Urbnisi Day tour 60 GEL](https://besttraveler.ge/en/tours/samtavisi-ruisi-urbnisi-day-tour/)
 - [31 Sun Gudamakari Day Tour: Zanduki, Chokhi, Dumatskho, Didebaani Waterfall Day tour 70 GEL](https://besttraveler.ge/en/tours/gudamakari-gorge-day-tour/)
 
-Nothing found
+No tours match these filters. Change a filter or message us — we will help.
