@@ -229,18 +229,6 @@ URL: https://besttraveler.ge/ka/turebi/turketi-saberdzneti-14-dghiani-turi/
 
 [ყველა ტურის ნახვა](https://besttraveler.ge/ka/turebi/)
 
-ავიატური
-
-### [ათენი, საბერძნეთი — ჯგუფური ტური ქუთაისიდან, 1–4 ნოემბერი](https://besttraveler.ge/ka/turebi/ateni-saberdzneti-jgupuri-turi/)
-
-4 დღე / 3 ღამე1–4 ნოემბერი 2026
-
-4 დღე ათენში: აკროპოლისი, პლაკა, აგორა და დღე კუნძულ ეგინაზე. გაფრენა ქუთაისიდან.
-
-ერთ ადამიანზე1 200 ლარი
-
-ტურის ნახვა 
-
 ავტობუსით
 
 ### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/ka/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
@@ -262,5 +250,17 @@ URL: https://besttraveler.ge/ka/turebi/turketi-saberdzneti-14-dghiani-turi/
 6 დღე სტამბოლში: სასახლეები, მეჩეთები, ბოსფორის კრუიზი, პრინცების კუნძულები და ბაზრები.
 
 ერთ ადამიანზე3 600 ლარი
+
+ტურის ნახვა 
+
+ავტობუსით
+
+### [ყარსი, ანისი და ვანი — 3-დღიანი ტური თურქეთში](https://besttraveler.ge/ka/turebi/turketi-karsi-anisi-vani-turi/)
+
+3 დღე / 2 ღამე6–8 მარტი 2027
+
+ყარსი, ანისი, იშაკ ფაშას სასახლე, ვანის ციხე და ახთამარის კუნძული — 3 დღე მიკროავტობუსით.
+
+ერთ ადამიანზე450 ლარი
 
 ტურის ნახვა

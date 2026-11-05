@@ -125,7 +125,7 @@ URL: https://besttraveler.ge/ka/blogi/ra-ar-unda-dagavitsqdet-mogzaurobamde/
 
 ### [ათენი, საბერძნეთი — ჯგუფური ტური ქუთაისიდან, 1–4 ნოემბერი](https://besttraveler.ge/ka/turebi/ateni-saberdzneti-jgupuri-turi/)
 
-4 დღე / 3 ღამე1–4 ნოემბერი 2026
+4 დღე / 3 ღამესაბერძნეთი
 
 4 დღე ათენში: აკროპოლისი, პლაკა, აგორა და დღე კუნძულ ეგინაზე. გაფრენა ქუთაისიდან.
 

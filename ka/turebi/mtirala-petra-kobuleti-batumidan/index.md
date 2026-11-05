@@ -64,7 +64,7 @@ URL: https://besttraveler.ge/ka/turebi/mtirala-petra-kobuleti-batumidan/
 
 ### [განსხვავებული ვაშლოვანი: ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები](https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
 ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები, დალის წყალსაცავი და კლდეში ნაკვეთი მონასტერი.
 
@@ -74,11 +74,11 @@ URL: https://besttraveler.ge/ka/turebi/mtirala-petra-kobuleti-batumidan/
 
 ერთდღიანი
 
-### [მღვიმეების ტური: ნავენახევი, თეთრა, სათაფლია, პრომეთე](https://besttraveler.ge/ka/turebi/mghvimeebis-turi-prometes-mghvime-sataplia/)
+### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
-ოთხი სანახაობა ერთ დღეში: ნავენახევის მღვიმე, თეთრა მღვიმე, სათაფლიის ნაკრძალი და პრომეთეს მღვიმე.
+უჯარმის ციხე-ქალაქი, გომბორის უღელტეხილი, შუამთა, იყალთო, თეთრი გიორგი და ალავერდი.
 
 ერთ ადამიანზე60 ლარი
 
@@ -86,11 +86,11 @@ URL: https://besttraveler.ge/ka/turebi/mtirala-petra-kobuleti-batumidan/
 
 ერთდღიანი
 
-### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
+### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
-უჯარმის ციხე-ქალაქი, გომბორის უღელტეხილი, შუამთა, იყალთო, თეთრი გიორგი და ალავერდი.
+დოდოს რქა, დავით გარეჯის მონასტერი, ფერადი მთები და მრავალწყაროს წყალსაცავი.
 
 ერთ ადამიანზე60 ლარი
 

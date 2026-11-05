@@ -151,18 +151,6 @@ Dates on request
 
 [See all tours](https://besttraveler.ge/en/tours/)
 
-By plane
-
-### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
-
-4 days / 3 nights1–4 Nov 2026
-
-4 days in Athens: the Acropolis, Plaka, the Agora and a day on Aegina island. Flight from Kutaisi.
-
-per person1,200 GEL
-
-View tour 
-
 By bus
 
 ### [Turkey and Greece — 14-Day Tour by Bus](https://besttraveler.ge/en/tours/turkey-greece-14-day-tour/)
@@ -172,6 +160,18 @@ By bus
 Ankara, Pergamon, Izmir, Ephesus, the Aegean and Mediterranean coast, and the Greek islands of Chios and Rhodes.
 
 per person3,700 GEL
+
+View tour 
+
+By plane
+
+### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
+
+4 days / 3 nightsGreece
+
+4 days in Athens: the Acropolis, Plaka, the Agora and a day on Aegina island. Flight from Kutaisi.
+
+per person1,200 GEL
 
 View tour 
 

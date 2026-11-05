@@ -17,7 +17,7 @@ URL: https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/
 
 Длительность4 дня / 3 ночи
 
-Ближайший выезд1–4 ноября 2026
+ДатыПо запросу
 
 ВыездКутаиси (KUT)
 
@@ -97,7 +97,7 @@ URL: https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/
 
 **Когда выезд?**
 
-Ближайшие даты: 1–4 ноября 2026. Свободные места уточняйте по телефону или в WhatsApp.
+Даты и свободные места подскажем по телефону или в WhatsApp.
 
 **Что входит в цену?**
 
@@ -113,7 +113,7 @@ URL: https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/
 
 Даты
 
-- 1–4 ноября 2026
+Даты по запросу
 
 - Авиабилеты Кутаиси–Афины–Кутаиси
 - Ручная кладь 10 кг (40x30x20 см)

@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-tur
 
 ხანგრძლივობა1 დღე
 
-უახლოესი გასვლა1 ნოემბერი 2026 +15
+უახლოესი გასვლა8 ნოემბერი 2026 +14
 
 გასვლათბილისი, 07:00
 
@@ -59,7 +59,7 @@ URL: https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-tur
 
 **როდის არის გასვლა?**
 
-უახლოესი თარიღები: 1 ნოემბერი 2026, 8 ნოემბერი 2026, 21 ნოემბერი 2026, 11 აპრილი 2027, 25 აპრილი 2027, 1 მაისი 2027. თავისუფალი ადგილები დააზუსტეთ ტელეფონით ან WhatsApp-ით.
+უახლოესი თარიღები: 8 ნოემბერი 2026, 21 ნოემბერი 2026, 11 აპრილი 2027, 25 აპრილი 2027, 1 მაისი 2027, 15 მაისი 2027. თავისუფალი ადგილები დააზუსტეთ ტელეფონით ან WhatsApp-ით.
 
 **რა შედის ფასში?**
 
@@ -75,7 +75,6 @@ URL: https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-tur
 
 თარიღები
 
-- 1 ნოემბერი 2026
 - 8 ნოემბერი 2026
 - 21 ნოემბერი 2026
 - 11 აპრილი 2027
@@ -106,7 +105,7 @@ URL: https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-tur
 
 ### [განსხვავებული ვაშლოვანი: ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები](https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
 ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები, დალის წყალსაცავი და კლდეში ნაკვეთი მონასტერი.
 
@@ -116,11 +115,11 @@ URL: https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-tur
 
 ერთდღიანი
 
-### [მღვიმეების ტური: ნავენახევი, თეთრა, სათაფლია, პრომეთე](https://besttraveler.ge/ka/turebi/mghvimeebis-turi-prometes-mghvime-sataplia/)
+### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
-ოთხი სანახაობა ერთ დღეში: ნავენახევის მღვიმე, თეთრა მღვიმე, სათაფლიის ნაკრძალი და პრომეთეს მღვიმე.
+უჯარმის ციხე-ქალაქი, გომბორის უღელტეხილი, შუამთა, იყალთო, თეთრი გიორგი და ალავერდი.
 
 ერთ ადამიანზე60 ლარი
 
@@ -128,11 +127,11 @@ URL: https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-tur
 
 ერთდღიანი
 
-### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
+### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
-უჯარმის ციხე-ქალაქი, გომბორის უღელტეხილი, შუამთა, იყალთო, თეთრი გიორგი და ალავერდი.
+დოდოს რქა, დავით გარეჯის მონასტერი, ფერადი მთები და მრავალწყაროს წყალსაცავი.
 
 ერთ ადამიანზე60 ლარი
 

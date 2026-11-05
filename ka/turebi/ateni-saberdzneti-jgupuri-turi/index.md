@@ -17,7 +17,7 @@ URL: https://besttraveler.ge/ka/turebi/ateni-saberdzneti-jgupuri-turi/
 
 ხანგრძლივობა4 დღე / 3 ღამე
 
-უახლოესი გასვლა1–4 ნოემბერი 2026
+თარიღებიმოთხოვნით
 
 გასვლაქუთაისი (KUT)
 
@@ -97,7 +97,7 @@ URL: https://besttraveler.ge/ka/turebi/ateni-saberdzneti-jgupuri-turi/
 
 **როდის არის გასვლა?**
 
-უახლოესი თარიღები: 1–4 ნოემბერი 2026. თავისუფალი ადგილები დააზუსტეთ ტელეფონით ან WhatsApp-ით.
+თარიღებსა და თავისუფალ ადგილებს გეტყვით ტელეფონით ან WhatsApp-ით.
 
 **რა შედის ფასში?**
 
@@ -113,7 +113,7 @@ URL: https://besttraveler.ge/ka/turebi/ateni-saberdzneti-jgupuri-turi/
 
 თარიღები
 
-- 1–4 ნოემბერი 2026
+თარიღები — მოთხოვნით
 
 - ავიაბილეთები ქუთაისი–ათენი–ქუთაისი
 - ხელბარგი 10 კგ (40×30×20 სმ)

@@ -149,18 +149,6 @@ View tour
 
 By plane
 
-### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
-
-4 days / 3 nights1–4 Nov 2026
-
-4 days in Athens: the Acropolis, Plaka, the Agora and a day on Aegina island. Flight from Kutaisi.
-
-per person1,200 GEL
-
-View tour 
-
-By plane
-
 ### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
 
 5 days2–6 Nov 2026
@@ -168,5 +156,17 @@ By plane
 5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
 
 per person2,600 GEL
+
+View tour 
+
+By plane
+
+### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
+
+8 days8–15 Nov 2026
+
+8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
+
+per person4,500 GEL
 
 View tour

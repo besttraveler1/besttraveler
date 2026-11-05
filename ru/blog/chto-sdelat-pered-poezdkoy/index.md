@@ -125,7 +125,7 @@ URL: https://besttraveler.ge/ru/blog/chto-sdelat-pered-poezdkoy/
 
 ### [Афины, Греция — групповой тур из Кутаиси, 1–4 ноября](https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/)
 
-4 дня / 3 ночи1–4 ноября 2026
+4 дня / 3 ночиГреция
 
 4 дня в Афинах: Акрополь, Плака, Агора и день на острове Эгина. Вылет из Кутаиси.
 

@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/ru/tury/tur-v-peshchery-prometey-sataplia/
 
 Длительность1 день
 
-Ближайший выезд1 ноября 2026 +6
+Ближайший выезд30 мая 2027 +5
 
 ВыездТбилиси, 07:00
 
@@ -63,7 +63,7 @@ URL: https://besttraveler.ge/ru/tury/tur-v-peshchery-prometey-sataplia/
 
 **Когда выезд?**
 
-Ближайшие даты: 1 ноября 2026, 30 мая 2027, 13 июня 2027, 4 июля 2027, 8 августа 2027, 12 сентября 2027. Свободные места уточняйте по телефону или в WhatsApp.
+Ближайшие даты: 30 мая 2027, 13 июня 2027, 4 июля 2027, 8 августа 2027, 12 сентября 2027, 3 октября 2027. Свободные места уточняйте по телефону или в WhatsApp.
 
 **Что входит в цену?**
 
@@ -79,7 +79,6 @@ URL: https://besttraveler.ge/ru/tury/tur-v-peshchery-prometey-sataplia/
 
 Даты
 
-- 1 ноября 2026
 - 30 мая 2027
 - 13 июня 2027
 - 4 июля 2027
@@ -101,7 +100,7 @@ URL: https://besttraveler.ge/ru/tury/tur-v-peshchery-prometey-sataplia/
 
 ### [Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Грязевые вулканы Тахти-Тепа и Килакупра, водохранилище Дали и высеченный в скале монастырь.
 
@@ -113,7 +112,7 @@ URL: https://besttraveler.ge/ru/tury/tur-v-peshchery-prometey-sataplia/
 
 ### [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Город-крепость Уджарма, Гомборский перевал, Шуамта, Икалто, Тетри Гиорги и Алаверди.
 
@@ -125,7 +124,7 @@ URL: https://besttraveler.ge/ru/tury/tur-v-peshchery-prometey-sataplia/
 
 ### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Додос Рка, монастырь Давид Гареджи, цветные горы и водохранилище Мравалцкаро.
 

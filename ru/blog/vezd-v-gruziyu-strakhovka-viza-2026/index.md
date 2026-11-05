@@ -149,7 +149,7 @@ URL: https://besttraveler.ge/ru/blog/vezd-v-gruziyu-strakhovka-viza-2026/
 
 ### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
 
-1 день1 ноября 2026
+1 день8 ноября 2026
 
 Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
 
@@ -161,7 +161,7 @@ URL: https://besttraveler.ge/ru/blog/vezd-v-gruziyu-strakhovka-viza-2026/
 
 ### [Давид Гареджи: однодневный тур в пустыню Сабереби](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Высеченный в скале монастырский комплекс Сабереби в Гареджи, IX–X века.
 

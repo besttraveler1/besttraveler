@@ -186,18 +186,6 @@ Dates
 
 By plane
 
-### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
-
-4 days / 3 nights1–4 Nov 2026
-
-4 days in Athens: the Acropolis, Plaka, the Agora and a day on Aegina island. Flight from Kutaisi.
-
-per person1,200 GEL
-
-View tour 
-
-By plane
-
 ### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
 
 5 days2–6 Nov 2026
@@ -210,12 +198,24 @@ View tour
 
 By plane
 
-### [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
+### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
 
-8 days / 7 nights3–10 Nov 2026
+8 days8–15 Nov 2026
 
-8 days by car: Segovia, Salamanca, Porto, Coimbra, Sintra, Lisbon and Toledo.
+8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
 
 per person4,500 GEL
+
+View tour 
+
+By plane
+
+### [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
+
+7 days / 6 nights9–15 Nov 2026
+
+7 days in Hurghada: the Suez Canal and Port Said, Hula Hula island, Luxor and the monasteries.
+
+per person6,100 GEL
 
 View tour

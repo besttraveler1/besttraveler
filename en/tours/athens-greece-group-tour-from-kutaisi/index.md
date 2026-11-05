@@ -17,7 +17,7 @@ Photo: [George E. Koronaios](https://commons.wikimedia.org/w/index.php?curid=944
 
 Duration4 days / 3 nights
 
-Next departure1–4 Nov 2026
+DatesOn request
 
 DepartureKutaisi (KUT)
 
@@ -97,7 +97,7 @@ The tour costs 1,200 GEL per person.
 
 **When does the tour leave?**
 
-Next dates: 1–4 Nov 2026. Please check free places by phone or WhatsApp.
+We will tell you the dates and free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -113,7 +113,7 @@ Price: 1,200 GELper person:
 
 Dates
 
-- 1–4 Nov 2026
+Dates on request
 
 - Flights Kutaisi–Athens–Kutaisi
 - Hand luggage 10 kg (40x30x20 cm)

@@ -143,7 +143,7 @@ By plane
 
 ### [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia-tour/)
 
-10 daysSpain
+10 days7–14 Feb 2027
 
 A loop around Spain: from Catalonia via Toledo, Seville and Granada to Valencia, 10 days.
 

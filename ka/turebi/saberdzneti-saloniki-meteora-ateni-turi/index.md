@@ -151,18 +151,6 @@ URL: https://besttraveler.ge/ka/turebi/saberdzneti-saloniki-meteora-ateni-turi/
 
 [ყველა ტურის ნახვა](https://besttraveler.ge/ka/turebi/)
 
-ავიატური
-
-### [ათენი, საბერძნეთი — ჯგუფური ტური ქუთაისიდან, 1–4 ნოემბერი](https://besttraveler.ge/ka/turebi/ateni-saberdzneti-jgupuri-turi/)
-
-4 დღე / 3 ღამე1–4 ნოემბერი 2026
-
-4 დღე ათენში: აკროპოლისი, პლაკა, აგორა და დღე კუნძულ ეგინაზე. გაფრენა ქუთაისიდან.
-
-ერთ ადამიანზე1 200 ლარი
-
-ტურის ნახვა 
-
 ავტობუსით
 
 ### [თურქეთი და საბერძნეთი — 14-დღიანი ტური ავტობუსით](https://besttraveler.ge/ka/turebi/turketi-saberdzneti-14-dghiani-turi/)
@@ -172,6 +160,18 @@ URL: https://besttraveler.ge/ka/turebi/saberdzneti-saloniki-meteora-ateni-turi/
 ანკარა, პერგამონი, იზმირი, ეფესო, ეგეოსისა და ხმელთაშუა ზღვის სანაპირო და ბერძნული კუნძულები ქიოსი და როდოსი.
 
 ერთ ადამიანზე3 700 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [ათენი, საბერძნეთი — ჯგუფური ტური ქუთაისიდან, 1–4 ნოემბერი](https://besttraveler.ge/ka/turebi/ateni-saberdzneti-jgupuri-turi/)
+
+4 დღე / 3 ღამესაბერძნეთი
+
+4 დღე ათენში: აკროპოლისი, პლაკა, აგორა და დღე კუნძულ ეგინაზე. გაფრენა ქუთაისიდან.
+
+ერთ ადამიანზე1 200 ლარი
 
 ტურის ნახვა 
 

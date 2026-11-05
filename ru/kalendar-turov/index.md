@@ -8,29 +8,10 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 
 Все ближайшие туры по датам. Выберите день, откройте программу и забронируйте место в WhatsApp или по телефону.
 
-## Ноябрь 2026 50 выездов
+## Ноябрь 2026 31 выезд
 
-- [Афины, Греция — групповой тур из Кутаиси, 1–4 ноября 1–4 ноября, воскресенье Авиатур 4 дня / 3 ночи 1 200 лари](https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/)
-- [Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра 1 ноября, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
-- [Однодневный тур в Гудамакари: Зандуки, Чохи, Думацхо, водопад Дидебаани 1 ноября, воскресенье Однодневный 70 лари](https://besttraveler.ge/ru/tury/gudamakari-odnodnevnyy-tur/)
-- [Давид Гареджи: однодневный тур в пустыню Сабереби 1 ноября, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
-- [Однодневный тур в Тианети: Мамкода, Цхваричамия, Эрцо, озеро Сиони 1 ноября, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/tianeti-odnodnevnyy-tur/)
-- [Тур в Трусовское ущелье: травертины, «бездонное» озеро, Закагори 1 ноября, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/trusovskoe-ushchele-tur/)
-- [Тур по Кахетии: Некреси, озеро Ильи, Греми, Телави 1 ноября, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-nekresi-gremi-telavi-tur/)
-- [Тур по Кахетии: Чаилури, Гурджаанская Квелацминда, Зегаани, Санагире 1 ноября, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-gurdzhaani-zegaani-tur/)
-- [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе 1 ноября, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
-- [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди 1 ноября, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
-- [Тур по пещерам: Навенахеви, Тетра, Сатаплиа, Прометей 1 ноября, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/tur-v-peshchery-prometey-sataplia/)
-- [Однодневный тур Ркони – Кватахеви: Кватахеви, Эртацминда, Ркони, Икви 1 ноября, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/rkoni-kvatakhevi-odnodnevnyy-tur/)
-- [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара 1 ноября, воскресенье Однодневный 65 лари](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
-- [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро 1 ноября, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
-- [Однодневный тур по Квемо Картли: Церакви, крепость Гаги, озёра Тамариси 1 ноября, воскресенье Однодневный 65 лари](https://besttraveler.ge/ru/tury/kvemo-kartli-odnodnevnyy-tur/)
-- [Тур по Шида Картли: крепость Гори, Горисджвари, Уплисцихе, Атенский Сиони 1 ноября, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/gori-uplistsikhe-ateni-tur/)
-- [Однодневный тур в ущелье Дзама: Самцевриси, озеро Батети, Шуано 1 ноября, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/ushchele-dzama-odnodnevnyy-tur/)
-- [Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка 1 ноября, воскресенье Однодневный 65 лари](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
 - [Бари и Апулия, Италия — новогодний групповой тур через Ереван 2–6 ноября, понедельник Авиатур 5 дней 2 600 лари](https://besttraveler.ge/ru/tury/italiya-bari-apuliya-novogodniy-tur/)
 - [Каппадокия, Амасья и Орду: автобусный тур на 6 дней 2–7 ноября, понедельник На автобусе 6 дней 1 450 лари](https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/)
-- [Испания и Португалия на машине — групповой тур, 3–10 ноября 3–10 ноября, вторник Авиатур 8 дней / 7 ночей 4 500 лари](https://besttraveler.ge/ru/tury/ispaniya-portugaliya-tur-na-mashine/)
 - [Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра 7 ноября, суббота Однодневный 60 лари](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
 - [Однодневный тур в Гудамакари: Зандуки, Чохи, Думацхо, водопад Дидебаани 7 ноября, суббота Однодневный 70 лари](https://besttraveler.ge/ru/tury/gudamakari-odnodnevnyy-tur/)
 - [Давид Гареджи: однодневный тур в пустыню Сабереби 7 ноября, суббота Однодневный 60 лари](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
@@ -100,11 +81,12 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна 24–31 января, воскресенье Авиатур 8 дней 4 500 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
 - [Юг Испании и Гибралтар — групповой тур, 27 января – 3 февраля 27 января – 3 февраля, среда Авиатур 8 дней / 7 ночей 4 800 лари](https://besttraveler.ge/ru/tury/yug-ispanii-gibraltar-tur/)
 
-## Февраль 2027 10 выездов
+## Февраль 2027 11 выездов
 
 - [Групповой тур в Марокко с остановкой в Риме 5–14 февраля, пятница Авиатур 10 дней / 9 ночей 2 200 евро](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
 - [Круиз по озеру Насер, Каир и Луксор — групповой тур 5–15 февраля, пятница Авиатур 11 дней 6 650 лари](https://besttraveler.ge/ru/tury/egipet-kruiz-po-ozeru-naser/)
 - [Карнавал в Венеции 2027 — тур на 4 дня 6–9 февраля, суббота Авиатур 4 дня 1 500 лари](https://besttraveler.ge/ru/tury/venetsianskiy-karnaval-tur/)
+- [Тур по Испании: Барселона, Толедо, Андалусия, Валенсия — 10 дней 7–14 февраля, воскресенье Авиатур 10 дней 4 500 лари](https://besttraveler.ge/ru/tury/ispaniya-barselona-andalusiya-valensiya-tur/)
 - [Круиз по Нилу: Каир, Луксор, Асуан, Абу-Симбел и Александрия 7–15 февраля, воскресенье Авиатур 9 дней 6 550 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-kair-luksor-aleksandriya/)
 - [Египет и Иордания: Шарм-эль-Шейх и Петра, 8 дней 14–21 февраля, воскресенье Авиатур 8 дней 3 700 лари](https://besttraveler.ge/ru/tury/egipet-iordaniya-sharm-el-sheykh-petra/)
 - [Хургада, Луксор, Порт-Саид и Суэцкий канал — 7 дней 15–21 февраля, понедельник Авиатур 7 дней / 6 ночей 6 100 лари](https://besttraveler.ge/ru/tury/egipet-khurgada-luksor-suetskiy-kanal/)
@@ -113,15 +95,17 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка 20 февраля, суббота Однодневный 65 лари](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
 - [Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна 21–28 февраля, воскресенье Авиатур 8 дней 4 500 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
 
-## Март 2027 24 выезда
+## Март 2027 26 выездов
 
 - [Индия: групповой тур по Раджастхану — Дели, Джайсалмер, Удайпур 1–9 марта, понедельник Авиатур 9 дней / 8 ночей 4 800 лари](https://besttraveler.ge/ru/tury/indiya-radzhastkhan-gruppovoy-tur/)
 - [Бургундия и Франш-Конте: Клюни, Дижон и Бон 2–9 марта, вторник Авиатур 8 дней / 7 ночей 4 500 лари](https://besttraveler.ge/ru/tury/burgundiya-fransh-konte-tur/)
+- [Испания и Португалия на машине — групповой тур, 2–9 марта 2–9 марта, вторник Авиатур 8 дней / 7 ночей 4 500 лари](https://besttraveler.ge/ru/tury/ispaniya-portugaliya-tur-na-mashine/)
 - [Париж, Франция — групповой тур на 5 дней 2–6 марта, вторник Авиатур 5 дней 2 500 лари](https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/)
 - [Стамбул — тур на 6 дней с вылетом из Тбилиси или Батуми 3–8 марта, среда Авиатур 6 дней 3 600 лари](https://besttraveler.ge/ru/tury/stambul-tur-iz-tbilisi/)
 - [Круиз по озеру Насер, Каир и Луксор — групповой тур 5–15 марта, пятница Авиатур 11 дней 6 650 лари](https://besttraveler.ge/ru/tury/egipet-kruiz-po-ozeru-naser/)
 - [Карс, Ани и Ван — тур по Турции на 3 дня 6–8 марта, суббота На автобусе 3 дня / 2 ночи 450 лари](https://besttraveler.ge/ru/tury/turtsiya-kars-ani-van-tur/)
 - [Круиз по Нилу: Каир, Луксор, Асуан, Абу-Симбел и Александрия 7–15 марта, воскресенье Авиатур 9 дней 6 550 лари](https://besttraveler.ge/ru/tury/kruiz-po-nilu-kair-luksor-aleksandriya/)
+- [Тур по Северной Испании: Страна Басков, Астурия, Галисия — 9–16 марта 9–16 марта, вторник Авиатур 8 дней / 7 ночей 4 500 лари](https://besttraveler.ge/ru/tury/tur-severnaya-ispaniya-baskoniya-galisiya/)
 - [Давид Гареджи: однодневный тур в пустыню Сабереби 13 марта, суббота Однодневный 60 лари](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
 - [Ван и Мардин — тур по Восточной Турции на 7 дней 13–19 марта, суббота На автобусе 7 дней / 6 ночей 1 450 лари](https://besttraveler.ge/ru/tury/vostochnaya-turtsiya-van-mardin-tur/)
 - [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро 13 марта, суббота Однодневный 60 лари](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
@@ -290,7 +274,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [Тур по пещерам: Навенахеви, Тетра, Сатаплиа, Прометей 30 мая, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/tur-v-peshchery-prometey-sataplia/)
 - [Однодневный тур в ущелье Дзама: Самцевриси, озеро Батети, Шуано 30 мая, воскресенье Однодневный 60 лари](https://besttraveler.ge/ru/tury/ushchele-dzama-odnodnevnyy-tur/)
 
-## Июнь 2027 66 выездов
+## Июнь 2027 67 выездов
 
 - [Стамбул — тур на 6 дней с вылетом из Тбилиси или Батуми 3–8 июня, четверг Авиатур 6 дней 3 600 лари](https://besttraveler.ge/ru/tury/stambul-tur-iz-tbilisi/)
 - [Армения за 3 дня: Дилижан, Джермук, Татев, Нораванк, Севан 4–6 июня, пятница На автобусе 3 дня / 2 ночи 480 лари](https://besttraveler.ge/ru/tury/armeniya-tatev-dzhermuk-noravank-tur/)
@@ -302,6 +286,7 @@ URL: https://besttraveler.ge/ru/kalendar-turov/
 - [Париж, Франция — групповой тур на 5 дней 7–11 июня, понедельник Авиатур 5 дней 2 500 лари](https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/)
 - [Франция, Германия и Швейцария: Эльзас, Шварцвальд и Базель 7–14 июня, понедельник Авиатур 8 дней / 7 ночей 4 500 лари](https://besttraveler.ge/ru/tury/frantsiya-germaniya-shveytsariya-tur/)
 - [Франция, Италия, Монако: Прованс, Альпы и Лазурный берег 7–14 июня, понедельник Авиатур 8 дней 4 500 лари](https://besttraveler.ge/ru/tury/provans-monako-lazurnyy-bereg-tur/)
+- [Майорка, Балеарские острова — групповой тур в Испанию, 8–15 июня 8–15 июня, вторник Авиатур 8 дней / 7 ночей 4 700 лари](https://besttraveler.ge/ru/tury/tur-na-mayorku-balearskie-ostrova/)
 - [Ереван за 3 дня: Севан, Гарни, Гегард, Эчмиадзин 11–13 июня, пятница На автобусе 3 дня / 2 ночи 450 лари](https://besttraveler.ge/ru/tury/erevan-garni-gegard-tur/)
 - [Трёхдневный тур в Сванетию: Ингури ГЭС, Местиа, озёра Корулди, Ушгули 11–13 июня, пятница На автобусе 3 дня / 2 ночи 410 лари](https://besttraveler.ge/ru/tury/svanetiya-mestia-ushguli-tur/)
 - [Тур в Тао-Кларджети: Тбети, Артануджи, Ошки, Пархали, Бана 11–13 июня, пятница На автобусе 3 дня 480 лари](https://besttraveler.ge/ru/tury/tao-klardzheti-tur/)

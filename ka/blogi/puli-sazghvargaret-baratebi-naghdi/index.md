@@ -131,9 +131,9 @@ URL: https://besttraveler.ge/ka/blogi/puli-sazghvargaret-baratebi-naghdi/
 
 ავიატური
 
-### [ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 3–10 ნოემბერი](https://besttraveler.ge/ka/turebi/espaneti-portugalia-mankanit-turi/)
+### [ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 2–9 მარტი](https://besttraveler.ge/ka/turebi/espaneti-portugalia-mankanit-turi/)
 
-8 დღე / 7 ღამე3–10 ნოემბერი 2026
+8 დღე / 7 ღამე2–9 მარტი 2027
 
 8 დღე მანქანით: სეგოვია, სალამანკა, პორტო, კოიმბრა, სინტრა, ლისაბონი და ტოლედო.
 

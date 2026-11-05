@@ -10,11 +10,23 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ## ტურები 2027 წლის აპრილში
 
+ავტობუსით
+
+### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/ka/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
+
+6 დღე2–7 ნოემბერი 2026
+
+ამასია, კაპადოკია, კაისერი, ორდუ და ტრაპიზონი ავტობუსით — ღამით მგზავრობის გარეშე.
+
+ერთ ადამიანზე1 450 ლარი
+
+ტურის ნახვა 
+
 ერთდღიანი
 
 ### [განსხვავებული ვაშლოვანი: ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები](https://besttraveler.ge/ka/turebi/vashlovani-talakhis-vulkanebi-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
 ტახტი-თეფას და ქილაკუპრას ტალახის ვულკანები, დალის წყალსაცავი და კლდეში ნაკვეთი მონასტერი.
 
@@ -26,7 +38,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [კლასიკური კახეთი: უჯარმა, გომბორი, შუამთა, იყალთო, ალავერდი](https://besttraveler.ge/ka/turebi/kakheti-alaverdi-ikalto-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
 უჯარმის ციხე-ქალაქი, გომბორის უღელტეხილი, შუამთა, იყალთო, თეთრი გიორგი და ალავერდი.
 
@@ -38,7 +50,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
 დოდოს რქა, დავით გარეჯის მონასტერი, ფერადი მთები და მრავალწყაროს წყალსაცავი.
 
@@ -50,7 +62,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
 გარეჯის საბერეების კლდეში ნაკვეთი სამონასტრო კომპლექსი, IX–X საუკუნეები.
 
@@ -62,7 +74,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
 ფარავნისა და საღამოს ტბები, ფოკას მონასტრები, გორელოვკა და მადათაფას აღკვეთილი.
 
@@ -74,7 +86,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [კახეთის ტური: ჩაილური, გურჯაანის ყველაწმინდა, ზეგაანი, სანაგირე](https://besttraveler.ge/ka/turebi/kakheti-gurjaani-zegaani-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
 ჩაილურის ციხე, გურჯაანის ყველაწმინდა, ნატო ვაჩნაძის მუზეუმი, ზიარის ტბა, ზეგაანი და სანაგირე.
 
@@ -86,7 +98,7 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ### [კახეთის ტური: ნეკრესი, ილიას ტბა, გრემი, თელავი](https://besttraveler.ge/ka/turebi/kakheti-nekresi-gremi-telavi-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
 ნეკრესის სამონასტრო კომპლექსი, ილიას ტბა, გრემი და თელავის „ბატონის ციხე“ ერთ დღეში.
 
@@ -96,73 +108,13 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ერთდღიანი
 
-### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
-
-1 დღე1 ნოემბერი 2026
-
-ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
-
-ერთ ადამიანზე60 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
 ### [ქვემო ქართლის ერთდღიანი ტური: წერაქვი, გაგის ციხე, თამარისის ტბები](https://besttraveler.ge/ka/turebi/kvemo-kartli-ertdghiani-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
 წერაქვი, გაგის ციხე-სიმაგრე, თამარისის ტბები და შავნაბადის მონასტერი ერთ დღეში.
 
 ერთ ადამიანზე65 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/)
-
-1 დღე1 ნოემბერი 2026
-
-ზარზმა, ჭულეს მონასტერი და ჩანჩქერი, ახალციხის რაბათი და საფარა, გიდთან ერთად.
-
-ერთ ადამიანზე65 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [შიდა ქართლის ტური: გორის ციხე, გორიჯვარი, უფლისციხე, ატენის სიონი](https://besttraveler.ge/ka/turebi/gori-uplistsikhe-ateni-turi/)
-
-1 დღე1 ნოემბერი 2026
-
-გორის ციხე, გორიჯვრის წმ. გიორგი, უფლისციხე, ატენის ეკლესიები და წეროსხევი — ფიქსირებულ თარიღებზე.
-
-ერთ ადამიანზე60 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [თიანეთის ერთდღიანი ტური: მამკოდა, ცხვარიჭამია, ერწო, სიონის ტბა](https://besttraveler.ge/ka/turebi/tianeti-ertdghiani-turi/)
-
-1 დღე1 ნოემბერი 2026
-
-მამკოდის მონასტერი, დათვების თავშესაფარი, ცხვარიჭამია, ქორ-შევარდენის კოშკი და სიონის ტბა.
-
-ერთ ადამიანზე60 ლარი
-
-ტურის ნახვა 
-
-ავტობუსით
-
-### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/ka/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
-
-6 დღე2–7 ნოემბერი 2026
-
-ამასია, კაპადოკია, კაისერი, ორდუ და ტრაპიზონი ავტობუსით — ღამით მგზავრობის გარეშე.
-
-ერთ ადამიანზე1 450 ლარი
 
 ტურის ნახვა 
 
@@ -180,11 +132,47 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ერთდღიანი
 
+### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
+
+1 დღე8 ნოემბერი 2026
+
+ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
+
+ერთ ადამიანზე60 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
 ### [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/kojori-manglisi-ertdghiani-turi/)
 
 1 დღე8 ნოემბერი 2026
 
 ქოროღლის ციხე, უძოს მონასტერი, მანგლისის სიონი, ბურატინოს ტბა და დიდგორის მემორიალი.
+
+ერთ ადამიანზე60 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
+### [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/)
+
+1 დღე8 ნოემბერი 2026
+
+ზარზმა, ჭულეს მონასტერი და ჩანჩქერი, ახალციხის რაბათი და საფარა, გიდთან ერთად.
+
+ერთ ადამიანზე65 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
+### [თიანეთის ერთდღიანი ტური: მამკოდა, ცხვარიჭამია, ერწო, სიონის ტბა](https://besttraveler.ge/ka/turebi/tianeti-ertdghiani-turi/)
+
+1 დღე8 ნოემბერი 2026
+
+მამკოდის მონასტერი, დათვების თავშესაფარი, ცხვარიჭამია, ქორ-შევარდენის კოშკი და სიონის ტბა.
 
 ერთ ადამიანზე60 ლარი
 
@@ -211,6 +199,18 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 5 დღე პარიზში: ვერსალი, ლუვრი, მონმარტრი, შანზ-ელიზე და ნოტრ-დამი.
 
 ერთ ადამიანზე2 500 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
+### [შიდა ქართლის ტური: გორის ციხე, გორიჯვარი, უფლისციხე, ატენის სიონი](https://besttraveler.ge/ka/turebi/gori-uplistsikhe-ateni-turi/)
+
+1 დღე21 ნოემბერი 2026
+
+გორის ციხე, გორიჯვრის წმ. გიორგი, უფლისციხე, ატენის ეკლესიები და წეროსხევი — ფიქსირებულ თარიღებზე.
+
+ერთ ადამიანზე60 ლარი
 
 ტურის ნახვა 
 
@@ -456,4 +456,4 @@ URL: https://besttraveler.ge/ka/turebi/aprili-2027/
 
 ## ტურები თვეების მიხედვით
 
-[ნოემბერში 2026 31](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 10](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 22](https://besttraveler.ge/ka/turebi/marti-2027/)[მაისში 2027 55](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 47](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 33](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 28](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 12](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
+[ნოემბერში 2026 26](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 11](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 24](https://besttraveler.ge/ka/turebi/marti-2027/)[მაისში 2027 55](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 48](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 33](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 28](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 12](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)

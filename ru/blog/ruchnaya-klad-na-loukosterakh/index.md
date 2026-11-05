@@ -134,7 +134,7 @@ URL: https://besttraveler.ge/ru/blog/ruchnaya-klad-na-loukosterakh/
 
 ### [Тур по Испании: Барселона, Толедо, Андалусия, Валенсия — 10 дней](https://besttraveler.ge/ru/tury/ispaniya-barselona-andalusiya-valensiya-tur/)
 
-10 днейИспания
+10 дней7–14 февраля 2027
 
 Круг по Испании: из Каталонии через Толедо, Севилью и Гранаду в Валенсию, 10 дней.
 

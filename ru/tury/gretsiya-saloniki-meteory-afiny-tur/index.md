@@ -151,18 +151,6 @@ URL: https://besttraveler.ge/ru/tury/gretsiya-saloniki-meteory-afiny-tur/
 
 [Смотреть все туры](https://besttraveler.ge/ru/tury/)
 
-Авиатур
-
-### [Афины, Греция — групповой тур из Кутаиси, 1–4 ноября](https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/)
-
-4 дня / 3 ночи1–4 ноября 2026
-
-4 дня в Афинах: Акрополь, Плака, Агора и день на острове Эгина. Вылет из Кутаиси.
-
-за человека1 200 лари
-
-Смотреть тур 
-
 На автобусе
 
 ### [Турция и Греция — автобусный тур на 14 дней](https://besttraveler.ge/ru/tury/turtsiya-gretsiya-tur-14-dney/)
@@ -172,6 +160,18 @@ URL: https://besttraveler.ge/ru/tury/gretsiya-saloniki-meteory-afiny-tur/
 Анкара, Пергам, Измир, Эфес, побережье Эгейского и Средиземного морей и греческие острова Хиос и Родос.
 
 за человека3 700 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Афины, Греция — групповой тур из Кутаиси, 1–4 ноября](https://besttraveler.ge/ru/tury/afiny-gretsiya-gruppovoy-tur/)
+
+4 дня / 3 ночиГреция
+
+4 дня в Афинах: Акрополь, Плака, Агора и день на острове Эгина. Вылет из Кутаиси.
+
+за человека1 200 лари
 
 Смотреть тур 
 

@@ -4,7 +4,7 @@
 
 URL: https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/
 
-# Spain and Portugal by Car — Group Tour, 3–10 November
+# Spain and Portugal by Car — Group Tour, 2–9 March
 
 A group tour of Spain and Portugal, travelling by car the whole way. The tour starts and ends in Madrid.
 
@@ -26,7 +26,7 @@ Photo: [Terry Kearney from liverpool, merseyside](https://commons.wikimedia.org/
 
 Duration8 days / 7 nights
 
-Next departure3–10 Nov 2026
+Next departure2–9 Mar 2027
 
 DepartureKutaisi (KUT)
 
@@ -139,13 +139,13 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 ## Frequently asked questions
 
-**How much does the “Spain and Portugal by Car — Group Tour, 3–10 November” tour cost?**
+**How much does the “Spain and Portugal by Car — Group Tour, 2–9 March” tour cost?**
 
-The tour costs 4,500 GEL per person.
+The tour costs 4,500 GEL per person. The deposit to book is 1,000 GEL.
 
 **When does the tour leave?**
 
-Next dates: 3–10 Nov 2026. Please check free places by phone or WhatsApp.
+Next dates: 2–9 Mar 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -157,18 +157,20 @@ Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and pr
 
 Price: 4,500 GELper person: 
 
+Deposit to book: 1,000 GEL
+
 ## Dates
 
 Dates
 
-- 3–10 Nov 2026
+- 2–9 Mar 2027
 
 - Flights Kutaisi–Madrid–Kutaisi
 - Hand luggage 10 kg (40x30x20 cm)
 - Travel by car for the whole tour
 - Hotels with breakfast
 
-[Book a place](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour%3A%20Spain%20and%20Portugal%20by%20Car%20%E2%80%94%20Group%20Tour%2C%203%E2%80%9310%20November)[579 57 56 36](tel:+995579575636)[Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
+[Book a place](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour%3A%20Spain%20and%20Portugal%20by%20Car%20%E2%80%94%20Group%20Tour%2C%202%E2%80%939%20March)[579 57 56 36](tel:+995579575636)[Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
 ## Similar tours
 
@@ -188,23 +190,23 @@ View tour
 
 By plane
 
-### [Spain, France and Andorra — 10-Day Tour from Barcelona](https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/)
+### [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia-tour/)
 
-10 days28 Mar – 4 Apr 2027
+10 days7–14 Feb 2027
 
-Catalonia, Andorra and southern France, ending with three days in Barcelona — 10 days.
+A loop around Spain: from Catalonia via Toledo, Seville and Granada to Valencia, 10 days.
 
-per person4,700 GEL
+per person4,500 GEL
 
 View tour 
 
 By plane
 
-### [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia-tour/)
+### [Northern Spain Tour: Basque Country, Asturias, Galicia — 9–16 March](https://besttraveler.ge/en/tours/northern-spain-tour-basque-country-galicia/)
 
-10 daysSpain
+8 days / 7 nights9–16 Mar 2027
 
-A loop around Spain: from Catalonia via Toledo, Seville and Granada to Valencia, 10 days.
+North from Madrid: the Basque Country, Cantabria, Asturias and Galicia, Santiago de Compostela and the Alcázar of Segovia.
 
 per person4,500 GEL
 

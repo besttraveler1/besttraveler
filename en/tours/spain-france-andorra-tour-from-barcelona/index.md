@@ -208,18 +208,6 @@ Dates
 
 By plane
 
-### [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
-
-8 days / 7 nights3–10 Nov 2026
-
-8 days by car: Segovia, Salamanca, Porto, Coimbra, Sintra, Lisbon and Toledo.
-
-per person4,500 GEL
-
-View tour 
-
-By plane
-
 ### [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 
 5 days10–14 Nov 2026
@@ -239,5 +227,17 @@ By plane
 8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar and Paris.
 
 per person4,200 GEL
+
+View tour 
+
+By plane
+
+### [Southern Spain and Gibraltar — Group Tour, 27 January – 3 February](https://besttraveler.ge/en/tours/southern-spain-andalusia-gibraltar-tour/)
+
+8 days / 7 nights27 Jan – 3 Feb 2027
+
+8 days in Andalusia: Gibraltar, white villages, Ronda, Seville, Córdoba and the Alhambra.
+
+per person4,800 GEL
 
 View tour

@@ -8,24 +8,12 @@ URL: https://besttraveler.ge/en/destinations/spain/
 
 Group tours to Spain: Barcelona, Andalusia, the Madrid region, and trips that add Portugal or Andorra.
 
-- 4 tours
+- 6 tours
 - from 4500 ₾
 - 8–10 days
-- Next: 3–10 Nov 2026
+- Next: 27 Jan – 3 Feb 2027
 
 ## Tours to Spain
-
-By plane
-
-### [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
-
-8 days / 7 nights3–10 Nov 2026
-
-8 days by car: Segovia, Salamanca, Porto, Coimbra, Sintra, Lisbon and Toledo.
-
-per person4,500 GEL
-
-View tour 
 
 By plane
 
@@ -36,6 +24,42 @@ By plane
 8 days in Andalusia: Gibraltar, white villages, Ronda, Seville, Córdoba and the Alhambra.
 
 per person4,800 GEL
+
+View tour 
+
+By plane
+
+### [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia-tour/)
+
+10 days7–14 Feb 2027
+
+A loop around Spain: from Catalonia via Toledo, Seville and Granada to Valencia, 10 days.
+
+per person4,500 GEL
+
+View tour 
+
+By plane
+
+### [Spain and Portugal by Car — Group Tour, 2–9 March](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
+
+8 days / 7 nights2–9 Mar 2027
+
+8 days by car: Segovia, Salamanca, Porto, Coimbra, Sintra, Lisbon and Toledo.
+
+per person4,500 GEL
+
+View tour 
+
+By plane
+
+### [Northern Spain Tour: Basque Country, Asturias, Galicia — 9–16 March](https://besttraveler.ge/en/tours/northern-spain-tour-basque-country-galicia/)
+
+8 days / 7 nights9–16 Mar 2027
+
+North from Madrid: the Basque Country, Cantabria, Asturias and Galicia, Santiago de Compostela and the Alcázar of Segovia.
+
+per person4,500 GEL
 
 View tour 
 
@@ -53,13 +77,13 @@ View tour
 
 By plane
 
-### [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia-tour/)
+### [Mallorca, Balearic Islands — Spain Group Tour, 8–15 June](https://besttraveler.ge/en/tours/mallorca-balearic-islands-group-tour/)
 
-10 daysSpain
+8 days / 7 nights8–15 Jun 2027
 
-A loop around Spain: from Catalonia via Toledo, Seville and Granada to Valencia, 10 days.
+Mallorca: Palma, the mountain villages of Valldemossa and Deià, the old Sóller train, turquoise coves and Barcelona.
 
-per person4,500 GEL
+per person4,700 GEL
 
 View tour 
 

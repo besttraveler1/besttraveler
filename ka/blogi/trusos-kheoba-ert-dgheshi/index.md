@@ -94,7 +94,7 @@ URL: https://besttraveler.ge/ka/blogi/trusos-kheoba-ert-dgheshi/
 
 ### [თრუსოს ხეობის ტური: ტრავერტინები, უძირო ტბა, ზაქაგორი](https://besttraveler.ge/ka/turebi/trusos-kheoba-ertdghiani-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე13 ივნისი 2027
 
 თრუსოს ხეობა: ფერადი ტრავერტინები, „უძირო“ ტბა, აბანოს მონასტერი და ზაქაგორის ციხე.
 

@@ -94,7 +94,7 @@ Day tour
 
 ### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
 
-1 day1 Nov 2026
+1 day13 Jun 2027
 
 Truso Gorge: colorful travertines, the 'bottomless' lake, Abano convent and Zakagori fortress.
 

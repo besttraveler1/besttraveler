@@ -126,6 +126,7 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 ## Good to know
 
 - Documents: International passport valid for at least 6 months
+- Places are limited.
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
@@ -170,9 +171,21 @@ Dates
 
 By plane
 
-### [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
+### [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia-tour/)
 
-8 days / 7 nights3–10 Nov 2026
+10 days7–14 Feb 2027
+
+A loop around Spain: from Catalonia via Toledo, Seville and Granada to Valencia, 10 days.
+
+per person4,500 GEL
+
+View tour 
+
+By plane
+
+### [Spain and Portugal by Car — Group Tour, 2–9 March](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
+
+8 days / 7 nights2–9 Mar 2027
 
 8 days by car: Segovia, Salamanca, Porto, Coimbra, Sintra, Lisbon and Toledo.
 
@@ -182,23 +195,11 @@ View tour
 
 By plane
 
-### [Spain, France and Andorra — 10-Day Tour from Barcelona](https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/)
+### [Northern Spain Tour: Basque Country, Asturias, Galicia — 9–16 March](https://besttraveler.ge/en/tours/northern-spain-tour-basque-country-galicia/)
 
-10 days28 Mar – 4 Apr 2027
+8 days / 7 nights9–16 Mar 2027
 
-Catalonia, Andorra and southern France, ending with three days in Barcelona — 10 days.
-
-per person4,700 GEL
-
-View tour 
-
-By plane
-
-### [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia-tour/)
-
-10 daysSpain
-
-A loop around Spain: from Catalonia via Toledo, Seville and Granada to Valencia, 10 days.
+North from Madrid: the Basque Country, Cantabria, Asturias and Galicia, Santiago de Compostela and the Alcázar of Segovia.
 
 per person4,500 GEL
 

@@ -115,7 +115,7 @@ Day tour
 
 ### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-1 day1 Nov 2026
+1 day8 Nov 2026
 
 Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
@@ -127,7 +127,7 @@ Day tour
 
 ### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
 
@@ -139,7 +139,7 @@ Day tour
 
 ### [Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Nekresi monastery complex, Ilia Lake, Gremi and Batonis Tsikhe in Telavi in one day.
 
@@ -151,7 +151,7 @@ Day tour
 
 ### [Kakheti Day Tour: Chailuri, Gurjaani Kvelatsminda, Zegaani, Sanagire](https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani-day-trip/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Chailuri Fortress, Gurjaani Kvelatsminda, Nato Vachnadze museum, Ziari Lake, Zegaani and Sanagire.
 
@@ -163,7 +163,7 @@ Day tour
 
 ### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
 

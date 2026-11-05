@@ -100,7 +100,7 @@ By plane
 
 ### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
 
-4 days / 3 nights1–4 Nov 2026
+4 days / 3 nightsGreece
 
 4 days in Athens: the Acropolis, Plaka, the Agora and a day on Aegina island. Flight from Kutaisi.
 

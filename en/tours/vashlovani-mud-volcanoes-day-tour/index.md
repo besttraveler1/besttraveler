@@ -18,7 +18,7 @@ Photo: [Paata vardanashvili](https://commons.wikimedia.org/wiki/File:Takhti_tefa
 
 Duration1 day
 
-Next departure1 Nov 2026 +11
+Next departure7 Nov 2026 +10
 
 DepartureTbilisi, 07:00
 
@@ -63,7 +63,7 @@ The tour costs 60 GEL per person.
 
 **When does the tour leave?**
 
-Next dates: 1 Nov 2026, 7 Nov 2026, 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027. Please check free places by phone or WhatsApp.
+Next dates: 7 Nov 2026, 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027, 17 Sep 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -79,7 +79,6 @@ Price: 60 GELper person:
 
 Dates
 
-- 1 Nov 2026
 - 7 Nov 2026
 - 18 Apr 2027
 - 24 Apr 2027
@@ -104,21 +103,9 @@ Dates
 
 Day tour
 
-### [Caves Day Tour: Navenakhevi, Tetra, Sataplia, Prometheus](https://besttraveler.ge/en/tours/caves-tour-prometheus-sataplia-from-tbilisi/)
-
-1 day1 Nov 2026
-
-Four sights in one day: Navenakhevi Cave, Tetra Cave, Sataplia Nature Reserve and Prometheus Cave.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
 ### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
 
@@ -130,9 +117,21 @@ Day tour
 
 ### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
+
+1 day7 Nov 2026
+
+The rock-cut Sabereebi monastery complex of Gareja, 9th–10th centuries.
 
 per person60 GEL
 

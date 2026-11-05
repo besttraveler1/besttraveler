@@ -1,12 +1,12 @@
 # ტურები 2027 წლის თებერვალში — ფასები
 
-> 10 ტური, რომელიც 2027 წლის თებერვალში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
+> 11 ტური, რომელიც 2027 წლის თებერვალში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
 
 URL: https://besttraveler.ge/ka/turebi/tebervali-2027/
 
 # ტურები 2027 წლის თებერვალში
 
-ყველა ჩვენი ტური, რომელიც 2027 წლის თებერვალში იწყება: 10 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
+ყველა ჩვენი ტური, რომელიც 2027 წლის თებერვალში იწყება: 11 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
 
 ## ტურები 2027 წლის თებერვალში
 
@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ka/turebi/tebervali-2027/
 
 ### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
 ფარავნისა და საღამოს ტბები, ფოკას მონასტრები, გორელოვკა და მადათაფას აღკვეთილი.
 
@@ -130,6 +130,18 @@ URL: https://besttraveler.ge/ka/turebi/tebervali-2027/
 
 ტურის ნახვა 
 
+ავიატური
+
+### [ესპანეთის ტური: ბარსელონა, ტოლედო, ანდალუსია, ვალენსია — 10 დღე](https://besttraveler.ge/ka/turebi/espaneti-barselona-andalusia-valensia-turi/)
+
+10 დღე7–14 თებერვალი 2027
+
+ესპანეთის წრე: კატალონიიდან ტოლედოს, სევილიისა და გრანადის გავლით ვალენსიამდე, 10 დღე.
+
+ერთ ადამიანზე4 500 ლარი
+
+ტურის ნახვა 
+
 ## ტურები თვეების მიხედვით
 
-[ნოემბერში 2026 31](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[მარტში 2027 22](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 37](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 55](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 47](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 33](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 28](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 12](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
+[ნოემბერში 2026 26](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[მარტში 2027 24](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 37](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 55](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 48](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 33](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 28](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 12](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)

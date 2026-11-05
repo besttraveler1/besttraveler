@@ -131,9 +131,9 @@ URL: https://besttraveler.ge/ru/blog/dengi-za-granitsey-karty-nalichnye/
 
 Авиатур
 
-### [Испания и Португалия на машине — групповой тур, 3–10 ноября](https://besttraveler.ge/ru/tury/ispaniya-portugaliya-tur-na-mashine/)
+### [Испания и Португалия на машине — групповой тур, 2–9 марта](https://besttraveler.ge/ru/tury/ispaniya-portugaliya-tur-na-mashine/)
 
-8 дней / 7 ночей3–10 ноября 2026
+8 дней / 7 ночей2–9 марта 2027
 
 8 дней на машине: Сеговия, Саламанка, Порту, Коимбра, Синтра, Лиссабон и Толедо.
 

@@ -134,7 +134,7 @@ URL: https://besttraveler.ge/ka/blogi/khelbargi-dabalbiujetian-prenebze/
 
 ### [ესპანეთის ტური: ბარსელონა, ტოლედო, ანდალუსია, ვალენსია — 10 დღე](https://besttraveler.ge/ka/turebi/espaneti-barselona-andalusia-valensia-turi/)
 
-10 დღეესპანეთი
+10 დღე7–14 თებერვალი 2027
 
 ესპანეთის წრე: კატალონიიდან ტოლედოს, სევილიისა და გრანადის გავლით ვალენსიამდე, 10 დღე.
 

@@ -125,7 +125,7 @@ URL: https://besttraveler.ge/ru/tury/tusheti-tur-na-3-dnya-omalo-dartlo/
 
 ### [Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Грязевые вулканы Тахти-Тепа и Килакупра, водохранилище Дали и высеченный в скале монастырь.
 
@@ -135,11 +135,11 @@ URL: https://besttraveler.ge/ru/tury/tusheti-tur-na-3-dnya-omalo-dartlo/
 
 Однодневный
 
-### [Тур по пещерам: Навенахеви, Тетра, Сатаплиа, Прометей](https://besttraveler.ge/ru/tury/tur-v-peshchery-prometey-sataplia/)
+### [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
-Четыре места за один день: пещера Навенахеви, пещера Тетра, заповедник Сатаплиа и пещера Прометея.
+Город-крепость Уджарма, Гомборский перевал, Шуамта, Икалто, Тетри Гиорги и Алаверди.
 
 за человека60 лари
 
@@ -147,11 +147,11 @@ URL: https://besttraveler.ge/ru/tury/tusheti-tur-na-3-dnya-omalo-dartlo/
 
 Однодневный
 
-### [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
+### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
-Город-крепость Уджарма, Гомборский перевал, Шуамта, Икалто, Тетри Гиорги и Алаверди.
+Додос Рка, монастырь Давид Гареджи, цветные горы и водохранилище Мравалцкаро.
 
 за человека60 лари
 

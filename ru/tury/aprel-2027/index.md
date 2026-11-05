@@ -10,11 +10,23 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 ## Туры в апреле 2027
 
+На автобусе
+
+### [Каппадокия, Амасья и Орду: автобусный тур на 6 дней](https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/)
+
+6 дней2–7 ноября 2026
+
+Амасья, Каппадокия, Кайсери, Орду и Трабзон на автобусе — без ночей в автобусе.
+
+за человека1 450 лари
+
+Смотреть тур 
+
 Однодневный
 
 ### [Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Грязевые вулканы Тахти-Тепа и Килакупра, водохранилище Дали и высеченный в скале монастырь.
 
@@ -26,7 +38,7 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 ### [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Город-крепость Уджарма, Гомборский перевал, Шуамта, Икалто, Тетри Гиорги и Алаверди.
 
@@ -38,7 +50,7 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 ### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Додос Рка, монастырь Давид Гареджи, цветные горы и водохранилище Мравалцкаро.
 
@@ -50,7 +62,7 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 ### [Давид Гареджи: однодневный тур в пустыню Сабереби](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Высеченный в скале монастырский комплекс Сабереби в Гареджи, IX–X века.
 
@@ -62,7 +74,7 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 ### [Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Озёра Паравани и Сагамо, монастыри Пока, Гореловка и заказник Мадатапа.
 
@@ -74,7 +86,7 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 ### [Тур по Кахетии: Чаилури, Гурджаанская Квелацминда, Зегаани, Санагире](https://besttraveler.ge/ru/tury/kakhetiya-gurdzhaani-zegaani-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Крепость Чаилури, Гурджаанская Квелацминда, музей Нато Вачнадзе, озеро Зиари, Зегаани и Санагире.
 
@@ -86,7 +98,7 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 ### [Тур по Кахетии: Некреси, озеро Ильи, Греми, Телави](https://besttraveler.ge/ru/tury/kakhetiya-nekresi-gremi-telavi-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Монастырский комплекс Некреси, озеро Ильи, Греми и «Батонис Цихе» в Телави за один день.
 
@@ -96,73 +108,13 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 Однодневный
 
-### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
-
-1 день1 ноября 2026
-
-Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
 ### [Однодневный тур по Квемо Картли: Церакви, крепость Гаги, озёра Тамариси](https://besttraveler.ge/ru/tury/kvemo-kartli-odnodnevnyy-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Церакви, крепость Гаги, озёра Тамариси и монастырь Шавнабада за один день.
 
 за человека65 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
-
-1 день1 ноября 2026
-
-Зарзма, монастырь и водопад Чуле, Рабат в Ахалцихе и Сапара, с гидом.
-
-за человека65 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Тур по Шида Картли: крепость Гори, Горисджвари, Уплисцихе, Атенский Сиони](https://besttraveler.ge/ru/tury/gori-uplistsikhe-ateni-tur/)
-
-1 день1 ноября 2026
-
-Крепость Гори, Святой Георгий Горисджвари, Уплисцихе, церкви Атени и Церосхеви — по фиксированным датам.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Однодневный тур в Тианети: Мамкода, Цхваричамия, Эрцо, озеро Сиони](https://besttraveler.ge/ru/tury/tianeti-odnodnevnyy-tur/)
-
-1 день1 ноября 2026
-
-Монастырь Мамкода, приют для медведей, Цхваричамия, башня Кор-Шеварден и озеро Сиони.
-
-за человека60 лари
-
-Смотреть тур 
-
-На автобусе
-
-### [Каппадокия, Амасья и Орду: автобусный тур на 6 дней](https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/)
-
-6 дней2–7 ноября 2026
-
-Амасья, Каппадокия, Кайсери, Орду и Трабзон на автобусе — без ночей в автобусе.
-
-за человека1 450 лари
 
 Смотреть тур 
 
@@ -180,11 +132,47 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 Однодневный
 
+### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
+
+1 день8 ноября 2026
+
+Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
+
+за человека60 лари
+
+Смотреть тур 
+
+Однодневный
+
 ### [Однодневный тур Коджори – Манглиси](https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/)
 
 1 день8 ноября 2026
 
 Крепость Корогли, монастырь Удзо, Манглисский Сиони, озеро Буратино и мемориал Дидгори.
+
+за человека60 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
+
+1 день8 ноября 2026
+
+Зарзма, монастырь и водопад Чуле, Рабат в Ахалцихе и Сапара, с гидом.
+
+за человека65 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Однодневный тур в Тианети: Мамкода, Цхваричамия, Эрцо, озеро Сиони](https://besttraveler.ge/ru/tury/tianeti-odnodnevnyy-tur/)
+
+1 день8 ноября 2026
+
+Монастырь Мамкода, приют для медведей, Цхваричамия, башня Кор-Шеварден и озеро Сиони.
 
 за человека60 лари
 
@@ -211,6 +199,18 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 5 дней в Париже: Версаль, Лувр, Монмартр, Елисейские Поля и Нотр-Дам.
 
 за человека2 500 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Тур по Шида Картли: крепость Гори, Горисджвари, Уплисцихе, Атенский Сиони](https://besttraveler.ge/ru/tury/gori-uplistsikhe-ateni-tur/)
+
+1 день21 ноября 2026
+
+Крепость Гори, Святой Георгий Горисджвари, Уплисцихе, церкви Атени и Церосхеви — по фиксированным датам.
+
+за человека60 лари
 
 Смотреть тур 
 
@@ -456,4 +456,4 @@ URL: https://besttraveler.ge/ru/tury/aprel-2027/
 
 ## Туры по месяцам
 
-[В ноябре 2026 31](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 14](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 10](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 22](https://besttraveler.ge/ru/tury/mart-2027/)[В мае 2027 55](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 47](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 33](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 28](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 12](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)
+[В ноябре 2026 26](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 14](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 11](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 24](https://besttraveler.ge/ru/tury/mart-2027/)[В мае 2027 55](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 48](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 33](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 28](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 12](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)

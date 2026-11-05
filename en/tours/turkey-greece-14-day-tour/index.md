@@ -229,18 +229,6 @@ Dates
 
 [See all tours](https://besttraveler.ge/en/tours/)
 
-By plane
-
-### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
-
-4 days / 3 nights1–4 Nov 2026
-
-4 days in Athens: the Acropolis, Plaka, the Agora and a day on Aegina island. Flight from Kutaisi.
-
-per person1,200 GEL
-
-View tour 
-
 By bus
 
 ### [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/)
@@ -262,5 +250,17 @@ By plane
 6 days in Istanbul: palaces, mosques, a Bosphorus cruise, the Princes' Islands and the bazaars.
 
 per person3,600 GEL
+
+View tour 
+
+By bus
+
+### [Kars, Ani and Van: 3-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/)
+
+3 days / 2 nights6–8 Mar 2027
+
+Kars, Ani, Ishak Pasha Palace, Van Fortress and Akdamar Island: 3 days by minibus.
+
+per person450 GEL
 
 View tour

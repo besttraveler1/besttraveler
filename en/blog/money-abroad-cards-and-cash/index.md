@@ -131,9 +131,9 @@ View tour
 
 By plane
 
-### [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
+### [Spain and Portugal by Car — Group Tour, 2–9 March](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
 
-8 days / 7 nights3–10 Nov 2026
+8 days / 7 nights2–9 Mar 2027
 
 8 days by car: Segovia, Salamanca, Porto, Coimbra, Sintra, Lisbon and Toledo.
 

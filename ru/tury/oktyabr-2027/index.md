@@ -14,7 +14,7 @@ URL: https://besttraveler.ge/ru/tury/oktyabr-2027/
 
 ### [Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Грязевые вулканы Тахти-Тепа и Килакупра, водохранилище Дали и высеченный в скале монастырь.
 
@@ -24,33 +24,9 @@ URL: https://besttraveler.ge/ru/tury/oktyabr-2027/
 
 Однодневный
 
-### [Тур по пещерам: Навенахеви, Тетра, Сатаплиа, Прометей](https://besttraveler.ge/ru/tury/tur-v-peshchery-prometey-sataplia/)
-
-1 день1 ноября 2026
-
-Четыре места за один день: пещера Навенахеви, пещера Тетра, заповедник Сатаплиа и пещера Прометея.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Однодневный тур в ущелье Дзама: Самцевриси, озеро Батети, Шуано](https://besttraveler.ge/ru/tury/ushchele-dzama-odnodnevnyy-tur/)
-
-1 день1 ноября 2026
-
-Крепости и монастыри ущелья Дзама, озеро Батети и гора Шуано за один день.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
 ### [Однодневный тур в Гудамакари: Зандуки, Чохи, Думацхо, водопад Дидебаани](https://besttraveler.ge/ru/tury/gudamakari-odnodnevnyy-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Церковь Зандуки, сёла Чохи и Думацхо и водопад Дидебаани — с тремя короткими пешими прогулками.
 
@@ -62,21 +38,9 @@ URL: https://besttraveler.ge/ru/tury/oktyabr-2027/
 
 ### [Однодневный тур Ркони – Кватахеви: Кватахеви, Эртацминда, Ркони, Икви](https://besttraveler.ge/ru/tury/rkoni-kvatakhevi-odnodnevnyy-tur/)
 
-1 день1 ноября 2026
+1 день7 ноября 2026
 
 Монастырь Кватахеви, Эртацминда, монастырь Ркони с мостом царицы Тамары и церковь Икви за один день.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Тур по Шида Картли: крепость Гори, Горисджвари, Уплисцихе, Атенский Сиони](https://besttraveler.ge/ru/tury/gori-uplistsikhe-ateni-tur/)
-
-1 день1 ноября 2026
-
-Крепость Гори, Святой Георгий Горисджвари, Уплисцихе, церкви Атени и Церосхеви — по фиксированным датам.
 
 за человека60 лари
 
@@ -91,6 +55,18 @@ URL: https://besttraveler.ge/ru/tury/oktyabr-2027/
 5 дней в Париже: Версаль, Лувр, Монмартр, Елисейские Поля и Нотр-Дам.
 
 за человека2 500 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Тур по Шида Картли: крепость Гори, Горисджвари, Уплисцихе, Атенский Сиони](https://besttraveler.ge/ru/tury/gori-uplistsikhe-ateni-tur/)
+
+1 день21 ноября 2026
+
+Крепость Гори, Святой Георгий Горисджвари, Уплисцихе, церкви Атени и Церосхеви — по фиксированным датам.
+
+за человека60 лари
 
 Смотреть тур 
 
@@ -178,6 +154,30 @@ URL: https://besttraveler.ge/ru/tury/oktyabr-2027/
 
 Смотреть тур 
 
+Однодневный
+
+### [Тур по пещерам: Навенахеви, Тетра, Сатаплиа, Прометей](https://besttraveler.ge/ru/tury/tur-v-peshchery-prometey-sataplia/)
+
+1 день30 мая 2027
+
+Четыре места за один день: пещера Навенахеви, пещера Тетра, заповедник Сатаплиа и пещера Прометея.
+
+за человека60 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Однодневный тур в ущелье Дзама: Самцевриси, озеро Батети, Шуано](https://besttraveler.ge/ru/tury/ushchele-dzama-odnodnevnyy-tur/)
+
+1 день30 мая 2027
+
+Крепости и монастыри ущелья Дзама, озеро Батети и гора Шуано за один день.
+
+за человека60 лари
+
+Смотреть тур 
+
 ## Туры по месяцам
 
-[В ноябре 2026 31](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 14](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 10](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 22](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 37](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 55](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 47](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 33](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 28](https://besttraveler.ge/ru/tury/sentyabr-2027/)[Новогодние туры 2027 12](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)
+[В ноябре 2026 26](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 14](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 11](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 24](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 37](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 55](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 48](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 33](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 28](https://besttraveler.ge/ru/tury/sentyabr-2027/)[Новогодние туры 2027 12](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)

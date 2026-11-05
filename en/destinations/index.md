@@ -8,7 +8,7 @@ URL: https://besttraveler.ge/en/destinations/
 
 Countries where besttraveler runs tours: Egypt, Italy, Spain, France, Turkey, Armenia, Greece and more, with prices and dates.
 
-[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 8 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 8 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 4 tours](https://besttraveler.ge/en/destinations/spain/)[France 12 tours](https://besttraveler.ge/en/destinations/france/)[Bulgaria 2 tours](https://besttraveler.ge/en/destinations/bulgaria/)[Greece 3 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 5 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
+[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 8 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 8 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 6 tours](https://besttraveler.ge/en/destinations/spain/)[France 12 tours](https://besttraveler.ge/en/destinations/france/)[Bulgaria 2 tours](https://besttraveler.ge/en/destinations/bulgaria/)[Greece 3 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 5 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
 
 ## More countries in our tours
 
@@ -22,7 +22,7 @@ Countries where besttraveler runs tours: Egypt, Italy, Spain, France, Turkey, Ar
 
 1 tours: 
 
-- [Spain and Portugal by Car — Group Tour, 3–10 November 8 days / 7 nights · 4,500 GEL](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
+- [Spain and Portugal by Car — Group Tour, 2–9 March 8 days / 7 nights · 4,500 GEL](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
 
 ### Monaco
 

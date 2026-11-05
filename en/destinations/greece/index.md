@@ -11,21 +11,9 @@ Group tours to Greece: Athens and the Acropolis, Aegina island, Thessaloniki and
 - 3 tours
 - from 1200 ₾
 - 4–14 days
-- Next: 1–4 Nov 2026
+- Next: 5–18 Jul 2027
 
 ## Tours to Greece
-
-By plane
-
-### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
-
-4 days / 3 nights1–4 Nov 2026
-
-4 days in Athens: the Acropolis, Plaka, the Agora and a day on Aegina island. Flight from Kutaisi.
-
-per person1,200 GEL
-
-View tour 
 
 By bus
 
@@ -36,6 +24,18 @@ By bus
 Ankara, Pergamon, Izmir, Ephesus, the Aegean and Mediterranean coast, and the Greek islands of Chios and Rhodes.
 
 per person3,700 GEL
+
+View tour 
+
+By plane
+
+### [Athens, Greece — Group Tour from Kutaisi, 1–4 November](https://besttraveler.ge/en/tours/athens-greece-group-tour-from-kutaisi/)
+
+4 days / 3 nightsGreece
+
+4 days in Athens: the Acropolis, Plaka, the Agora and a day on Aegina island. Flight from Kutaisi.
+
+per person1,200 GEL
 
 View tour 
 

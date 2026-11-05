@@ -146,7 +146,7 @@ Day tour
 
 ### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-1 day1 Nov 2026
+1 day8 Nov 2026
 
 Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
@@ -158,7 +158,7 @@ Day tour
 
 ### [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 The rock-cut Sabereebi monastery complex of Gareja, 9th–10th centuries.
 

@@ -146,7 +146,7 @@ URL: https://besttraveler.ge/ka/blogi/sakartveloshi-shemosvla-viza-dazghveva-202
 
 ### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე8 ნოემბერი 2026
 
 ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
 
@@ -158,7 +158,7 @@ URL: https://besttraveler.ge/ka/blogi/sakartveloshi-shemosvla-viza-dazghveva-202
 
 ### [დავით გარეჯის საბერეების უდაბნო — ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/davit-gareja-sabereebi-turi/)
 
-1 დღე1 ნოემბერი 2026
+1 დღე7 ნოემბერი 2026
 
 გარეჯის საბერეების კლდეში ნაკვეთი სამონასტრო კომპლექსი, IX–X საუკუნეები.
 

@@ -8,7 +8,7 @@ URL: https://besttraveler.ge/ka/mimartulebebi/
 
 ქვეყნები, სადაც besttraveler ტურებს აწყობს: ეგვიპტე, იტალია, ესპანეთი, საფრანგეთი, თურქეთი, სომხეთი, საბერძნეთი და სხვა.
 
-[ეგვიპტე 6 ტური](https://besttraveler.ge/ka/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/ka/mimartulebebi/italia/)[თურქეთი 8 ტური](https://besttraveler.ge/ka/mimartulebebi/turketi/)[ესპანეთი 4 ტური](https://besttraveler.ge/ka/mimartulebebi/espaneti/)[საფრანგეთი 12 ტური](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)[ბულგარეთი 2 ტური](https://besttraveler.ge/ka/mimartulebebi/bulgareti/)[საბერძნეთი 3 ტური](https://besttraveler.ge/ka/mimartulebebi/saberdzneti/)[სომხეთი 5 ტური](https://besttraveler.ge/ka/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/ka/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/ka/mimartulebebi/shri-lanka/)[საქართველო 56 ტური](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
+[ეგვიპტე 6 ტური](https://besttraveler.ge/ka/mimartulebebi/egvipte/)[იტალია 8 ტური](https://besttraveler.ge/ka/mimartulebebi/italia/)[თურქეთი 8 ტური](https://besttraveler.ge/ka/mimartulebebi/turketi/)[ესპანეთი 6 ტური](https://besttraveler.ge/ka/mimartulebebi/espaneti/)[საფრანგეთი 12 ტური](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)[ბულგარეთი 2 ტური](https://besttraveler.ge/ka/mimartulebebi/bulgareti/)[საბერძნეთი 3 ტური](https://besttraveler.ge/ka/mimartulebebi/saberdzneti/)[სომხეთი 5 ტური](https://besttraveler.ge/ka/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/ka/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/ka/mimartulebebi/shri-lanka/)[საქართველო 56 ტური](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
 
 ## სხვა ქვეყნები ჩვენს ტურებში
 
@@ -22,7 +22,7 @@ URL: https://besttraveler.ge/ka/mimartulebebi/
 
 1 ტური: 
 
-- [ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 3–10 ნოემბერი 8 დღე / 7 ღამე · 4 500 ლარი](https://besttraveler.ge/ka/turebi/espaneti-portugalia-mankanit-turi/)
+- [ესპანეთი და პორტუგალია მანქანით — ჯგუფური ტური, 2–9 მარტი 8 დღე / 7 ღამე · 4 500 ლარი](https://besttraveler.ge/ka/turebi/espaneti-portugalia-mankanit-turi/)
 
 ### მონაკო
 

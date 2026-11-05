@@ -94,7 +94,7 @@ URL: https://besttraveler.ge/ru/blog/ushchele-truso-za-odin-den/
 
 ### [Тур в Трусовское ущелье: травертины, «бездонное» озеро, Закагори](https://besttraveler.ge/ru/tury/trusovskoe-ushchele-tur/)
 
-1 день1 ноября 2026
+1 день13 июня 2027
 
 Трусовское ущелье: цветные травертины, «бездонное» озеро, монастырь Абано и крепость Закагори.
 

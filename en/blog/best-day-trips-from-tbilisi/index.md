@@ -103,7 +103,7 @@ Day tour
 
 ### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
 
-1 day1 Nov 2026
+1 day13 Jun 2027
 
 Truso Gorge: colorful travertines, the 'bottomless' lake, Abano convent and Zakagori fortress.
 
@@ -115,7 +115,7 @@ Day tour
 
 ### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
 
@@ -127,7 +127,7 @@ Day tour
 
 ### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-1 day1 Nov 2026
+1 day8 Nov 2026
 
 Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
@@ -139,7 +139,7 @@ Day tour
 
 ### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Paravani and Saghamo lakes, the Poka monasteries, Gorelovka and the Madatapa reserve.
 

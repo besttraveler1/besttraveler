@@ -27,7 +27,7 @@ Photo: [NeusCGarcia](https://commons.wikimedia.org/w/index.php?curid=141175999),
 
 Duration10 days
 
-DatesOn request
+Next departure7–14 Feb 2027
 
 DepartureKutaisi (KUT)
 
@@ -39,7 +39,7 @@ Price4,500 GEL
 
 ### Day 1
 
-- Arrival in Barcelona
+- Arrival in Barcelona at 16:25
 - Tarragona
 
 - 
@@ -131,7 +131,7 @@ Price4,500 GEL
 
 - Sanctuary of Our Lady of Montserrat
 - Transfer to the airport
-- Flight to Kutaisi at 17:15
+- Flight to Kutaisi at 17:10
 
 ## Route on the map
 
@@ -156,6 +156,7 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 ## Good to know
 
 - Documents: International passport valid for at least 6 months
+- Places are limited (7 in total).
 
 You pay a deposit to book and the rest 15 days before the tour. [Booking and payment terms](https://besttraveler.ge/en/booking-terms/)
 
@@ -163,11 +164,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days” tour cost?**
 
-The tour costs 4,500 GEL per person.
+The tour costs 4,500 GEL per person. The deposit to book is 1,000 GEL.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 7–14 Feb 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -179,11 +180,13 @@ Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and pr
 
 Price: 4,500 GELper person: 
 
+Deposit to book: 1,000 GEL
+
 ## Dates
 
 Dates
 
-Dates on request
+- 7–14 Feb 2027
 
 - Return flights Kutaisi–Barcelona–Kutaisi
 - Hand luggage 10 kg (40x30x20 cm)
@@ -195,18 +198,6 @@ Dates on request
 ## Similar tours
 
 [See all tours](https://besttraveler.ge/en/tours/)
-
-By plane
-
-### [Spain and Portugal by Car — Group Tour, 3–10 November](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
-
-8 days / 7 nights3–10 Nov 2026
-
-8 days by car: Segovia, Salamanca, Porto, Coimbra, Sintra, Lisbon and Toledo.
-
-per person4,500 GEL
-
-View tour 
 
 By plane
 
@@ -222,12 +213,24 @@ View tour
 
 By plane
 
-### [Spain, France and Andorra — 10-Day Tour from Barcelona](https://besttraveler.ge/en/tours/spain-france-andorra-tour-from-barcelona/)
+### [Spain and Portugal by Car — Group Tour, 2–9 March](https://besttraveler.ge/en/tours/spain-portugal-tour-by-car/)
 
-10 days28 Mar – 4 Apr 2027
+8 days / 7 nights2–9 Mar 2027
 
-Catalonia, Andorra and southern France, ending with three days in Barcelona — 10 days.
+8 days by car: Segovia, Salamanca, Porto, Coimbra, Sintra, Lisbon and Toledo.
 
-per person4,700 GEL
+per person4,500 GEL
+
+View tour 
+
+By plane
+
+### [Northern Spain Tour: Basque Country, Asturias, Galicia — 9–16 March](https://besttraveler.ge/en/tours/northern-spain-tour-basque-country-galicia/)
+
+8 days / 7 nights9–16 Mar 2027
+
+North from Madrid: the Basque Country, Cantabria, Asturias and Galicia, Santiago de Compostela and the Alcázar of Segovia.
+
+per person4,500 GEL
 
 View tour

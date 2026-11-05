@@ -11,7 +11,7 @@ One-day tours from Tbilisi by minibus: Kakheti, Kazbegi, Truso, David Gareja, Ja
 - 56 tours
 - from 60 ₾
 - 1–3 days
-- Next: 1 Nov 2026
+- Next: 7 Nov 2026
 
 ## Day tours in Georgia
 
@@ -19,7 +19,7 @@ Day tour
 
 ### [A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Takhti-Tepa and Kilakupra mud volcanoes, the Dali reservoir and a rock-cut monastery.
 
@@ -29,21 +29,9 @@ View tour
 
 Day tour
 
-### [Caves Day Tour: Navenakhevi, Tetra, Sataplia, Prometheus](https://besttraveler.ge/en/tours/caves-tour-prometheus-sataplia-from-tbilisi/)
-
-1 day1 Nov 2026
-
-Four sights in one day: Navenakhevi Cave, Tetra Cave, Sataplia Nature Reserve and Prometheus Cave.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
 ### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
 
@@ -55,7 +43,7 @@ Day tour
 
 ### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
 
@@ -67,7 +55,7 @@ Day tour
 
 ### [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 The rock-cut Sabereebi monastery complex of Gareja, 9th–10th centuries.
 
@@ -77,21 +65,9 @@ View tour
 
 Day tour
 
-### [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
-
-1 day1 Nov 2026
-
-Fortresses and monasteries of the Dzama Gorge, Bateti Lake and Mount Shuano in one day.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
 ### [Gudamakari Day Tour: Zanduki, Chokhi, Dumatskho, Didebaani Waterfall](https://besttraveler.ge/en/tours/gudamakari-gorge-day-tour/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Zanduki church, the villages of Chokhi and Dumatskho and the Didebaani waterfall, with three short walks.
 
@@ -103,7 +79,7 @@ Day tour
 
 ### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Paravani and Saghamo lakes, the Poka monasteries, Gorelovka and the Madatapa reserve.
 
@@ -115,7 +91,7 @@ Day tour
 
 ### [Kakheti Day Tour: Chailuri, Gurjaani Kvelatsminda, Zegaani, Sanagire](https://besttraveler.ge/en/tours/kakheti-gurjaani-zegaani-day-trip/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Chailuri Fortress, Gurjaani Kvelatsminda, Nato Vachnadze museum, Ziari Lake, Zegaani and Sanagire.
 
@@ -127,93 +103,9 @@ Day tour
 
 ### [Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/)
 
-1 day1 Nov 2026
+1 day7 Nov 2026
 
 Nekresi monastery complex, Ilia Lake, Gremi and Batonis Tsikhe in Telavi in one day.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
-
-1 day1 Nov 2026
-
-Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
-
-1 day1 Nov 2026
-
-Tserakvi, Gagi Fortress, the Tamarisi lakes and Shavnabada monastery in one day.
-
-per person65 GEL
-
-View tour 
-
-Day tour
-
-### [Rkoni and Kvatakhevi Day Tour: Kvatakhevi, Ertatsminda, Rkoni, Ikvi](https://besttraveler.ge/en/tours/rkoni-kvatakhevi-day-tour/)
-
-1 day1 Nov 2026
-
-Kvatakhevi Monastery, Ertatsminda, Rkoni Monastery with Queen Tamar's Bridge and Ikvi church in one day.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
-
-1 day1 Nov 2026
-
-Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
-
-per person65 GEL
-
-View tour 
-
-Day tour
-
-### [Shida Kartli Tour: Gori Fortress, Gorijvari, Uplistsikhe, Ateni Sioni](https://besttraveler.ge/en/tours/gori-uplistsikhe-ateni-day-tour/)
-
-1 day1 Nov 2026
-
-Gori Fortress, St George of Gorijvari, Uplistsikhe, the Ateni churches and Tseroskhevi, on fixed dates.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake](https://besttraveler.ge/en/tours/tianeti-day-trip/)
-
-1 day1 Nov 2026
-
-Mamkoda monastery, a bear shelter, Tskhvarichamia, the Kor-Shevardeni tower and Sioni Lake.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
-
-1 day1 Nov 2026
-
-Truso Gorge: colorful travertines, the 'bottomless' lake, Abano convent and Zakagori fortress.
 
 per person60 GEL
 
@@ -233,11 +125,83 @@ View tour
 
 Day tour
 
+### [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
+
+1 day7 Nov 2026
+
+Tserakvi, Gagi Fortress, the Tamarisi lakes and Shavnabada monastery in one day.
+
+per person65 GEL
+
+View tour 
+
+Day tour
+
+### [Rkoni and Kvatakhevi Day Tour: Kvatakhevi, Ertatsminda, Rkoni, Ikvi](https://besttraveler.ge/en/tours/rkoni-kvatakhevi-day-tour/)
+
+1 day7 Nov 2026
+
+Kvatakhevi Monastery, Ertatsminda, Rkoni Monastery with Queen Tamar's Bridge and Ikvi church in one day.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
+
+1 day8 Nov 2026
+
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
 ### [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
 
 1 day8 Nov 2026
 
 Koroghli Fortress, Udzo monastery, Manglisi Sioni, Buratino Lake and the Didgori memorial.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+
+1 day8 Nov 2026
+
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+
+per person65 GEL
+
+View tour 
+
+Day tour
+
+### [Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake](https://besttraveler.ge/en/tours/tianeti-day-trip/)
+
+1 day8 Nov 2026
+
+Mamkoda monastery, a bear shelter, Tskhvarichamia, the Kor-Shevardeni tower and Sioni Lake.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Shida Kartli Tour: Gori Fortress, Gorijvari, Uplistsikhe, Ateni Sioni](https://besttraveler.ge/en/tours/gori-uplistsikhe-ateni-day-tour/)
+
+1 day21 Nov 2026
+
+Gori Fortress, St George of Gorijvari, Uplistsikhe, the Ateni churches and Tseroskhevi, on fixed dates.
 
 per person60 GEL
 
@@ -413,6 +377,30 @@ View tour
 
 Day tour
 
+### [Caves Day Tour: Navenakhevi, Tetra, Sataplia, Prometheus](https://besttraveler.ge/en/tours/caves-tour-prometheus-sataplia-from-tbilisi/)
+
+1 day30 May 2027
+
+Four sights in one day: Navenakhevi Cave, Tetra Cave, Sataplia Nature Reserve and Prometheus Cave.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
+
+1 day30 May 2027
+
+Fortresses and monasteries of the Dzama Gorge, Bateti Lake and Mount Shuano in one day.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
 ### [Tabatskuri Lake Tour: Tskhratskaro Pass, Timotesubani](https://besttraveler.ge/en/tours/tabatskuri-lake-tour/)
 
 1 day5 Jun 2027
@@ -420,6 +408,18 @@ Day tour
 Tskhratskaro Pass, Tabatskuri Lake and its Red Church, and Timotesubani monastery.
 
 per person70 GEL
+
+View tour 
+
+Day tour
+
+### [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
+
+1 day13 Jun 2027
+
+Truso Gorge: colorful travertines, the 'bottomless' lake, Abano convent and Zakagori fortress.
+
+per person60 GEL
 
 View tour 
 
