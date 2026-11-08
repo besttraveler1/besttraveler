@@ -156,18 +156,6 @@ URL: https://besttraveler.ge/ru/tury/vostochnaya-turtsiya-van-mardin-tur/
 
 [Смотреть все туры](https://besttraveler.ge/ru/tury/)
 
-На автобусе
-
-### [Каппадокия, Амасья и Орду: автобусный тур на 6 дней](https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/)
-
-6 дней2–7 ноября 2026
-
-Амасья, Каппадокия, Кайсери, Орду и Трабзон на автобусе — без ночей в автобусе.
-
-за человека1 450 лари
-
-Смотреть тур 
-
 Авиатур
 
 ### [Стамбул — тур на 6 дней с вылетом из Тбилиси или Батуми](https://besttraveler.ge/ru/tury/stambul-tur-iz-tbilisi/)
@@ -189,5 +177,17 @@ URL: https://besttraveler.ge/ru/tury/vostochnaya-turtsiya-van-mardin-tur/
 Карс, Ани, дворец Исхак-паши, крепость Ван и остров Ахтамар — 3 дня на микроавтобусе.
 
 за человека450 лари
+
+Смотреть тур 
+
+На автобусе
+
+### [Трабзон и монастырь Сумела — тур на 3 дня](https://besttraveler.ge/ru/tury/trabzon-sumela-tur/)
+
+3 дня / 2 ночи26–28 марта 2027
+
+3 дня в Трабзоне и окрестностях: Бозтепе, парк Каябаши, Айя-София и монастырь Сумела.
+
+за человека480 лари
 
 Смотреть тур

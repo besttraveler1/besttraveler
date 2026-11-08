@@ -85,7 +85,7 @@ URL: https://besttraveler.ge/ru/blog/kappadokiya-vozdushnye-shary/
 
 ### [Каппадокия, Амасья и Орду: автобусный тур на 6 дней](https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/)
 
-6 дней2–7 ноября 2026
+6 дней13–18 апреля 2027
 
 Амасья, Каппадокия, Кайсери, Орду и Трабзон на автобусе — без ночей в автобусе.
 

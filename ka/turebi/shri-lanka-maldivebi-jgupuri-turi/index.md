@@ -203,18 +203,6 @@ URL: https://besttraveler.ge/ka/turebi/shri-lanka-maldivebi-jgupuri-turi/
 
 ავიატური
 
-### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/ka/turebi/italia-bari-apulia-saakhaltslo-turi/)
-
-5 დღე2–6 ნოემბერი 2026
-
-5 დღე აპულიაში: ბარი, მონოპოლი, პოლინიანო-ა-მარე, ალბერობელო და მატერა. გაფრენა ერევნიდან.
-
-ერთ ადამიანზე2 600 ლარი
-
-ტურის ნახვა 
-
-ავიატური
-
 ### [ნილოსის კრუიზი: ლუქსორი, ასუანი, აბუ-სიმბელი, ჰურგადა და ელ-გუნა](https://besttraveler.ge/ka/turebi/nilosis-kruizi-luksori-asuani-hurgada/)
 
 8 დღე8–15 ნოემბერი 2026
@@ -222,5 +210,17 @@ URL: https://besttraveler.ge/ka/turebi/shri-lanka-maldivebi-jgupuri-turi/
 8 დღე ეგვიპტეში: კრუიზი ნილოსზე ლუქსორიდან ასუანამდე, ჰურგადა და ელ-გუნა.
 
 ერთ ადამიანზე4 500 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/ka/turebi/egvipte-hurgada-luksori-suetsis-arkhi/)
+
+7 დღე / 6 ღამე9–15 ნოემბერი 2026
+
+7 დღე ჰურგადაში: სუეცის არხი და პორტ-საიდი, ჰულა-ჰულას კუნძული, ლუქსორი და მონასტრები.
+
+ერთ ადამიანზე6 100 ლარი
 
 ტურის ნახვა

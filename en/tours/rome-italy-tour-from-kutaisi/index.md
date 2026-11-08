@@ -1,6 +1,6 @@
 # Rome Tour: Vatican and Colosseum, 8 Days
 
-> 8 days in Rome: the Vatican, Sistine Chapel, Pantheon, Roman Forum, Colosseum, Trevi Fountain and Villa Borghese. Flight from Kutaisi, 2300 GEL.
+> 8 days in Rome: the Vatican, Sistine Chapel, Pantheon, Roman Forum, Colosseum, Trevi Fountain and Villa Borghese. Flight from Kutaisi, 2500 GEL.
 
 URL: https://besttraveler.ge/en/tours/rome-italy-tour-from-kutaisi/
 
@@ -16,11 +16,11 @@ Photo: [Julian Lupyan](https://commons.wikimedia.org/w/index.php?curid=175885773
 
 Duration8 days
 
-DatesOn request
+Next departure3–10 May 2027 +2
 
 DepartureKutaisi (KUT)
 
-Price2,300 GEL
+Price2,500 GEL
 
 ## Tour programme
 
@@ -124,7 +124,10 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Not included
 
-- Museum entrance fees
+- Museum entrance fees (100–150 EUR)
+- Meals except breakfast
+- Transfers and getting around the city
+- Transfer to Kutaisi and back (60 GEL)
 
 ## Good to know
 
@@ -136,11 +139,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Rome, Italy — 8-Day Tour from Kutaisi” tour cost?**
 
-The tour costs 2,300 GEL per person.
+The tour costs 2,500 GEL per person. The deposit to book is 1,000 GEL.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 3–10 May 2027, 20–27 Sep 2027, 11–18 Oct 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -150,13 +153,17 @@ Return flights Kutaisi–Rome–Kutaisi; Hand luggage 10 kg (40x30x20 cm); Hotel
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 2,300 GELper person: 
+Price: 2,500 GELper person: 
+
+Deposit to book: 1,000 GEL
 
 ## Dates
 
 Dates
 
-Dates on request
+- 3–10 May 2027
+- 20–27 Sep 2027
+- 11–18 Oct 2027
 
 - Return flights Kutaisi–Rome–Kutaisi
 - Hand luggage 10 kg (40x30x20 cm)
@@ -171,18 +178,6 @@ Dates on request
 
 By plane
 
-### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
-
-5 days2–6 Nov 2026
-
-5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
-
-per person2,600 GEL
-
-View tour 
-
-By plane
-
 ### [Morocco Group Tour with a Stop in Rome](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 
 10 days / 9 nights13–22 Nov 2026
@@ -190,6 +185,18 @@ By plane
 10 days: Rome, Marrakesh, Ait Ben Haddou, Rabat, Chefchaouen, Fes and Casablanca. Morocco visa included.
 
 per person2,200 EUR
+
+View tour 
+
+By plane
+
+### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
+
+5 days8–12 Dec 2026
+
+5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
+
+per person2,600 GEL
 
 View tour 
 

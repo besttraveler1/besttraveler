@@ -119,18 +119,6 @@ URL: https://besttraveler.ge/ka/turebi/turketi-karsi-anisi-vani-turi/
 
 [ყველა ტურის ნახვა](https://besttraveler.ge/ka/turebi/)
 
-ავტობუსით
-
-### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/ka/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
-
-6 დღე2–7 ნოემბერი 2026
-
-ამასია, კაპადოკია, კაისერი, ორდუ და ტრაპიზონი ავტობუსით — ღამით მგზავრობის გარეშე.
-
-ერთ ადამიანზე1 450 ლარი
-
-ტურის ნახვა 
-
 ავიატური
 
 ### [სტამბოლი — 6-დღიანი ტური თბილისიდან ან ბათუმიდან](https://besttraveler.ge/ka/turebi/stamboli-turi-tbilisidan/)
@@ -152,5 +140,17 @@ URL: https://besttraveler.ge/ka/turebi/turketi-karsi-anisi-vani-turi/
 7 დღე აღმოსავლეთ თურქეთში: ანისი, ვანი, მარდინი, ჰარანი, ჰალფეტი და ნემრუთის მთა.
 
 ერთ ადამიანზე1 450 ლარი
+
+ტურის ნახვა 
+
+ავტობუსით
+
+### [ტრაპიზონი და სუმელას მონასტერი — 3-დღიანი ტური](https://besttraveler.ge/ka/turebi/trapizoni-sumela-turi/)
+
+3 დღე / 2 ღამე26–28 მარტი 2027
+
+3 დღე ტრაპიზონსა და მის შემოგარენში — ბოზტეპე, კაიაბაშის პარკი, აია-სოფია და სუმელა.
+
+ერთ ადამიანზე480 ლარი
 
 ტურის ნახვა

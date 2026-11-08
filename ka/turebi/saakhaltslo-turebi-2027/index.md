@@ -12,30 +12,6 @@ URL: https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/
 
 ავიატური
 
-### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/ka/turebi/italia-bari-apulia-saakhaltslo-turi/)
-
-5 დღე2–6 ნოემბერი 2026
-
-5 დღე აპულიაში: ბარი, მონოპოლი, პოლინიანო-ა-მარე, ალბერობელო და მატერა. გაფრენა ერევნიდან.
-
-ერთ ადამიანზე2 600 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
-
-1 დღე7 ნოემბერი 2026
-
-ფარავნისა და საღამოს ტბები, ფოკას მონასტრები, გორელოვკა და მადათაფას აღკვეთილი.
-
-ერთ ადამიანზე65 ლარი
-
-ტურის ნახვა 
-
-ავიატური
-
 ### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/ka/turebi/egvipte-hurgada-luksori-suetsis-arkhi/)
 
 7 დღე / 6 ღამე9–15 ნოემბერი 2026
@@ -108,6 +84,18 @@ URL: https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/
 
 ერთდღიანი
 
+### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
+
+1 დღე6 დეკემბერი 2026
+
+ფარავნისა და საღამოს ტბები, ფოკას მონასტრები, გორელოვკა და მადათაფას აღკვეთილი.
+
+ერთ ადამიანზე65 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
 ### [გუდაურის ერთდღიანი ტური: თავისუფალი დრო სათხილამურო კურორტზე](https://besttraveler.ge/ka/turebi/gudauri-zamtarshi-ertdghiani-turi/)
 
 1 დღე12 დეკემბერი 2026
@@ -156,4 +144,4 @@ URL: https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/
 
 ## ტურები თვეების მიხედვით
 
-[ნოემბერში 2026 26](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 11](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 24](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 37](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 55](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 48](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 33](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 28](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)
+[ნოემბერში 2026 14](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 13](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 26](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 41](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 59](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 52](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 35](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 34](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 21](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)

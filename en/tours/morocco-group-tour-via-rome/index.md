@@ -188,7 +188,7 @@ By plane
 
 ### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
 
-5 days2–6 Nov 2026
+5 days8–12 Dec 2026
 
 5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
 
@@ -210,12 +210,12 @@ View tour
 
 By plane
 
-### [Malta via Rome — 8-Day Tour](https://besttraveler.ge/en/tours/malta-tour-via-rome/)
+### [Bari and Puglia, Italy — Group Tour from Yerevan, 2027](https://besttraveler.ge/en/tours/bari-puglia-lecce-ostuni-tour/)
 
-8 days22–29 Mar 2027
+5 days2–6 Feb 2027
 
-Valletta, Mdina, fishing villages and Popeye Village — 8 days in Malta via Rome.
+Puglia in 5 days: Bari, Polignano a Mare, white Ostuni, baroque Lecce, the trulli of Alberobello and Matera.
 
-per person4,100 GEL
+per person2,400 GEL
 
 View tour

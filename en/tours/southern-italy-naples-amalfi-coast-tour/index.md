@@ -30,7 +30,7 @@ Photo: [Jan Tielens jtlns](https://commons.wikimedia.org/w/index.php?curid=62227
 
 Duration10 days / 9 nights
 
-DatesOn request
+Next departure17–26 May 2027 +2
 
 DepartureKutaisi (KUT)
 
@@ -126,6 +126,13 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Photography
 - Travel insurance
 
+## Not included
+
+- Transfer Tbilisi–Kutaisi–Tbilisi (60 GEL)
+- Boat tickets (100 EUR)
+- Museum fees, optional (100–120 EUR)
+- Meals except breakfast
+
 ## Good to know
 
 - Documents: International passport valid for at least 6 months
@@ -140,7 +147,7 @@ The tour costs 4,100 GEL per person. The deposit to book is 1,000 GEL.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 17–26 May 2027, 13–22 Sep 2027, 11–20 Oct 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -158,7 +165,9 @@ Deposit to book: 1,000 GEL
 
 Dates
 
-Dates on request
+- 17–26 May 2027
+- 13–22 Sep 2027
+- 11–20 Oct 2027
 
 - Flights Kutaisi–Rome–Kutaisi
 - Hand luggage 10 kg (40x30x20 cm)
@@ -173,18 +182,6 @@ Dates on request
 
 By plane
 
-### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
-
-5 days2–6 Nov 2026
-
-5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
-
-per person2,600 GEL
-
-View tour 
-
-By plane
-
 ### [Morocco Group Tour with a Stop in Rome](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 
 10 days / 9 nights13–22 Nov 2026
@@ -192,6 +189,18 @@ By plane
 10 days: Rome, Marrakesh, Ait Ben Haddou, Rabat, Chefchaouen, Fes and Casablanca. Morocco visa included.
 
 per person2,200 EUR
+
+View tour 
+
+By plane
+
+### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
+
+5 days8–12 Dec 2026
+
+5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
+
+per person2,600 GEL
 
 View tour 
 

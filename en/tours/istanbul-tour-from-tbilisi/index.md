@@ -161,18 +161,6 @@ Dates
 
 By bus
 
-### [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/)
-
-6 days2–7 Nov 2026
-
-Amasya, Cappadocia, Kayseri, Ordu and Trabzon by bus, with no nights spent on the bus.
-
-per person1,450 GEL
-
-View tour 
-
-By bus
-
 ### [Kars, Ani and Van: 3-Day Tour of Eastern Turkey](https://besttraveler.ge/en/tours/turkey-kars-ani-van-tour/)
 
 3 days / 2 nights6–8 Mar 2027
@@ -192,5 +180,17 @@ By bus
 7 days in eastern Turkey: Ani, Van, Mardin, Harran, Halfeti and Mount Nemrut.
 
 per person1,450 GEL
+
+View tour 
+
+By bus
+
+### [Trabzon and Sumela Monastery: 3-Day Tour](https://besttraveler.ge/en/tours/trabzon-sumela-monastery-tour/)
+
+3 days / 2 nights26–28 Mar 2027
+
+3 days in and around Trabzon: Boztepe, Kayabasi park, Hagia Sophia and Sumela Monastery.
+
+per person480 GEL
 
 View tour

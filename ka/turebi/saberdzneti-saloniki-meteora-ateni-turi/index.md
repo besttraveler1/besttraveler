@@ -177,12 +177,12 @@ URL: https://besttraveler.ge/ka/turebi/saberdzneti-saloniki-meteora-ateni-turi/
 
 ავიატური
 
-### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/ka/turebi/italia-bari-apulia-saakhaltslo-turi/)
+### [ნილოსის კრუიზი: ლუქსორი, ასუანი, აბუ-სიმბელი, ჰურგადა და ელ-გუნა](https://besttraveler.ge/ka/turebi/nilosis-kruizi-luksori-asuani-hurgada/)
 
-5 დღე2–6 ნოემბერი 2026
+8 დღე8–15 ნოემბერი 2026
 
-5 დღე აპულიაში: ბარი, მონოპოლი, პოლინიანო-ა-მარე, ალბერობელო და მატერა. გაფრენა ერევნიდან.
+8 დღე ეგვიპტეში: კრუიზი ნილოსზე ლუქსორიდან ასუანამდე, ჰურგადა და ელ-გუნა.
 
-ერთ ადამიანზე2 600 ლარი
+ერთ ადამიანზე4 500 ლარი
 
 ტურის ნახვა

@@ -1,6 +1,6 @@
 # Tuscany Tour: Siena, Pisa, Elba, 10 Days
 
-> 10-day tour of Italy: Bracciano, Saturnia hot springs, Elba island, Pisa, San Gimignano, Siena, San Marino and Perugia. From Kutaisi, 4000 GEL.
+> 10-day tour of Italy: Bracciano, Saturnia hot springs, Elba island, Pisa, San Gimignano, Siena, San Marino and Perugia. From Kutaisi, 4500 GEL.
 
 URL: https://besttraveler.ge/en/tours/tuscany-elba-san-marino-tour/
 
@@ -26,11 +26,11 @@ Photo: [Lucía García González](https://commons.wikimedia.org/w/index.php?curi
 
 Duration10 days / 9 nights
 
-DatesOn request
+Next departure15–24 Feb 2027 +3
 
 DepartureKutaisi (KUT)
 
-Price4,000 GEL
+Price4,500 GEL
 
 ## Tour programme
 
@@ -149,6 +149,12 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 - Photography
 - Travel insurance
 
+## Not included
+
+- Museum entrance fees
+- Meals except breakfast
+- Transfer to Kutaisi and back (60 GEL)
+
 ## Good to know
 
 - Documents: International passport valid for at least 6 months
@@ -159,11 +165,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Tuscany, Elba and San Marino — 10-Day Tour of Italy” tour cost?**
 
-The tour costs 4,000 GEL per person.
+The tour costs 4,500 GEL per person. The deposit to book is 1,000 GEL.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 15–24 Feb 2027, 22–31 Mar 2027, 6–15 Sep 2027, 18–27 Oct 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -173,13 +179,18 @@ Return flights Kutaisi–Rome–Kutaisi; Hand luggage 10 kg (40x30x20 cm); Trans
 
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
-Price: 4,000 GELper person: 
+Price: 4,500 GELper person: 
+
+Deposit to book: 1,000 GEL
 
 ## Dates
 
 Dates
 
-Dates on request
+- 15–24 Feb 2027
+- 22–31 Mar 2027
+- 6–15 Sep 2027
+- 18–27 Oct 2027
 
 - Return flights Kutaisi–Rome–Kutaisi
 - Hand luggage 10 kg (40x30x20 cm)
@@ -194,18 +205,6 @@ Dates on request
 
 By plane
 
-### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
-
-5 days2–6 Nov 2026
-
-5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
-
-per person2,600 GEL
-
-View tour 
-
-By plane
-
 ### [Morocco Group Tour with a Stop in Rome](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 
 10 days / 9 nights13–22 Nov 2026
@@ -213,6 +212,18 @@ By plane
 10 days: Rome, Marrakesh, Ait Ben Haddou, Rabat, Chefchaouen, Fes and Casablanca. Morocco visa included.
 
 per person2,200 EUR
+
+View tour 
+
+By plane
+
+### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
+
+5 days8–12 Dec 2026
+
+5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
+
+per person2,600 GEL
 
 View tour 
 

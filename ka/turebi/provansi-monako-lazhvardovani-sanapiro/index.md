@@ -171,18 +171,6 @@ URL: https://besttraveler.ge/ka/turebi/provansi-monako-lazhvardovani-sanapiro/
 
 ავიატური
 
-### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/ka/turebi/italia-bari-apulia-saakhaltslo-turi/)
-
-5 დღე2–6 ნოემბერი 2026
-
-5 დღე აპულიაში: ბარი, მონოპოლი, პოლინიანო-ა-მარე, ალბერობელო და მატერა. გაფრენა ერევნიდან.
-
-ერთ ადამიანზე2 600 ლარი
-
-ტურის ნახვა 
-
-ავიატური
-
 ### [პარიზი, საფრანგეთი — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/ka/turebi/parizi-saprangeti-jgupuri-turi/)
 
 5 დღე10–14 ნოემბერი 2026
@@ -202,5 +190,17 @@ URL: https://besttraveler.ge/ka/turebi/provansi-monako-lazhvardovani-sanapiro/
 10 დღე: რომი, მარაქეში, აიტ-ბენ-ჰადუ, რაბატი, შეფშაუენი, ფესი და კასაბლანკა. მაროკოს ვიზა შედის.
 
 ერთ ადამიანზე2 200 ევრო
+
+ტურის ნახვა 
+
+ავიატური
+
+### [საფრანგეთი: ელზასი და პარიზი — ჯგუფური ტური ქუთაისიდან](https://besttraveler.ge/ka/turebi/saprangeti-elzasi-parizi-turi/)
+
+8 დღე / 7 ღამე19–26 ნოემბერი 2026
+
+8 დღე: რეიმსი, მეცი, სტრასბურგი, ელზასის სოფლები, კოლმარი და პარიზი.
+
+ერთ ადამიანზე4 200 ლარი
 
 ტურის ნახვა

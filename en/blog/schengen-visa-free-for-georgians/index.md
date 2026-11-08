@@ -119,11 +119,11 @@ By plane
 
 ### [Rome, Italy — 8-Day Tour from Kutaisi](https://besttraveler.ge/en/tours/rome-italy-tour-from-kutaisi/)
 
-8 daysItaly
+8 days3–10 May 2027
 
 8 days in Rome: the Vatican, Colosseum, Forum, gardens, palaces and museums.
 
-per person2,300 GEL
+per person2,500 GEL
 
 View tour 
 

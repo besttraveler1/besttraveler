@@ -171,18 +171,6 @@ Dates
 
 By plane
 
-### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
-
-5 days2–6 Nov 2026
-
-5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
-
-per person2,600 GEL
-
-View tour 
-
-By plane
-
 ### [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 
 5 days10–14 Nov 2026
@@ -202,5 +190,17 @@ By plane
 10 days: Rome, Marrakesh, Ait Ben Haddou, Rabat, Chefchaouen, Fes and Casablanca. Morocco visa included.
 
 per person2,200 EUR
+
+View tour 
+
+By plane
+
+### [France: Alsace and Paris — Group Tour from Kutaisi](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
+
+8 days / 7 nights19–26 Nov 2026
+
+8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar and Paris.
+
+per person4,200 GEL
 
 View tour

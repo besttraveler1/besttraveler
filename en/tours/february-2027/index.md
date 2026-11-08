@@ -1,26 +1,14 @@
 # Tours in February 2027 — prices and dates
 
-> 11 tours that start in February 2027: flight tours, bus tours and day tours from Georgia. Prices, dates and full day-by-day programmes.
+> 13 tours that start in February 2027: flight tours, bus tours and day tours from Georgia. Prices, dates and full day-by-day programmes.
 
 URL: https://besttraveler.ge/en/tours/february-2027/
 
 # Tours in February 2027
 
-All our tours that start in February 2027: 11 tours abroad and in Georgia, with prices and full programmes.
+All our tours that start in February 2027: 13 tours abroad and in Georgia, with prices and full programmes.
 
 ## Tours in February 2027
-
-Day tour
-
-### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
-
-1 day7 Nov 2026
-
-Paravani and Saghamo lakes, the Poka monasteries, Gorelovka and the Madatapa reserve.
-
-per person65 GEL
-
-View tour 
 
 By plane
 
@@ -94,6 +82,18 @@ per person2,500 GEL
 
 View tour 
 
+Day tour
+
+### [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
+
+1 day6 Dec 2026
+
+Paravani and Saghamo lakes, the Poka monasteries, Gorelovka and the Madatapa reserve.
+
+per person65 GEL
+
+View tour 
+
 By plane
 
 ### [Lake Nasser Cruise, Cairo and Luxor — Group Tour](https://besttraveler.ge/en/tours/egypt-lake-nasser-cruise-cairo-luxor/)
@@ -132,6 +132,18 @@ View tour
 
 By plane
 
+### [Bari and Puglia, Italy — Group Tour from Yerevan, 2027](https://besttraveler.ge/en/tours/bari-puglia-lecce-ostuni-tour/)
+
+5 days2–6 Feb 2027
+
+Puglia in 5 days: Bari, Polignano a Mare, white Ostuni, baroque Lecce, the trulli of Alberobello and Matera.
+
+per person2,400 GEL
+
+View tour 
+
+By plane
+
 ### [Spain Tour: Barcelona, Toledo, Andalusia and Valencia — 10 Days](https://besttraveler.ge/en/tours/spain-barcelona-andalusia-valencia-tour/)
 
 10 days7–14 Feb 2027
@@ -142,6 +154,18 @@ per person4,500 GEL
 
 View tour 
 
+By plane
+
+### [Tuscany, Elba and San Marino — 10-Day Tour of Italy](https://besttraveler.ge/en/tours/tuscany-elba-san-marino-tour/)
+
+10 days / 9 nights15–24 Feb 2027
+
+Tuscan towns, the Saturnia hot springs, Elba island and San Marino — 10 days.
+
+per person4,500 GEL
+
+View tour 
+
 ## Tours by month
 
-[November 2026 26](https://besttraveler.ge/en/tours/november-2026/)[December 2026 10](https://besttraveler.ge/en/tours/december-2026/)[January 2027 14](https://besttraveler.ge/en/tours/january-2027/)[March 2027 24](https://besttraveler.ge/en/tours/march-2027/)[April 2027 37](https://besttraveler.ge/en/tours/april-2027/)[May 2027 55](https://besttraveler.ge/en/tours/may-2027/)[June 2027 48](https://besttraveler.ge/en/tours/june-2027/)[July 2027 33](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 28](https://besttraveler.ge/en/tours/september-2027/)[October 2027 14](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 12](https://besttraveler.ge/en/tours/new-year-tours-2027/)
+[November 2026 14](https://besttraveler.ge/en/tours/november-2026/)[December 2026 10](https://besttraveler.ge/en/tours/december-2026/)[January 2027 14](https://besttraveler.ge/en/tours/january-2027/)[March 2027 26](https://besttraveler.ge/en/tours/march-2027/)[April 2027 41](https://besttraveler.ge/en/tours/april-2027/)[May 2027 59](https://besttraveler.ge/en/tours/may-2027/)[June 2027 52](https://besttraveler.ge/en/tours/june-2027/)[July 2027 35](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 34](https://besttraveler.ge/en/tours/september-2027/)[October 2027 21](https://besttraveler.ge/en/tours/october-2027/)[New Year tours 2027 11](https://besttraveler.ge/en/tours/new-year-tours-2027/)

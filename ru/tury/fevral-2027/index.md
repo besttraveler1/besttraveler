@@ -1,26 +1,14 @@
 # Туры в феврале 2027 — цены и даты
 
-> 11 туров с началом в феврале 2027: авиатуры, автобусные и однодневные туры из Грузии. Цены, даты и подробная программа по дням.
+> 13 туров с началом в феврале 2027: авиатуры, автобусные и однодневные туры из Грузии. Цены, даты и подробная программа по дням.
 
 URL: https://besttraveler.ge/ru/tury/fevral-2027/
 
 # Туры в феврале 2027
 
-Все наши туры, которые начинаются в феврале 2027: 11 туров за границу и по Грузии, с ценами и программой.
+Все наши туры, которые начинаются в феврале 2027: 13 туров за границу и по Грузии, с ценами и программой.
 
 ## Туры в феврале 2027
-
-Однодневный
-
-### [Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
-
-1 день7 ноября 2026
-
-Озёра Паравани и Сагамо, монастыри Пока, Гореловка и заказник Мадатапа.
-
-за человека65 лари
-
-Смотреть тур 
 
 Авиатур
 
@@ -94,6 +82,18 @@ URL: https://besttraveler.ge/ru/tury/fevral-2027/
 
 Смотреть тур 
 
+Однодневный
+
+### [Тур по озёрам Джавахети: Паравани, Пока, Сагамо, Гореловка](https://besttraveler.ge/ru/tury/ozera-dzhavakheti-paravani-tur/)
+
+1 день6 декабря 2026
+
+Озёра Паравани и Сагамо, монастыри Пока, Гореловка и заказник Мадатапа.
+
+за человека65 лари
+
+Смотреть тур 
+
 Авиатур
 
 ### [Круиз по озеру Насер, Каир и Луксор — групповой тур](https://besttraveler.ge/ru/tury/egipet-kruiz-po-ozeru-naser/)
@@ -132,6 +132,18 @@ URL: https://besttraveler.ge/ru/tury/fevral-2027/
 
 Авиатур
 
+### [Бари и Апулия, Италия — групповой тур из Еревана, 2027](https://besttraveler.ge/ru/tury/bari-apuliya-lechche-ostuni-tur/)
+
+5 дней2–6 февраля 2027
+
+Апулия за 5 дней: Бари, Полиньяно-а-Маре, белый Остуни, барочный Лечче, трулли Альберобелло и Матера.
+
+за человека2 400 лари
+
+Смотреть тур 
+
+Авиатур
+
 ### [Тур по Испании: Барселона, Толедо, Андалусия, Валенсия — 10 дней](https://besttraveler.ge/ru/tury/ispaniya-barselona-andalusiya-valensiya-tur/)
 
 10 дней7–14 февраля 2027
@@ -142,6 +154,18 @@ URL: https://besttraveler.ge/ru/tury/fevral-2027/
 
 Смотреть тур 
 
+Авиатур
+
+### [Тоскана, Эльба и Сан-Марино — тур по Италии на 10 дней](https://besttraveler.ge/ru/tury/toskana-elba-san-marino-tur/)
+
+10 дней / 9 ночей15–24 февраля 2027
+
+Города Тосканы, термальные источники Сатурнии, остров Эльба и Сан-Марино — 10 дней.
+
+за человека4 500 лари
+
+Смотреть тур 
+
 ## Туры по месяцам
 
-[В ноябре 2026 26](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 14](https://besttraveler.ge/ru/tury/yanvar-2027/)[В марте 2027 24](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 37](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 55](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 48](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 33](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 28](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 14](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 12](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)
+[В ноябре 2026 14](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 14](https://besttraveler.ge/ru/tury/yanvar-2027/)[В марте 2027 26](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 41](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 59](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 52](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 35](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 34](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 21](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 11](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)

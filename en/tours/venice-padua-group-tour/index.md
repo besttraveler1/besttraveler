@@ -18,7 +18,7 @@ Photo: [Avisadehh](https://commons.wikimedia.org/w/index.php?curid=151283980), C
 
 Duration5 days / 4 nights
 
-DatesOn request
+Next departure20–24 Apr 2027 +3
 
 DepartureKutaisi (KUT)
 
@@ -30,8 +30,8 @@ Price1,500 GEL
 
 ### Day 1
 
-- Arrival in Venice
-- Padua
+- Arrival in Venice at 00:40
+- Padua (transfer 50 EUR)
 
 - 
 
@@ -42,7 +42,7 @@ Price1,500 GEL
 - Basilica of St Anthony
 - Palazzo della Ragione
 - Caffè Pedrocchi
-- Travel to Venice
+- Travel to Venice (train 5–10 EUR)
 
 - 
 
@@ -67,7 +67,7 @@ Price1,500 GEL
 - Grand Canal
 - Rialto Bridge
 - Basilica of Santa Maria della Salute
-- Transfer to the airport
+- Transfer to the airport (10 EUR)
 - Flight to Kutaisi at 16:35
 
 ## Route on the map
@@ -82,9 +82,9 @@ Map: OpenFreeMap, © OpenMapTiles, © OpenStreetMap contributors
 
 ## Not included
 
-- Transfer Tbilisi–Kutaisi–Tbilisi
-- Museum entrance fees
-- Local transport and transfer
+- Transfer Tbilisi–Kutaisi–Tbilisi (60 GEL)
+- Museum entrance fees (70–100 EUR)
+- Local transport (70–90 EUR) and transfers (60 EUR)
 
 ## Optional extras
 
@@ -100,11 +100,11 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Venice and Padua — 5-Day Group Tour” tour cost?**
 
-The tour costs 1,500 GEL per person.
+The tour costs 1,500 GEL per person. The deposit to book is 700 GEL. The price can change with air fares — please confirm it before booking.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 20–24 Apr 2027, 1–5 Jun 2027, 7–11 Sep 2027, 5–9 Oct 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -116,11 +116,18 @@ Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and pr
 
 Price: 1,500 GELper person: 
 
+Deposit to book: 700 GEL
+
+The price can change with air fares — please confirm it before booking.
+
 ## Dates
 
 Dates
 
-Dates on request
+- 20–24 Apr 2027
+- 1–5 Jun 2027
+- 7–11 Sep 2027
+- 5–9 Oct 2027
 
 - Return flights Kutaisi–Venice–Kutaisi
 - Hotel, 4 nights with breakfast
@@ -134,18 +141,6 @@ Dates on request
 
 By plane
 
-### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
-
-5 days2–6 Nov 2026
-
-5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
-
-per person2,600 GEL
-
-View tour 
-
-By plane
-
 ### [Morocco Group Tour with a Stop in Rome](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 
 10 days / 9 nights13–22 Nov 2026
@@ -153,6 +148,18 @@ By plane
 10 days: Rome, Marrakesh, Ait Ben Haddou, Rabat, Chefchaouen, Fes and Casablanca. Morocco visa included.
 
 per person2,200 EUR
+
+View tour 
+
+By plane
+
+### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
+
+5 days8–12 Dec 2026
+
+5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
+
+per person2,600 GEL
 
 View tour 
 

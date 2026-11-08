@@ -188,7 +188,7 @@ URL: https://besttraveler.ge/ka/turebi/maroko-jgupuri-turi-romis-gavlit/
 
 ### [ბარი და აპულია, იტალია — საახალწლო ჯგუფური ტური ერევნიდან](https://besttraveler.ge/ka/turebi/italia-bari-apulia-saakhaltslo-turi/)
 
-5 დღე2–6 ნოემბერი 2026
+5 დღე8–12 დეკემბერი 2026
 
 5 დღე აპულიაში: ბარი, მონოპოლი, პოლინიანო-ა-მარე, ალბერობელო და მატერა. გაფრენა ერევნიდან.
 
@@ -210,12 +210,12 @@ URL: https://besttraveler.ge/ka/turebi/maroko-jgupuri-turi-romis-gavlit/
 
 ავიატური
 
-### [მალტა რომის გავლით — 8-დღიანი ტური](https://besttraveler.ge/ka/turebi/malta-romis-gavlit-turi/)
+### [ბარი და აპულია, იტალია — ჯგუფური ტური ერევნიდან, 2027](https://besttraveler.ge/ka/turebi/bari-apulia-leche-ostuni-turi/)
 
-8 დღე22–29 მარტი 2027
+5 დღე2–6 თებერვალი 2027
 
-ვალეტა, მდინა, მეთევზეთა სოფლები და პოპაის სოფელი — 8 დღე მალტაზე რომის გავლით.
+აპულია 5 დღეში: ბარი, პოლინიანო-ა-მარე, თეთრი ოსტუნი, ბაროკოს ლეჩე, ალბერობელოს ტრულები და მატერა.
 
-ერთ ადამიანზე4 100 ლარი
+ერთ ადამიანზე2 400 ლარი
 
 ტურის ნახვა

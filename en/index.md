@@ -4,7 +4,7 @@
 
 URL: https://besttraveler.ge/en/
 
-Departures: November – October
+Departures: November – November
 
 # Group tours abroadand in Georgia
 
@@ -13,7 +13,7 @@ Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 23 more 
 [See tours](https://besttraveler.ge/en/tours/)
 [Message us on WhatsApp](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour)
 
-- 113tours
+- 120tours
 - 27countries
 - 50day tours
 - from 60 ₾day tours
@@ -26,7 +26,7 @@ Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 23 more 
 
 ## Choose a type of tour
 
-[45 tours 
+[52 tours 
 
 ### Tours abroad
 
@@ -46,35 +46,23 @@ Kakheti, Kazbegi, Truso, Gareja and more — out in the morning, back at night.]
 
 By plane
 
-### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
+### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
 
-5 days2–6 Nov 2026
+8 days8–15 Nov 2026
 
-5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
+8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
 
-per person2,600 GEL
-
-View tour 
-
-By bus
-
-### [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/)
-
-6 days2–7 Nov 2026
-
-Amasya, Cappadocia, Kayseri, Ordu and Trabzon by bus, with no nights spent on the bus.
-
-per person1,450 GEL
+per person4,500 GEL
 
 View tour 
 
 Day tour
 
-### [A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-1 day7 Nov 2026
+1 day8 Nov 2026
 
-Takhti-Tepa and Kilakupra mud volcanoes, the Dali reservoir and a rock-cut monastery.
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
 per person60 GEL
 
@@ -82,23 +70,11 @@ View tour
 
 Day tour
 
-### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
-1 day7 Nov 2026
+1 day8 Nov 2026
 
-Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
-
-1 day7 Nov 2026
-
-Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
 
 per person60 GEL
 
@@ -106,11 +82,35 @@ View tour
 
 Day tour
 
-### [David Gareja: Sabereebi Desert Monastery Day Tour](https://besttraveler.ge/en/tours/david-gareja-sabereebi-day-trip/)
+### [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
 
-1 day7 Nov 2026
+1 day8 Nov 2026
 
-The rock-cut Sabereebi monastery complex of Gareja, 9th–10th centuries.
+Koroghli Fortress, Udzo monastery, Manglisi Sioni, Buratino Lake and the Didgori memorial.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+
+1 day8 Nov 2026
+
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+
+per person65 GEL
+
+View tour 
+
+Day tour
+
+### [Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake](https://besttraveler.ge/en/tours/tianeti-day-trip/)
+
+1 day8 Nov 2026
+
+Mamkoda monastery, a bear shelter, Tskhvarichamia, the Kor-Shevardeni tower and Sioni Lake.
 
 per person60 GEL
 
@@ -120,7 +120,7 @@ View tour
 
 [Destinations](https://besttraveler.ge/en/destinations/)
 
-[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 8 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 8 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 6 tours](https://besttraveler.ge/en/destinations/spain/)[France 12 tours](https://besttraveler.ge/en/destinations/france/)[Bulgaria 2 tours](https://besttraveler.ge/en/destinations/bulgaria/)[Greece 3 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 5 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
+[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 15 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 8 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 6 tours](https://besttraveler.ge/en/destinations/spain/)[France 12 tours](https://besttraveler.ge/en/destinations/france/)[Bulgaria 2 tours](https://besttraveler.ge/en/destinations/bulgaria/)[Greece 3 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 5 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
 
 ## Why besttraveler
 

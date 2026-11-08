@@ -1,26 +1,14 @@
 # ტურები 2027 წლის თებერვალში — ფასები
 
-> 11 ტური, რომელიც 2027 წლის თებერვალში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
+> 13 ტური, რომელიც 2027 წლის თებერვალში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
 
 URL: https://besttraveler.ge/ka/turebi/tebervali-2027/
 
 # ტურები 2027 წლის თებერვალში
 
-ყველა ჩვენი ტური, რომელიც 2027 წლის თებერვალში იწყება: 11 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
+ყველა ჩვენი ტური, რომელიც 2027 წლის თებერვალში იწყება: 13 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
 
 ## ტურები 2027 წლის თებერვალში
-
-ერთდღიანი
-
-### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
-
-1 დღე7 ნოემბერი 2026
-
-ფარავნისა და საღამოს ტბები, ფოკას მონასტრები, გორელოვკა და მადათაფას აღკვეთილი.
-
-ერთ ადამიანზე65 ლარი
-
-ტურის ნახვა 
 
 ავიატური
 
@@ -94,6 +82,18 @@ URL: https://besttraveler.ge/ka/turebi/tebervali-2027/
 
 ტურის ნახვა 
 
+ერთდღიანი
+
+### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
+
+1 დღე6 დეკემბერი 2026
+
+ფარავნისა და საღამოს ტბები, ფოკას მონასტრები, გორელოვკა და მადათაფას აღკვეთილი.
+
+ერთ ადამიანზე65 ლარი
+
+ტურის ნახვა 
+
 ავიატური
 
 ### [ნასერის ტბის კრუიზი, კაირო და ლუქსორი — ჯგუფური ტური](https://besttraveler.ge/ka/turebi/egvipte-naseris-tbis-kruizi/)
@@ -132,6 +132,18 @@ URL: https://besttraveler.ge/ka/turebi/tebervali-2027/
 
 ავიატური
 
+### [ბარი და აპულია, იტალია — ჯგუფური ტური ერევნიდან, 2027](https://besttraveler.ge/ka/turebi/bari-apulia-leche-ostuni-turi/)
+
+5 დღე2–6 თებერვალი 2027
+
+აპულია 5 დღეში: ბარი, პოლინიანო-ა-მარე, თეთრი ოსტუნი, ბაროკოს ლეჩე, ალბერობელოს ტრულები და მატერა.
+
+ერთ ადამიანზე2 400 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
 ### [ესპანეთის ტური: ბარსელონა, ტოლედო, ანდალუსია, ვალენსია — 10 დღე](https://besttraveler.ge/ka/turebi/espaneti-barselona-andalusia-valensia-turi/)
 
 10 დღე7–14 თებერვალი 2027
@@ -142,6 +154,18 @@ URL: https://besttraveler.ge/ka/turebi/tebervali-2027/
 
 ტურის ნახვა 
 
+ავიატური
+
+### [ტოსკანა, ელბა და სან-მარინო — 10-დღიანი ტური იტალიაში](https://besttraveler.ge/ka/turebi/toskana-elba-san-marino-turi/)
+
+10 დღე / 9 ღამე15–24 თებერვალი 2027
+
+ტოსკანის ქალაქები, სატურნიის თერმული წყაროები, კუნძული ელბა და სან-მარინო — 10 დღე.
+
+ერთ ადამიანზე4 500 ლარი
+
+ტურის ნახვა 
+
 ## ტურები თვეების მიხედვით
 
-[ნოემბერში 2026 26](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[მარტში 2027 24](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 37](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 55](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 48](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 33](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 28](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 14](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 12](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
+[ნოემბერში 2026 14](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[მარტში 2027 26](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 41](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 59](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 52](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 35](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 34](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 21](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 11](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)

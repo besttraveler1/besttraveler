@@ -115,11 +115,11 @@ URL: https://besttraveler.ge/ka/blogi/marokos-viza-kartvelebistvis/
 
 ### [რომი, იტალია — 8-დღიანი ტური ქუთაისიდან](https://besttraveler.ge/ka/turebi/romi-italia-turi-kutaisidan/)
 
-8 დღეიტალია
+8 დღე3–10 მაისი 2027
 
 8 დღე რომში: ვატიკანი, კოლოსეუმი, ფორუმი, ბაღები, სასახლეები და მუზეუმები.
 
-ერთ ადამიანზე2 300 ლარი
+ერთ ადამიანზე2 500 ლარი
 
 ტურის ნახვა 
 

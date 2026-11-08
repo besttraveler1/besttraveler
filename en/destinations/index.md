@@ -8,7 +8,7 @@ URL: https://besttraveler.ge/en/destinations/
 
 Countries where besttraveler runs tours: Egypt, Italy, Spain, France, Turkey, Armenia, Greece and more, with prices and dates.
 
-[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 8 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 8 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 6 tours](https://besttraveler.ge/en/destinations/spain/)[France 12 tours](https://besttraveler.ge/en/destinations/france/)[Bulgaria 2 tours](https://besttraveler.ge/en/destinations/bulgaria/)[Greece 3 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 5 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
+[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 15 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 8 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 6 tours](https://besttraveler.ge/en/destinations/spain/)[France 12 tours](https://besttraveler.ge/en/destinations/france/)[Bulgaria 2 tours](https://besttraveler.ge/en/destinations/bulgaria/)[Greece 3 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 5 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
 
 ## More countries in our tours
 
@@ -44,10 +44,11 @@ Countries where besttraveler runs tours: Egypt, Italy, Spain, France, Turkey, Ar
 
 ### Switzerland
 
-2 tours: 
+3 tours: 
 
 - [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein 8 days / 7 nights · 4,500 GEL](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
 - [France, Germany and Switzerland: Alsace, the Black Forest and Basel 8 days / 7 nights · 4,500 GEL](https://besttraveler.ge/en/tours/france-germany-switzerland-tour/)
+- [Italian Lakes: Orta, Maggiore, Como, Iseo and Garda — 8 Days 8 days / 7 nights · 4,300 GEL](https://besttraveler.ge/en/tours/italian-lakes-tour-como-maggiore-garda/)
 
 ### Germany
 

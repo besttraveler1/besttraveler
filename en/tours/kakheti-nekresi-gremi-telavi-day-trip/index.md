@@ -18,7 +18,7 @@ Photo: [Image by falco from Pixabay](https://commons.wikimedia.org/w/index.php?c
 
 Duration1 day
 
-Next departure7 Nov 2026 +13
+Next departure18 Apr 2027 +12
 
 DepartureTbilisi, 08:00
 
@@ -57,7 +57,7 @@ The tour costs 60 GEL per person.
 
 **When does the tour leave?**
 
-Next dates: 7 Nov 2026, 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027, 15 May 2027. Please check free places by phone or WhatsApp.
+Next dates: 18 Apr 2027, 24 Apr 2027, 2 May 2027, 9 May 2027, 15 May 2027, 13 Jun 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -73,7 +73,6 @@ Price: 60 GELper person:
 
 Dates
 
-- 7 Nov 2026
 - 18 Apr 2027
 - 24 Apr 2027
 - 2 May 2027
@@ -100,23 +99,11 @@ Dates
 
 Day tour
 
-### [A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
+### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-1 day7 Nov 2026
+1 day8 Nov 2026
 
-Takhti-Tepa and Kilakupra mud volcanoes, the Dali reservoir and a rock-cut monastery.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Classic Kakheti: Ujarma, Gombori, Shuamta, Ikalto, Alaverdi](https://besttraveler.ge/en/tours/kakheti-alaverdi-ikalto-day-trip/)
-
-1 day7 Nov 2026
-
-Ujarma fortress-town, Gombori Pass, Shuamta, Ikalto, Tetri Giorgi and Alaverdi.
+Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
 per person60 GEL
 
@@ -124,11 +111,23 @@ View tour
 
 Day tour
 
-### [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
-1 day7 Nov 2026
+1 day8 Nov 2026
 
-Dodo's Rka, David Gareja monastery, the colorful mountains and Mravaltskaro reservoir.
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
+
+1 day8 Nov 2026
+
+Koroghli Fortress, Udzo monastery, Manglisi Sioni, Buratino Lake and the Didgori memorial.
 
 per person60 GEL
 

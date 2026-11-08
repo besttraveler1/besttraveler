@@ -84,7 +84,7 @@ You pay a deposit to book and the rest 15 days before the tour. [Booking and pay
 
 **How much does the “Venice Carnival 2027 — 4-Day Tour of Italy” tour cost?**
 
-The tour costs 1,500 GEL per person.
+The tour costs 1,500 GEL per person. The deposit to book is 700 GEL. The price can change with air fares — please confirm it before booking.
 
 **When does the tour leave?**
 
@@ -99,6 +99,10 @@ Return flights Kutaisi–Venice–Kutaisi; Hotel with breakfast; Travel insuranc
 Call or message us on WhatsApp at +995 579 57 56 36. We confirm the place and price. The rest is paid 15 days before the tour.
 
 Price: 1,500 GELper person: 
+
+Deposit to book: 700 GEL
+
+The price can change with air fares — please confirm it before booking.
 
 ## Dates
 
@@ -119,18 +123,6 @@ Dates
 
 By plane
 
-### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
-
-5 days2–6 Nov 2026
-
-5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
-
-per person2,600 GEL
-
-View tour 
-
-By plane
-
 ### [Morocco Group Tour with a Stop in Rome](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 
 10 days / 9 nights13–22 Nov 2026
@@ -143,12 +135,24 @@ View tour
 
 By plane
 
-### [Malta via Rome — 8-Day Tour](https://besttraveler.ge/en/tours/malta-tour-via-rome/)
+### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
 
-8 days22–29 Mar 2027
+5 days8–12 Dec 2026
 
-Valletta, Mdina, fishing villages and Popeye Village — 8 days in Malta via Rome.
+5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
 
-per person4,100 GEL
+per person2,600 GEL
+
+View tour 
+
+By plane
+
+### [Bari and Puglia, Italy — Group Tour from Yerevan, 2027](https://besttraveler.ge/en/tours/bari-puglia-lecce-ostuni-tour/)
+
+5 days2–6 Feb 2027
+
+Puglia in 5 days: Bari, Polignano a Mare, white Ostuni, baroque Lecce, the trulli of Alberobello and Matera.
+
+per person2,400 GEL
 
 View tour

@@ -152,12 +152,12 @@ View tour
 
 By plane
 
-### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
+### [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
 
-5 days2–6 Nov 2026
+8 days8–15 Nov 2026
 
-5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
+8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
 
-per person2,600 GEL
+per person4,500 GEL
 
 View tour

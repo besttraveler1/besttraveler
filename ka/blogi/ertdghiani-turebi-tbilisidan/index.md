@@ -91,7 +91,7 @@ URL: https://besttraveler.ge/ka/blogi/ertdghiani-turebi-tbilisidan/
 
 ### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
 
-1 დღე7 ნოემბერი 2026
+1 დღე8 ნოემბერი 2026
 
 დარიალის მონასტერი, გველეთის დიდი და პატარა ჩანჩქერი, გერგეტის სამება და გუდაურის პანორამა.
 
@@ -115,7 +115,7 @@ URL: https://besttraveler.ge/ka/blogi/ertdghiani-turebi-tbilisidan/
 
 ### [ფერადი უდაბნო და დავით გარეჯი: დოდოს რქა, მრავალწყარო](https://besttraveler.ge/ka/turebi/peradi-udabno-davit-gareja-turi/)
 
-1 დღე7 ნოემბერი 2026
+1 დღე13 მარტი 2027
 
 დოდოს რქა, დავით გარეჯის მონასტერი, ფერადი მთები და მრავალწყაროს წყალსაცავი.
 
@@ -139,7 +139,7 @@ URL: https://besttraveler.ge/ka/blogi/ertdghiani-turebi-tbilisidan/
 
 ### [ჯავახეთის ტბების ტური: ფარავანი, ფოკა, საღამო, გორელოვკა](https://besttraveler.ge/ka/turebi/javakhetis-tbebi-paravani-turi/)
 
-1 დღე7 ნოემბერი 2026
+1 დღე6 დეკემბერი 2026
 
 ფარავნისა და საღამოს ტბები, ფოკას მონასტრები, გორელოვკა და მადათაფას აღკვეთილი.
 

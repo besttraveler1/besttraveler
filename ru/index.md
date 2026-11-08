@@ -4,7 +4,7 @@
 
 URL: https://besttraveler.ge/ru/
 
-Выезды: ноябрь – октябрь
+Выезды: ноябрь – ноябрь
 
 # Туры за границуи по Грузии
 
@@ -13,7 +13,7 @@ URL: https://besttraveler.ge/ru/
 [Смотреть туры](https://besttraveler.ge/ru/tury/)
 [Написать в WhatsApp](https://wa.me/995579575636?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D1%82%D1%83%D1%80)
 
-- 113туров
+- 120туров
 - 27стран
 - 50однодневных туров
 - от 60 ₾однодневные туры
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/
 
 ## Выберите тип тура
 
-[45 туров 
+[52 туров 
 
 ### Туры за границу
 
@@ -46,35 +46,23 @@ URL: https://besttraveler.ge/ru/
 
 Авиатур
 
-### [Бари и Апулия, Италия — новогодний групповой тур через Ереван](https://besttraveler.ge/ru/tury/italiya-bari-apuliya-novogodniy-tur/)
+### [Круиз по Нилу: Луксор, Асуан, Абу-Симбел, Хургада и Эль-Гуна](https://besttraveler.ge/ru/tury/kruiz-po-nilu-luksor-asuan-khurgada/)
 
-5 дней2–6 ноября 2026
+8 дней8–15 ноября 2026
 
-5 дней в Апулии: Бари, Монополи, Полиньяно-а-Маре, Альберобелло и Матера. Вылет из Еревана.
+8 дней в Египте: круиз по Нилу от Луксора до Асуана, Хургада и Эль-Гуна.
 
-за человека2 600 лари
-
-Смотреть тур 
-
-На автобусе
-
-### [Каппадокия, Амасья и Орду: автобусный тур на 6 дней](https://besttraveler.ge/ru/tury/kappadokiya-amasya-avtobusnyy-tur/)
-
-6 дней2–7 ноября 2026
-
-Амасья, Каппадокия, Кайсери, Орду и Трабзон на автобусе — без ночей в автобусе.
-
-за человека1 450 лари
+за человека4 500 лари
 
 Смотреть тур 
 
 Однодневный
 
-### [Другой Вашловани: грязевые вулканы Тахти-Тепа и Килакупра](https://besttraveler.ge/ru/tury/gryazevye-vulkany-vashlovani-tur/)
+### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
 
-1 день7 ноября 2026
+1 день8 ноября 2026
 
-Грязевые вулканы Тахти-Тепа и Килакупра, водохранилище Дали и высеченный в скале монастырь.
+Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
 
 за человека60 лари
 
@@ -82,23 +70,11 @@ URL: https://besttraveler.ge/ru/
 
 Однодневный
 
-### [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
+### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
 
-1 день7 ноября 2026
+1 день8 ноября 2026
 
-Город-крепость Уджарма, Гомборский перевал, Шуамта, Икалто, Тетри Гиорги и Алаверди.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
-
-1 день7 ноября 2026
-
-Додос Рка, монастырь Давид Гареджи, цветные горы и водохранилище Мравалцкаро.
+Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
 
 за человека60 лари
 
@@ -106,11 +82,35 @@ URL: https://besttraveler.ge/ru/
 
 Однодневный
 
-### [Давид Гареджи: однодневный тур в пустыню Сабереби](https://besttraveler.ge/ru/tury/david-garedzhi-sabereebi-tur/)
+### [Однодневный тур Коджори – Манглиси](https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/)
 
-1 день7 ноября 2026
+1 день8 ноября 2026
 
-Высеченный в скале монастырский комплекс Сабереби в Гареджи, IX–X века.
+Крепость Корогли, монастырь Удзо, Манглисский Сиони, озеро Буратино и мемориал Дидгори.
+
+за человека60 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
+
+1 день8 ноября 2026
+
+Зарзма, монастырь и водопад Чуле, Рабат в Ахалцихе и Сапара, с гидом.
+
+за человека65 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Однодневный тур в Тианети: Мамкода, Цхваричамия, Эрцо, озеро Сиони](https://besttraveler.ge/ru/tury/tianeti-odnodnevnyy-tur/)
+
+1 день8 ноября 2026
+
+Монастырь Мамкода, приют для медведей, Цхваричамия, башня Кор-Шеварден и озеро Сиони.
 
 за человека60 лари
 
@@ -120,7 +120,7 @@ URL: https://besttraveler.ge/ru/
 
 [Направления](https://besttraveler.ge/ru/napravleniya/)
 
-[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 8 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 8 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 6 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 12 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Болгария 2 туров](https://besttraveler.ge/ru/napravleniya/bolgariya/)[Греция 3 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 5 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 56 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
+[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 15 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 8 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 6 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 12 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Болгария 2 туров](https://besttraveler.ge/ru/napravleniya/bolgariya/)[Греция 3 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 5 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 56 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
 
 ## Почему besttraveler
 

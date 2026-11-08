@@ -127,7 +127,7 @@ URL: https://besttraveler.ge/ru/blog/odnodnevnye-tury-v-kakhetiyu/
 
 ### [Классическая Кахетия: Уджарма, Гомбори, Шуамта, Икалто, Алаверди](https://besttraveler.ge/ru/tury/kakhetiya-alaverdi-ikalto-tur/)
 
-1 день7 ноября 2026
+1 день11 апреля 2027
 
 Город-крепость Уджарма, Гомборский перевал, Шуамта, Икалто, Тетри Гиорги и Алаверди.
 
@@ -139,7 +139,7 @@ URL: https://besttraveler.ge/ru/blog/odnodnevnye-tury-v-kakhetiyu/
 
 ### [Тур по Кахетии: Некреси, озеро Ильи, Греми, Телави](https://besttraveler.ge/ru/tury/kakhetiya-nekresi-gremi-telavi-tur/)
 
-1 день7 ноября 2026
+1 день18 апреля 2027
 
 Монастырский комплекс Некреси, озеро Ильи, Греми и «Батонис Цихе» в Телави за один день.
 
@@ -151,7 +151,7 @@ URL: https://besttraveler.ge/ru/blog/odnodnevnye-tury-v-kakhetiyu/
 
 ### [Тур по Кахетии: Чаилури, Гурджаанская Квелацминда, Зегаани, Санагире](https://besttraveler.ge/ru/tury/kakhetiya-gurdzhaani-zegaani-tur/)
 
-1 день7 ноября 2026
+1 день18 апреля 2027
 
 Крепость Чаилури, Гурджаанская Квелацминда, музей Нато Вачнадзе, озеро Зиари, Зегаани и Санагире.
 
@@ -163,7 +163,7 @@ URL: https://besttraveler.ge/ru/blog/odnodnevnye-tury-v-kakhetiyu/
 
 ### [Цветная пустыня и Давид Гареджи: Додос Рка, Мравалцкаро](https://besttraveler.ge/ru/tury/tsvetnaya-pustynya-david-garedzhi/)
 
-1 день7 ноября 2026
+1 день13 марта 2027
 
 Додос Рка, монастырь Давид Гареджи, цветные горы и водохранилище Мравалцкаро.
 

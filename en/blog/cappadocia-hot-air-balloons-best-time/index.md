@@ -85,7 +85,7 @@ By bus
 
 ### [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/)
 
-6 days2–7 Nov 2026
+6 days13–18 Apr 2027
 
 Amasya, Cappadocia, Kayseri, Ordu and Trabzon by bus, with no nights spent on the bus.
 

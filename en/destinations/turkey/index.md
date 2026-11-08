@@ -11,21 +11,9 @@ Tours to Turkey: Istanbul, Cappadocia, historic Tao-Klarjeti, Trabzon, Kars, Van
 - 8 tours
 - from 450 ₾
 - 3–14 days
-- Next: 2–7 Nov 2026
+- Next: 3–8 Mar 2027
 
 ## Tours to Turkey
-
-By bus
-
-### [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/)
-
-6 days2–7 Nov 2026
-
-Amasya, Cappadocia, Kayseri, Ordu and Trabzon by bus, with no nights spent on the bus.
-
-per person1,450 GEL
-
-View tour 
 
 By plane
 
@@ -84,6 +72,18 @@ By bus
 Georgian monasteries and fortresses of historic Tao-Klarjeti: Tbeti, Artanuji, Oshki, Parkhali and Bana.
 
 per person480 GEL
+
+View tour 
+
+By bus
+
+### [Cappadocia, Amasya and Ordu: 6-Day Bus Tour from Tbilisi](https://besttraveler.ge/en/tours/cappadocia-amasya-bus-tour-from-tbilisi/)
+
+6 days13–18 Apr 2027
+
+Amasya, Cappadocia, Kayseri, Ordu and Trabzon by bus, with no nights spent on the bus.
+
+per person1,450 GEL
 
 View tour 
 

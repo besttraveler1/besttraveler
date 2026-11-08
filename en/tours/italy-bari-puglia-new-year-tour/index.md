@@ -22,7 +22,7 @@ Photo: [Pizzaemandolino](https://commons.wikimedia.org/w/index.php?curid=1872880
 
 Duration5 days
 
-Next departure2–6 Nov 2026 +3
+Next departure8–12 Dec 2026
 
 DepartureYerevan (EVN)
 
@@ -35,14 +35,14 @@ Price2,600 GEL
 ### Day 1
 
 - Travel to Yerevan
+- Flight from Yerevan at 18:45
+- Arrival in Bari at 19:40
+- Transfer to the hotel
 
 - 
 
 ### Day 2
 
-- Flight from Yerevan at 05:30
-- Arrival in Bari at 07:15
-- Transfer to the hotel
 - Basilica of Saint Nicholas, Bari
 - Monopoli
 - Polignano a Mare
@@ -65,9 +65,10 @@ Price2,600 GEL
 
 ### Day 5
 
+- Bari
 - Transfer to the airport
-- Flight to Yerevan at 07:50
-- Arrival in Yerevan at 13:15
+- Flight to Yerevan at 20:40
+- Arrival in Yerevan at 03:05
 - Return to Tbilisi
 
 ## Route on the map
@@ -103,7 +104,7 @@ The tour costs 2,600 GEL per person. The deposit to book is 800 GEL.
 
 **When does the tour leave?**
 
-Next dates: 2–6 Nov 2026, 23–27 Nov 2026, 7–11 Dec 2026, 21–25 Dec 2026. Please check free places by phone or WhatsApp.
+Next dates: 8–12 Dec 2026. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -121,10 +122,7 @@ Deposit to book: 800 GEL
 
 Dates
 
-- 2–6 Nov 2026
-- 23–27 Nov 2026
-- 7–11 Dec 2026
-- 21–25 Dec 2026
+- 8–12 Dec 2026
 
 - Flights Yerevan–Bari–Yerevan
 - Hand luggage 10 kg (40x30x20 cm)
@@ -163,12 +161,12 @@ View tour
 
 By plane
 
-### [Malta via Rome — 8-Day Tour](https://besttraveler.ge/en/tours/malta-tour-via-rome/)
+### [Bari and Puglia, Italy — Group Tour from Yerevan, 2027](https://besttraveler.ge/en/tours/bari-puglia-lecce-ostuni-tour/)
 
-8 days22–29 Mar 2027
+5 days2–6 Feb 2027
 
-Valletta, Mdina, fishing villages and Popeye Village — 8 days in Malta via Rome.
+Puglia in 5 days: Bari, Polignano a Mare, white Ostuni, baroque Lecce, the trulli of Alberobello and Matera.
 
-per person4,100 GEL
+per person2,400 GEL
 
 View tour

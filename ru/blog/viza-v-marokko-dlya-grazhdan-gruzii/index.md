@@ -115,11 +115,11 @@ URL: https://besttraveler.ge/ru/blog/viza-v-marokko-dlya-grazhdan-gruzii/
 
 ### [Рим, Италия — тур на 8 дней из Кутаиси](https://besttraveler.ge/ru/tury/rim-italiya-tur-iz-kutaisi/)
 
-8 днейИталия
+8 дней3–10 мая 2027
 
 8 дней в Риме: Ватикан, Колизей, Форум, сады, дворцы и музеи.
 
-за человека2 300 лари
+за человека2 500 лари
 
 Смотреть тур 
 

@@ -26,7 +26,7 @@ Photo: [Erik Albers](https://commons.wikimedia.org/w/index.php?curid=63496829), 
 
 Duration8 days
 
-DatesOn request
+Next departure5–12 Apr 2027
 
 DepartureYerevan (EVN)
 
@@ -138,7 +138,7 @@ The tour costs 5,700 GEL per person. The deposit to book is 1,700 GEL.
 
 **When does the tour leave?**
 
-We will tell you the dates and free places by phone or WhatsApp.
+Next dates: 5–12 Apr 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -156,7 +156,7 @@ Deposit to book: 1,700 GEL
 
 Dates
 
-Dates on request
+- 5–12 Apr 2027
 
 - Flight from Yerevan to Italy
 - Flights Catania–Istanbul–Tbilisi
@@ -171,18 +171,6 @@ Dates on request
 
 By plane
 
-### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
-
-5 days2–6 Nov 2026
-
-5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
-
-per person2,600 GEL
-
-View tour 
-
-By plane
-
 ### [Morocco Group Tour with a Stop in Rome](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
 
 10 days / 9 nights13–22 Nov 2026
@@ -190,6 +178,18 @@ By plane
 10 days: Rome, Marrakesh, Ait Ben Haddou, Rabat, Chefchaouen, Fes and Casablanca. Morocco visa included.
 
 per person2,200 EUR
+
+View tour 
+
+By plane
+
+### [Bari and Puglia, Italy — New Year Group Tour via Yerevan](https://besttraveler.ge/en/tours/italy-bari-puglia-new-year-tour/)
+
+5 days8–12 Dec 2026
+
+5 days in Puglia: Bari, Monopoli, Polignano a Mare, Alberobello and Matera. Flight from Yerevan.
+
+per person2,600 GEL
 
 View tour 
 

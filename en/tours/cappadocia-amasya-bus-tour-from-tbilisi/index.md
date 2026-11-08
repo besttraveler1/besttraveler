@@ -21,7 +21,7 @@ Photo: [Feridun F. Alkaya](https://commons.wikimedia.org/w/index.php?curid=91480
 
 Duration6 days
 
-Next departure2–7 Nov 2026 +3
+Next departure13–18 Apr 2027 +2
 
 DepartureTbilisi, 06:00
 
@@ -125,7 +125,7 @@ The tour costs 1,450 GEL per person. The deposit to book is 300 GEL.
 
 **When does the tour leave?**
 
-Next dates: 2–7 Nov 2026, 13–18 Apr 2027, 12–17 May 2027, 18–23 Jun 2027. Please check free places by phone or WhatsApp.
+Next dates: 13–18 Apr 2027, 12–17 May 2027, 18–23 Jun 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -143,7 +143,6 @@ Deposit to book: 300 GEL
 
 Dates
 
-- 2–7 Nov 2026
 - 13–18 Apr 2027
 - 12–17 May 2027
 - 18–23 Jun 2027

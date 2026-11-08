@@ -121,7 +121,7 @@ URL: https://besttraveler.ge/ka/blogi/puli-sazghvargaret-baratebi-naghdi/
 
 ### [კაპადოკია, ამასია და ორდუ — 6-დღიანი ავტობუსური ტური](https://besttraveler.ge/ka/turebi/kapadokia-amasia-ordu-avtobusuri-turi/)
 
-6 დღე2–7 ნოემბერი 2026
+6 დღე13–18 აპრილი 2027
 
 ამასია, კაპადოკია, კაისერი, ორდუ და ტრაპიზონი ავტობუსით — ღამით მგზავრობის გარეშე.
 

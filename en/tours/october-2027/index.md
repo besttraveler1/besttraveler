@@ -1,50 +1,14 @@
 # Tours in October 2027 — prices and dates
 
-> 14 tours that start in October 2027: flight tours, bus tours and day tours from Georgia. Prices, dates and full day-by-day programmes.
+> 21 tours that start in October 2027: flight tours, bus tours and day tours from Georgia. Prices, dates and full day-by-day programmes.
 
 URL: https://besttraveler.ge/en/tours/october-2027/
 
 # Tours in October 2027
 
-All our tours that start in October 2027: 14 tours abroad and in Georgia, with prices and full programmes.
+All our tours that start in October 2027: 21 tours abroad and in Georgia, with prices and full programmes.
 
 ## Tours in October 2027
-
-Day tour
-
-### [A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
-
-1 day7 Nov 2026
-
-Takhti-Tepa and Kilakupra mud volcanoes, the Dali reservoir and a rock-cut monastery.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Gudamakari Day Tour: Zanduki, Chokhi, Dumatskho, Didebaani Waterfall](https://besttraveler.ge/en/tours/gudamakari-gorge-day-tour/)
-
-1 day7 Nov 2026
-
-Zanduki church, the villages of Chokhi and Dumatskho and the Didebaani waterfall, with three short walks.
-
-per person70 GEL
-
-View tour 
-
-Day tour
-
-### [Rkoni and Kvatakhevi Day Tour: Kvatakhevi, Ertatsminda, Rkoni, Ikvi](https://besttraveler.ge/en/tours/rkoni-kvatakhevi-day-tour/)
-
-1 day7 Nov 2026
-
-Kvatakhevi Monastery, Ertatsminda, Rkoni Monastery with Queen Tamar's Bridge and Ikvi church in one day.
-
-per person60 GEL
-
-View tour 
 
 By plane
 
@@ -70,6 +34,42 @@ per person60 GEL
 
 View tour 
 
+By plane
+
+### [Bari and Puglia, Italy — Group Tour from Yerevan, 2027](https://besttraveler.ge/en/tours/bari-puglia-lecce-ostuni-tour/)
+
+5 days2–6 Feb 2027
+
+Puglia in 5 days: Bari, Polignano a Mare, white Ostuni, baroque Lecce, the trulli of Alberobello and Matera.
+
+per person2,400 GEL
+
+View tour 
+
+By plane
+
+### [Tuscany, Elba and San Marino — 10-Day Tour of Italy](https://besttraveler.ge/en/tours/tuscany-elba-san-marino-tour/)
+
+10 days / 9 nights15–24 Feb 2027
+
+Tuscan towns, the Saturnia hot springs, Elba island and San Marino — 10 days.
+
+per person4,500 GEL
+
+View tour 
+
+By plane
+
+### [Rome, Italy — 4-Day Tour from Kutaisi](https://besttraveler.ge/en/tours/rome-4-day-tour/)
+
+4 days / 3 nights9–12 Apr 2027
+
+Rome in 4 days: the Vatican and Sistine Chapel, the Colosseum, the Roman Forum, the Pantheon and the Trevi Fountain.
+
+per person1,600 GEL
+
+View tour 
+
 Day tour
 
 ### [Shida Kartli Tour: Skhvilo, Breti, Ruisi, Samtavisi, Urbnisi](https://besttraveler.ge/en/tours/samtavisi-ruisi-urbnisi-day-tour/)
@@ -84,6 +84,18 @@ View tour
 
 Day tour
 
+### [A Different Vashlovani: Takhti-Tepa and Kilakupra Mud Volcanoes](https://besttraveler.ge/en/tours/vashlovani-mud-volcanoes-day-tour/)
+
+1 day18 Apr 2027
+
+Takhti-Tepa and Kilakupra mud volcanoes, the Dali reservoir and a rock-cut monastery.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
 ### [Kvemo Kartli and Pitareti: Khuluti, Tandzia, Kveshi, Bolnisi Sioni](https://besttraveler.ge/en/tours/pitareti-bolnisi-kvemo-kartli-tour/)
 
 1 day18 Apr 2027
@@ -91,6 +103,30 @@ Day tour
 Pitareti Monastery, Khuluti and Kveshi fortresses, the Sulkhan-Saba museum, Bolnisi Sioni and Tsughrughasheni.
 
 per person60 GEL
+
+View tour 
+
+By plane
+
+### [Venice and Padua — 5-Day Group Tour](https://besttraveler.ge/en/tours/venice-padua-group-tour/)
+
+5 days / 4 nights20–24 Apr 2027
+
+Padua and Venice: San Marco, the Doge's Palace, Murano, Burano and the Rialto — 5 days.
+
+per person1,500 GEL
+
+View tour 
+
+By plane
+
+### [Rome, Italy — 8-Day Tour from Kutaisi](https://besttraveler.ge/en/tours/rome-italy-tour-from-kutaisi/)
+
+8 days3–10 May 2027
+
+8 days in Rome: the Vatican, Colosseum, Forum, gardens, palaces and museums.
+
+per person2,500 GEL
 
 View tour 
 
@@ -142,6 +178,18 @@ per person60 GEL
 
 View tour 
 
+By plane
+
+### [Southern Italy by Car — Naples, Capri and the Amalfi Coast](https://besttraveler.ge/en/tours/southern-italy-naples-amalfi-coast-tour/)
+
+10 days / 9 nights17–26 May 2027
+
+10 days by car: Castel Gandolfo, Naples, Capri, Pompeii, Positano, Amalfi and Tivoli.
+
+per person4,100 GEL
+
+View tour 
+
 Day tour
 
 ### [Borjomi Tour: Daba, Timotesubani, Borjomi Park, Green Monastery](https://besttraveler.ge/en/tours/borjomi-timotesubani-green-monastery-tour/)
@@ -178,6 +226,42 @@ per person60 GEL
 
 View tour 
 
+By plane
+
+### [Italian Lakes: Orta, Maggiore, Como, Iseo and Garda — 8 Days](https://besttraveler.ge/en/tours/italian-lakes-tour-como-maggiore-garda/)
+
+8 days / 7 nights5–12 Jul 2027
+
+Five lakes in one tour: Orta, Maggiore, Como, Iseo and Garda, with islands, villas and gardens.
+
+per person4,300 GEL
+
+View tour 
+
+Day tour
+
+### [Rkoni and Kvatakhevi Day Tour: Kvatakhevi, Ertatsminda, Rkoni, Ikvi](https://besttraveler.ge/en/tours/rkoni-kvatakhevi-day-tour/)
+
+1 day17 Sep 2027
+
+Kvatakhevi Monastery, Ertatsminda, Rkoni Monastery with Queen Tamar's Bridge and Ikvi church in one day.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Gudamakari Day Tour: Zanduki, Chokhi, Dumatskho, Didebaani Waterfall](https://besttraveler.ge/en/tours/gudamakari-gorge-day-tour/)
+
+1 day23 Sep 2027
+
+Zanduki church, the villages of Chokhi and Dumatskho and the Didebaani waterfall, with three short walks.
+
+per person70 GEL
+
+View tour 
+
 ## Tours by month
 
-[November 2026 26](https://besttraveler.ge/en/tours/november-2026/)[December 2026 10](https://besttraveler.ge/en/tours/december-2026/)[January 2027 14](https://besttraveler.ge/en/tours/january-2027/)[February 2027 11](https://besttraveler.ge/en/tours/february-2027/)[March 2027 24](https://besttraveler.ge/en/tours/march-2027/)[April 2027 37](https://besttraveler.ge/en/tours/april-2027/)[May 2027 55](https://besttraveler.ge/en/tours/may-2027/)[June 2027 48](https://besttraveler.ge/en/tours/june-2027/)[July 2027 33](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 28](https://besttraveler.ge/en/tours/september-2027/)[New Year tours 2027 12](https://besttraveler.ge/en/tours/new-year-tours-2027/)
+[November 2026 14](https://besttraveler.ge/en/tours/november-2026/)[December 2026 10](https://besttraveler.ge/en/tours/december-2026/)[January 2027 14](https://besttraveler.ge/en/tours/january-2027/)[February 2027 13](https://besttraveler.ge/en/tours/february-2027/)[March 2027 26](https://besttraveler.ge/en/tours/march-2027/)[April 2027 41](https://besttraveler.ge/en/tours/april-2027/)[May 2027 59](https://besttraveler.ge/en/tours/may-2027/)[June 2027 52](https://besttraveler.ge/en/tours/june-2027/)[July 2027 35](https://besttraveler.ge/en/tours/july-2027/)[August 2027 30](https://besttraveler.ge/en/tours/august-2027/)[September 2027 34](https://besttraveler.ge/en/tours/september-2027/)[New Year tours 2027 11](https://besttraveler.ge/en/tours/new-year-tours-2027/)
