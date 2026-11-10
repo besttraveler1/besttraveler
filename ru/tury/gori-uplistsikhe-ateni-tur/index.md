@@ -107,7 +107,7 @@ URL: https://besttraveler.ge/ru/tury/gori-uplistsikhe-ateni-tur/
 
 ### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
 
-1 день8 ноября 2026
+1 день21 ноября 2026
 
 Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
 
@@ -117,13 +117,13 @@ URL: https://besttraveler.ge/ru/tury/gori-uplistsikhe-ateni-tur/
 
 Однодневный
 
-### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
+### [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
 
-1 день8 ноября 2026
+1 день21 ноября 2026
 
-Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
+Зарзма, монастырь и водопад Чуле, Рабат в Ахалцихе и Сапара, с гидом.
 
-за человека60 лари
+за человека65 лари
 
 Смотреть тур 
 
@@ -131,7 +131,7 @@ URL: https://besttraveler.ge/ru/tury/gori-uplistsikhe-ateni-tur/
 
 ### [Однодневный тур Коджори – Манглиси](https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/)
 
-1 день8 ноября 2026
+1 день22 ноября 2026
 
 Крепость Корогли, монастырь Удзо, Манглисский Сиони, озеро Буратино и мемориал Дидгори.
 

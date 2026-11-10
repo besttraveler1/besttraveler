@@ -8,7 +8,7 @@ URL: https://besttraveler.ge/en/destinations/france/
 
 Group tours to France: Paris, Alsace, Provence, the Côte d'Azur and the Alps.
 
-- 12 tours
+- 14 tours
 - from 2500 ₾
 - 5–10 days
 - Next: 10–14 Nov 2026
@@ -34,6 +34,18 @@ By plane
 8 days / 7 nights19–26 Nov 2026
 
 8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar and Paris.
+
+per person4,200 GEL
+
+View tour 
+
+By plane
+
+### [New Year Tour: Alsace, Germany and Luxembourg — 15–22 December](https://besttraveler.ge/en/tours/new-year-tour-alsace-germany-luxembourg/)
+
+8 days / 7 nights15–22 Dec 2026
+
+Alsace and Germany at New Year: Strasbourg, Colmar, Alsace villages, Freiburg, Heidelberg, Rothenburg and Luxembourg.
 
 per person4,200 GEL
 
@@ -72,6 +84,18 @@ By plane
 Catalonia, Andorra and southern France, ending with three days in Barcelona — 10 days.
 
 per person4,700 GEL
+
+View tour 
+
+By plane
+
+### [4 Countries in 10 Days: France, Luxembourg, Germany, Belgium — Flights from Tbilisi](https://besttraveler.ge/en/tours/france-luxembourg-germany-belgium-tour/)
+
+10 days / 9 nights3–12 May 2027
+
+4 countries in 10 days: Cologne, Normandy, Mont-Saint-Michel, La Rochelle, the Loire châteaux, Champagne and Luxembourg.
+
+per person4,600 GEL
 
 View tour 
 

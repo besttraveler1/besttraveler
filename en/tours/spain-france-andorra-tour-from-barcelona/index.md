@@ -232,12 +232,12 @@ View tour
 
 By plane
 
-### [Southern Spain and Gibraltar — Group Tour, 27 January – 3 February](https://besttraveler.ge/en/tours/southern-spain-andalusia-gibraltar-tour/)
+### [New Year Tour: Alsace, Germany and Luxembourg — 15–22 December](https://besttraveler.ge/en/tours/new-year-tour-alsace-germany-luxembourg/)
 
-8 days / 7 nights27 Jan – 3 Feb 2027
+8 days / 7 nights15–22 Dec 2026
 
-8 days in Andalusia: Gibraltar, white villages, Ronda, Seville, Córdoba and the Alhambra.
+Alsace and Germany at New Year: Strasbourg, Colmar, Alsace villages, Freiburg, Heidelberg, Rothenburg and Luxembourg.
 
-per person4,800 GEL
+per person4,200 GEL
 
 View tour

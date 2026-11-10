@@ -20,7 +20,7 @@ Photo: [Unknown](https://commons.wikimedia.org/w/index.php?curid=81934884), CC0
 
 Duration1 day
 
-Next departure8 Nov 2026 +6
+Next departure22 Nov 2026 +5
 
 DepartureTbilisi, 08:00
 
@@ -62,7 +62,7 @@ The tour costs 60 GEL per person.
 
 **When does the tour leave?**
 
-Next dates: 8 Nov 2026, 22 Nov 2026, 28 Mar 2027, 11 Apr 2027, 25 Apr 2027, 9 May 2027. Please check free places by phone or WhatsApp.
+Next dates: 22 Nov 2026, 28 Mar 2027, 11 Apr 2027, 25 Apr 2027, 9 May 2027, 23 May 2027. Please check free places by phone or WhatsApp.
 
 **What is included in the price?**
 
@@ -78,7 +78,6 @@ Price: 60 GELper person:
 
 Dates
 
-- 8 Nov 2026
 - 22 Nov 2026
 - 28 Mar 2027
 - 11 Apr 2027
@@ -100,7 +99,7 @@ Day tour
 
 ### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-1 day8 Nov 2026
+1 day21 Nov 2026
 
 Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
@@ -110,24 +109,24 @@ View tour
 
 Day tour
 
-### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
+### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
 
-1 day8 Nov 2026
+1 day21 Nov 2026
 
-Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
+Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
 
-per person60 GEL
+per person65 GEL
 
 View tour 
 
 Day tour
 
-### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
+### [Shida Kartli Tour: Gori Fortress, Gorijvari, Uplistsikhe, Ateni Sioni](https://besttraveler.ge/en/tours/gori-uplistsikhe-ateni-day-tour/)
 
-1 day8 Nov 2026
+1 day21 Nov 2026
 
-Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
+Gori Fortress, St George of Gorijvari, Uplistsikhe, the Ateni churches and Tseroskhevi, on fixed dates.
 
-per person65 GEL
+per person60 GEL
 
 View tour

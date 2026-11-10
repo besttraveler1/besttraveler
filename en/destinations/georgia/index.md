@@ -11,7 +11,7 @@ One-day tours from Tbilisi by minibus: Kakheti, Kazbegi, Truso, David Gareja, Ja
 - 56 tours
 - from 60 ₾
 - 1–3 days
-- Next: 8 Nov 2026
+- Next: 21 Nov 2026
 
 ## Day tours in Georgia
 
@@ -19,7 +19,7 @@ Day tour
 
 ### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-1 day8 Nov 2026
+1 day21 Nov 2026
 
 Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
 
@@ -29,49 +29,13 @@ View tour
 
 Day tour
 
-### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
-
-1 day8 Nov 2026
-
-Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
-
-1 day8 Nov 2026
-
-Koroghli Fortress, Udzo monastery, Manglisi Sioni, Buratino Lake and the Didgori memorial.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
 ### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
 
-1 day8 Nov 2026
+1 day21 Nov 2026
 
 Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
 
 per person65 GEL
-
-View tour 
-
-Day tour
-
-### [Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake](https://besttraveler.ge/en/tours/tianeti-day-trip/)
-
-1 day8 Nov 2026
-
-Mamkoda monastery, a bear shelter, Tskhvarichamia, the Kor-Shevardeni tower and Sioni Lake.
-
-per person60 GEL
 
 View tour 
 
@@ -82,6 +46,18 @@ Day tour
 1 day21 Nov 2026
 
 Gori Fortress, St George of Gorijvari, Uplistsikhe, the Ateni churches and Tseroskhevi, on fixed dates.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
+
+1 day22 Nov 2026
+
+Koroghli Fortress, Udzo monastery, Manglisi Sioni, Buratino Lake and the Didgori memorial.
 
 per person60 GEL
 
@@ -130,6 +106,18 @@ Day tour
 1 day13 Mar 2027
 
 The rock-cut Sabereebi monastery complex of Gareja, 9th–10th centuries.
+
+per person60 GEL
+
+View tour 
+
+Day tour
+
+### [Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake](https://besttraveler.ge/en/tours/tianeti-day-trip/)
+
+1 day28 Mar 2027
+
+Mamkoda monastery, a bear shelter, Tskhvarichamia, the Kor-Shevardeni tower and Sioni Lake.
 
 per person60 GEL
 
@@ -336,6 +324,18 @@ Day tour
 Datvijvari Pass, Lebaiskari tower, the Guro rock formations, Shatili and the Anatori crypts.
 
 per person70 GEL
+
+View tour 
+
+Day tour
+
+### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
+
+1 day27 May 2027
+
+Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
+
+per person60 GEL
 
 View tour 
 

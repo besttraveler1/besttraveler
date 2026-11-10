@@ -161,6 +161,18 @@ View tour
 
 By plane
 
+### [New Year Tour: Alsace, Germany and Luxembourg — 15–22 December](https://besttraveler.ge/en/tours/new-year-tour-alsace-germany-luxembourg/)
+
+8 days / 7 nights15–22 Dec 2026
+
+Alsace and Germany at New Year: Strasbourg, Colmar, Alsace villages, Freiburg, Heidelberg, Rothenburg and Luxembourg.
+
+per person4,200 GEL
+
+View tour 
+
+By plane
+
 ### [Burgundy and Franche-Comté: Cluny, Dijon and Beaune](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
 
 8 days / 7 nights2–9 Mar 2027
@@ -168,17 +180,5 @@ By plane
 Castles and abbeys of Burgundy, Dijon, Beaune and the waterfalls of Franche-Comté in 8 days.
 
 per person4,500 GEL
-
-View tour 
-
-By plane
-
-### [Corsica, France — 10-Day Group Tour with Paris](https://besttraveler.ge/en/tours/corsica-group-tour-from-kutaisi/)
-
-10 days / 9 nights19–28 Mar 2027
-
-10 days: Filitosa, Bonifacio, Porto-Vecchio, Bastia, Cap Corse, the Calanques de Piana, Ajaccio and Paris.
-
-per person5,300 GEL
 
 View tour

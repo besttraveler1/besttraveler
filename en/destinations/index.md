@@ -8,7 +8,7 @@ URL: https://besttraveler.ge/en/destinations/
 
 Countries where besttraveler runs tours: Egypt, Italy, Spain, France, Turkey, Armenia, Greece and more, with prices and dates.
 
-[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 15 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 8 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 6 tours](https://besttraveler.ge/en/destinations/spain/)[France 12 tours](https://besttraveler.ge/en/destinations/france/)[Bulgaria 2 tours](https://besttraveler.ge/en/destinations/bulgaria/)[Greece 3 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 5 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
+[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 15 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 8 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 6 tours](https://besttraveler.ge/en/destinations/spain/)[France 14 tours](https://besttraveler.ge/en/destinations/france/)[Bulgaria 2 tours](https://besttraveler.ge/en/destinations/bulgaria/)[Greece 3 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 5 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
 
 ## More countries in our tours
 
@@ -52,10 +52,12 @@ Countries where besttraveler runs tours: Egypt, Italy, Spain, France, Turkey, Ar
 
 ### Germany
 
-3 tours: 
+5 tours: 
 
 - [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein 8 days / 7 nights · 4,500 GEL](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
 - [Netherlands and Germany: Tulip Festival — 8-Day Tour 8 days · 4,100 GEL](https://besttraveler.ge/en/tours/netherlands-tulip-festival-tour/)
+- [4 Countries in 10 Days: France, Luxembourg, Germany, Belgium — Flights from Tbilisi 10 days / 9 nights · 4,600 GEL](https://besttraveler.ge/en/tours/france-luxembourg-germany-belgium-tour/)
+- [New Year Tour: Alsace, Germany and Luxembourg — 15–22 December 8 days / 7 nights · 4,200 GEL](https://besttraveler.ge/en/tours/new-year-tour-alsace-germany-luxembourg/)
 - [France, Germany and Switzerland: Alsace, the Black Forest and Basel 8 days / 7 nights · 4,500 GEL](https://besttraveler.ge/en/tours/france-germany-switzerland-tour/)
 
 ### Austria
@@ -83,11 +85,19 @@ Countries where besttraveler runs tours: Egypt, Italy, Spain, France, Turkey, Ar
 
 - [Vilnius, Lithuania — 5-Day Tour from Kutaisi 5 days / 4 nights · 1,500 GEL](https://besttraveler.ge/en/tours/vilnius-lithuania-tour-from-kutaisi/)
 
+### Luxembourg
+
+2 tours: 
+
+- [4 Countries in 10 Days: France, Luxembourg, Germany, Belgium — Flights from Tbilisi 10 days / 9 nights · 4,600 GEL](https://besttraveler.ge/en/tours/france-luxembourg-germany-belgium-tour/)
+- [New Year Tour: Alsace, Germany and Luxembourg — 15–22 December 8 days / 7 nights · 4,200 GEL](https://besttraveler.ge/en/tours/new-year-tour-alsace-germany-luxembourg/)
+
 ### Belgium
 
-1 tours: 
+2 tours: 
 
 - [Belgium and the Netherlands — 8-Day Group Tour 8 days · 4,300 GEL](https://besttraveler.ge/en/tours/belgium-netherlands-group-tour/)
+- [4 Countries in 10 Days: France, Luxembourg, Germany, Belgium — Flights from Tbilisi 10 days / 9 nights · 4,600 GEL](https://besttraveler.ge/en/tours/france-luxembourg-germany-belgium-tour/)
 
 ### Malta
 

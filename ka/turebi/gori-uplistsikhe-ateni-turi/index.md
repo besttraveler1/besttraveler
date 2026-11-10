@@ -107,7 +107,7 @@ URL: https://besttraveler.ge/ka/turebi/gori-uplistsikhe-ateni-turi/
 
 ### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
 
-1 დღე8 ნოემბერი 2026
+1 დღე21 ნოემბერი 2026
 
 ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
 
@@ -117,13 +117,13 @@ URL: https://besttraveler.ge/ka/turebi/gori-uplistsikhe-ateni-turi/
 
 ერთდღიანი
 
-### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
+### [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/)
 
-1 დღე8 ნოემბერი 2026
+1 დღე21 ნოემბერი 2026
 
-დარიალის მონასტერი, გველეთის დიდი და პატარა ჩანჩქერი, გერგეტის სამება და გუდაურის პანორამა.
+ზარზმა, ჭულეს მონასტერი და ჩანჩქერი, ახალციხის რაბათი და საფარა, გიდთან ერთად.
 
-ერთ ადამიანზე60 ლარი
+ერთ ადამიანზე65 ლარი
 
 ტურის ნახვა 
 
@@ -131,7 +131,7 @@ URL: https://besttraveler.ge/ka/turebi/gori-uplistsikhe-ateni-turi/
 
 ### [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/kojori-manglisi-ertdghiani-turi/)
 
-1 დღე8 ნოემბერი 2026
+1 დღე22 ნოემბერი 2026
 
 ქოროღლის ციხე, უძოს მონასტერი, მანგლისის სიონი, ბურატინოს ტბა და დიდგორის მემორიალი.
 

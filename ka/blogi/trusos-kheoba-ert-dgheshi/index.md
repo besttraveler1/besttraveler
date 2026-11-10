@@ -106,7 +106,7 @@ URL: https://besttraveler.ge/ka/blogi/trusos-kheoba-ert-dgheshi/
 
 ### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
 
-1 დღე8 ნოემბერი 2026
+1 დღე27 მაისი 2027
 
 დარიალის მონასტერი, გველეთის დიდი და პატარა ჩანჩქერი, გერგეტის სამება და გუდაურის პანორამა.
 

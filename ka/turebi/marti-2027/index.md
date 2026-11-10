@@ -22,30 +22,6 @@ URL: https://besttraveler.ge/ka/turebi/marti-2027/
 
 ტურის ნახვა 
 
-ერთდღიანი
-
-### [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/kojori-manglisi-ertdghiani-turi/)
-
-1 დღე8 ნოემბერი 2026
-
-ქოროღლის ციხე, უძოს მონასტერი, მანგლისის სიონი, ბურატინოს ტბა და დიდგორის მემორიალი.
-
-ერთ ადამიანზე60 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [თიანეთის ერთდღიანი ტური: მამკოდა, ცხვარიჭამია, ერწო, სიონის ტბა](https://besttraveler.ge/ka/turebi/tianeti-ertdghiani-turi/)
-
-1 დღე8 ნოემბერი 2026
-
-მამკოდის მონასტერი, დათვების თავშესაფარი, ცხვარიჭამია, ქორ-შევარდენის კოშკი და სიონის ტბა.
-
-ერთ ადამიანზე60 ლარი
-
-ტურის ნახვა 
-
 ავიატური
 
 ### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/ka/turebi/egvipte-hurgada-luksori-suetsis-arkhi/)
@@ -79,6 +55,18 @@ URL: https://besttraveler.ge/ka/turebi/marti-2027/
 9 დღე ეგვიპტეში: კრუიზი ნილოსზე, აბუ-სიმბელი, გიზას პირამიდები და ალექსანდრია.
 
 ერთ ადამიანზე6 550 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
+### [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/kojori-manglisi-ertdghiani-turi/)
+
+1 დღე22 ნოემბერი 2026
+
+ქოროღლის ციხე, უძოს მონასტერი, მანგლისის სიონი, ბურატინოს ტბა და დიდგორის მემორიალი.
+
+ერთ ადამიანზე60 ლარი
 
 ტურის ნახვა 
 
@@ -322,6 +310,18 @@ URL: https://besttraveler.ge/ka/turebi/marti-2027/
 
 ტურის ნახვა 
 
+ერთდღიანი
+
+### [თიანეთის ერთდღიანი ტური: მამკოდა, ცხვარიჭამია, ერწო, სიონის ტბა](https://besttraveler.ge/ka/turebi/tianeti-ertdghiani-turi/)
+
+1 დღე28 მარტი 2027
+
+მამკოდის მონასტერი, დათვების თავშესაფარი, ცხვარიჭამია, ქორ-შევარდენის კოშკი და სიონის ტბა.
+
+ერთ ადამიანზე60 ლარი
+
+ტურის ნახვა 
+
 ## ტურები თვეების მიხედვით
 
-[ნოემბერში 2026 14](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 13](https://besttraveler.ge/ka/turebi/tebervali-2027/)[აპრილში 2027 41](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 59](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 52](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 35](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 34](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 21](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 11](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
+[ნოემბერში 2026 12](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 11](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 13](https://besttraveler.ge/ka/turebi/tebervali-2027/)[აპრილში 2027 41](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 60](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 52](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[ივლისში 2027 36](https://besttraveler.ge/ka/turebi/ivlisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 35](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 21](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 12](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)

@@ -195,12 +195,12 @@ View tour
 
 By plane
 
-### [Burgundy and Franche-Comté: Cluny, Dijon and Beaune](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
+### [New Year Tour: Alsace, Germany and Luxembourg — 15–22 December](https://besttraveler.ge/en/tours/new-year-tour-alsace-germany-luxembourg/)
 
-8 days / 7 nights2–9 Mar 2027
+8 days / 7 nights15–22 Dec 2026
 
-Castles and abbeys of Burgundy, Dijon, Beaune and the waterfalls of Franche-Comté in 8 days.
+Alsace and Germany at New Year: Strasbourg, Colmar, Alsace villages, Freiburg, Heidelberg, Rothenburg and Luxembourg.
 
-per person4,500 GEL
+per person4,200 GEL
 
 View tour

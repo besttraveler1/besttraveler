@@ -159,6 +159,30 @@ Dates on request
 
 By plane
 
+### [New Year Tour: Alsace, Germany and Luxembourg — 15–22 December](https://besttraveler.ge/en/tours/new-year-tour-alsace-germany-luxembourg/)
+
+8 days / 7 nights15–22 Dec 2026
+
+Alsace and Germany at New Year: Strasbourg, Colmar, Alsace villages, Freiburg, Heidelberg, Rothenburg and Luxembourg.
+
+per person4,200 GEL
+
+View tour 
+
+By plane
+
+### [4 Countries in 10 Days: France, Luxembourg, Germany, Belgium — Flights from Tbilisi](https://besttraveler.ge/en/tours/france-luxembourg-germany-belgium-tour/)
+
+10 days / 9 nights3–12 May 2027
+
+4 countries in 10 days: Cologne, Normandy, Mont-Saint-Michel, La Rochelle, the Loire châteaux, Champagne and Luxembourg.
+
+per person4,600 GEL
+
+View tour 
+
+By plane
+
 ### [France, Germany and Switzerland: Alsace, the Black Forest and Basel](https://besttraveler.ge/en/tours/france-germany-switzerland-tour/)
 
 8 days / 7 nights24–31 May 2027
@@ -166,29 +190,5 @@ By plane
 Alsace villages, Colmar, Strasbourg, the Black Forest, Freiburg and small Swiss towns in 8 days.
 
 per person4,500 GEL
-
-View tour 
-
-By plane
-
-### [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
-
-8 days / 7 nights14–21 Jun 2027
-
-8 days by car in five countries: Annecy, Chillon, Lauterbrunnen, Lucerne, Vaduz, Neuschwanstein, Bern.
-
-per person4,500 GEL
-
-View tour 
-
-By plane
-
-### [Belgium and the Netherlands — 8-Day Group Tour](https://besttraveler.ge/en/tours/belgium-netherlands-group-tour/)
-
-8 daysBelgium, Netherlands
-
-Brussels, Amsterdam, Dutch villages, Keukenhof, Ghent and Bruges — 8 days.
-
-per person4,300 GEL
 
 View tour

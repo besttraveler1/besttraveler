@@ -91,7 +91,7 @@ URL: https://besttraveler.ge/ru/blog/odnodnevnye-tury-iz-tbilisi/
 
 ### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
 
-1 день8 ноября 2026
+1 день27 мая 2027
 
 Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
 
@@ -127,7 +127,7 @@ URL: https://besttraveler.ge/ru/blog/odnodnevnye-tury-iz-tbilisi/
 
 ### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
 
-1 день8 ноября 2026
+1 день21 ноября 2026
 
 Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
 

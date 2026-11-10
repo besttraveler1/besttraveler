@@ -8,13 +8,13 @@ URL: https://besttraveler.ge/
 
 # ტურები საზღვარგარეთდა საქართველოში
 
-ჯგუფური მოგზაურობები თბილისიდან და ქუთაისიდან — ეგვიპტე, იტალია, ესპანეთი, თურქეთი და კიდევ 23 ქვეყანა. ერთდღიანი ტურები საქართველოში 60 ლარიდან.
+ჯგუფური მოგზაურობები თბილისიდან და ქუთაისიდან — ეგვიპტე, იტალია, ესპანეთი, თურქეთი და კიდევ 24 ქვეყანა. ერთდღიანი ტურები საქართველოში 60 ლარიდან.
 
 [ტურების ნახვა](https://besttraveler.ge/ka/turebi/)
 [მოგვწერეთ WhatsApp-ზე](https://wa.me/995579575636?text=%E1%83%92%E1%83%90%E1%83%9B%E1%83%90%E1%83%A0%E1%83%AF%E1%83%9D%E1%83%91%E1%83%90%21%20%E1%83%9B%E1%83%90%E1%83%98%E1%83%9C%E1%83%A2%E1%83%94%E1%83%A0%E1%83%94%E1%83%A1%E1%83%94%E1%83%91%E1%83%A1%20%E1%83%A2%E1%83%A3%E1%83%A0%E1%83%98)
 
-- 120ტური
-- 27ქვეყანა
+- 122ტური
+- 28ქვეყანა
 - 50ერთდღიანი ტური
 - 60 ₾-დანერთდღიანი ტურები
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/
 
 ## აირჩიეთ ტურის ტიპი
 
-[52 ტური 
+[54 ტური 
 
 ### ტურები საზღვარგარეთ
 
@@ -56,61 +56,61 @@ URL: https://besttraveler.ge/
 
 ტურის ნახვა 
 
+ავიატური
+
+### [ჰურგადა, ლუქსორი, პორტ-საიდი და სუეცის არხი — 7 დღე](https://besttraveler.ge/ka/turebi/egvipte-hurgada-luksori-suetsis-arkhi/)
+
+7 დღე / 6 ღამე9–15 ნოემბერი 2026
+
+7 დღე ჰურგადაში: სუეცის არხი და პორტ-საიდი, ჰულა-ჰულას კუნძული, ლუქსორი და მონასტრები.
+
+ერთ ადამიანზე6 100 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [პარიზი, საფრანგეთი — 5-დღიანი ჯგუფური ტური](https://besttraveler.ge/ka/turebi/parizi-saprangeti-jgupuri-turi/)
+
+5 დღე10–14 ნოემბერი 2026
+
+5 დღე პარიზში: ვერსალი, ლუვრი, მონმარტრი, შანზ-ელიზე და ნოტრ-დამი.
+
+ერთ ადამიანზე2 500 ლარი
+
+ტურის ნახვა 
+
+ავიატური
+
+### [მაროკოს ჯგუფური ტური რომის გავლით](https://besttraveler.ge/ka/turebi/maroko-jgupuri-turi-romis-gavlit/)
+
+10 დღე / 9 ღამე13–22 ნოემბერი 2026
+
+10 დღე: რომი, მარაქეში, აიტ-ბენ-ჰადუ, რაბატი, შეფშაუენი, ფესი და კასაბლანკა. მაროკოს ვიზა შედის.
+
+ერთ ადამიანზე2 200 ევრო
+
+ტურის ნახვა 
+
+ავიატური
+
+### [საფრანგეთი: ელზასი და პარიზი — ჯგუფური ტური ქუთაისიდან](https://besttraveler.ge/ka/turebi/saprangeti-elzasi-parizi-turi/)
+
+8 დღე / 7 ღამე19–26 ნოემბერი 2026
+
+8 დღე: რეიმსი, მეცი, სტრასბურგი, ელზასის სოფლები, კოლმარი და პარიზი.
+
+ერთ ადამიანზე4 200 ლარი
+
+ტურის ნახვა 
+
 ერთდღიანი
 
 ### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
 
-1 დღე8 ნოემბერი 2026
+1 დღე21 ნოემბერი 2026
 
 ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
-
-ერთ ადამიანზე60 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
-
-1 დღე8 ნოემბერი 2026
-
-დარიალის მონასტერი, გველეთის დიდი და პატარა ჩანჩქერი, გერგეტის სამება და გუდაურის პანორამა.
-
-ერთ ადამიანზე60 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/kojori-manglisi-ertdghiani-turi/)
-
-1 დღე8 ნოემბერი 2026
-
-ქოროღლის ციხე, უძოს მონასტერი, მანგლისის სიონი, ბურატინოს ტბა და დიდგორის მემორიალი.
-
-ერთ ადამიანზე60 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/)
-
-1 დღე8 ნოემბერი 2026
-
-ზარზმა, ჭულეს მონასტერი და ჩანჩქერი, ახალციხის რაბათი და საფარა, გიდთან ერთად.
-
-ერთ ადამიანზე65 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [თიანეთის ერთდღიანი ტური: მამკოდა, ცხვარიჭამია, ერწო, სიონის ტბა](https://besttraveler.ge/ka/turebi/tianeti-ertdghiani-turi/)
-
-1 დღე8 ნოემბერი 2026
-
-მამკოდის მონასტერი, დათვების თავშესაფარი, ცხვარიჭამია, ქორ-შევარდენის კოშკი და სიონის ტბა.
 
 ერთ ადამიანზე60 ლარი
 
@@ -120,7 +120,7 @@ URL: https://besttraveler.ge/
 
 [მიმართულებები](https://besttraveler.ge/ka/mimartulebebi/)
 
-[ეგვიპტე 6 ტური](https://besttraveler.ge/ka/mimartulebebi/egvipte/)[იტალია 15 ტური](https://besttraveler.ge/ka/mimartulebebi/italia/)[თურქეთი 8 ტური](https://besttraveler.ge/ka/mimartulebebi/turketi/)[ესპანეთი 6 ტური](https://besttraveler.ge/ka/mimartulebebi/espaneti/)[საფრანგეთი 12 ტური](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)[ბულგარეთი 2 ტური](https://besttraveler.ge/ka/mimartulebebi/bulgareti/)[საბერძნეთი 3 ტური](https://besttraveler.ge/ka/mimartulebebi/saberdzneti/)[სომხეთი 5 ტური](https://besttraveler.ge/ka/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/ka/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/ka/mimartulebebi/shri-lanka/)[საქართველო 56 ტური](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
+[ეგვიპტე 6 ტური](https://besttraveler.ge/ka/mimartulebebi/egvipte/)[იტალია 15 ტური](https://besttraveler.ge/ka/mimartulebebi/italia/)[თურქეთი 8 ტური](https://besttraveler.ge/ka/mimartulebebi/turketi/)[ესპანეთი 6 ტური](https://besttraveler.ge/ka/mimartulebebi/espaneti/)[საფრანგეთი 14 ტური](https://besttraveler.ge/ka/mimartulebebi/saprangeti/)[ბულგარეთი 2 ტური](https://besttraveler.ge/ka/mimartulebebi/bulgareti/)[საბერძნეთი 3 ტური](https://besttraveler.ge/ka/mimartulebebi/saberdzneti/)[სომხეთი 5 ტური](https://besttraveler.ge/ka/mimartulebebi/somkheti/)[ნიდერლანდები 2 ტური](https://besttraveler.ge/ka/mimartulebebi/niderlandebi/)[შრი-ლანკა 2 ტური](https://besttraveler.ge/ka/mimartulebebi/shri-lanka/)[საქართველო 56 ტური](https://besttraveler.ge/ka/mimartulebebi/sakartvelo/)
 
 ## რატომ besttraveler
 

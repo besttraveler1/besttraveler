@@ -1,6 +1,6 @@
 # besttraveler
 
-> besttraveler (https://besttraveler.ge) is a Georgian travel company that runs group tours from Georgia (Tbilisi, Kutaisi and Yerevan airports, or by minibus from Tbilisi) to 27 countries, and one-day tours around Georgia. Tour organiser: Natali Iashvili. Contact: phone/WhatsApp +995 579 57 56 36, email info@besttraveler.ge. The site is in Georgian (default), English (/en/) and Russian (/ru/).
+> besttraveler (https://besttraveler.ge) is a Georgian travel company that runs group tours from Georgia (Tbilisi, Kutaisi and Yerevan airports, or by minibus from Tbilisi) to 28 countries, and one-day tours around Georgia. Tour organiser: Natali Iashvili. Contact: phone/WhatsApp +995 579 57 56 36, email info@besttraveler.ge. The site is in Georgian (default), English (/en/) and Russian (/ru/).
 
 Booking: a deposit holds a place; the rest is paid 15 days before the tour; money is not returned if the traveller cancels for their own reasons. Payment by bank transfer. Prices of flight tours depend on air fares and can change.
 
@@ -102,118 +102,6 @@ Optional extras:
 - Wadi es-Sebua and the Temple of Derr — 250 USD (optional)
 - Nubian village — 50 USD (optional)
 - Hot-air balloon flight — 90 USD (optional)
-
-## Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe
-
-URL: https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/
-
-- Type: Day tour
-- Countries: Georgia
-- Duration: 1 day
-- Price: 60 GEL per person
-- Departure: From Tbilisi at 08:00
-- Dates: 8 Nov 2026, 21 Nov 2026, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
-
-A one-day tour to Kakheti: Ninotsminda, Manavi Fortress, the Bodbe Convent of St Nino and Sighnaghi.
-
-Stops: Ninotsminda Monastery Complex; Manavi Fortress; Bodbe Convent of St Nino; Sighnaghi
-
-Included:
-- Transport by minibus
-- Tour escort
-- Photography
-
-Not included:
-- Meals (on your own)
-
-Notes:
-- The tour runs in any weather; it is postponed only if there is a problem with the road.
-
-## Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity
-
-URL: https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/
-
-- Type: Day tour
-- Countries: Georgia
-- Duration: 1 day
-- Price: 60 GEL per person
-- Departure: From Tbilisi at 07:00
-- Dates: 8 Nov 2026, 27 May 2027, 5 Jun 2027, 3 Jul 2027, 18 Jul 2027, 25 Jul 2027, 7 Aug 2027, 15 Aug 2027, 22 Aug 2027
-
-A one-day tour to Kazbegi. The walk to the big Gveleti waterfall is 1.2 km one way (medium), and to the small one 500 m.
-
-Stops: Dariali Monastery Complex; Big Gveleti waterfall (walk, 1.2 km one way, medium); Small Gveleti waterfall (walk, easy, 500 m); Gergeti Trinity Church (ride up by local jeep, 10 GEL); Gudauri panorama
-
-Included:
-- Travel by top-class minibus
-- Services of a qualified tour organizer (organization, short overview of the sights)
-- Photography
-
-Not included:
-- Ride up to Gergeti by local jeep — 10 GEL per person
-
-## Kojori and Manglisi Day Tour
-
-URL: https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/
-
-- Type: Day tour
-- Countries: Georgia
-- Duration: 1 day
-- Price: 60 GEL per person
-- Departure: From Tbilisi at 08:00
-- Dates: 8 Nov 2026, 22 Nov 2026, 28 Mar 2027, 11 Apr 2027, 25 Apr 2027, 9 May 2027, 23 May 2027
-
-A one-day minibus tour from Tbilisi to Kojori and Manglisi. The route ends at the Didgori battle memorial.
-
-Stops: Koroghli Fortress; Udzo Monastery; St George Church of Tsveri; Manglisi Sioni Cathedral; Buratino Lake; Didgori battle memorial
-
-Included:
-- Travel by top-class minibus
-- Services of a qualified tour organizer (organization, short overview of the sights)
-- Photography
-
-Notes:
-- The tour runs in any weather; it is postponed only if there is a problem with the road.
-
-## Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara
-
-URL: https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/
-
-- Type: Day tour
-- Countries: Georgia
-- Duration: 1 day
-- Price: 65 GEL per person
-- Departure: From Tbilisi at 07:00
-- Dates: 8 Nov 2026, 21 Nov 2026, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
-
-Travel to mystical Meskheti with guide Giorgi Beridze-Berjavakhi. In one day we see Zarzma, Chule, Akhaltsikhe's Rabati and Sapara.
-
-Stops: Zarzma Monastery; Chule Monastery; Chule waterfall; Akhaltsikhe Fortress (Rabati); Sapara Monastery Complex
-
-Included:
-- Travel by top-class minibus
-- Services of qualified guide Giorgi Beridze-Berjavakhi
-- Photography
-
-## Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake
-
-URL: https://besttraveler.ge/en/tours/tianeti-day-trip/
-
-- Type: Day tour
-- Countries: Georgia
-- Duration: 1 day
-- Price: 60 GEL per person
-- Departure: From Tbilisi at 08:00
-- Dates: 8 Nov 2026, 28 Mar 2027, 11 Apr 2027, 2 May 2027, 23 May 2027
-
-A one-day tour to the Tianeti area: monasteries and churches, a bear shelter, Ertso fortress, Sioni Lake and Sabaduri forest.
-
-Stops: Mamkoda Monastery; Zoological centre (bear shelter); St Elijah Church of Tskhvarichamia; Monastery of St King Archil; Kor-Shevardeni tower (Ertso fortress); Sioni Lake; Sabaduri forest
-
-Included:
-- Travel by top-class minibus
-- Services of a qualified tour organizer (organization, short overview of the sights)
-- Photography
 
 ## Hurghada, Luxor, Port Said and the Suez Canal — 7 Days
 
@@ -365,6 +253,52 @@ Not included:
 - Meals other than breakfast
 - Transfer to Kutaisi and back (60 GEL)
 
+## Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe
+
+URL: https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/
+
+- Type: Day tour
+- Countries: Georgia
+- Duration: 1 day
+- Price: 60 GEL per person
+- Departure: From Tbilisi at 08:00
+- Dates: 21 Nov 2026, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
+
+A one-day tour to Kakheti: Ninotsminda, Manavi Fortress, the Bodbe Convent of St Nino and Sighnaghi.
+
+Stops: Ninotsminda Monastery Complex; Manavi Fortress; Bodbe Convent of St Nino; Sighnaghi
+
+Included:
+- Transport by minibus
+- Tour escort
+- Photography
+
+Not included:
+- Meals (on your own)
+
+Notes:
+- The tour runs in any weather; it is postponed only if there is a problem with the road.
+
+## Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara
+
+URL: https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/
+
+- Type: Day tour
+- Countries: Georgia
+- Duration: 1 day
+- Price: 65 GEL per person
+- Departure: From Tbilisi at 07:00
+- Dates: 21 Nov 2026, 11 Apr 2027, 25 Apr 2027, 1 May 2027, 15 May 2027, 23 May 2027, 12 Jun 2027, 19 Jun 2027, 4 Jul 2027, 11 Jul 2027, 24 Jul 2027, 7 Aug 2027, 15 Aug 2027, 29 Aug 2027
+
+Travel to mystical Meskheti with guide Giorgi Beridze-Berjavakhi. In one day we see Zarzma, Chule, Akhaltsikhe's Rabati and Sapara.
+
+Stops: Zarzma Monastery; Chule Monastery; Chule waterfall; Akhaltsikhe Fortress (Rabati); Sapara Monastery Complex
+
+Included:
+- Travel by top-class minibus
+- Services of qualified guide Giorgi Beridze-Berjavakhi
+- Photography
+
 ## Shida Kartli Tour: Gori Fortress, Gorijvari, Uplistsikhe, Ateni Sioni
 
 URL: https://besttraveler.ge/en/tours/gori-uplistsikhe-ateni-day-tour/
@@ -428,6 +362,29 @@ Not included:
 
 Notes:
 - Places are limited.
+
+## Kojori and Manglisi Day Tour
+
+URL: https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/
+
+- Type: Day tour
+- Countries: Georgia
+- Duration: 1 day
+- Price: 60 GEL per person
+- Departure: From Tbilisi at 08:00
+- Dates: 22 Nov 2026, 28 Mar 2027, 11 Apr 2027, 25 Apr 2027, 9 May 2027, 23 May 2027
+
+A one-day minibus tour from Tbilisi to Kojori and Manglisi. The route ends at the Didgori battle memorial.
+
+Stops: Koroghli Fortress; Udzo Monastery; St George Church of Tsveri; Manglisi Sioni Cathedral; Buratino Lake; Didgori battle memorial
+
+Included:
+- Travel by top-class minibus
+- Services of a qualified tour organizer (organization, short overview of the sights)
+- Photography
+
+Notes:
+- The tour runs in any weather; it is postponed only if there is a problem with the road.
 
 ## Egypt Tour: Cairo and Alexandria, 5 Days
 
@@ -612,6 +569,45 @@ Included:
 
 Not included:
 - Visa fee (25 USD)
+
+## New Year Tour: Alsace, Germany and Luxembourg — 15–22 December
+
+URL: https://besttraveler.ge/en/tours/new-year-tour-alsace-germany-luxembourg/
+
+- Type: By plane
+- Countries: France, Germany, Luxembourg
+- Duration: 8 days / 7 nights
+- Price: 4,200 GEL per person (deposit 900 GEL)
+- Departure: From Kutaisi airport
+- Dates: 15–22 Dec 2026
+
+An 8-day New Year group tour of France, Germany and Luxembourg. Flight from Kutaisi to Frankfurt-Hahn, then the towns and villages of Alsace, the Black Forest and towns on the Romantic Road.
+
+**Day 1:** Arrival at Frankfurt-Hahn airport; Hotel check-in
+**Day 2:** Bernkastel-Kues, Germany; Saarburg, Germany; Luxembourg; Metz, France
+**Day 3:** Strasbourg (free); Barrage Vauban, 17th century (free); 3 hours of free time to explore the city; Scherwiller; Riquewihr; Back to the hotel
+**Day 4:** Eguisheim — named one of France's most beautiful villages in 2003; won a gold medal in the European 'Entente Florale' contest in 2006; Ribeauvillé; Kaysersberg; Back to the hotel
+**Day 5:** Colmar — the third-largest town in Alsace; Little Venice — a Colmar quarter of canals and half-timbered houses by the water (boat ride optional); Breisach am Rhein, Germany; Freiburg im Breisgau, Germany
+**Day 6:** Ettenheim, Germany; Gengenbach, Germany — a small medieval town often called one of Germany's most romantic; Heidelberg
+**Day 7:** Rothenburg ob der Tauber — a medieval town in Bavaria, one of Germany's best-preserved historic towns and a highlight of the Romantic Road; Würzburg; Würzburg Residence (10 EUR); Miltenberg
+**Day 8:** Rüdesheim am Rhein; Transfer to the airport; Flight from Frankfurt-Hahn to Kutaisi
+
+Included:
+- Return flights Kutaisi–Frankfurt-Hahn–Kutaisi
+- Hand luggage 10 kg (40×30×20 cm)
+- Transfers and travel between towns
+- Hotels with breakfast
+- Tour escort
+- Photos
+- Travel insurance
+
+Not included:
+- Museum tickets, optional
+- Meals except breakfast
+- Transfer to Kutaisi and back (60 GEL)
+
+Notes:
+- Places are limited.
 
 ## Sri Lanka Tour: Sigiriya, Kandy, Ella, Mirissa and Colombo
 
@@ -1422,6 +1418,26 @@ Not included:
 Notes:
 - The tour runs in any weather.
 
+## Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake
+
+URL: https://besttraveler.ge/en/tours/tianeti-day-trip/
+
+- Type: Day tour
+- Countries: Georgia
+- Duration: 1 day
+- Price: 60 GEL per person
+- Departure: From Tbilisi at 08:00
+- Dates: 28 Mar 2027, 11 Apr 2027, 2 May 2027, 23 May 2027
+
+A one-day tour to the Tianeti area: monasteries and churches, a bear shelter, Ertso fortress, Sioni Lake and Sabaduri forest.
+
+Stops: Mamkoda Monastery; Zoological centre (bear shelter); St Elijah Church of Tskhvarichamia; Monastery of St King Archil; Kor-Shevardeni tower (Ertso fortress); Sioni Lake; Sabaduri forest
+
+Included:
+- Travel by top-class minibus
+- Services of a qualified tour organizer (organization, short overview of the sights)
+- Photography
+
 ## Sicily and Southern Italy — 8-Day Tour from Yerevan
 
 URL: https://besttraveler.ge/en/tours/sicily-southern-italy-tour/
@@ -1929,6 +1945,46 @@ Notes:
 - The tour runs in any weather; it is postponed only if there is a problem with the road.
 - Bring your ID card: student and pupil discounts apply at the canyon and Tsikhe-Goji.
 
+## 4 Countries in 10 Days: France, Luxembourg, Germany, Belgium — Flights from Tbilisi
+
+URL: https://besttraveler.ge/en/tours/france-luxembourg-germany-belgium-tour/
+
+- Type: By plane
+- Countries: France, Belgium, Luxembourg, Germany
+- Duration: 10 days / 9 nights
+- Price: 4,600 GEL per person (deposit 1,000 GEL)
+- Departure: From Tbilisi airport
+- Dates: 3–12 May 2027, 5–14 Jul 2027, 20–29 Sep 2027
+
+A 10-day group tour of four countries with flights from Tbilisi to Düsseldorf. The route goes through the Belgian Ardennes, Normandy, Brittany, the Loire Valley, Champagne, Luxembourg and Germany.
+
+**Day 1:** Arrival at Düsseldorf airport; Cologne; Bergerhausen castle; La Roche-en-Ardenne; Bouillon
+**Day 2:** Château de Chantilly; The village of Gerberoy; Veules-les-Roses; Étretat
+**Day 3:** Rouen Cathedral (Cathédrale Notre-Dame de Rouen); Domaine du Champ de Bataille, 17th century; Fougères; Château de Fougères
+**Day 4:** Le Mont-Saint-Michel; Mont-Saint-Michel Abbey (20 EUR); Saint-Malo; Dinan
+**Day 5:** La Rochelle; Fort Boyard; Chinon
+**Day 6:** Château d'Ussé; Amboise; Château de Chenonceau
+**Day 7:** Château de Chambord; Château de Fontainebleau; Provins
+**Day 8:** Château Perrier, Épernay; Reims; Orval Abbey (Abbaye Notre-Dame d'Orval); Luxembourg
+**Day 9:** Grand Château d'Ansembourg; Vianden; Monschau; Stolberg (Rhineland); Cologne
+**Day 10:** Cologne
+
+Included:
+- Flights Tbilisi–Düsseldorf–Tbilisi
+- Luggage 20 kg
+- Transport for the whole tour, airport to airport
+- Hotels with breakfast
+- Tour escort
+- Photos
+- Travel insurance
+
+Not included:
+- Museum tickets, optional (200–250 EUR)
+- Meals except breakfast
+
+Notes:
+- Places are limited.
+
 ## Rome, Italy — 8-Day Tour from Kutaisi
 
 URL: https://besttraveler.ge/en/tours/rome-italy-tour-from-kutaisi/
@@ -2370,6 +2426,29 @@ Not included:
 
 Notes:
 - The order of visits may change.
+
+## Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity
+
+URL: https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/
+
+- Type: Day tour
+- Countries: Georgia
+- Duration: 1 day
+- Price: 60 GEL per person
+- Departure: From Tbilisi at 07:00
+- Dates: 27 May 2027, 5 Jun 2027, 3 Jul 2027, 18 Jul 2027, 25 Jul 2027, 7 Aug 2027, 15 Aug 2027, 22 Aug 2027
+
+A one-day tour to Kazbegi. The walk to the big Gveleti waterfall is 1.2 km one way (medium), and to the small one 500 m.
+
+Stops: Dariali Monastery Complex; Big Gveleti waterfall (walk, 1.2 km one way, medium); Small Gveleti waterfall (walk, easy, 500 m); Gergeti Trinity Church (ride up by local jeep, 10 GEL); Gudauri panorama
+
+Included:
+- Travel by top-class minibus
+- Services of a qualified tour organizer (organization, short overview of the sights)
+- Photography
+
+Not included:
+- Ride up to Gergeti by local jeep — 10 GEL per person
 
 ## Svaneti 3-Day Tour: Enguri Dam, Mestia, Koruldi Lakes, Ushguli
 

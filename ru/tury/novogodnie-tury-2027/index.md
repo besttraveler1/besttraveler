@@ -120,6 +120,18 @@ URL: https://besttraveler.ge/ru/tury/novogodnie-tury-2027/
 
 Авиатур
 
+### [Новогодний тур: Эльзас, Германия и Люксембург — 15–22 декабря](https://besttraveler.ge/ru/tury/novogodniy-tur-elzas-germaniya-lyuksemburg/)
+
+8 дней / 7 ночей15–22 декабря 2026
+
+Новогодний Эльзас и Германия: Страсбург, Кольмар, деревни Эльзаса, Фрайбург, Гейдельберг, Ротенбург и Люксембург.
+
+за человека4 200 лари
+
+Смотреть тур 
+
+Авиатур
+
 ### [Шри-Ланка: Сигирия, Канди, Элла, Мирисса и Коломбо](https://besttraveler.ge/ru/tury/shri-lanka-kandi-ella-mirissa-tur/)
 
 8 дней / 6 ночей9–16 января 2027
@@ -144,4 +156,4 @@ URL: https://besttraveler.ge/ru/tury/novogodnie-tury-2027/
 
 ## Туры по месяцам
 
-[В ноябре 2026 14](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 14](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 13](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 26](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 41](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 59](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 52](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 35](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 34](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 21](https://besttraveler.ge/ru/tury/oktyabr-2027/)
+[В ноябре 2026 12](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 11](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 14](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 13](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 26](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 41](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 60](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 52](https://besttraveler.ge/ru/tury/iyun-2027/)[В июле 2027 36](https://besttraveler.ge/ru/tury/iyul-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 35](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 21](https://besttraveler.ge/ru/tury/oktyabr-2027/)

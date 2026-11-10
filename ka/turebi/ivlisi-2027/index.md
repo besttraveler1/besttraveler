@@ -1,50 +1,14 @@
 # ტურები 2027 წლის ივლისში — ფასები
 
-> 35 ტური, რომელიც 2027 წლის ივლისში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
+> 36 ტური, რომელიც 2027 წლის ივლისში იწყება: ავიატურები, ავტობუსით ტურები და ერთდღიანი ტურები. ფასი, თარიღები და პროგრამა.
 
 URL: https://besttraveler.ge/ka/turebi/ivlisi-2027/
 
 # ტურები 2027 წლის ივლისში
 
-ყველა ჩვენი ტური, რომელიც 2027 წლის ივლისში იწყება: 35 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
+ყველა ჩვენი ტური, რომელიც 2027 წლის ივლისში იწყება: 36 ტური საზღვარგარეთ და საქართველოში, ფასებითა და პროგრამით.
 
 ## ტურები 2027 წლის ივლისში
-
-ერთდღიანი
-
-### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
-
-1 დღე8 ნოემბერი 2026
-
-ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
-
-ერთ ადამიანზე60 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
-
-1 დღე8 ნოემბერი 2026
-
-დარიალის მონასტერი, გველეთის დიდი და პატარა ჩანჩქერი, გერგეტის სამება და გუდაურის პანორამა.
-
-ერთ ადამიანზე60 ლარი
-
-ტურის ნახვა 
-
-ერთდღიანი
-
-### [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/)
-
-1 დღე8 ნოემბერი 2026
-
-ზარზმა, ჭულეს მონასტერი და ჩანჩქერი, ახალციხის რაბათი და საფარა, გიდთან ერთად.
-
-ერთ ადამიანზე65 ლარი
-
-ტურის ნახვა 
 
 ავიატური
 
@@ -55,6 +19,30 @@ URL: https://besttraveler.ge/ka/turebi/ivlisi-2027/
 5 დღე პარიზში: ვერსალი, ლუვრი, მონმარტრი, შანზ-ელიზე და ნოტრ-დამი.
 
 ერთ ადამიანზე2 500 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
+### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
+
+1 დღე21 ნოემბერი 2026
+
+ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
+
+ერთ ადამიანზე60 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
+### [სამცხე-ჯავახეთის ტური: ზარზმა, ჭულე, ახალციხე, საფარა](https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-turi/)
+
+1 დღე21 ნოემბერი 2026
+
+ზარზმა, ჭულეს მონასტერი და ჩანჩქერი, ახალციხის რაბათი და საფარა, გიდთან ერთად.
+
+ერთ ადამიანზე65 ლარი
 
 ტურის ნახვა 
 
@@ -142,6 +130,18 @@ URL: https://besttraveler.ge/ka/turebi/ivlisi-2027/
 
 ტურის ნახვა 
 
+ავიატური
+
+### [4 ქვეყანა 10 დღეში: საფრანგეთი, ლუქსემბურგი, გერმანია, ბელგია — ფრენით თბილისიდან](https://besttraveler.ge/ka/turebi/saprangeti-luksemburgi-germania-belgia-turi/)
+
+10 დღე / 9 ღამე3–12 მაისი 2027
+
+4 ქვეყანა 10 დღეში: კიოლნი, ნორმანდია, მონ-სენ-მიშელი, ლა-როშელი, ლუარის სასახლეები, შამპანი და ლუქსემბურგი.
+
+ერთ ადამიანზე4 600 ლარი
+
+ტურის ნახვა 
+
 ავტობუსით
 
 ### [რაჭის ორდღიანი ტური: ცხრაჯვარი, შაორი, ნიკორწმინდა, უწერა, ღები](https://besttraveler.ge/ka/turebi/racha-shaori-nikortsminda-turi/)
@@ -223,6 +223,18 @@ URL: https://besttraveler.ge/ka/turebi/ivlisi-2027/
 ალპები, ტურინი, ლაჟვარდოვანი სანაპირო და პროვანსი — სამი ქვეყანა 8 დღეში.
 
 ერთ ადამიანზე4 500 ლარი
+
+ტურის ნახვა 
+
+ერთდღიანი
+
+### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
+
+1 დღე27 მაისი 2027
+
+დარიალის მონასტერი, გველეთის დიდი და პატარა ჩანჩქერი, გერგეტის სამება და გუდაურის პანორამა.
+
+ერთ ადამიანზე60 ლარი
 
 ტურის ნახვა 
 
@@ -432,4 +444,4 @@ URL: https://besttraveler.ge/ka/turebi/ivlisi-2027/
 
 ## ტურები თვეების მიხედვით
 
-[ნოემბერში 2026 14](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 10](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 13](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 26](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 41](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 59](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 52](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 34](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 21](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 11](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)
+[ნოემბერში 2026 12](https://besttraveler.ge/ka/turebi/noemberi-2026/)[დეკემბერში 2026 11](https://besttraveler.ge/ka/turebi/dekemberi-2026/)[იანვარში 2027 14](https://besttraveler.ge/ka/turebi/ianvari-2027/)[თებერვალში 2027 13](https://besttraveler.ge/ka/turebi/tebervali-2027/)[მარტში 2027 26](https://besttraveler.ge/ka/turebi/marti-2027/)[აპრილში 2027 41](https://besttraveler.ge/ka/turebi/aprili-2027/)[მაისში 2027 60](https://besttraveler.ge/ka/turebi/maisi-2027/)[ივნისში 2027 52](https://besttraveler.ge/ka/turebi/ivnisi-2027/)[აგვისტოში 2027 30](https://besttraveler.ge/ka/turebi/agvisto-2027/)[სექტემბერში 2027 35](https://besttraveler.ge/ka/turebi/seqtemberi-2027/)[ოქტომბერში 2027 21](https://besttraveler.ge/ka/turebi/oqtomberi-2027/)[საახალწლო ტურები 2027 12](https://besttraveler.ge/ka/turebi/saakhaltslo-turebi-2027/)

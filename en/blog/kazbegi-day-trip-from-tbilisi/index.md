@@ -91,7 +91,7 @@ Day tour
 
 ### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 
-1 day8 Nov 2026
+1 day27 May 2027
 
 Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
 

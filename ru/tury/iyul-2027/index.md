@@ -1,50 +1,14 @@
 # Туры в июле 2027 — цены и даты
 
-> 35 туров с началом в июле 2027: авиатуры, автобусные и однодневные туры из Грузии. Цены, даты и подробная программа по дням.
+> 36 туров с началом в июле 2027: авиатуры, автобусные и однодневные туры из Грузии. Цены, даты и подробная программа по дням.
 
 URL: https://besttraveler.ge/ru/tury/iyul-2027/
 
 # Туры в июле 2027
 
-Все наши туры, которые начинаются в июле 2027: 35 туров за границу и по Грузии, с ценами и программой.
+Все наши туры, которые начинаются в июле 2027: 36 туров за границу и по Грузии, с ценами и программой.
 
 ## Туры в июле 2027
-
-Однодневный
-
-### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
-
-1 день8 ноября 2026
-
-Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
-
-1 день8 ноября 2026
-
-Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
-
-1 день8 ноября 2026
-
-Зарзма, монастырь и водопад Чуле, Рабат в Ахалцихе и Сапара, с гидом.
-
-за человека65 лари
-
-Смотреть тур 
 
 Авиатур
 
@@ -55,6 +19,30 @@ URL: https://besttraveler.ge/ru/tury/iyul-2027/
 5 дней в Париже: Версаль, Лувр, Монмартр, Елисейские Поля и Нотр-Дам.
 
 за человека2 500 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
+
+1 день21 ноября 2026
+
+Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
+
+за человека60 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
+
+1 день21 ноября 2026
+
+Зарзма, монастырь и водопад Чуле, Рабат в Ахалцихе и Сапара, с гидом.
+
+за человека65 лари
 
 Смотреть тур 
 
@@ -142,6 +130,18 @@ URL: https://besttraveler.ge/ru/tury/iyul-2027/
 
 Смотреть тур 
 
+Авиатур
+
+### [4 страны за 10 дней: Франция, Люксембург, Германия, Бельгия — перелёт из Тбилиси](https://besttraveler.ge/ru/tury/tur-frantsiya-lyuksemburg-germaniya-belgiya/)
+
+10 дней / 9 ночей3–12 мая 2027
+
+4 страны за 10 дней: Кёльн, Нормандия, Мон-Сен-Мишель, Ла-Рошель, замки Луары, Шампань и Люксембург.
+
+за человека4 600 лари
+
+Смотреть тур 
+
 На автобусе
 
 ### [Двухдневный тур в Рачу: Цхраджвари, Шаори, Никорцминда, Уцера, Геби](https://besttraveler.ge/ru/tury/racha-shaori-nikortsminda-tur/)
@@ -223,6 +223,18 @@ URL: https://besttraveler.ge/ru/tury/iyul-2027/
 Альпы, Турин, Лазурный берег и Прованс — три страны за 8 дней.
 
 за человека4 500 лари
+
+Смотреть тур 
+
+Однодневный
+
+### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
+
+1 день27 мая 2027
+
+Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
+
+за человека60 лари
 
 Смотреть тур 
 
@@ -432,4 +444,4 @@ URL: https://besttraveler.ge/ru/tury/iyul-2027/
 
 ## Туры по месяцам
 
-[В ноябре 2026 14](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 10](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 14](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 13](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 26](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 41](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 59](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 52](https://besttraveler.ge/ru/tury/iyun-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 34](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 21](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 11](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)
+[В ноябре 2026 12](https://besttraveler.ge/ru/tury/noyabr-2026/)[В декабре 2026 11](https://besttraveler.ge/ru/tury/dekabr-2026/)[В январе 2027 14](https://besttraveler.ge/ru/tury/yanvar-2027/)[В феврале 2027 13](https://besttraveler.ge/ru/tury/fevral-2027/)[В марте 2027 26](https://besttraveler.ge/ru/tury/mart-2027/)[В апреле 2027 41](https://besttraveler.ge/ru/tury/aprel-2027/)[В мае 2027 60](https://besttraveler.ge/ru/tury/may-2027/)[В июне 2027 52](https://besttraveler.ge/ru/tury/iyun-2027/)[В августе 2027 30](https://besttraveler.ge/ru/tury/avgust-2027/)[В сентябре 2027 35](https://besttraveler.ge/ru/tury/sentyabr-2027/)[В октябре 2027 21](https://besttraveler.ge/ru/tury/oktyabr-2027/)[Новогодние туры 2027 12](https://besttraveler.ge/ru/tury/novogodnie-tury-2027/)

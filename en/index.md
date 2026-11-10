@@ -8,13 +8,13 @@ Departures: November – November
 
 # Group tours abroadand in Georgia
 
-Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 23 more countries — plus one-day tours around Georgia from 60 GEL.
+Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 24 more countries — plus one-day tours around Georgia from 60 GEL.
 
 [See tours](https://besttraveler.ge/en/tours/)
 [Message us on WhatsApp](https://wa.me/995579575636?text=Hello%21%20I%20am%20interested%20in%20the%20tour)
 
-- 120tours
-- 27countries
+- 122tours
+- 28countries
 - 50day tours
 - from 60 ₾day tours
 
@@ -26,7 +26,7 @@ Group trips from Tbilisi and Kutaisi to Egypt, Italy, Spain, Turkey and 23 more 
 
 ## Choose a type of tour
 
-[52 tours 
+[54 tours 
 
 ### Tours abroad
 
@@ -56,61 +56,61 @@ per person4,500 GEL
 
 View tour 
 
+By plane
+
+### [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
+
+7 days / 6 nights9–15 Nov 2026
+
+7 days in Hurghada: the Suez Canal and Port Said, Hula Hula island, Luxor and the monasteries.
+
+per person6,100 GEL
+
+View tour 
+
+By plane
+
+### [Paris, France — 5-Day Group Tour](https://besttraveler.ge/en/tours/paris-france-group-tour/)
+
+5 days10–14 Nov 2026
+
+5 days in Paris: Versailles, the Louvre, Montmartre, the Champs-Élysées and Notre-Dame.
+
+per person2,500 GEL
+
+View tour 
+
+By plane
+
+### [Morocco Group Tour with a Stop in Rome](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
+
+10 days / 9 nights13–22 Nov 2026
+
+10 days: Rome, Marrakesh, Ait Ben Haddou, Rabat, Chefchaouen, Fes and Casablanca. Morocco visa included.
+
+per person2,200 EUR
+
+View tour 
+
+By plane
+
+### [France: Alsace and Paris — Group Tour from Kutaisi](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
+
+8 days / 7 nights19–26 Nov 2026
+
+8 days: Reims, Metz, Strasbourg, Alsace villages, Colmar and Paris.
+
+per person4,200 GEL
+
+View tour 
+
 Day tour
 
 ### [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
 
-1 day8 Nov 2026
+1 day21 Nov 2026
 
 Ninotsminda monastery complex, Manavi Fortress, Bodbe and Sighnaghi in one day.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
-
-1 day8 Nov 2026
-
-Dariali monastery, the big and small Gveleti waterfalls, Gergeti Trinity Church and the Gudauri panorama.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Kojori and Manglisi Day Tour](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
-
-1 day8 Nov 2026
-
-Koroghli Fortress, Udzo monastery, Manglisi Sioni, Buratino Lake and the Didgori memorial.
-
-per person60 GEL
-
-View tour 
-
-Day tour
-
-### [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
-
-1 day8 Nov 2026
-
-Zarzma, Chule monastery and waterfall, Rabati in Akhaltsikhe and Sapara, with a guide.
-
-per person65 GEL
-
-View tour 
-
-Day tour
-
-### [Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake](https://besttraveler.ge/en/tours/tianeti-day-trip/)
-
-1 day8 Nov 2026
-
-Mamkoda monastery, a bear shelter, Tskhvarichamia, the Kor-Shevardeni tower and Sioni Lake.
 
 per person60 GEL
 
@@ -120,7 +120,7 @@ View tour
 
 [Destinations](https://besttraveler.ge/en/destinations/)
 
-[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 15 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 8 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 6 tours](https://besttraveler.ge/en/destinations/spain/)[France 12 tours](https://besttraveler.ge/en/destinations/france/)[Bulgaria 2 tours](https://besttraveler.ge/en/destinations/bulgaria/)[Greece 3 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 5 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
+[Egypt 6 tours](https://besttraveler.ge/en/destinations/egypt/)[Italy 15 tours](https://besttraveler.ge/en/destinations/italy/)[Turkey 8 tours](https://besttraveler.ge/en/destinations/turkey/)[Spain 6 tours](https://besttraveler.ge/en/destinations/spain/)[France 14 tours](https://besttraveler.ge/en/destinations/france/)[Bulgaria 2 tours](https://besttraveler.ge/en/destinations/bulgaria/)[Greece 3 tours](https://besttraveler.ge/en/destinations/greece/)[Armenia 5 tours](https://besttraveler.ge/en/destinations/armenia/)[Netherlands 2 tours](https://besttraveler.ge/en/destinations/netherlands/)[Sri Lanka 2 tours](https://besttraveler.ge/en/destinations/sri-lanka/)[Georgia 56 tours](https://besttraveler.ge/en/destinations/georgia/)
 
 ## Why besttraveler
 

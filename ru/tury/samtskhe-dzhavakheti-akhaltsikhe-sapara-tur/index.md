@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur
 
 Длительность1 день
 
-Ближайший выезд8 ноября 2026 +14
+Ближайший выезд21 ноября 2026 +13
 
 ВыездТбилиси, 07:00
 
@@ -59,7 +59,7 @@ URL: https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur
 
 **Когда выезд?**
 
-Ближайшие даты: 8 ноября 2026, 21 ноября 2026, 11 апреля 2027, 25 апреля 2027, 1 мая 2027, 15 мая 2027. Свободные места уточняйте по телефону или в WhatsApp.
+Ближайшие даты: 21 ноября 2026, 11 апреля 2027, 25 апреля 2027, 1 мая 2027, 15 мая 2027, 23 мая 2027. Свободные места уточняйте по телефону или в WhatsApp.
 
 **Что входит в цену?**
 
@@ -75,7 +75,6 @@ URL: https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur
 
 Даты
 
-- 8 ноября 2026
 - 21 ноября 2026
 - 11 апреля 2027
 - 25 апреля 2027
@@ -105,7 +104,7 @@ URL: https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur
 
 ### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
 
-1 день8 ноября 2026
+1 день21 ноября 2026
 
 Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
 
@@ -115,11 +114,11 @@ URL: https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur
 
 Однодневный
 
-### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
+### [Тур по Шида Картли: крепость Гори, Горисджвари, Уплисцихе, Атенский Сиони](https://besttraveler.ge/ru/tury/gori-uplistsikhe-ateni-tur/)
 
-1 день8 ноября 2026
+1 день21 ноября 2026
 
-Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
+Крепость Гори, Святой Георгий Горисджвари, Уплисцихе, церкви Атени и Церосхеви — по фиксированным датам.
 
 за человека60 лари
 
@@ -129,7 +128,7 @@ URL: https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur
 
 ### [Однодневный тур Коджори – Манглиси](https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/)
 
-1 день8 ноября 2026
+1 день22 ноября 2026
 
 Крепость Корогли, монастырь Удзо, Манглисский Сиони, озеро Буратино и мемориал Дидгори.
 

@@ -18,7 +18,7 @@ URL: https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-tur
 
 ხანგრძლივობა1 დღე
 
-უახლოესი გასვლა8 ნოემბერი 2026 +14
+უახლოესი გასვლა21 ნოემბერი 2026 +13
 
 გასვლათბილისი, 07:00
 
@@ -59,7 +59,7 @@ URL: https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-tur
 
 **როდის არის გასვლა?**
 
-უახლოესი თარიღები: 8 ნოემბერი 2026, 21 ნოემბერი 2026, 11 აპრილი 2027, 25 აპრილი 2027, 1 მაისი 2027, 15 მაისი 2027. თავისუფალი ადგილები დააზუსტეთ ტელეფონით ან WhatsApp-ით.
+უახლოესი თარიღები: 21 ნოემბერი 2026, 11 აპრილი 2027, 25 აპრილი 2027, 1 მაისი 2027, 15 მაისი 2027, 23 მაისი 2027. თავისუფალი ადგილები დააზუსტეთ ტელეფონით ან WhatsApp-ით.
 
 **რა შედის ფასში?**
 
@@ -75,7 +75,6 @@ URL: https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-tur
 
 თარიღები
 
-- 8 ნოემბერი 2026
 - 21 ნოემბერი 2026
 - 11 აპრილი 2027
 - 25 აპრილი 2027
@@ -105,7 +104,7 @@ URL: https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-tur
 
 ### [კახეთისა და სიღნაღის ტური: ნინოწმინდა, მანავი, ბოდბე, სიღნაღი](https://besttraveler.ge/ka/turebi/kakheti-sighnaghi-bodbe-turi/)
 
-1 დღე8 ნოემბერი 2026
+1 დღე21 ნოემბერი 2026
 
 ნინოწმინდის სამონასტრო კომპლექსი, მანავის ციხე, ბოდბე და სიღნაღი ერთ დღეში.
 
@@ -115,11 +114,11 @@ URL: https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-tur
 
 ერთდღიანი
 
-### [ყაზბეგის ერთდღიანი ტური: დარიალი, გველეთის ჩანჩქერები, გერგეტი](https://besttraveler.ge/ka/turebi/kazbegi-gergeti-gveleti-ertdghiani-turi/)
+### [შიდა ქართლის ტური: გორის ციხე, გორიჯვარი, უფლისციხე, ატენის სიონი](https://besttraveler.ge/ka/turebi/gori-uplistsikhe-ateni-turi/)
 
-1 დღე8 ნოემბერი 2026
+1 დღე21 ნოემბერი 2026
 
-დარიალის მონასტერი, გველეთის დიდი და პატარა ჩანჩქერი, გერგეტის სამება და გუდაურის პანორამა.
+გორის ციხე, გორიჯვრის წმ. გიორგი, უფლისციხე, ატენის ეკლესიები და წეროსხევი — ფიქსირებულ თარიღებზე.
 
 ერთ ადამიანზე60 ლარი
 
@@ -129,7 +128,7 @@ URL: https://besttraveler.ge/ka/turebi/samtskhe-javakheti-akhaltsikhe-sapara-tur
 
 ### [კოჯორისა და მანგლისის ერთდღიანი ტური](https://besttraveler.ge/ka/turebi/kojori-manglisi-ertdghiani-turi/)
 
-1 დღე8 ნოემბერი 2026
+1 დღე22 ნოემბერი 2026
 
 ქოროღლის ციხე, უძოს მონასტერი, მანგლისის სიონი, ბურატინოს ტბა და დიდგორის მემორიალი.
 

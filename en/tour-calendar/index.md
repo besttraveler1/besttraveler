@@ -8,14 +8,9 @@ URL: https://besttraveler.ge/en/tour-calendar/
 
 All upcoming tours by date. Pick a day, open the programme and book your seat on WhatsApp or by phone.
 
-## November 2026 17 departures
+## November 2026 12 departures
 
 - [Nile Cruise: Luxor, Aswan, Abu Simbel, Hurghada and El Gouna 8–15 Nov, Sunday By plane 8 days 4,500 GEL](https://besttraveler.ge/en/tours/nile-cruise-luxor-aswan-hurghada/)
-- [Tianeti Day Tour: Mamkoda, Tskhvarichamia, Ertso, Sioni Lake 8 Nov, Sunday Day tour 60 GEL](https://besttraveler.ge/en/tours/tianeti-day-trip/)
-- [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe 8 Nov, Sunday Day tour 60 GEL](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
-- [Kojori and Manglisi Day Tour 8 Nov, Sunday Day tour 60 GEL](https://besttraveler.ge/en/tours/kojori-manglisi-day-trip/)
-- [Samtskhe-Javakheti Tour: Zarzma, Chule, Akhaltsikhe, Sapara 8 Nov, Sunday Day tour 65 GEL](https://besttraveler.ge/en/tours/samtskhe-javakheti-akhaltsikhe-sapara-tour/)
-- [Kazbegi Day Tour: Dariali, Gveleti Waterfalls, Gergeti Trinity 8 Nov, Sunday Day tour 60 GEL](https://besttraveler.ge/en/tours/kazbegi-gergeti-gveleti-day-trip/)
 - [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days 9–15 Nov, Monday By plane 7 days / 6 nights 6,100 GEL](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
 - [Paris, France — 5-Day Group Tour 10–14 Nov, Tuesday By plane 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
 - [Morocco Group Tour with a Stop in Rome 13–22 Nov, Friday By plane 10 days / 9 nights 2,200 EUR](https://besttraveler.ge/en/tours/morocco-group-tour-via-rome/)
@@ -28,7 +23,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [Egypt Tour: Cairo and Alexandria, 5 Days 26–30 Nov, Thursday By plane 5 days / 4 nights 2,500 GEL](https://besttraveler.ge/en/tours/egypt-cairo-alexandria-tour/)
 - [Yerevan in 3 Days: Sevan, Garni, Geghard, Etchmiadzin 27–29 Nov, Friday By bus 3 days / 2 nights 450 GEL](https://besttraveler.ge/en/tours/yerevan-garni-geghard-tour/)
 
-## December 2026 15 departures
+## December 2026 16 departures
 
 - [France: Alsace and Paris — Group Tour from Kutaisi 1–8 Dec, Tuesday By plane 8 days / 7 nights 4,200 GEL](https://besttraveler.ge/en/tours/france-alsace-paris-group-tour/)
 - [Nile Cruise: Cairo, Luxor, Aswan, Abu Simbel and Alexandria 6–14 Dec, Sunday By plane 9 days 6,550 GEL](https://besttraveler.ge/en/tours/nile-cruise-cairo-luxor-alexandria/)
@@ -38,6 +33,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [Gudauri Day Trip: Free Time at the Ski Resort 12 Dec, Saturday Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
 - [Lake Nasser Cruise, Cairo and Luxor — Group Tour 14–24 Dec, Monday By plane 11 days 6,650 GEL](https://besttraveler.ge/en/tours/egypt-lake-nasser-cruise-cairo-luxor/)
 - [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days 14–20 Dec, Monday By plane 7 days / 6 nights 6,100 GEL](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
+- [New Year Tour: Alsace, Germany and Luxembourg — 15–22 December 15–22 Dec, Tuesday By plane 8 days / 7 nights 4,200 GEL](https://besttraveler.ge/en/tours/new-year-tour-alsace-germany-luxembourg/)
 - [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka 19 Dec, Saturday Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 - [Gudauri Day Trip: Free Time at the Ski Resort 20 Dec, Sunday Day tour 60 GEL](https://besttraveler.ge/en/tours/gudauri-ski-day-trip-from-tbilisi/)
 - [Paris, France — 5-Day Group Tour 22–26 Dec, Tuesday By plane 5 days 2,500 GEL](https://besttraveler.ge/en/tours/paris-france-group-tour/)
@@ -175,7 +171,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka 25 Apr, Sunday Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 - [Tao-Klarjeti Tour: Tbeti, Artanuji, Oshki, Parkhali and Bana 30 Apr – 2 May, Friday By bus 3 days 480 GEL](https://besttraveler.ge/en/tours/tao-klarjeti-tour-turkey/)
 
-## May 2027 93 departures
+## May 2027 94 departures
 
 - [Vashlovani Tour: Mount Elia, Swallows' Town, Alesilebi 1 May, Saturday Day tour 70 GEL](https://besttraveler.ge/en/tours/vashlovani-national-park-day-tour/)
 - [Kakheti and Sighnaghi Tour: Ninotsminda, Manavi, Bodbe 1 May, Saturday Day tour 60 GEL](https://besttraveler.ge/en/tours/sighnaghi-bodbe-kakheti-day-trip/)
@@ -194,6 +190,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [Pankisi Gorge Tour: Khadori Waterfall, Duisi, Kvetera 2 May, Sunday Day tour 60 GEL](https://besttraveler.ge/en/tours/pankisi-gorge-khadori-waterfall-day-tour/)
 - [Colorful Desert and David Gareja: Dodo's Rka, Mravaltskaro 2 May, Sunday Day tour 60 GEL](https://besttraveler.ge/en/tours/david-gareja-colorful-mountains-day-trip/)
 - [Kvemo Kartli and Pitareti: Khuluti, Tandzia, Kveshi, Bolnisi Sioni 2 May, Sunday Day tour 60 GEL](https://besttraveler.ge/en/tours/pitareti-bolnisi-kvemo-kartli-tour/)
+- [4 Countries in 10 Days: France, Luxembourg, Germany, Belgium — Flights from Tbilisi 3–12 May, Monday By plane 10 days / 9 nights 4,600 GEL](https://besttraveler.ge/en/tours/france-luxembourg-germany-belgium-tour/)
 - [Bari and Puglia, Italy — Group Tour from Yerevan, 2027 3–7 May, Monday By plane 5 days 2,400 GEL](https://besttraveler.ge/en/tours/bari-puglia-lecce-ostuni-tour/)
 - [Burgundy and Franche-Comté: Cluny, Dijon and Beaune 3–10 May, Monday By plane 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/burgundy-franche-comte-group-tour/)
 - [Rome, Italy — 8-Day Tour from Kutaisi 3–10 May, Monday By plane 8 days 2,500 GEL](https://besttraveler.ge/en/tours/rome-italy-tour-from-kutaisi/)
@@ -345,7 +342,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [Abudelauri Lakes Hike: Roshka, Colorful Lakes, Chaukhi 27 Jun, Sunday Day tour 60 GEL](https://besttraveler.ge/en/tours/abudelauri-lakes-hike-from-tbilisi/)
 - [Truso Gorge Day Tour: Travertines, Bottomless Lake, Zakagori 27 Jun, Sunday Day tour 60 GEL](https://besttraveler.ge/en/tours/truso-gorge-day-trip/)
 
-## July 2027 74 departures
+## July 2027 75 departures
 
 - [Abudelauri Lakes Hike: Roshka, Colorful Lakes, Chaukhi 3 Jul, Saturday Day tour 60 GEL](https://besttraveler.ge/en/tours/abudelauri-lakes-hike-from-tbilisi/)
 - [Kakheti Day Tour: Nekresi, Ilia Lake, Gremi, Telavi 3 Jul, Saturday Day tour 60 GEL](https://besttraveler.ge/en/tours/kakheti-nekresi-gremi-telavi-day-trip/)
@@ -367,6 +364,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [Kvemo Kartli Day Tour: Tserakvi, Gagi Fortress, Tamarisi Lakes 4 Jul, Sunday Day tour 65 GEL](https://besttraveler.ge/en/tours/kvemo-kartli-day-trip-from-tbilisi/)
 - [Khevsureti Day Tour: Datvijvari Pass, Shatili, Anatori 4 Jul, Sunday Day tour 70 GEL](https://besttraveler.ge/en/tours/khevsureti-shatili-day-tour/)
 - [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka 4 Jul, Sunday Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
+- [4 Countries in 10 Days: France, Luxembourg, Germany, Belgium — Flights from Tbilisi 5–14 Jul, Monday By plane 10 days / 9 nights 4,600 GEL](https://besttraveler.ge/en/tours/france-luxembourg-germany-belgium-tour/)
 - [5 Countries in One Tour by Car: France, Switzerland, Germany, Austria, Liechtenstein 5–12 Jul, Monday By plane 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/alps-switzerland-5-countries-tour/)
 - [Italian Lakes: Orta, Maggiore, Como, Iseo and Garda — 8 Days 5–12 Jul, Monday By plane 8 days / 7 nights 4,300 GEL](https://besttraveler.ge/en/tours/italian-lakes-tour-como-maggiore-garda/)
 - [France, Germany and Switzerland: Alsace, the Black Forest and Basel 5–12 Jul, Monday By plane 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/france-germany-switzerland-tour/)
@@ -494,7 +492,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [Khevsureti Day Tour: Datvijvari Pass, Shatili, Anatori 29 Aug, Sunday Day tour 70 GEL](https://besttraveler.ge/en/tours/khevsureti-shatili-day-tour/)
 - [Javakheti Lakes Tour: Paravani, Poka, Saghamo, Gorelovka 29 Aug, Sunday Day tour 65 GEL](https://besttraveler.ge/en/tours/javakheti-lakes-paravani-tour/)
 
-## September 2027 44 departures
+## September 2027 45 departures
 
 - [China Group Tour: Beijing, Zhangjiajie, Leshan and Hong Kong 1–13 Sep, Wednesday By plane 13 days 3,500 USD](https://besttraveler.ge/en/tours/china-beijing-zhangjiajie-hong-kong-tour/)
 - [Abudelauri Lakes Hike: Roshka, Colorful Lakes, Chaukhi 4 Sep, Saturday Day tour 60 GEL](https://besttraveler.ge/en/tours/abudelauri-lakes-hike-from-tbilisi/)
@@ -527,6 +525,7 @@ All upcoming tours by date. Pick a day, open the programme and book your seat on
 - [Borjomi Tour: Daba, Timotesubani, Borjomi Park, Green Monastery 19 Sep, Sunday Day tour 65 GEL](https://besttraveler.ge/en/tours/borjomi-timotesubani-green-monastery-tour/)
 - [Samshvilde and Asureti Tour: Samshvilde Ruins, Partskhisi, Asureti 19 Sep, Sunday Day tour 60 GEL](https://besttraveler.ge/en/tours/samshvilde-asureti-day-tour/)
 - [Dzama Gorge Day Tour: Samtsevrisi, Bateti Lake, Shuano 19 Sep, Sunday Day tour 60 GEL](https://besttraveler.ge/en/tours/dzama-gorge-day-trip/)
+- [4 Countries in 10 Days: France, Luxembourg, Germany, Belgium — Flights from Tbilisi 20–29 Sep, Monday By plane 10 days / 9 nights 4,600 GEL](https://besttraveler.ge/en/tours/france-luxembourg-germany-belgium-tour/)
 - [Rome, Italy — 8-Day Tour from Kutaisi 20–27 Sep, Monday By plane 8 days 2,500 GEL](https://besttraveler.ge/en/tours/rome-italy-tour-from-kutaisi/)
 - [France, Germany and Switzerland: Alsace, the Black Forest and Basel 20–27 Sep, Monday By plane 8 days / 7 nights 4,500 GEL](https://besttraveler.ge/en/tours/france-germany-switzerland-tour/)
 - [France, Italy and Monaco: Provence, the Alps and the Côte d'Azur 20–27 Sep, Monday By plane 8 days 4,500 GEL](https://besttraveler.ge/en/tours/provence-monaco-french-riviera-tour/)

@@ -159,6 +159,18 @@ Dates on request
 
 By plane
 
+### [4 Countries in 10 Days: France, Luxembourg, Germany, Belgium — Flights from Tbilisi](https://besttraveler.ge/en/tours/france-luxembourg-germany-belgium-tour/)
+
+10 days / 9 nights3–12 May 2027
+
+4 countries in 10 days: Cologne, Normandy, Mont-Saint-Michel, La Rochelle, the Loire châteaux, Champagne and Luxembourg.
+
+per person4,600 GEL
+
+View tour 
+
+By plane
+
 ### [Netherlands and Germany: Tulip Festival — 8-Day Tour](https://besttraveler.ge/en/tours/netherlands-tulip-festival-tour/)
 
 8 daysNetherlands, Germany
@@ -178,17 +190,5 @@ By plane
 8 days in Egypt: a Nile cruise from Luxor to Aswan, plus Hurghada and El Gouna.
 
 per person4,500 GEL
-
-View tour 
-
-By plane
-
-### [Hurghada, Luxor, Port Said and the Suez Canal — 7 Days](https://besttraveler.ge/en/tours/egypt-hurghada-luxor-suez-canal-tour/)
-
-7 days / 6 nights9–15 Nov 2026
-
-7 days in Hurghada: the Suez Canal and Port Said, Hula Hula island, Luxor and the monasteries.
-
-per person6,100 GEL
 
 View tour

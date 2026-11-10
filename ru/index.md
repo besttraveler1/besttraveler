@@ -8,13 +8,13 @@ URL: https://besttraveler.ge/ru/
 
 # Туры за границуи по Грузии
 
-Групповые поездки из Тбилиси и Кутаиси в Египет, Италию, Испанию, Турцию и ещё 23 стран — и однодневные туры по Грузии от 60 лари.
+Групповые поездки из Тбилиси и Кутаиси в Египет, Италию, Испанию, Турцию и ещё 24 стран — и однодневные туры по Грузии от 60 лари.
 
 [Смотреть туры](https://besttraveler.ge/ru/tury/)
 [Написать в WhatsApp](https://wa.me/995579575636?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9C%D0%B5%D0%BD%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D0%B5%D1%82%20%D1%82%D1%83%D1%80)
 
-- 120туров
-- 27стран
+- 122туров
+- 28стран
 - 50однодневных туров
 - от 60 ₾однодневные туры
 
@@ -26,7 +26,7 @@ URL: https://besttraveler.ge/ru/
 
 ## Выберите тип тура
 
-[52 туров 
+[54 туров 
 
 ### Туры за границу
 
@@ -56,61 +56,61 @@ URL: https://besttraveler.ge/ru/
 
 Смотреть тур 
 
+Авиатур
+
+### [Хургада, Луксор, Порт-Саид и Суэцкий канал — 7 дней](https://besttraveler.ge/ru/tury/egipet-khurgada-luksor-suetskiy-kanal/)
+
+7 дней / 6 ночей9–15 ноября 2026
+
+7 дней в Хургаде: Суэцкий канал и Порт-Саид, остров Хула-Хула, Луксор и монастыри.
+
+за человека6 100 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Париж, Франция — групповой тур на 5 дней](https://besttraveler.ge/ru/tury/parizh-frantsiya-gruppovoy-tur/)
+
+5 дней10–14 ноября 2026
+
+5 дней в Париже: Версаль, Лувр, Монмартр, Елисейские Поля и Нотр-Дам.
+
+за человека2 500 лари
+
+Смотреть тур 
+
+Авиатур
+
+### [Групповой тур в Марокко с остановкой в Риме](https://besttraveler.ge/ru/tury/marokko-gruppovoy-tur-cherez-rim/)
+
+10 дней / 9 ночей13–22 ноября 2026
+
+10 дней: Рим, Марракеш, Аит-Бен-Хадду, Рабат, Шефшауэн, Фес и Касабланка. Виза в Марокко включена.
+
+за человека2 200 евро
+
+Смотреть тур 
+
+Авиатур
+
+### [Франция: Эльзас и Париж — групповой тур из Кутаиси](https://besttraveler.ge/ru/tury/frantsiya-elzas-parizh-tur/)
+
+8 дней / 7 ночей19–26 ноября 2026
+
+8 дней: Реймс, Мец, Страсбург, деревни Эльзаса, Кольмар и Париж.
+
+за человека4 200 лари
+
+Смотреть тур 
+
 Однодневный
 
 ### [Тур Кахетия – Сигнахи: Ниноцминда, Манави, Бодбе](https://besttraveler.ge/ru/tury/kakhetiya-signakhi-bodbe-tur/)
 
-1 день8 ноября 2026
+1 день21 ноября 2026
 
 Монастырский комплекс Ниноцминда, крепость Манави, Бодбе и Сигнахи за один день.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
-
-1 день8 ноября 2026
-
-Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Однодневный тур Коджори – Манглиси](https://besttraveler.ge/ru/tury/kodzhori-manglisi-odnodnevnyy-tur/)
-
-1 день8 ноября 2026
-
-Крепость Корогли, монастырь Удзо, Манглисский Сиони, озеро Буратино и мемориал Дидгори.
-
-за человека60 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Тур по Самцхе-Джавахети: Зарзма, Чуле, Ахалцихе, Сапара](https://besttraveler.ge/ru/tury/samtskhe-dzhavakheti-akhaltsikhe-sapara-tur/)
-
-1 день8 ноября 2026
-
-Зарзма, монастырь и водопад Чуле, Рабат в Ахалцихе и Сапара, с гидом.
-
-за человека65 лари
-
-Смотреть тур 
-
-Однодневный
-
-### [Однодневный тур в Тианети: Мамкода, Цхваричамия, Эрцо, озеро Сиони](https://besttraveler.ge/ru/tury/tianeti-odnodnevnyy-tur/)
-
-1 день8 ноября 2026
-
-Монастырь Мамкода, приют для медведей, Цхваричамия, башня Кор-Шеварден и озеро Сиони.
 
 за человека60 лари
 
@@ -120,7 +120,7 @@ URL: https://besttraveler.ge/ru/
 
 [Направления](https://besttraveler.ge/ru/napravleniya/)
 
-[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 15 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 8 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 6 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 12 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Болгария 2 туров](https://besttraveler.ge/ru/napravleniya/bolgariya/)[Греция 3 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 5 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 56 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
+[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 15 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 8 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 6 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 14 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Болгария 2 туров](https://besttraveler.ge/ru/napravleniya/bolgariya/)[Греция 3 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 5 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 56 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
 
 ## Почему besttraveler
 

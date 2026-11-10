@@ -8,7 +8,7 @@ URL: https://besttraveler.ge/ru/napravleniya/
 
 Страны, куда besttraveler организует туры: Египет, Италия, Испания, Франция, Турция, Армения, Греция и другие — с ценами и датами.
 
-[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 15 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 8 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 6 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 12 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Болгария 2 туров](https://besttraveler.ge/ru/napravleniya/bolgariya/)[Греция 3 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 5 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 56 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
+[Египет 6 туров](https://besttraveler.ge/ru/napravleniya/egipet/)[Италия 15 туров](https://besttraveler.ge/ru/napravleniya/italiya/)[Турция 8 туров](https://besttraveler.ge/ru/napravleniya/turtsiya/)[Испания 6 туров](https://besttraveler.ge/ru/napravleniya/ispaniya/)[Франция 14 туров](https://besttraveler.ge/ru/napravleniya/frantsiya/)[Болгария 2 туров](https://besttraveler.ge/ru/napravleniya/bolgariya/)[Греция 3 туров](https://besttraveler.ge/ru/napravleniya/gretsiya/)[Армения 5 туров](https://besttraveler.ge/ru/napravleniya/armeniya/)[Нидерланды 2 туров](https://besttraveler.ge/ru/napravleniya/niderlandy/)[Шри-Ланка 2 туров](https://besttraveler.ge/ru/napravleniya/shri-lanka/)[Грузия 56 туров](https://besttraveler.ge/ru/napravleniya/gruziya/)
 
 ## Другие страны в наших турах
 
@@ -52,10 +52,12 @@ URL: https://besttraveler.ge/ru/napravleniya/
 
 ### Германия
 
-3 туров: 
+5 туров: 
 
 - [5 стран в одном туре на машине: Франция, Швейцария, Германия, Австрия, Лихтенштейн 8 дней / 7 ночей · 4 500 лари](https://besttraveler.ge/ru/tury/alpy-shveytsariya-5-stran-tur/)
 - [Нидерланды и Германия: фестиваль тюльпанов — тур на 8 дней 8 дней · 4 100 лари](https://besttraveler.ge/ru/tury/niderlandy-festival-tyulpanov-tur/)
+- [4 страны за 10 дней: Франция, Люксембург, Германия, Бельгия — перелёт из Тбилиси 10 дней / 9 ночей · 4 600 лари](https://besttraveler.ge/ru/tury/tur-frantsiya-lyuksemburg-germaniya-belgiya/)
+- [Новогодний тур: Эльзас, Германия и Люксембург — 15–22 декабря 8 дней / 7 ночей · 4 200 лари](https://besttraveler.ge/ru/tury/novogodniy-tur-elzas-germaniya-lyuksemburg/)
 - [Франция, Германия и Швейцария: Эльзас, Шварцвальд и Базель 8 дней / 7 ночей · 4 500 лари](https://besttraveler.ge/ru/tury/frantsiya-germaniya-shveytsariya-tur/)
 
 ### Австрия
@@ -83,11 +85,19 @@ URL: https://besttraveler.ge/ru/napravleniya/
 
 - [Вильнюс, Литва — тур на 5 дней из Кутаиси 5 дней / 4 ночи · 1 500 лари](https://besttraveler.ge/ru/tury/vilnyus-litva-tur-iz-kutaisi/)
 
+### Люксембург
+
+2 туров: 
+
+- [4 страны за 10 дней: Франция, Люксембург, Германия, Бельгия — перелёт из Тбилиси 10 дней / 9 ночей · 4 600 лари](https://besttraveler.ge/ru/tury/tur-frantsiya-lyuksemburg-germaniya-belgiya/)
+- [Новогодний тур: Эльзас, Германия и Люксембург — 15–22 декабря 8 дней / 7 ночей · 4 200 лари](https://besttraveler.ge/ru/tury/novogodniy-tur-elzas-germaniya-lyuksemburg/)
+
 ### Бельгия
 
-1 туров: 
+2 туров: 
 
 - [Бельгия и Нидерланды — групповой тур на 8 дней 8 дней · 4 300 лари](https://besttraveler.ge/ru/tury/belgiya-niderlandy-gruppovoy-tur/)
+- [4 страны за 10 дней: Франция, Люксембург, Германия, Бельгия — перелёт из Тбилиси 10 дней / 9 ночей · 4 600 лари](https://besttraveler.ge/ru/tury/tur-frantsiya-lyuksemburg-germaniya-belgiya/)
 
 ### Мальта
 

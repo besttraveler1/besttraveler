@@ -106,7 +106,7 @@ URL: https://besttraveler.ge/ru/blog/ushchele-truso-za-odin-den/
 
 ### [Однодневный тур в Казбеги: Дариали, Гвелетские водопады, Гергети](https://besttraveler.ge/ru/tury/kazbegi-gergeti-odnodnevnyy-tur/)
 
-1 день8 ноября 2026
+1 день27 мая 2027
 
 Монастырь Дариали, большой и малый Гвелетские водопады, церковь Гергети и панорама Гудаури.
 
